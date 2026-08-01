@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T10:34:59.108+09:00",
+  "generatedAt": "2026-08-01T14:25:45.282+09:00",
   "briefing": {
     "headline": "오늘은 작가 신호가 가장 두드러집니다.",
     "distribution": {
@@ -16,12 +16,12 @@
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
-      },
-      {
         "title": "경영대학원 교수들, 소유권이 주장되지 않은 나치 시대 약탈 예술품 식별을 돕는 AI 도구 출시",
         "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       }
     ]
   },
@@ -29,7 +29,7 @@
     {
       "id": "953d61a3b820",
       "rank": 1,
-      "score": 70,
+      "score": 66,
       "category": "market",
       "titleOriginal": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
       "titleKo": "뉴욕 법원에서 딜러 Yves Bouvier는 새로운 프랑스 형사 사건의 일환으로 Sotheby의 기록을 찾고 있습니다.",
@@ -46,27 +46,8 @@
       "imageHeight": null
     },
     {
-      "id": "355ce661e944",
-      "rank": 2,
-      "score": 65,
-      "category": "artist",
-      "titleOriginal": "Simone Forti, Pioneering Postmodern Dance Artist, Dies At 91",
-      "titleKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-      "summaryKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세로 사망했습니다.",
-      "url": "https://www.thatericalper.com/2026/07/31/simone-forti-pioneering-postmodern-dance-artist-dies-at-91",
-      "source": "That Eric Alper",
-      "sourceDomain": "thatericalper.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-07-31T16:51:49.000Z",
-      "coverage": 3,
-      "image": "https://www.thatericalper.com/wp-content/uploads/2026/07/download-2026-07-31T125116.878.jpg",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
       "id": "6adfdd3f8222",
-      "rank": 3,
+      "rank": 2,
       "score": 65,
       "category": "museum",
       "titleOriginal": "Business School Professors Launch AI Tool to Help Identify Unclaimed Nazi-Era Looted Artworks",
@@ -84,9 +65,28 @@
       "imageHeight": null
     },
     {
+      "id": "355ce661e944",
+      "rank": 3,
+      "score": 61,
+      "category": "artist",
+      "titleOriginal": "Simone Forti, Pioneering Postmodern Dance Artist, Dies At 91",
+      "titleKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+      "summaryKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세로 사망했습니다.",
+      "url": "https://www.thatericalper.com/2026/07/31/simone-forti-pioneering-postmodern-dance-artist-dies-at-91",
+      "source": "That Eric Alper",
+      "sourceDomain": "thatericalper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-07-31T16:51:49.000Z",
+      "coverage": 3,
+      "image": "https://www.thatericalper.com/wp-content/uploads/2026/07/download-2026-07-31T125116.878.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
       "id": "a86c141f6abc",
       "rank": 4,
-      "score": 62,
+      "score": 58,
       "category": "fair",
       "titleOriginal": "Gagosian exits locations in Basel and London's Burlington Arcade",
       "titleKo": "Gagosian은 바젤과 런던 벌링턴 아케이드의 위치를 ​​종료합니다.",
@@ -105,7 +105,7 @@
     {
       "id": "494604c60071",
       "rank": 5,
-      "score": 62,
+      "score": 58,
       "category": "artist",
       "titleOriginal": "Citing Censorship, Artist Emma Shapiro Launches Legal Challenge to Restore Instagram Account",
       "titleKo": "검열을 언급한 아티스트 Emma Shapiro, Instagram 계정 복원을 위한 법적 소송 시작",
