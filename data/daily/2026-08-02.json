@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T08:33:00.884+09:00",
+  "briefing": {
+    "headline": "오늘은 기관 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥",
+        "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "구겐하임 아부다비, 개장일 발표",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e777efee3e08",
+      "rank": 1,
+      "score": 70,
+      "category": "artist",
+      "titleOriginal": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
+      "titleKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+      "summaryKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti), 91세로 사망 The New York Times",
+      "url": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T05:45:00.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b26e36b7d9f6",
+      "rank": 2,
+      "score": 65,
+      "category": "museum",
+      "titleOriginal": "This New A.I. Chatbot Hunts Nazi-Looted Art",
+      "titleKo": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥",
+      "summaryKo": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥 Artnet News",
+      "url": "https://news.artnet.com/art-world/ai-provenance-assistant-looted-art-tool-2792609?amp",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T12:52:33.000Z",
+      "coverage": 1,
+      "image": "https://p-news-upload.storage.googleapis.com/2025/10/monuments-men-neuschwanstein-nazi-loot-scaled.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ad2e1590942d",
+      "rank": 3,
+      "score": 60,
+      "category": "museum",
+      "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
+      "titleKo": "구겐하임 아부다비, 개장일 발표",
+      "summaryKo": "구겐하임 네트워크의 최신 박물관은 2006년 원래 발표 이후 20년 후인 2026년 12월 11일에 개관할 예정입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/guggenheim-abu-dhabi-announces-opening-date",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-28T12:15:58.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "953d61a3b820",
+      "rank": 4,
+      "score": 56,
+      "category": "market",
+      "titleOriginal": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
+      "titleKo": "뉴욕 법원에서 딜러 Yves Bouvier는 새로운 프랑스 형사 사건의 일환으로 Sotheby의 기록을 찾고 있습니다.",
+      "summaryKo": "스위스 딜러는 법원이 프랑스에서 진행 중인 법적 싸움에서 승리하는 데 도움이 되기를 바라고 있습니다.",
+      "url": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T20:01:36.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2024/11/Bouvier.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "bc48589ef589",
+      "rank": 5,
+      "score": 54,
+      "category": "general",
+      "titleOriginal": "Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80",
+      "titleKo": "'소프라노스' 캐릭터로 토니를 비난한 빈센트 파스토레, 80세로 사망",
+      "summaryKo": "토니를 비난한 '소프라노스' 캐릭터 빈센트 파스토레, 80세로 사망 The New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T21:04:43.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
