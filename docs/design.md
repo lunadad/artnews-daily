@@ -86,6 +86,8 @@ const GOOGLE_QUERIES = [
   'art restitution OR repatriation',
   'gallery represents artist',
   'biennale OR biennial art',
+  'artist dies obituary',
+  'museum appoints director',
 ];
 // URL: https://news.google.com/rss/search?q=<encoded>+when:2d&hl=en-US&gl=US&ceid=US:en
 
@@ -93,8 +95,13 @@ const GOOGLE_QUERIES = [
 const DIRECT_FEEDS = [
   ['ARTnews', 'https://www.artnews.com/feed/'],
   ['The Art Newspaper', 'https://www.theartnewspaper.com/rss.xml'],
+  ['Hyperallergic', 'https://hyperallergic.com/feed/'],
+  ['Artforum', 'https://www.artforum.com/feed/'],
+  ['Artnet News', 'https://news.artnet.com/feed'],
 ];
 ```
+
+각 직접 RSS는 독립적으로 수집하며, 한 피드가 실패하면 오류를 로그로 남기고 빈 후보 목록으로 대체해 나머지 피드와 Google News 수집을 계속한다(fail-soft).
 
 Google News RSS의 `<link>`와 `<description>` 링크는 모두 `news.google.com/rss/articles/CBMi...` 형태의 opaque URL이다. 수집 단계에서는 이를 그대로 보존하고, 1차 점수 상위 12개 클러스터 대표에 대해서만 다음 RPC 해석을 수행한다.
 
@@ -300,7 +307,8 @@ UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`�
 
 ### 6-5. 반응형 / 성능
 
-- 히어로 이미지는 첫 타일만 `loading="eager" fetchpriority="high"`, 나머지 `loading="lazy"`
+- 첫 화면 히어로 top5 이미지는 모두 `loading="eager"`; 첫 타일만 `fetchpriority="high"`, 나머지는 `fetchpriority="auto"`
+- 아카이브 미니 스트립과 카리나 섹션처럼 스크롤 아래의 이미지는 `loading="lazy"` 유지
 - 페이지는 `export const revalidate = 300` (ISR) — 데이터가 파일이므로 재배포 시 갱신되지만, 카리나 push가 반영되도록 짧은 revalidate 유지
 - 다크모드는 `prefers-color-scheme` 자동 (newbook과 동일, 토글 없음)
 
@@ -453,7 +461,7 @@ Orca Run → Task 생성 → `worker-start --agent codex` → `check --wait`로 
 
 | # | 리스크 | 완화 |
 |---|---|---|
-| 1 | Google News RSS는 비공식 인터페이스 — 구조 변경·차단 가능 | 직접 RSS(ARTnews/TAN) 2종을 항상 병행 수집. Google 실패 시에도 5건 확보 가능 |
+| 1 | Google News RSS는 비공식 인터페이스 — 구조 변경·차단 가능 | 직접 RSS(ARTnews/TAN/Hyperallergic/Artforum/Artnet News) 5종을 항상 병행 수집. 개별 피드는 fail-soft로 격리하며 Google 실패 시에도 후보 풀을 확보 |
 | 2 | 번역 엔드포인트(gtx) 차단 | fail-soft — 원문 노출, 파이프라인 중단 없음 |
 | 3 | og:image 핫링크 → 원본 사이트 대역폭 사용 | `/api/thumb`가 s-maxage 7일로 엣지 캐싱, 실제 원본 요청은 하루 수 회 수준 |
 | 4 | 원본 기사 삭제 시 이미지 404 | `<img onerror>`로 플레이스홀더 대체 |

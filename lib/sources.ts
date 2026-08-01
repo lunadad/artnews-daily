@@ -9,11 +9,16 @@ export const GOOGLE_QUERIES = [
   "art restitution OR repatriation",
   "gallery represents artist",
   "biennale OR biennial art",
+  "artist dies obituary",
+  "museum appoints director",
 ] as const;
 
 export const DIRECT_FEEDS = [
   ["ARTnews", "https://www.artnews.com/feed/"],
   ["The Art Newspaper", "https://www.theartnewspaper.com/rss.xml"],
+  ["Hyperallergic", "https://hyperallergic.com/feed/"],
+  ["Artforum", "https://www.artforum.com/feed/"],
+  ["Artnet News", "https://news.artnet.com/feed"],
 ] as const;
 
 export const DOMAIN_WEIGHTS: Record<string, number> = {

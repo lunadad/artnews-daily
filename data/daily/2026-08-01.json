@@ -1,34 +1,72 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T14:25:45.282+09:00",
+  "generatedAt": "2026-08-01T14:34:29.304+09:00",
   "briefing": {
-    "headline": "오늘은 작가 신호가 가장 두드러집니다.",
+    "headline": "오늘은 기관 신호가 가장 두드러집니다.",
     "distribution": {
       "market": 1,
-      "museum": 1,
-      "fair": 1,
+      "museum": 2,
+      "fair": 0,
       "artist": 2,
       "general": 0
     },
     "focus": [
       {
+        "title": "움직임과 우연의 예술가 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+        "why": "4개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "구겐하임 아부다비, 개장일 발표",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
         "title": "뉴욕 법원에서 딜러 Yves Bouvier는 새로운 프랑스 형사 사건의 일환으로 Sotheby의 기록을 찾고 있습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
-      },
-      {
-        "title": "경영대학원 교수들, 소유권이 주장되지 않은 나치 시대 약탈 예술품 식별을 돕는 AI 도구 출시",
-        "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
-      },
-      {
-        "title": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       }
     ]
   },
   "top5": [
     {
-      "id": "953d61a3b820",
+      "id": "c54547e2e533",
       "rank": 1,
+      "score": 83,
+      "category": "artist",
+      "titleOriginal": "Simone Forti, Artist of Movement and Chance, Dies at 91",
+      "titleKo": "움직임과 우연의 예술가 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+      "summaryKo": "움직임과 우연의 예술가 시몬 포티(Simone Forti), 91세의 나이로 사망",
+      "url": "https://hyperallergic.com/simone-forti-artist-of-movement-and-chance-dies-at-91",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-07-30T21:54:25.000Z",
+      "coverage": 4,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/07/Simone-Portrait-2015.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ad2e1590942d",
+      "rank": 2,
+      "score": 70,
+      "category": "museum",
+      "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
+      "titleKo": "구겐하임 아부다비, 개장일 발표",
+      "summaryKo": "구겐하임 네트워크의 최신 박물관은 2006년 원래 발표 이후 20년 후인 2026년 12월 11일에 개관할 예정입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/guggenheim-abu-dhabi-announces-opening-date",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-28T12:15:58.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "953d61a3b820",
+      "rank": 3,
       "score": 66,
       "category": "market",
       "titleOriginal": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
@@ -46,59 +84,21 @@
       "imageHeight": null
     },
     {
-      "id": "6adfdd3f8222",
-      "rank": 2,
-      "score": 65,
+      "id": "744802db0ae8",
+      "rank": 4,
+      "score": 66,
       "category": "museum",
-      "titleOriginal": "Business School Professors Launch AI Tool to Help Identify Unclaimed Nazi-Era Looted Artworks",
-      "titleKo": "경영대학원 교수들, 소유권이 주장되지 않은 나치 시대 약탈 예술품 식별을 돕는 AI 도구 출시",
-      "summaryKo": "이 도구는 Jeu de Paume의 \"문화 약탈\" 데이터베이스의 데이터를 사용합니다.",
-      "url": "https://www.artnews.com/art-news/news/business-school-professors-ai-tool-nazi-era-looted-artworks-1234794099",
-      "source": "ARTnews",
-      "sourceDomain": "artnews.com",
+      "titleOriginal": "V&A Workers Vote to Strike, Citing Amazon-Style Conditions",
+      "titleKo": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
+      "summaryKo": "7월 29일 프로스펙트(Prospect) 노조 회원인 런던 빅토리아 앤 앨버트 박물관(Victoria & Albert Museum) 직원들이 급여, 근무 조건, 물과 화장실 이용 등의 문제를 놓고 파업을 결정했다고 가디언(The Guardian)이 보도했습니다. V&A는 런던 지역에 4개의 박물관을 운영하고 있습니다. V&A 사우스 켄싱턴",
+      "url": "https://www.artforum.com/news/v-and-a-workers-vote-to-strike-over-amazon-style-conditions-1234755982",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
       "discoveredVia": "direct",
       "resolved": true,
-      "publishedAt": "2026-07-31T17:48:57.000Z",
-      "coverage": 1,
-      "image": "https://www.artnews.com/wp-content/uploads/2026/07/GettyImages-2154139624.jpg?w=1024",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
-      "id": "355ce661e944",
-      "rank": 3,
-      "score": 61,
-      "category": "artist",
-      "titleOriginal": "Simone Forti, Pioneering Postmodern Dance Artist, Dies At 91",
-      "titleKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-      "summaryKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세로 사망했습니다.",
-      "url": "https://www.thatericalper.com/2026/07/31/simone-forti-pioneering-postmodern-dance-artist-dies-at-91",
-      "source": "That Eric Alper",
-      "sourceDomain": "thatericalper.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-07-31T16:51:49.000Z",
-      "coverage": 3,
-      "image": "https://www.thatericalper.com/wp-content/uploads/2026/07/download-2026-07-31T125116.878.jpg",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
-      "id": "a86c141f6abc",
-      "rank": 4,
-      "score": 58,
-      "category": "fair",
-      "titleOriginal": "Gagosian exits locations in Basel and London's Burlington Arcade",
-      "titleKo": "Gagosian은 바젤과 런던 벌링턴 아케이드의 위치를 ​​종료합니다.",
-      "summaryKo": "Gagosian은 바젤과 런던의 Burlington Arcade 위치를 종료합니다. The Art Newspaper",
-      "url": "https://www.theartnewspaper.com/2026/07/31/gagosian-exits-locations-in-basel-and-londons-burlington-arcade",
-      "source": "The Art Newspaper",
-      "sourceDomain": "theartnewspaper.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-07-31T19:51:13.000Z",
-      "coverage": 1,
-      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1be0fb1ea47160bb57b0ea3f19918c22ffef0397-3000x2206.jpg?rect=0,203,3000,1800&w=1200&h=720&q=85&fit=crop&auto=format",
+      "publishedAt": "2026-07-30T16:34:31.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-1.19.37-PM.png?w=650",
       "imageWidth": null,
       "imageHeight": null
     },
