@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import "pretendard/dist/web/variable/pretendardvariable.css";
+
+:root {
+  --background: #f7f6f4;
+  --surface: #ffffff;
+  --surface-muted: #f0efec;
+  --border: #e4e2dd;
+  --foreground: #1a1a19;
+  --foreground-muted: #63615c;
+  --foreground-subtle: #94918a;
+  --accent: #7c2d3b;
+  --accent-foreground: #ffffff;
+  --tag-bg: #f3ece4;
+  --tag-foreground: #7a5a34;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121110;
+    --surface: #1a1917;
+    --surface-muted: #232120;
+    --border: #322f2c;
+    --foreground: #f0eeea;
+    --foreground-muted: #b0aca5;
+    --foreground-subtle: #7d7972;
+    --accent: #e0879a;
+    --accent-foreground: #2a0f16;
+    --tag-bg: #2a211b;
+    --tag-foreground: #e8ba82;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-foreground-subtle: var(--foreground-subtle);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-tag-bg: var(--tag-bg);
+  --color-tag-foreground: var(--tag-foreground);
+  --font-sans: "Pretendard Variable", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection { background: color-mix(in srgb, var(--accent) 24%, transparent); }
+a, button { touch-action: manipulation; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.mobile-bottom-nav { padding-bottom: max(0.4rem, env(safe-area-inset-bottom)); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

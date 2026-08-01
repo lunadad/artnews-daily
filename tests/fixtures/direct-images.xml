@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <item>
+    <title>TAN Museum Story</title><link>https://www.theartnewspaper.com/story</link>
+    <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <enclosure type="image/jpeg" url="https://cdn.sanity.io/full.jpg" />
+    <media:content url="https://cdn.sanity.io/tiny.jpg?w=140" type="image/jpeg" />
+  </item>
+  <item>
+    <title>ARTnews Artist Story</title><link>https://www.artnews.com/story</link>
+    <pubDate>Fri, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <content:encoded><![CDATA[<p>Lead</p><img src="https://www.artnews.com/wp-content/uploads/lead.jpg?w=1024">]]></content:encoded>
+  </item>
+</channel></rss>

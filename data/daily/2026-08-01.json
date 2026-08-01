@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T10:34:59.108+09:00",
+  "briefing": {
+    "headline": "오늘은 작가 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 1,
+      "fair": 1,
+      "artist": 2,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "뉴욕 법원에서 딜러 Yves Bouvier는 새로운 프랑스 형사 사건의 일환으로 Sotheby의 기록을 찾고 있습니다.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "경영대학원 교수들, 소유권이 주장되지 않은 나치 시대 약탈 예술품 식별을 돕는 AI 도구 출시",
+        "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "953d61a3b820",
+      "rank": 1,
+      "score": 70,
+      "category": "market",
+      "titleOriginal": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
+      "titleKo": "뉴욕 법원에서 딜러 Yves Bouvier는 새로운 프랑스 형사 사건의 일환으로 Sotheby의 기록을 찾고 있습니다.",
+      "summaryKo": "스위스 딜러는 법원이 프랑스에서 진행 중인 법적 싸움에서 승리하는 데 도움이 되기를 바라고 있습니다.",
+      "url": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T20:01:36.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2024/11/Bouvier.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "355ce661e944",
+      "rank": 2,
+      "score": 65,
+      "category": "artist",
+      "titleOriginal": "Simone Forti, Pioneering Postmodern Dance Artist, Dies At 91",
+      "titleKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+      "summaryKo": "선구적인 포스트모던 댄스 아티스트 시몬 포티(Simone Forti)가 91세로 사망했습니다.",
+      "url": "https://www.thatericalper.com/2026/07/31/simone-forti-pioneering-postmodern-dance-artist-dies-at-91",
+      "source": "That Eric Alper",
+      "sourceDomain": "thatericalper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-07-31T16:51:49.000Z",
+      "coverage": 3,
+      "image": "https://www.thatericalper.com/wp-content/uploads/2026/07/download-2026-07-31T125116.878.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "6adfdd3f8222",
+      "rank": 3,
+      "score": 65,
+      "category": "museum",
+      "titleOriginal": "Business School Professors Launch AI Tool to Help Identify Unclaimed Nazi-Era Looted Artworks",
+      "titleKo": "경영대학원 교수들, 소유권이 주장되지 않은 나치 시대 약탈 예술품 식별을 돕는 AI 도구 출시",
+      "summaryKo": "이 도구는 Jeu de Paume의 \"문화 약탈\" 데이터베이스의 데이터를 사용합니다.",
+      "url": "https://www.artnews.com/art-news/news/business-school-professors-ai-tool-nazi-era-looted-artworks-1234794099",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T17:48:57.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/GettyImages-2154139624.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a86c141f6abc",
+      "rank": 4,
+      "score": 62,
+      "category": "fair",
+      "titleOriginal": "Gagosian exits locations in Basel and London's Burlington Arcade",
+      "titleKo": "Gagosian은 바젤과 런던 벌링턴 아케이드의 위치를 ​​종료합니다.",
+      "summaryKo": "Gagosian은 바젤과 런던의 Burlington Arcade 위치를 종료합니다. The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/07/31/gagosian-exits-locations-in-basel-and-londons-burlington-arcade",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-07-31T19:51:13.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1be0fb1ea47160bb57b0ea3f19918c22ffef0397-3000x2206.jpg?rect=0,203,3000,1800&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "494604c60071",
+      "rank": 5,
+      "score": 62,
+      "category": "artist",
+      "titleOriginal": "Citing Censorship, Artist Emma Shapiro Launches Legal Challenge to Restore Instagram Account",
+      "titleKo": "검열을 언급한 아티스트 Emma Shapiro, Instagram 계정 복원을 위한 법적 소송 시작",
+      "summaryKo": "인스타그램은 2025년 12월 8일 온라인에서 성차별에 도전하는 프로젝트인 @nipeople을 영구적으로 종료했습니다.",
+      "url": "https://www.artnews.com/art-news/news/emma-shapiro-legal-challenge-restore-instagram-account-1234794131",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T20:50:39.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/Account-disabling-and-appeal-denial.jpg?w=323",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
