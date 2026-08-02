@@ -18,7 +18,6 @@ export const DIRECT_FEEDS = [
   ["The Art Newspaper", "https://www.theartnewspaper.com/rss.xml"],
   ["Hyperallergic", "https://hyperallergic.com/feed/"],
   ["Artforum", "https://www.artforum.com/feed/"],
-  ["Artnet News", "https://news.artnet.com/feed"],
 ] as const;
 
 export const DOMAIN_WEIGHTS: Record<string, number> = {

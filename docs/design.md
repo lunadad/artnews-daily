@@ -97,9 +97,10 @@ const DIRECT_FEEDS = [
   ['The Art Newspaper', 'https://www.theartnewspaper.com/rss.xml'],
   ['Hyperallergic', 'https://hyperallergic.com/feed/'],
   ['Artforum', 'https://www.artforum.com/feed/'],
-  ['Artnet News', 'https://news.artnet.com/feed'],
 ];
 ```
+
+> Artnet News 직접 피드는 `news.artnet.com/feed`가 HTTP 403을 반환하도록 변경되어 2026-08-02에 제거했다. Google News 경유 기사는 계속 수집하며 기존 도메인 가중치를 적용한다.
 
 각 직접 RSS는 독립적으로 수집하며, 한 피드가 실패하면 오류를 로그로 남기고 빈 후보 목록으로 대체해 나머지 피드와 Google News 수집을 계속한다(fail-soft).
 
@@ -511,7 +512,7 @@ Orca Run → Task 생성 → `worker-start --agent codex` → `check --wait`로 
 
 | # | 리스크 | 완화 |
 |---|---|---|
-| 1 | Google News RSS는 비공식 인터페이스 — 구조 변경·차단 가능 | 직접 RSS(ARTnews/TAN/Hyperallergic/Artforum/Artnet News) 5종을 항상 병행 수집. 개별 피드는 fail-soft로 격리하며 Google 실패 시에도 후보 풀을 확보 |
+| 1 | Google News RSS는 비공식 인터페이스 — 구조 변경·차단 가능 | 직접 RSS(ARTnews/TAN/Hyperallergic/Artforum) 4종을 항상 병행 수집. 개별 피드는 fail-soft로 격리하며 Google 실패 시에도 후보 풀을 확보 |
 | 2 | 번역 엔드포인트(gtx) 차단 | fail-soft — 원문 노출, 파이프라인 중단 없음 |
 | 3 | og:image 핫링크 → 원본 사이트 대역폭 사용 | `/api/thumb`가 s-maxage 7일로 엣지 캐싱, 실제 원본 요청은 하루 수 회 수준 |
 | 4 | 원본 기사 삭제 시 이미지 404 | `<img onerror>`로 플레이스홀더 대체 |

@@ -1,14 +1,14 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T10:38:09.110+09:00",
+  "generatedAt": "2026-08-02T17:17:47.890+09:00",
   "briefing": {
     "headline": "오늘은 시장 신호가 가장 두드러집니다.",
     "distribution": {
       "market": 2,
-      "museum": 2,
+      "museum": 1,
       "fair": 0,
       "artist": 1,
-      "general": 0
+      "general": 1
     },
     "focus": [
       {
@@ -16,83 +16,83 @@
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-        "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
-      },
-      {
         "title": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
+        "why": "4개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       }
     ]
   },
   "domestic": {
     "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
     "distribution": {
-      "market": 1,
+      "market": 0,
       "museum": 2,
-      "fair": 1,
+      "fair": 0,
       "artist": 1,
-      "general": 0
+      "general": 2
     },
     "items": [
       {
         "rank": 1,
-        "score": 61,
-        "category": "museum",
-        "title": "미술관으로 여름 휴가…강릉시립미술관 솔올 김종학 전시",
-        "summary": "[강릉=뉴시스] 박현주 미술전문 기자 = 1일 강릉시립미술관 솔올 특별전 '화가 김종학'에서 관람객들이 드로잉 아카이브를 감상하고 있다",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260801_0003732549",
-        "source": "뉴시스",
-        "publishedAt": "2026-08-01T03:28:42.000Z",
-        "coverage": 2,
-        "resolved": true
-      },
-      {
-        "rank": 2,
-        "score": 61,
+        "score": 67,
         "category": "museum",
         "title": "김창열미술관, 전시형 라이브 퍼포먼스 '미술관에서의 춤' 개최",
         "summary": "(제주=연합뉴스) 변지철 기자 = 제주도립 김창열미술관이 공연과 전시를 결합한 전시형 라이브 퍼포먼스를 선보인다고 31일 밝혔다.",
         "url": "https://www.yna.co.kr/amp/view/AKR20260731073300056",
         "source": "연합뉴스",
         "publishedAt": "2026-07-31T02:03:24.000Z",
+        "coverage": 3,
+        "resolved": true
+      },
+      {
+        "rank": 2,
+        "score": 52,
+        "category": "museum",
+        "title": "추경호 대구시장, 주말 맞아 미술관 현장 점검",
+        "summary": "이로운넷 = 김달년 기자 추경호 대구시장이 주말지역 대표 문화공간을 찾아 현장 중심의 소통 행보를 펼쳤다.대구시는 추 시장은 지난 1일 대구간송미술관과 대구미술관을 차례로 방문해 전시 관람 여건을 점검하고 현장 관계자들의 목소리를 청취했다고 2일 밝혔다.대구간송미술관을 찾은 추 시장은",
+        "url": "https://www.eroun.net/news/articleView.html?idxno=86798",
+        "source": "이로운넷",
+        "publishedAt": "2026-08-02T05:10:19.000Z",
         "coverage": 2,
         "resolved": true
       },
       {
         "rank": 3,
-        "score": 57,
-        "category": "market",
-        "title": "[컬렉터블 럭셔리 | Part 4] 포트폴리오 구성은 | 금융시장 변동성 대비한 안전 자산 상속·증여에 대출 담보로 활용도",
-        "summary": "“하이 주얼리나 고가 현대미술품 같은 소위 컬렉터블 럭셔리 상품은 소위 성장 자산(growing asset class)으로 분류됩니다. 최근 슈퍼리치들은 부동산과 주식 외에 자산의 일정 부분을 이들로 구성하기도 해요. 국내에서는 아직 대중화되지 않았지만 해외 금융기관들은 거래되는 이런 자산들의 데이터베이스를 구축하거나 별도의 컨설턴트를 고용하고 있는 곳도",
-        "url": "https://www.mk.co.kr/news/culture/12111888",
-        "source": "매일경제",
-        "publishedAt": "2026-07-30T05:11:59.000Z",
+        "score": 50,
+        "category": "general",
+        "title": "퐁피두센터 한화, 큐비즘으로 서울에 문을 열다-개관전 '큐비스트: 시각의 혁신가들'",
+        "summary": "[아트코리아방송 = 김한정 기자] 세계 현대미술사의 중요한 축을 이루는 프랑스 퐁피두센터가 서울 여의도에 새로운 거점을 마련했다.한화문화재단과 프랑스 퐁피두센터의 파트너십으로 설립된 퐁피두센터 한화(Centre Pompidou Hanwha)가 지난 6월 4일 서울 여의도 63빌딩 별관",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103718",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-02T04:53:41.000Z",
         "coverage": 1,
         "resolved": true
       },
       {
         "rank": 4,
-        "score": 57,
-        "category": "fair",
-        "title": "베니스 비엔날레에서 확인한 메나(MENA) 작가들의 약진",
-        "summary": "[베니스=뉴시스] 사우디아라비아, 아랍에미리트(UAE), 카타르, 바레인, 오만, 레바논, 팔레스타인…",
-        "url": "https://kartprice.net/view?id=NISX20260801_0003732751&cid=10705",
-        "source": "k-Artprice",
-        "publishedAt": "2026-08-01T23:00:00.000Z",
+        "score": 43,
+        "category": "artist",
+        "title": "\"말이 없어 좋다\"…침묵으로 산을 그린 화가, 유영국 [박현주 아트에세이 ㉙]",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = \"왜 추상을 합니까?\" 유영국은 말했다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260729_0003727614",
+        "source": "뉴시스",
+        "publishedAt": "2026-07-31T15:01:00.000Z",
         "coverage": 1,
         "resolved": true
       },
       {
         "rank": 5,
-        "score": 47,
-        "category": "artist",
-        "title": "한솥도시락, 한솥아트스페이스서 이상원 작가 개인전 ‘RESTOPIA’ 개최",
-        "summary": "현대인의 휴양 풍경을 담아낸 이상원 작가 대표작 전시가 한솥도시락의 한솥아트스페이스에서 개최된다. 국내 대표 도시락 프랜차이즈 한솥도시락은 오는 8월 8일부터 9월 19일까지 한솥아트스페이스에서 이상원 작가의 ...",
-        "url": "https://sports.khan.co.kr/article/202607302353003",
-        "source": "스포츠경향",
-        "publishedAt": "2026-07-30T14:53:00.000Z",
-        "coverage": 2,
+        "score": 42,
+        "category": "general",
+        "title": "빛으로 발견한 자연과 건축 'MMCA 과천 40주년: 빛의 상상들'",
+        "summary": "[아트코리아방송 = 김한정 기자] 국립현대미술관 과천관이 올해 개관 40주년을 맞았다. 1986년 문을 연 과천관은 한국 현대미술의 중요한 흐름을 수집하고 연구하며 수많은 전시와 실험을 이어온 공간이다. 서울 도심의 미술관과 달리 자연과 건축, 조각공원이 하나의 흐름으로 연결되는 과천",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103709",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-01T09:46:43.000Z",
+        "coverage": 1,
         "resolved": true
       }
     ]
@@ -118,27 +118,8 @@
       "imageHeight": null
     },
     {
-      "id": "e777efee3e08",
-      "rank": 2,
-      "score": 70,
-      "category": "artist",
-      "titleOriginal": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
-      "titleKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
-      "summaryKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti), 91세로 사망 The New York Times",
-      "url": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
-      "source": "The New York Times",
-      "sourceDomain": "nytimes.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-08-01T05:45:00.000Z",
-      "coverage": 3,
-      "image": null,
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
       "id": "f19f1e77662a",
-      "rank": 3,
+      "rank": 2,
       "score": 70,
       "category": "market",
       "titleOriginal": "Collector Bernardo Paz plans new museum in Brazil next-door to Inhotim",
@@ -156,8 +137,46 @@
       "imageHeight": null
     },
     {
-      "id": "ad2e1590942d",
+      "id": "fa69735f3154",
+      "rank": 3,
+      "score": 67,
+      "category": "general",
+      "titleOriginal": "Rock legend Patti Smith meets Pope Leo at the Vatican",
+      "titleKo": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
+      "summaryKo": "록 전설 패티 스미스(Patti Smith)가 바티칸 동부 리베리나 연대기(Vatican Eastern Riverina Chronicle)에서 교황 레오를 만났습니다.",
+      "url": "https://www.easternriverinachronicle.com.au/story/9321819/rock-legend-patti-smith-meets-pope-leo-at-the-vatican",
+      "source": "Eastern Riverina Chronicle",
+      "sourceDomain": "com.au",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T02:54:09.000Z",
+      "coverage": 4,
+      "image": "https://www.easternriverinachronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d931484f-1d60-4cd0-b92e-4d1ea7ec33fc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e777efee3e08",
       "rank": 4,
+      "score": 64,
+      "category": "artist",
+      "titleOriginal": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
+      "titleKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
+      "summaryKo": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti), 91세로 사망 The New York Times",
+      "url": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T05:45:00.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ad2e1590942d",
+      "rank": 5,
       "score": 60,
       "category": "museum",
       "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
@@ -171,25 +190,6 @@
       "publishedAt": "2026-07-28T12:15:58.000Z",
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
-      "id": "744802db0ae8",
-      "rank": 5,
-      "score": 60,
-      "category": "museum",
-      "titleOriginal": "V&A Workers Vote to Strike, Citing Amazon-Style Conditions",
-      "titleKo": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
-      "summaryKo": "7월 29일 프로스펙트(Prospect) 노조 회원인 런던 빅토리아 앤 앨버트 박물관(Victoria & Albert Museum) 직원들이 급여, 근무 조건, 물과 화장실 이용 등의 문제를 놓고 파업을 결정했다고 가디언(The Guardian)이 보도했습니다. V&A는 런던 지역에 4개의 박물관을 운영하고 있습니다. V&A 사우스 켄싱턴",
-      "url": "https://www.artforum.com/news/v-and-a-workers-vote-to-strike-over-amazon-style-conditions-1234755982",
-      "source": "Artforum",
-      "sourceDomain": "artforum.com",
-      "discoveredVia": "direct",
-      "resolved": true,
-      "publishedAt": "2026-07-30T16:34:31.000Z",
-      "coverage": 2,
-      "image": "https://www.artforum.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-1.19.37-PM.png?w=650",
       "imageWidth": null,
       "imageHeight": null
     }
