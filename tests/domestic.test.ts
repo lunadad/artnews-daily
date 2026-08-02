@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import { describe, expect, it } from "vitest";
 import {
+  classifyDomesticCategory,
   domesticNoticePenalty,
   domesticKeywordPoints,
   domesticSourceWeight,
@@ -47,6 +48,14 @@ describe("domestic art news", () => {
 
   it("does not confuse an ordinary co.kr publisher with blocked brunch.co.kr", () => {
     expect(isDomesticHardExcluded(candidate("미술관 전시", { sourceDomain: "sctoday.co.kr" }))).toBe(false);
+  });
+
+  it("hard-excludes domestic photo-caption corner tags", () => {
+    expect(isDomesticHardExcluded(candidate("[생생갤러리] AI영상으로 새롭게 단장한 대한제국실"))).toBe(true);
+  });
+
+  it("classifies a gallery solo-show notice outside market", () => {
+    expect(classifyDomesticCategory('정순이 개인전 "시간으로의 여행" 인사아트센터 G&J갤러리')).toBe("artist");
   });
 
   it("maps domestic publisher weights separately from international weights", () => {

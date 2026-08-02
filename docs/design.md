@@ -128,9 +128,12 @@ Google News RSS의 `<link>`와 `<description>` 링크는 모두 `news.google.com
 | 하드 제외 | `artnet.com/artists/*/...for-sale` 경로 또는 제목에 `for sale`, `buy now`, `price guide`, `sponsored` 포함 |
 | 하드 제외 | 원문 URL 경로 세그먼트가 `television`, `movies`, `music`, `theater`, `books`, `style`, `food`, `sports` 중 하나인 기사. Google URL 해석 뒤에도 대표 기사에 다시 적용한다. `dance`, `design`, `architecture`는 허용한다. |
 | 하드 제외 | 제목·요약에 `sopranos`, `sitcom`, `tv series`, `television series`, `actor`, `actress`, `film star`, `movie star`, `singer`, `rapper`, `band member`, `talk show`, `netflix series` 중 하나가 있으면 연예 문맥으로 제외한다. 단, 같은 문맥에 `painter`, `sculptor`, `gallery`, `museum`, `exhibition`, `biennale`, `auction`, `curator`, `artwork`, `retrospective` 중 하나가 함께 있으면 시각미술 기사로 인정한다. |
+| 하드 제외 | 제목·요약에 `free day`, `family day`, `open house`, `members preview`, `admission`, `tickets on sale`, `opening hours`, `plan your visit`, `workshop`, `class registration`, `관람 안내`, `입장료`, `사전예약`, `관람시간`, `휴관`, `체험 프로그램`, `수강생 모집` 중 하나가 있는 기관 행사·관람 안내 페이지 |
 | −12점 | 제목이 `^\d+ (books|shows|exhibitions|things|artworks|artists|museums|reasons)`이거나 `to read`, `gift guide`, `what to see`, `best of the`, `roundup`, `we're looking forward to`, `you should` 포함 |
 
 감점 후 점수 하한은 0이다.
+
+카테고리는 `market → museum → fair → artist` 순서로 동률을 판정한다. `market`은 `auction`, `auction house`, `sotheby`, `christie`, `phillips`, `bonhams`, `sold for`, `hammer price`, `fetched at`, `art market`, `market report`, `sales report`, `consign`, `provenance sale`, `collector`, `art dealer`, `estimate`만 사용한다. `gallery`, `market`, `sold`, `million` 단독 토큰은 시장 분류에 쓰지 않는다.
 
 **스코어** (클러스터 단위):
 
@@ -143,6 +146,7 @@ Google News RSS의 `<link>`와 `<description>` 링크는 모두 `news.google.com
    | 시장·경매 카테고리 | 0 또는 15 | 클러스터 대표 기사의 카테고리가 `market`이면 +15 |
    | 썸네일 보유 | 0–5 | Stage 5에서만 RSS/기사 이미지 확보 시 +5 |
    | 리스티클·가이드 | −12 | 위 저품질 필터의 감점 규칙과 일치 |
+   | 미등록 매체 단독 보도 | −12 | 클러스터 최고 소스 가중치가 8이고 `coverage = 1`일 때만 적용. `coverage ≥ 2`이면 감점하지 않음 |
 
 `coverage`는 표시 문자열이 아니라 `<source url>` 또는 기사 URL의 등록가능 도메인(eTLD+1 근사: 마지막 두 레이블) 집합 크기로 센다. `sourceWeight`도 동일한 도메인 매핑만 사용해 `ARTnews`/`Art News Magazine` 같은 표기 차이가 중복 매체로 계산되지 않게 한다.
 
@@ -225,7 +229,9 @@ LLM 없이 규칙 기반으로 3부 구성:
 미술관 전시 · 작가 개인전 미술
 ```
 
-수집 결과에서 `v.daum.net`, `news.nate.com`, `brunch.co.kr`, 네이버 블로그·포스트, 티스토리, `les24heures.fr`, `주달`을 제외한다. 제목의 코인·금융, 부동산, 백화점·쇼핑 PR, 관광 키워드와 `셔츠|유니폼|굿즈` + `경매` 조합도 하드 제외하고, `초대전`, `공모`, `수상자 발표`, `관람 안내`, `주간분양`에는 10점을 감점한다.
+수집 결과에서 `v.daum.net`, `news.nate.com`, `brunch.co.kr`, 네이버 블로그·포스트, 티스토리, `les24heures.fr`, `주달`을 제외한다. 제목의 코인·금융, 부동산, 백화점·쇼핑 PR, 관광 키워드와 `셔츠|유니폼|굿즈` + `경매` 조합도 하드 제외한다. 제목이 `[생생갤러리]`, `[포토]`, `[사진]`, `[영상]`, `[화보]`, `[오늘의 사진]`으로 시작하는 사진·영상 코너와 국제 파이프라인과 같은 기관 행사·관람 안내 문구가 제목·요약에 있는 기사도 제외한다. `초대전`, `공모`, `수상자 발표`, `관람 안내`, `주간분양`에는 10점을 감점한다(단, `관람 안내`는 하드 제외가 먼저 적용된다).
+
+국내 `market` 분류 토큰은 `경매`, `낙찰`, `낙찰가`, `낙찰률`, `옥션`, `서울옥션`, `케이옥션`, `소더비`, `크리스티`, `미술시장`, `거래액`, `거래량`, `시장 규모`, `아트테크`, `컬렉터`, `추정가`, `응찰`, `출품가`, `매각`으로 한정한다. `갤러리`, `개인전`, `전시`, `초대전`은 시장 토큰이 아니며, 해당 문맥은 다른 규칙에 따라 작가·기관 카테고리로 분류한다.
 
 국내 점수는 기존 제목 클러스터링·신선도 규칙을 재사용하며 아래 표로 계산한다.
 
@@ -237,6 +243,7 @@ LLM 없이 규칙 기반으로 3부 구성:
 | 국내 키워드 시그널 (합산 상한 28) | 0–28 | `낙찰가`/`최고가 낙찰`/`낙찰률`/`추정가`/`응찰` +12, `서울옥션`/`케이옥션`/`크리스티`/`소더비`/`경매사`/`경매장` +10, `미술시장`/`거래액`/`거래량`/`시장 규모`/`아트테크`/`컬렉터` +9, `경매`/`낙찰`/`출품`/`매각`/`판매액` +7. 기존 인사·비엔날레·환수·회고전·위작·소송 신호는 그대로 유지한다. |
 | 시장·경매 카테고리 | 0 또는 15 | 클러스터 대표 기사의 카테고리가 `market`이면 +15 |
 | 공지형 제목 | −10 | `초대전`, `공모`, `수상자 발표`, `관람 안내`, `주간분양` 포함 |
+| 미등록 매체 단독 보도 | −12 | 클러스터 최고 국내 소스 가중치가 8이고 `coverage = 1`일 때만 적용 |
 
 국내 선정도 공용 다양성 규칙을 사용해 시장·경매는 최대 3건, 나머지 카테고리는 최대 2건으로 제한한다.
 

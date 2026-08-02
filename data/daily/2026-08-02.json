@@ -1,14 +1,14 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T10:26:47.427+09:00",
+  "generatedAt": "2026-08-02T10:38:09.110+09:00",
   "briefing": {
     "headline": "오늘은 시장 신호가 가장 두드러집니다.",
     "distribution": {
-      "market": 3,
-      "museum": 0,
+      "market": 2,
+      "museum": 2,
       "fair": 0,
       "artist": 1,
-      "general": 1
+      "general": 0
     },
     "focus": [
       {
@@ -16,39 +16,27 @@
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
-        "why": "4개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
-      },
-      {
         "title": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
         "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
   },
   "domestic": {
-    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
     "distribution": {
-      "market": 2,
+      "market": 1,
       "museum": 2,
       "fair": 1,
-      "artist": 0,
+      "artist": 1,
       "general": 0
     },
     "items": [
       {
         "rank": 1,
-        "score": 64,
-        "category": "market",
-        "title": "[생생갤러리] AI영상으로 새롭게 단장한 대한제국실",
-        "summary": "사진 속 이야기를 살펴보는 생생갤러리 시간입니다.오늘은 어떤 사진들이 전시돼 있는지 함께 보시죠.<AI영상으로 새롭게 단장한 대한제국실&g...",
-        "url": "https://www.yna.co.kr/amp/view/MYH20260801007200038",
-        "source": "연합뉴스",
-        "publishedAt": "2026-08-01T04:19:46.000Z",
-        "coverage": 1,
-        "resolved": true
-      },
-      {
-        "rank": 2,
         "score": 61,
         "category": "museum",
         "title": "미술관으로 여름 휴가…강릉시립미술관 솔올 김종학 전시",
@@ -60,7 +48,7 @@
         "resolved": true
       },
       {
-        "rank": 3,
+        "rank": 2,
         "score": 61,
         "category": "museum",
         "title": "김창열미술관, 전시형 라이브 퍼포먼스 '미술관에서의 춤' 개최",
@@ -69,6 +57,18 @@
         "source": "연합뉴스",
         "publishedAt": "2026-07-31T02:03:24.000Z",
         "coverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "market",
+        "title": "[컬렉터블 럭셔리 | Part 4] 포트폴리오 구성은 | 금융시장 변동성 대비한 안전 자산 상속·증여에 대출 담보로 활용도",
+        "summary": "“하이 주얼리나 고가 현대미술품 같은 소위 컬렉터블 럭셔리 상품은 소위 성장 자산(growing asset class)으로 분류됩니다. 최근 슈퍼리치들은 부동산과 주식 외에 자산의 일정 부분을 이들로 구성하기도 해요. 국내에서는 아직 대중화되지 않았지만 해외 금융기관들은 거래되는 이런 자산들의 데이터베이스를 구축하거나 별도의 컨설턴트를 고용하고 있는 곳도",
+        "url": "https://www.mk.co.kr/news/culture/12111888",
+        "source": "매일경제",
+        "publishedAt": "2026-07-30T05:11:59.000Z",
+        "coverage": 1,
         "resolved": true
       },
       {
@@ -85,14 +85,14 @@
       },
       {
         "rank": 5,
-        "score": 57,
-        "category": "market",
-        "title": "정순이 개인전 “시간으로의 여행” 전 인사동 인사아트센터 G&J갤러리에서 개최",
-        "summary": "7월29일부터 8월3일까지 정순이 개인전 “시간으로의 여행” 전이 인사동 인사아트센터 3층 G&J갤러리에서 개최 되고 있다.이번 전시에서 작가는 현실의 풍경이 아",
-        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5532",
-        "source": "아트월드뉴스",
-        "publishedAt": "2026-08-01T09:30:29.000Z",
-        "coverage": 1,
+        "score": 47,
+        "category": "artist",
+        "title": "한솥도시락, 한솥아트스페이스서 이상원 작가 개인전 ‘RESTOPIA’ 개최",
+        "summary": "현대인의 휴양 풍경을 담아낸 이상원 작가 대표작 전시가 한솥도시락의 한솥아트스페이스에서 개최된다. 국내 대표 도시락 프랜차이즈 한솥도시락은 오는 8월 8일부터 9월 19일까지 한솥아트스페이스에서 이상원 작가의 ...",
+        "url": "https://sports.khan.co.kr/article/202607302353003",
+        "source": "스포츠경향",
+        "publishedAt": "2026-07-30T14:53:00.000Z",
+        "coverage": 2,
         "resolved": true
       }
     ]
@@ -118,27 +118,8 @@
       "imageHeight": null
     },
     {
-      "id": "fa69735f3154",
-      "rank": 2,
-      "score": 73,
-      "category": "general",
-      "titleOriginal": "Rock legend Patti Smith meets Pope Leo at the Vatican",
-      "titleKo": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
-      "summaryKo": "록 전설 패티 스미스(Patti Smith)가 바티칸에서 교황 레오를 만났습니다. eastriverinachronicle.com.au",
-      "url": "https://www.easternriverinachronicle.com.au/story/9321819/rock-legend-patti-smith-meets-pope-leo-at-the-vatican",
-      "source": "easternriverinachronicle.com.au",
-      "sourceDomain": "com.au",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-08-01T02:54:09.000Z",
-      "coverage": 4,
-      "image": "https://www.easternriverinachronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d931484f-1d60-4cd0-b92e-4d1ea7ec33fc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
       "id": "e777efee3e08",
-      "rank": 3,
+      "rank": 2,
       "score": 70,
       "category": "artist",
       "titleOriginal": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
@@ -156,40 +137,59 @@
       "imageHeight": null
     },
     {
-      "id": "6795ad46be0f",
-      "rank": 4,
-      "score": 64,
+      "id": "f19f1e77662a",
+      "rank": 3,
+      "score": 70,
       "category": "market",
-      "titleOriginal": "Colorado Day Art Market & SCFD Free Day",
-      "titleKo": "콜로라도 데이 아트 마켓 및 SCFD 프리 데이",
-      "summaryKo": "콜로라도 데이 아트 마켓 및 SCFD 프리 데이 덴버 미술관",
-      "url": "https://www.denverartmuseum.org/en/calendar/free-day-aug-1-2026",
-      "source": "Denver Art Museum",
-      "sourceDomain": "denverartmuseum.org",
+      "titleOriginal": "Collector Bernardo Paz plans new museum in Brazil next-door to Inhotim",
+      "titleKo": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
+      "summaryKo": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/bernardo-paz-inhotim-founder-new-museum-next-door",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
       "discoveredVia": "google",
       "resolved": true,
-      "publishedAt": "2026-08-01T20:04:31.000Z",
+      "publishedAt": "2026-07-31T17:00:15.000Z",
       "coverage": 1,
-      "image": null,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?rect=0,360,1800,1080&w=1200&h=720&q=85&fit=crop&auto=format",
       "imageWidth": null,
       "imageHeight": null
     },
     {
-      "id": "c82df7fa82d4",
+      "id": "ad2e1590942d",
+      "rank": 4,
+      "score": 60,
+      "category": "museum",
+      "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
+      "titleKo": "구겐하임 아부다비, 개장일 발표",
+      "summaryKo": "구겐하임 네트워크의 최신 박물관은 2006년 원래 발표 이후 20년 후인 2026년 12월 11일에 개관할 예정입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/28/guggenheim-abu-dhabi-announces-opening-date",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-28T12:15:58.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "744802db0ae8",
       "rank": 5,
-      "score": 64,
-      "category": "market",
-      "titleOriginal": "$22 Million Renovation of LA’s Watts Towers to Begin in October",
-      "titleKo": "2,200만 달러 규모의 LA 와츠 타워 개조 공사, 10월 시작 예정",
-      "summaryKo": "새롭게 발표된 로스앤젤레스 와츠 타워스 캠퍼스(Watts Towers Campus)의 2,200만 달러 확장 공사는 15년간의 현장 보존 프로젝트가 조기 종료된 직후인 10월에 착공될 예정입니다. 곧 확장될 WTACC(Watts Towers Arts Center Campus)는 17개의 상호 연결된 rad를 둘러싸고 있습니다.",
-      "url": "https://www.artforum.com/news/22-million-renovation-of-la-watts-towers-to-begin-1234756029",
+      "score": 60,
+      "category": "museum",
+      "titleOriginal": "V&A Workers Vote to Strike, Citing Amazon-Style Conditions",
+      "titleKo": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
+      "summaryKo": "7월 29일 프로스펙트(Prospect) 노조 회원인 런던 빅토리아 앤 앨버트 박물관(Victoria & Albert Museum) 직원들이 급여, 근무 조건, 물과 화장실 이용 등의 문제를 놓고 파업을 결정했다고 가디언(The Guardian)이 보도했습니다. V&A는 런던 지역에 4개의 박물관을 운영하고 있습니다. V&A 사우스 켄싱턴",
+      "url": "https://www.artforum.com/news/v-and-a-workers-vote-to-strike-over-amazon-style-conditions-1234755982",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
       "discoveredVia": "direct",
       "resolved": true,
-      "publishedAt": "2026-07-30T20:08:31.000Z",
-      "coverage": 1,
-      "image": "https://www.artforum.com/wp-content/uploads/2026/07/GettyImages-1237411230.jpg?w=650",
+      "publishedAt": "2026-07-30T16:34:31.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-1.19.37-PM.png?w=650",
       "imageWidth": null,
       "imageHeight": null
     }

@@ -3,6 +3,7 @@ import {
   BLOCKED_TITLE_PHRASES,
   BLOCKED_URL_PATH_SEGMENTS,
   ENTERTAINMENT_CONTEXT_PHRASES,
+  INSTITUTION_NOTICE_PHRASES,
   KEYWORD_SIGNALS,
   LISTICLE_TITLE_PATTERN,
   LISTICLE_TITLE_PHRASES,
@@ -34,6 +35,7 @@ export interface ScoredCluster {
 
 export const KEYWORD_POINTS_CAP = 28;
 export const MARKET_CATEGORY_BONUS = 15;
+export const LOW_SOURCE_SOLO_PENALTY = 12;
 export const CATEGORY_LIMITS: Readonly<Record<Category, number>> = {
   market: 3,
   museum: 2,
@@ -76,6 +78,7 @@ export function isHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "s
   const title = item.title.toLowerCase();
   if (BLOCKED_TITLE_PHRASES.some((phrase) => title.includes(phrase))) return true;
   const context = `${item.title} ${item.summary ?? ""}`.toLowerCase();
+  if (INSTITUTION_NOTICE_PHRASES.some((phrase) => containsPhrase(context, phrase))) return true;
   const hasEntertainmentContext = ENTERTAINMENT_CONTEXT_PHRASES.some((phrase) => containsPhrase(context, phrase));
   const hasVisualArtContext = VISUAL_ART_CONTEXT_PHRASES.some((phrase) => containsPhrase(context, phrase));
   if (hasEntertainmentContext && !hasVisualArtContext) return true;
@@ -131,6 +134,10 @@ export function categoryPoints(category: Category): number {
   return category === "market" ? MARKET_CATEGORY_BONUS : 0;
 }
 
+export function sourceFloorPenalty(maxSourceWeight: number, coverage: number): number {
+  return maxSourceWeight === 8 && coverage === 1 ? LOW_SOURCE_SOLO_PENALTY : 0;
+}
+
 export function scoreCluster(articles: ArticleCandidate[], now = new Date(), options: { includeImage?: boolean } = {}): ScoredCluster {
   if (!articles.length) throw new Error("Cannot score an empty cluster");
   const includeImage = options.includeImage ?? true;
@@ -141,13 +148,15 @@ export function scoreCluster(articles: ArticleCandidate[], now = new Date(), opt
     return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
   })[0];
   const coverage = new Set(articles.map((item) => registrableDomain(item.sourceDomain || item.url))).size;
+  const maxSourceWeight = Math.max(...articles.map((item) => sourceWeight(item.sourceDomain)));
   const rawScore = Math.min(coverage, 5) * 12
-    + Math.max(...articles.map((item) => sourceWeight(item.sourceDomain)))
+    + maxSourceWeight
     + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
     + keywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
     + categoryPoints(representative.category)
     + (includeImage && representative.image ? 5 : 0)
-    - listiclePenalty(representative.title);
+    - listiclePenalty(representative.title)
+    - sourceFloorPenalty(maxSourceWeight, coverage);
   return { representative, articles, coverage, score: Math.max(0, rawScore) };
 }
 

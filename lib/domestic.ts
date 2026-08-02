@@ -1,5 +1,5 @@
-import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, type ArticleCandidate, type ScoredCluster } from "./score";
-import { registrableDomain } from "./sources";
+import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, sourceFloorPenalty, type ArticleCandidate, type ScoredCluster } from "./score";
+import { INSTITUTION_NOTICE_PHRASES, registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
 export const DOMESTIC_GOOGLE_QUERIES = [
@@ -61,7 +61,10 @@ const DOMESTIC_DOMAIN_WEIGHTS: Record<string, number> = {
 const SPECIALIST_SOURCE_NAMES = ["월간미술", "아트인컬처", "퍼블릭아트"] as const;
 
 const CATEGORY_RULES: Record<Exclude<Category, "general">, readonly string[]> = {
-  market: ["경매", "낙찰", "최고가", "미술시장", "거래액", "서울옥션", "케이옥션", "화랑", "갤러리"],
+  market: [
+    "경매", "낙찰", "낙찰가", "낙찰률", "옥션", "서울옥션", "케이옥션", "소더비", "크리스티",
+    "미술시장", "거래액", "거래량", "시장 규모", "아트테크", "컬렉터", "추정가", "응찰", "출품가", "매각",
+  ],
   museum: ["미술관", "박물관", "관장", "소장품", "환수", "반환", "도난", "전시"],
   fair: ["비엔날레", "한국관", "베네치아", "아트페어", "키아프", "프리즈"],
   artist: ["작가", "개인전", "회고전", "단색화", "화가", "조각가"],
@@ -76,8 +79,11 @@ function blockedDomain(input: string): boolean {
   return BLOCKED_DOMAINS.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
 }
 
-export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "source" | "sourceDomain">): boolean {
+export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "source" | "sourceDomain" | "summary">): boolean {
   const title = item.title.toLowerCase();
+  const context = `${item.title} ${item.summary ?? ""}`.toLowerCase();
+  if (/^\s*\[(?:생생갤러리|포토|사진|영상|화보|오늘의 사진)\]/.test(item.title)) return true;
+  if (INSTITUTION_NOTICE_PHRASES.some((phrase) => context.includes(phrase))) return true;
   if (item.source.trim() === "주달") return true;
   if (BLOCKED_SOURCE_NAMES.some((name) => item.source.toLowerCase().includes(name.toLowerCase()))) return true;
   if (blockedDomain(item.sourceDomain)) return true;
@@ -136,12 +142,14 @@ export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Dat
     return weight || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
   })[0];
   const coverage = new Set(articles.map((item) => registrableDomain(item.sourceDomain || item.url))).size;
+  const maxSourceWeight = Math.max(...articles.map((item) => domesticSourceWeight(item.sourceDomain, item.source)));
   const score = Math.min(coverage, 5) * 12
-    + Math.max(...articles.map((item) => domesticSourceWeight(item.sourceDomain, item.source)))
+    + maxSourceWeight
     + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
     + domesticKeywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
     + categoryPoints(representative.category)
-    - domesticNoticePenalty(representative.title);
+    - domesticNoticePenalty(representative.title)
+    - sourceFloorPenalty(maxSourceWeight, coverage);
   return { representative, articles, coverage, score: Math.max(0, score) };
 }
 

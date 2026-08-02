@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { CATEGORY_LIMITS, clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, keywordPoints, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, titleTokens, type ArticleCandidate } from "@/lib/score";
+import { CATEGORY_LIMITS, clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, keywordPoints, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, sourceFloorPenalty, titleTokens, type ArticleCandidate } from "@/lib/score";
+import { classifyCategory } from "@/lib/sources";
 
 const candidate = (title: string, sourceDomain = "artnews.com", category: ArticleCandidate["category"] = "general", overrides: Partial<ArticleCandidate> = {}): ArticleCandidate => ({
   title,
@@ -44,12 +45,17 @@ describe("scoring and clustering", () => {
     expect(isHardExcluded(candidate("Museum contractor completes new wing", "example.com", "museum"))).toBe(false);
   });
 
+  it("hard-excludes institution event and visitor-information pages", () => {
+    expect(isHardExcluded(candidate("Colorado Day Art Market and SCFD Free Day", "denverartmuseum.org"))).toBe(true);
+    expect(isHardExcluded(candidate("Museum calendar update", "example.com", "museum", { summary: "Tickets on sale for the family day workshop" }))).toBe(true);
+  });
+
   it("deducts 12 for listicles and clamps at zero", () => {
     expect(listiclePenalty("8 Books We're Looking Forward To")).toBe(12);
-    const normal = scoreCluster([candidate("Museum update", "unknown.test")], new Date("2026-08-10T00:00:00Z"), { includeImage: false });
-    const listicle = scoreCluster([candidate("8 Books to Read", "unknown.test")], new Date("2026-08-10T00:00:00Z"), { includeImage: false });
+    const normal = scoreCluster([candidate("Museum update", "artnews.com")], new Date("2026-08-10T00:00:00Z"), { includeImage: false });
+    const listicle = scoreCluster([candidate("8 Books to Read", "artnews.com")], new Date("2026-08-10T00:00:00Z"), { includeImage: false });
     expect(normal.score - listicle.score).toBe(12);
-    expect(listicle.score).toBeGreaterThanOrEqual(0);
+    expect(scoreCluster([candidate("8 Books to Read", "unknown.test")], new Date("2026-08-10T00:00:00Z"), { includeImage: false }).score).toBe(0);
   });
 
   it("counts coverage by registrable publisher domain, not source labels", () => {
@@ -78,6 +84,21 @@ describe("scoring and clustering", () => {
   it("clamps stacked market keyword signals at 28 without changing non-market signals", () => {
     expect(keywordPoints("sold for by Sotheby's art market collector")).toBe(28);
     expect(keywordPoints("museum director restitution")).toBe(13);
+  });
+
+  it("keeps a precise Sotheby's sale headline in market with the T8 bonus", () => {
+    const title = "Sotheby's sale fetched $22 million";
+    expect(classifyCategory(title)).toBe("market");
+    const now = new Date("2026-08-01T03:00:00Z");
+    const market = scoreCluster([candidate(title, "artnews.com", classifyCategory(title))], now, { includeImage: false });
+    const museum = scoreCluster([candidate(title, "artnews.com", "museum")], now, { includeImage: false });
+    expect(market.score - museum.score).toBe(15);
+  });
+
+  it("penalizes only unregistered single-source clusters", () => {
+    expect(sourceFloorPenalty(8, 1)).toBe(12);
+    expect(sourceFloorPenalty(8, 2)).toBe(0);
+    expect(sourceFloorPenalty(18, 1)).toBe(0);
   });
 
   it("allows three market stories while holding other categories to two", () => {

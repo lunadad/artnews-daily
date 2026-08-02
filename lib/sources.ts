@@ -47,6 +47,11 @@ export const BLOCKED_MARKETPLACE_HOSTS = [
 ] as const;
 
 export const BLOCKED_TITLE_PHRASES = ["for sale", "buy now", "price guide", "sponsored"] as const;
+export const INSTITUTION_NOTICE_PHRASES = [
+  "free day", "family day", "open house", "members preview", "admission",
+  "tickets on sale", "opening hours", "plan your visit", "workshop", "class registration",
+  "관람 안내", "입장료", "사전예약", "관람시간", "휴관", "체험 프로그램", "수강생 모집",
+] as const;
 export const BLOCKED_URL_PATH_SEGMENTS = ["television", "movies", "music", "theater", "books", "style", "food", "sports"] as const;
 export const ENTERTAINMENT_CONTEXT_PHRASES = [
   "sopranos",
@@ -91,7 +96,11 @@ export const KEYWORD_SIGNALS = [
 ] as const;
 
 export const CATEGORY_RULES: Record<Exclude<Category, "general">, readonly string[]> = {
-  market: ["auction", "sotheby", "christie", "phillips", "sold", "million", "market", "gallery", "dealer"],
+  market: [
+    "auction", "auction house", "sotheby", "christie", "phillips", "bonhams",
+    "sold for", "hammer price", "fetched at", "art market", "market report",
+    "sales report", "consign", "provenance sale", "collector", "art dealer", "estimate",
+  ],
   museum: ["museum", "exhibition", "director", "restitution", "repatriat", "looted", "institution"],
   fair: ["fair", "basel", "frieze", "biennale", "biennial", "documenta", "venice"],
   artist: ["artist", "retrospective", "painter", "sculptor", "photographer"],
