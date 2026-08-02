@@ -20,7 +20,8 @@ describe("source configuration", () => {
   });
 
   it("includes obituary and museum appointment discovery queries", () => {
-    expect(GOOGLE_QUERIES).toContain("artist dies obituary");
+    expect(GOOGLE_QUERIES).toContain("artist dies gallery museum");
+    expect(GOOGLE_QUERIES).not.toContain("artist dies obituary");
     expect(GOOGLE_QUERIES).toContain("museum appoints director");
   });
 });

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T09:57:04.620+09:00",
+  "generatedAt": "2026-08-02T10:17:59.720+09:00",
   "briefing": {
     "headline": "오늘은 기관 신호가 가장 두드러집니다.",
     "distribution": {
@@ -12,15 +12,15 @@
     },
     "focus": [
       {
+        "title": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
+        "why": "4개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
         "title": "일상에서 영감을 받은 무브먼트 아티스트 시몬 포티(Simone Forti)가 91세의 나이로 사망했습니다.",
         "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       },
       {
         "title": "구겐하임 아부다비, 개장일 발표",
-        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
-      },
-      {
-        "title": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -99,8 +99,27 @@
   },
   "top5": [
     {
-      "id": "e777efee3e08",
+      "id": "fa69735f3154",
       "rank": 1,
+      "score": 73,
+      "category": "general",
+      "titleOriginal": "Rock legend Patti Smith meets Pope Leo at the Vatican",
+      "titleKo": "록 전설 패티 스미스가 바티칸에서 교황 레오를 만나다",
+      "summaryKo": "록 전설 패티 스미스(Patti Smith)가 바티칸에서 교황 레오를 만났습니다. eastriverinachronicle.com.au",
+      "url": "https://www.easternriverinachronicle.com.au/story/9321819/rock-legend-patti-smith-meets-pope-leo-at-the-vatican",
+      "source": "easternriverinachronicle.com.au",
+      "sourceDomain": "com.au",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-01T02:54:09.000Z",
+      "coverage": 4,
+      "image": "https://www.easternriverinachronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d931484f-1d60-4cd0-b92e-4d1ea7ec33fc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e777efee3e08",
+      "rank": 2,
       "score": 70,
       "category": "artist",
       "titleOriginal": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
@@ -119,7 +138,7 @@
     },
     {
       "id": "ad2e1590942d",
-      "rank": 2,
+      "rank": 3,
       "score": 60,
       "category": "museum",
       "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
@@ -138,7 +157,7 @@
     },
     {
       "id": "744802db0ae8",
-      "rank": 3,
+      "rank": 4,
       "score": 60,
       "category": "museum",
       "titleOriginal": "V&A Workers Vote to Strike, Citing Amazon-Style Conditions",
@@ -157,7 +176,7 @@
     },
     {
       "id": "953d61a3b820",
-      "rank": 4,
+      "rank": 5,
       "score": 56,
       "category": "market",
       "titleOriginal": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
@@ -171,25 +190,6 @@
       "publishedAt": "2026-07-31T20:01:36.000Z",
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2024/11/Bouvier.png?w=1024",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
-      "id": "bc48589ef589",
-      "rank": 5,
-      "score": 54,
-      "category": "general",
-      "titleOriginal": "Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80",
-      "titleKo": "'소프라노스' 캐릭터로 토니를 비난한 빈센트 파스토레, 80세로 사망",
-      "summaryKo": "토니를 비난한 '소프라노스' 캐릭터 빈센트 파스토레, 80세로 사망 The New York Times",
-      "url": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
-      "source": "The New York Times",
-      "sourceDomain": "nytimes.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-08-01T21:04:43.000Z",
-      "coverage": 1,
-      "image": null,
       "imageWidth": null,
       "imageHeight": null
     }

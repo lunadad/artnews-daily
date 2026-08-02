@@ -5,7 +5,7 @@ import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
 import { classifyDomesticCategory, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, scoreDomesticCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
-import { clusterArticles, filterCandidates, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
+import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
 import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain } from "../lib/sources";
 import { translateToKorean } from "../lib/translate";
 import { DailyDataSchema, type Category, type DomesticData, type DomesticItem, type NewsItem } from "../lib/types";
@@ -174,6 +174,8 @@ export async function collect(): Promise<void> {
   // Stages 2-3: titles are normalized by parseRss, then low-quality rows are filtered,
   // clustered, and scored without the image bonus.
   const filtered = filterCandidates(candidates);
+  const initiallyExcluded = candidates.filter(isHardExcluded);
+  if (initiallyExcluded.length) console.log(`[stage 2] hard-excluded: ${initiallyExcluded.map((item) => item.title).join(" | ")}`);
   const preliminary = clusterArticles(filtered)
     .map((articles) => scoreCluster(articles, now, { includeImage: false }))
     .sort((a, b) => b.score - a.score);
@@ -184,7 +186,11 @@ export async function collect(): Promise<void> {
   await enrichTopClusters(preliminary);
 
   // Stage 5: recompute representative and image bonus, then enforce category diversity.
-  const finalScored = preliminary.map((cluster) => scoreCluster(cluster.articles, now, { includeImage: true }));
+  const resolvedExcluded = preliminary.filter((cluster) => isHardExcluded(cluster.representative));
+  if (resolvedExcluded.length) console.log(`[stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((cluster) => cluster.representative.title).join(" | ")}`);
+  const finalScored = preliminary
+    .filter((cluster) => !isHardExcluded(cluster.representative))
+    .map((cluster) => scoreCluster(cluster.articles, now, { includeImage: true }));
   const top = selectTopFive(finalScored);
   if (!top.length) throw new Error("No scoreable candidates; existing data was left untouched");
 

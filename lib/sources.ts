@@ -9,7 +9,7 @@ export const GOOGLE_QUERIES = [
   "art restitution OR repatriation",
   "gallery represents artist",
   "biennale OR biennial art",
-  "artist dies obituary",
+  "artist dies gallery museum",
   "museum appoints director",
 ] as const;
 
@@ -47,6 +47,34 @@ export const BLOCKED_MARKETPLACE_HOSTS = [
 ] as const;
 
 export const BLOCKED_TITLE_PHRASES = ["for sale", "buy now", "price guide", "sponsored"] as const;
+export const BLOCKED_URL_PATH_SEGMENTS = ["television", "movies", "music", "theater", "books", "style", "food", "sports"] as const;
+export const ENTERTAINMENT_CONTEXT_PHRASES = [
+  "sopranos",
+  "sitcom",
+  "tv series",
+  "television series",
+  "actor",
+  "actress",
+  "film star",
+  "movie star",
+  "singer",
+  "rapper",
+  "band member",
+  "talk show",
+  "netflix series",
+] as const;
+export const VISUAL_ART_CONTEXT_PHRASES = [
+  "painter",
+  "sculptor",
+  "gallery",
+  "museum",
+  "exhibition",
+  "biennale",
+  "auction",
+  "curator",
+  "artwork",
+  "retrospective",
+] as const;
 export const LISTICLE_TITLE_PATTERN = /^\d+\s+(books|shows|exhibitions|things|artworks|artists|museums|reasons)\b/i;
 export const LISTICLE_TITLE_PHRASES = ["to read", "gift guide", "what to see", "best of the", "roundup", "we're looking forward to", "you should"] as const;
 

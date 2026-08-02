@@ -33,6 +33,17 @@ describe("scoring and clustering", () => {
     expect(filterCandidates([...rows, candidate("Museum appoints director")])).toHaveLength(1);
   });
 
+  it("hard-excludes entertainment URL paths but keeps dance paths", () => {
+    expect(isHardExcluded(candidate("Vincent Pastore dies at 80", "nytimes.com", "artist", { url: "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html" }))).toBe(true);
+    expect(isHardExcluded(candidate("Simone Forti dies at 90", "nytimes.com", "artist", { url: "https://www.nytimes.com/2026/08/01/arts/dance/simone-forti-dead.html" }))).toBe(false);
+  });
+
+  it("keeps entertainment context when strong visual-art context is also present", () => {
+    expect(isHardExcluded(candidate("Actor receives a museum retrospective", "example.com", "artist", { summary: "The actor is also a painter whose artwork is shown by the gallery." }))).toBe(false);
+    expect(isHardExcluded(candidate("Actor remembered after television series", "example.com", "general"))).toBe(true);
+    expect(isHardExcluded(candidate("Museum contractor completes new wing", "example.com", "museum"))).toBe(false);
+  });
+
   it("deducts 12 for listicles and clamps at zero", () => {
     expect(listiclePenalty("8 Books We're Looking Forward To")).toBe(12);
     const normal = scoreCluster([candidate("Museum update", "unknown.test")], new Date("2026-08-10T00:00:00Z"), { includeImage: false });

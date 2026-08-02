@@ -1,11 +1,14 @@
 import {
   BLOCKED_MARKETPLACE_HOSTS,
   BLOCKED_TITLE_PHRASES,
+  BLOCKED_URL_PATH_SEGMENTS,
+  ENTERTAINMENT_CONTEXT_PHRASES,
   KEYWORD_SIGNALS,
   LISTICLE_TITLE_PATTERN,
   LISTICLE_TITLE_PHRASES,
   registrableDomain,
   sourceWeight,
+  VISUAL_ART_CONTEXT_PHRASES,
 } from "./sources";
 import type { Category } from "./types";
 
@@ -31,6 +34,11 @@ export interface ScoredCluster {
 
 const STOP_WORDS = new Set(["a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "in", "is", "it", "of", "on", "or", "the", "to", "with"]);
 
+function containsPhrase(text: string, phrase: string): boolean {
+  const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`(?:^|[^\\p{L}\\p{N}])${escaped}(?:$|[^\\p{L}\\p{N}])`, "u").test(text);
+}
+
 export function normalizeUrl(input: string): string {
   const url = new URL(input);
   url.hostname = url.hostname.toLowerCase();
@@ -54,15 +62,21 @@ export function jaccardSimilarity(a: Set<string>, b: Set<string>): number {
   return intersection / union.size;
 }
 
-export function isHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "sourceDomain">): boolean {
+export function isHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "sourceDomain" | "summary">): boolean {
   const title = item.title.toLowerCase();
   if (BLOCKED_TITLE_PHRASES.some((phrase) => title.includes(phrase))) return true;
+  const context = `${item.title} ${item.summary ?? ""}`.toLowerCase();
+  const hasEntertainmentContext = ENTERTAINMENT_CONTEXT_PHRASES.some((phrase) => containsPhrase(context, phrase));
+  const hasVisualArtContext = VISUAL_ART_CONTEXT_PHRASES.some((phrase) => containsPhrase(context, phrase));
+  if (hasEntertainmentContext && !hasVisualArtContext) return true;
   const sourceDomain = registrableDomain(item.sourceDomain);
   if (BLOCKED_MARKETPLACE_HOSTS.some((host) => sourceDomain === registrableDomain(host))) return true;
   try {
     const url = new URL(item.url);
     const domain = registrableDomain(url.hostname);
     if (BLOCKED_MARKETPLACE_HOSTS.some((host) => domain === registrableDomain(host))) return true;
+    const pathSegments = url.pathname.toLowerCase().split("/").filter(Boolean);
+    if (BLOCKED_URL_PATH_SEGMENTS.some((segment) => pathSegments.includes(segment))) return true;
     if (domain === "artnet.com" && /^\/artists\/[^/]+\/.+for-sale(?:\/|$)/i.test(url.pathname)) return true;
   } catch { return true; }
   return false;

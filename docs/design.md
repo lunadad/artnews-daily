@@ -86,7 +86,7 @@ const GOOGLE_QUERIES = [
   'art restitution OR repatriation',
   'gallery represents artist',
   'biennale OR biennial art',
-  'artist dies obituary',
+  'artist dies gallery museum',
   'museum appoints director',
 ];
 // URL: https://news.google.com/rss/search?q=<encoded>+when:2d&hl=en-US&gl=US&ceid=US:en
@@ -126,6 +126,8 @@ Google News RSS의 `<link>`와 `<description>` 링크는 모두 `news.google.com
 |---|---|
 | 하드 제외 | URL 또는 Google `<source url>` 도메인이 `artsy.net`, `1stdibs.com`, `invaluable.com`, `liveauctioneers.com`, `ebay.com`, `saatchiart.com`인 상품 페이지 |
 | 하드 제외 | `artnet.com/artists/*/...for-sale` 경로 또는 제목에 `for sale`, `buy now`, `price guide`, `sponsored` 포함 |
+| 하드 제외 | 원문 URL 경로 세그먼트가 `television`, `movies`, `music`, `theater`, `books`, `style`, `food`, `sports` 중 하나인 기사. Google URL 해석 뒤에도 대표 기사에 다시 적용한다. `dance`, `design`, `architecture`는 허용한다. |
+| 하드 제외 | 제목·요약에 `sopranos`, `sitcom`, `tv series`, `television series`, `actor`, `actress`, `film star`, `movie star`, `singer`, `rapper`, `band member`, `talk show`, `netflix series` 중 하나가 있으면 연예 문맥으로 제외한다. 단, 같은 문맥에 `painter`, `sculptor`, `gallery`, `museum`, `exhibition`, `biennale`, `auction`, `curator`, `artwork`, `retrospective` 중 하나가 함께 있으면 시각미술 기사로 인정한다. |
 | −12점 | 제목이 `^\d+ (books|shows|exhibitions|things|artworks|artists|museums|reasons)`이거나 `to read`, `gift guide`, `what to see`, `best of the`, `roundup`, `we're looking forward to`, `you should` 포함 |
 
 감점 후 점수 하한은 0이다.
@@ -302,6 +304,7 @@ UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`�
 ```
 
 **히어로 그리드 규격**
+- 저장된 `top5`의 `rank`·`score`는 변경하지 않는다. 이미지가 있는 항목이 하나라도 있으면 그중 점수가 가장 높은 항목(기존 점수순 배열에서 가장 앞선 항목)을 1번 대표 슬롯으로 옮기고, 나머지 4개는 기존 점수 순서를 유지한다. 전원 `image: null`이면 저장 순서 그대로 렌더한다.
 - 데스크톱(`sm:` 이상): `grid-cols-4 grid-rows-2 gap-3`, 1번 항목 `col-span-2 row-span-2`, 나머지 각 1칸
 - 모바일: `grid-cols-2 gap-2.5`, 1번 항목 `col-span-2` (와이드 16:9), 나머지 4개 정사각
 - 각 타일: `<a href={url} target="_blank" rel="noreferrer">` + `aria-label={titleKo}`
