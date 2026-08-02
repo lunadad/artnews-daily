@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 import { describe, expect, it, vi } from "vitest";
 import { resolveGoogleNewsUrl } from "@/lib/google-news";
-import { extractImageUrl, parseRss } from "@/lib/sources";
+import { extractDescription, extractImageUrl, parseRss } from "@/lib/sources";
 
 describe("fixed RSS parsing", () => {
   it("removes only the matching Google publisher suffix and extracts source domain", async () => {
@@ -43,9 +43,22 @@ describe("fixed RSS parsing", () => {
     expect(fetchMock).toHaveBeenCalledTimes(2);
   });
 
+  it("decodes the doubly escaped URL used by live batchexecute responses", async () => {
+    const fetchMock = vi.fn()
+      .mockResolvedValueOnce(new Response('<main data-n-a-id="article-1" data-n-a-sg="signature-1" data-n-a-ts="1785542400"></main>'))
+      .mockResolvedValueOnce(new Response(String.raw`[["wrb.fr","Fbv4je","https://example.com/story?id\\u003d123\\u0026lang\\u003dko"]]`));
+    expect(await resolveGoogleNewsUrl("https://news.google.com/rss/articles/opaque", fetchMock, 0)).toEqual({ url: "https://example.com/story?id=123&lang=ko", resolved: true });
+  });
+
   it("extracts article metadata images in og, secure-og, twitter priority order", async () => {
     const html = await readFile(new URL("./fixtures/article.html", import.meta.url), "utf8");
     expect(extractImageUrl(`${html}<meta name="twitter:image" content="https://cdn.example.com/twitter.jpg">`)).toBe("https://cdn.example.com/art.jpg");
     expect(extractImageUrl('<meta property="og:image:secure_url" content="https://cdn.example.com/secure.jpg"><meta name="twitter:image" content="https://cdn.example.com/twitter.jpg">')).toBe("https://cdn.example.com/secure.jpg");
+  });
+
+  it("prefers og:description to the standard description", () => {
+    const html = '<meta name="description" content="standard"><meta property="og:description" content="open graph">';
+    expect(extractDescription(html)).toBe("open graph");
+    expect(extractDescription('<meta name="description" content="standard">')).toBe("standard");
   });
 });

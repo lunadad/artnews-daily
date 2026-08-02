@@ -16,9 +16,11 @@ function attribute(html: string, name: string): string | null {
 
 export function extractResolvedUrl(responseText: string): string | null {
   const normalized = responseText
-    .replace(/\\u003d/gi, "=")
-    .replace(/\\u0026/gi, "&")
-    .replace(/\\\//g, "/");
+    // batchexecute nests JSON strings, so live responses can contain either one
+    // or two escape backslashes depending on the response envelope.
+    .replace(/\\+u003d/gi, "=")
+    .replace(/\\+u0026/gi, "&")
+    .replace(/\\+\//g, "/");
   const matches = normalized.match(/https:\/\/[^\s"\\]+/g) ?? [];
   return matches.find((url) => {
     try { return new URL(url).hostname !== "news.google.com"; }

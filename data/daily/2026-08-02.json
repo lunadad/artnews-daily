@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T08:33:00.884+09:00",
+  "generatedAt": "2026-08-02T09:57:04.620+09:00",
   "briefing": {
     "headline": "오늘은 기관 신호가 가장 두드러집니다.",
     "distribution": {
@@ -16,12 +16,84 @@
         "why": "3개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       },
       {
-        "title": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥",
-        "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
-      },
-      {
         "title": "구겐하임 아부다비, 개장일 발표",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 61,
+        "category": "museum",
+        "title": "미술관으로 여름 휴가…강릉시립미술관 솔올 김종학 전시",
+        "summary": "[강릉=뉴시스] 박현주 미술전문 기자 = 1일 강릉시립미술관 솔올 특별전 '화가 김종학'에서 관람객들이 드로잉 아카이브를 감상하고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260801_0003732549",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-01T03:28:42.000Z",
+        "coverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 2,
+        "score": 61,
+        "category": "museum",
+        "title": "김창열미술관, 전시형 라이브 퍼포먼스 '미술관에서의 춤' 개최",
+        "summary": "(제주=연합뉴스) 변지철 기자 = 제주도립 김창열미술관이 공연과 전시를 결합한 전시형 라이브 퍼포먼스를 선보인다고 31일 밝혔다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260731073300056",
+        "source": "연합뉴스",
+        "publishedAt": "2026-07-31T02:03:24.000Z",
+        "coverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "fair",
+        "title": "베니스 비엔날레에서 확인한 메나(MENA) 작가들의 약진",
+        "summary": "[베니스=뉴시스] 사우디아라비아, 아랍에미리트(UAE), 카타르, 바레인, 오만, 레바논, 팔레스타인…",
+        "url": "https://kartprice.net/view?id=NISX20260801_0003732751&cid=10705",
+        "source": "k-Artprice",
+        "publishedAt": "2026-08-01T23:00:00.000Z",
+        "coverage": 1,
+        "resolved": true
+      },
+      {
+        "rank": 4,
+        "score": 49,
+        "category": "market",
+        "title": "[생생갤러리] AI영상으로 새롭게 단장한 대한제국실",
+        "summary": "사진 속 이야기를 살펴보는 생생갤러리 시간입니다.오늘은 어떤 사진들이 전시돼 있는지 함께 보시죠.<AI영상으로 새롭게 단장한 대한제국실&g...",
+        "url": "https://www.yna.co.kr/amp/view/MYH20260801007200038",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-01T04:19:46.000Z",
+        "coverage": 1,
+        "resolved": true
+      },
+      {
+        "rank": 5,
+        "score": 47,
+        "category": "artist",
+        "title": "시대를 앞서간 단색화 대가…김홍석 재조명",
+        "summary": "[앵커] 우리나라를 대표하는 회화 세계인 단색화 분야에서 대표 화가인 박서보와 어깨를 나란히 했던 부산...",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8625837",
+        "source": "KBS 뉴스",
+        "publishedAt": "2026-08-01T01:20:00.000Z",
+        "coverage": 1,
+        "resolved": true
       }
     ]
   },
@@ -46,27 +118,8 @@
       "imageHeight": null
     },
     {
-      "id": "b26e36b7d9f6",
-      "rank": 2,
-      "score": 65,
-      "category": "museum",
-      "titleOriginal": "This New A.I. Chatbot Hunts Nazi-Looted Art",
-      "titleKo": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥",
-      "summaryKo": "이 새로운 A.I. 챗봇, 나치 약탈 예술품 사냥 Artnet News",
-      "url": "https://news.artnet.com/art-world/ai-provenance-assistant-looted-art-tool-2792609?amp",
-      "source": "Artnet News",
-      "sourceDomain": "artnet.com",
-      "discoveredVia": "google",
-      "resolved": true,
-      "publishedAt": "2026-08-01T12:52:33.000Z",
-      "coverage": 1,
-      "image": "https://p-news-upload.storage.googleapis.com/2025/10/monuments-men-neuschwanstein-nazi-loot-scaled.jpg",
-      "imageWidth": null,
-      "imageHeight": null
-    },
-    {
       "id": "ad2e1590942d",
-      "rank": 3,
+      "rank": 2,
       "score": 60,
       "category": "museum",
       "titleOriginal": "Guggenheim Abu Dhabi announces opening date",
@@ -80,6 +133,25 @@
       "publishedAt": "2026-07-28T12:15:58.000Z",
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "744802db0ae8",
+      "rank": 3,
+      "score": 60,
+      "category": "museum",
+      "titleOriginal": "V&A Workers Vote to Strike, Citing Amazon-Style Conditions",
+      "titleKo": "V&A 노동자, 아마존 스타일의 조건을 언급하며 파업 투표",
+      "summaryKo": "7월 29일 프로스펙트(Prospect) 노조 회원인 런던 빅토리아 앤 앨버트 박물관(Victoria & Albert Museum) 직원들이 급여, 근무 조건, 물과 화장실 이용 등의 문제를 놓고 파업을 결정했다고 가디언(The Guardian)이 보도했습니다. V&A는 런던 지역에 4개의 박물관을 운영하고 있습니다. V&A 사우스 켄싱턴",
+      "url": "https://www.artforum.com/news/v-and-a-workers-vote-to-strike-over-amazon-style-conditions-1234755982",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-30T16:34:31.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-1.19.37-PM.png?w=650",
       "imageWidth": null,
       "imageHeight": null
     },

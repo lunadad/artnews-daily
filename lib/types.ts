@@ -31,6 +31,27 @@ export const BriefingSchema = z.object({
 });
 export type Briefing = z.infer<typeof BriefingSchema>;
 
+export const DomesticItemSchema = z.object({
+  rank: z.number().int().positive(),
+  score: z.number().nonnegative(),
+  category: CategorySchema,
+  title: z.string().min(1),
+  summary: z.string(),
+  url: z.url(),
+  source: z.string().min(1),
+  publishedAt: z.iso.datetime(),
+  coverage: z.number().int().positive(),
+  resolved: z.boolean(),
+});
+export type DomesticItem = z.infer<typeof DomesticItemSchema>;
+
+export const DomesticDataSchema = z.object({
+  headline: z.string().min(1),
+  distribution: z.record(CategorySchema, z.number().int().nonnegative()),
+  items: z.array(DomesticItemSchema).max(5),
+});
+export type DomesticData = z.infer<typeof DomesticDataSchema>;
+
 export const KarinaItemSchema = z.object({
   rank: z.number().int().positive(),
   titleKo: z.string().min(1),
@@ -54,6 +75,7 @@ export const DailyDataSchema = z.object({
   date: z.iso.date(),
   generatedAt: z.iso.datetime({ offset: true }),
   briefing: BriefingSchema,
+  domestic: DomesticDataSchema.optional(),
   top5: z.array(NewsItemSchema).max(5),
   karina: KarinaDataSchema.nullable(),
   partial: z.boolean().optional(),

@@ -1,0 +1,151 @@
+import { freshnessPoints, type ArticleCandidate, type ScoredCluster } from "./score";
+import { registrableDomain } from "./sources";
+import type { Category, DomesticItem } from "./types";
+
+export const DOMESTIC_GOOGLE_QUERIES = [
+  "국립현대미술관",
+  "리움미술관",
+  "서울시립미술관",
+  "미술품 경매 서울옥션",
+  "한국 미술시장",
+  "비엔날레 한국관",
+  "갤러리 전시 개막 서울",
+  "단색화 작가",
+  "미술관 전시",
+  "작가 개인전 미술",
+] as const;
+
+const BLOCKED_DOMAINS = [
+  "daum.net",
+  "nate.com",
+  "brunch.co.kr",
+  "naver.com",
+  "tistory.com",
+  "les24heures.fr",
+] as const;
+
+const BLOCKED_SOURCE_NAMES = ["v.daum.net", "네이트", "브런치", "blog.naver.com", "post.naver.com", "네이버 블로그", "네이버 포스트"] as const;
+
+const BLOCKED_TITLE_WORDS = [
+  "이더리움", "비트코인", "코인", "etf", "상장", "투자분석",
+  "청약", "분양", "아파트", "입주",
+  "신세계", "롯데백화점", "현대백화점", "쇼핑", "할인",
+  "로컬명소", "동네여행", "둘레길", "서울에디션", "명소", "관광",
+] as const;
+
+const NOTICE_WORDS = ["초대전", "공모", "수상자 발표", "관람 안내", "주간분양"] as const;
+
+const DOMESTIC_DOMAIN_WEIGHTS: Record<string, number> = {
+  "yna.co.kr": 25,
+  "newsis.com": 25,
+  "news1.kr": 25,
+  "hani.co.kr": 23,
+  "khan.co.kr": 23,
+  "chosun.com": 23,
+  "joongang.co.kr": 23,
+  "donga.com": 23,
+  "kbs.co.kr": 23,
+  "imnews.imbc.com": 23,
+  "news.sbs.co.kr": 23,
+  "mk.co.kr": 21,
+  "hankyung.com": 21,
+  "mt.co.kr": 21,
+  "sedaily.com": 21,
+  "munhwa.com": 21,
+  "seoul.co.kr": 21,
+  "kartprice.net": 18,
+  "artworldnews.co.kr": 18,
+  "artkoreatv.com": 18,
+};
+
+const SPECIALIST_SOURCE_NAMES = ["월간미술", "아트인컬처", "퍼블릭아트"] as const;
+
+const CATEGORY_RULES: Record<Exclude<Category, "general">, readonly string[]> = {
+  market: ["경매", "낙찰", "최고가", "미술시장", "거래액", "서울옥션", "케이옥션", "화랑", "갤러리"],
+  museum: ["미술관", "박물관", "관장", "소장품", "환수", "반환", "도난", "전시"],
+  fair: ["비엔날레", "한국관", "베네치아", "아트페어", "키아프", "프리즈"],
+  artist: ["작가", "개인전", "회고전", "단색화", "화가", "조각가"],
+};
+
+export function domesticGoogleFeedUrl(query: string): string {
+  return `https://news.google.com/rss/search?q=${encodeURIComponent(`${query} when:3d`)}&hl=ko&gl=KR&ceid=KR:ko`;
+}
+
+function blockedDomain(input: string): boolean {
+  const hostname = input.toLowerCase().replace(/^https?:\/\//, "").split("/")[0].replace(/^www\./, "");
+  return BLOCKED_DOMAINS.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
+}
+
+export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "source" | "sourceDomain">): boolean {
+  const title = item.title.toLowerCase();
+  if (item.source.trim() === "주달") return true;
+  if (BLOCKED_SOURCE_NAMES.some((name) => item.source.toLowerCase().includes(name.toLowerCase()))) return true;
+  if (blockedDomain(item.sourceDomain)) return true;
+  try { if (blockedDomain(new URL(item.url).hostname)) return true; }
+  catch { return true; }
+  if (BLOCKED_TITLE_WORDS.some((word) => title.includes(word))) return true;
+  const merchandise = ["셔츠", "유니폼", "굿즈"].some((word) => title.includes(word));
+  return merchandise && title.includes("경매");
+}
+
+export function filterDomesticCandidates(items: ArticleCandidate[]): ArticleCandidate[] {
+  return items.filter((item) => !isDomesticHardExcluded(item));
+}
+
+export function domesticSourceWeight(domain: string, source = ""): number {
+  const hostname = domain.toLowerCase().replace(/^www\./, "");
+  const matchedDomain = Object.keys(DOMESTIC_DOMAIN_WEIGHTS).find((known) => hostname === known || hostname.endsWith(`.${known}`));
+  const exact = matchedDomain ? DOMESTIC_DOMAIN_WEIGHTS[matchedDomain] : undefined;
+  if (exact) return exact;
+  return SPECIALIST_SOURCE_NAMES.some((name) => source.includes(name)) ? 18 : 8;
+}
+
+export function domesticNoticePenalty(title: string): number {
+  const lower = title.toLowerCase();
+  return NOTICE_WORDS.some((word) => lower.includes(word)) ? 10 : 0;
+}
+
+export function domesticKeywordPoints(text: string): number {
+  const groups = [
+    { words: ["낙찰", "최고가", "경매"], points: 8 },
+    { words: ["관장", "선임", "임명", "사퇴"], points: 7 },
+    { words: ["비엔날레", "베네치아", "한국관"], points: 7 },
+    { words: ["환수", "반환", "도난"], points: 7 },
+    { words: ["회고전", "대규모 전시"], points: 5 },
+    { words: ["미술시장", "거래액"], points: 6 },
+    { words: ["표절", "위작", "소송"], points: 6 },
+  ];
+  return Math.min(20, groups.reduce((sum, group) => sum + (group.words.some((word) => text.includes(word)) ? group.points : 0), 0));
+}
+
+export function classifyDomesticCategory(text: string): Category {
+  let best: { category: Category; count: number } = { category: "general", count: 0 };
+  for (const [category, words] of Object.entries(CATEGORY_RULES) as [Category, readonly string[]][]) {
+    const count = words.filter((word) => text.includes(word)).length;
+    if (count > best.count) best = { category, count };
+  }
+  return best.category;
+}
+
+export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Date()): ScoredCluster {
+  if (!articles.length) throw new Error("Cannot score an empty domestic cluster");
+  const representative = [...articles].sort((a, b) => {
+    const weight = domesticSourceWeight(b.sourceDomain, b.source) - domesticSourceWeight(a.sourceDomain, a.source);
+    return weight || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+  })[0];
+  const coverage = new Set(articles.map((item) => registrableDomain(item.sourceDomain || item.url))).size;
+  const score = Math.min(coverage, 5) * 12
+    + Math.max(...articles.map((item) => domesticSourceWeight(item.sourceDomain, item.source)))
+    + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
+    + domesticKeywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
+    - domesticNoticePenalty(representative.title);
+  return { representative, articles, coverage, score: Math.max(0, score) };
+}
+
+export function createDomesticHeadline(items: DomesticItem[]): string {
+  const labels: Record<Category, string> = { market: "시장·경매", museum: "미술관·기관", artist: "작가", fair: "비엔날레·아트페어", general: "미술계" };
+  const counts = new Map<Category, number>();
+  for (const item of items) counts.set(item.category, (counts.get(item.category) ?? 0) + 1);
+  const category = [...counts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? "general";
+  return `오늘 국내 미술계는 ${labels[category]} 신호가 두드러집니다.`;
+}

@@ -70,6 +70,7 @@ export function registrableDomain(input: string): string {
   try {
     const hostname = (input.includes("://") ? new URL(input).hostname : input).toLowerCase().replace(/^www\./, "");
     const labels = hostname.split(".").filter(Boolean);
+    if (labels.length > 2 && labels.at(-1)?.length === 2 && ["ac", "co", "go", "ne", "or"].includes(labels.at(-2) ?? "")) return labels.slice(-3).join(".");
     return labels.length > 1 ? labels.slice(-2).join(".") : hostname;
   } catch { return input.toLowerCase().replace(/^www\./, ""); }
 }
@@ -182,4 +183,9 @@ export function extractImageUrl(html: string): string | null {
   return metaContent(html, "property", "og:image")
     ?? metaContent(html, "property", "og:image:secure_url")
     ?? metaContent(html, "name", "twitter:image");
+}
+
+export function extractDescription(html: string): string | null {
+  return metaContent(html, "property", "og:description")
+    ?? metaContent(html, "name", "description");
 }

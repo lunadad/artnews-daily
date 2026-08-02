@@ -3,11 +3,12 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
+import { classifyDomesticCategory, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, scoreDomesticCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
-import { classifyCategory, DIRECT_FEEDS, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain } from "../lib/sources";
+import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain } from "../lib/sources";
 import { translateToKorean } from "../lib/translate";
-import { DailyDataSchema, type NewsItem } from "../lib/types";
+import { DailyDataSchema, type Category, type DomesticData, type DomesticItem, type NewsItem } from "../lib/types";
 
 const USER_AGENT = "Mozilla/5.0 (compatible; ArtnewsDaily/1.0; +https://github.com/lunadad/artnews-daily)";
 const pause = (milliseconds: number) => new Promise<void>((resolve) => setTimeout(resolve, milliseconds));
@@ -58,6 +59,29 @@ async function collectFeed(name: string, url: string, discovery: "direct" | "goo
   }
 }
 
+async function collectDomesticFeed(query: string): Promise<ArticleCandidate[]> {
+  const name = `Google KR: ${query}`;
+  try {
+    const items = parseRss(await fetchText(domesticGoogleFeedUrl(query)), name).slice(0, 40);
+    const candidates = items.map((item): ArticleCandidate => ({
+      title: item.title,
+      url: item.link,
+      source: item.source || name,
+      sourceDomain: item.sourceDomain || registrableDomain(item.link),
+      discovery: "google",
+      resolved: false,
+      publishedAt: item.publishedAt,
+      category: classifyDomesticCategory(item.title),
+      image: null,
+    }));
+    console.log(`[domestic stage 1] ${query}: ${candidates.length} candidates`);
+    return candidates;
+  } catch (error) {
+    console.warn(`[domestic stage 1] ${query} failed:`, error instanceof Error ? error.message : error);
+    return [];
+  }
+}
+
 async function enrichRepresentative(item: ArticleCandidate): Promise<ArticleCandidate> {
   let enriched = item;
   if (item.discovery === "google") {
@@ -80,6 +104,61 @@ async function enrichTopClusters(clusters: ScoredCluster[]): Promise<void> {
     cluster.representative = enriched;
     if (representative.discovery === "google") await pause(500);
   }
+}
+
+async function enrichDomesticClusters(clusters: ScoredCluster[]): Promise<void> {
+  for (const cluster of clusters.slice(0, 8)) {
+    const representative = cluster.representative;
+    const resolution = await resolveGoogleNewsUrl(representative.url);
+    let summary: string | undefined;
+    if (resolution.resolved) {
+      try {
+        const description = extractDescription(await fetchText(resolution.url, 8_000));
+        const cleaned = description ? cleanText(decodeEntities(description)).slice(0, 300) : "";
+        summary = cleaned || undefined;
+      } catch {
+        // A missing or blocked article page must not prevent the domestic briefing.
+      }
+    }
+    const enriched = { ...representative, url: resolution.url, resolved: resolution.resolved, summary, image: null };
+    const index = cluster.articles.indexOf(representative);
+    if (index >= 0) cluster.articles[index] = enriched;
+    cluster.representative = enriched;
+    await pause(500);
+  }
+}
+
+function domesticDistribution(items: DomesticItem[]): Record<Category, number> {
+  const distribution: Record<Category, number> = { market: 0, museum: 0, fair: 0, artist: 0, general: 0 };
+  for (const item of items) distribution[item.category] += 1;
+  return distribution;
+}
+
+async function collectDomestic(now: Date): Promise<DomesticData> {
+  const candidates = (await Promise.all(DOMESTIC_GOOGLE_QUERIES.map((query) => collectDomesticFeed(query)))).flat();
+  const filtered = filterDomesticCandidates(candidates);
+  const preliminary = clusterArticles(filtered)
+    .map((articles) => scoreDomesticCluster(articles, now))
+    .sort((a, b) => b.score - a.score);
+  console.log(`[domestic stages 2-3] ${candidates.length} collected, ${filtered.length} after filters, ${preliminary.length} clusters`);
+  await enrichDomesticClusters(preliminary);
+  const top = selectTopFive(preliminary.map((cluster) => scoreDomesticCluster(cluster.articles, now)));
+  const items: DomesticItem[] = top.map((cluster, index) => {
+    const item = cluster.representative;
+    return {
+      rank: index + 1,
+      score: cluster.score,
+      category: item.category,
+      title: item.title,
+      summary: item.summary ?? "",
+      url: normalizeUrl(item.url),
+      source: item.source,
+      publishedAt: new Date(item.publishedAt).toISOString(),
+      coverage: cluster.coverage,
+      resolved: item.resolved,
+    };
+  });
+  return { headline: createDomesticHeadline(items), distribution: domesticDistribution(items), items };
 }
 
 export async function collect(): Promise<void> {
@@ -134,16 +213,20 @@ export async function collect(): Promise<void> {
     };
   }));
 
+  // Domestic coverage is an independent Korean Google News pipeline. It has no
+  // thumbnails or translation and does not influence the international hero top5.
+  const domestic = await collectDomestic(now);
+
   // Stage 7: briefing, atomic dataset replacement, seven-day pruning, and index rebuild.
   const date = kstDate(now);
-  const payload = DailyDataSchema.parse({ date, generatedAt: kstIso(now), briefing: createBriefing(top5), top5, karina: null, ...(top5.length < 5 ? { partial: true } : {}) });
+  const payload = DailyDataSchema.parse({ date, generatedAt: kstIso(now), briefing: createBriefing(top5), domestic, top5, karina: null, ...(top5.length < 5 ? { partial: true } : {}) });
   await fs.mkdir(path.join(DATA_ROOT, "daily"), { recursive: true });
   const target = path.join(DATA_ROOT, "daily", `${date}.json`);
   const temporary = `${target}.tmp`;
   await fs.writeFile(temporary, `${JSON.stringify(payload, null, 2)}\n`);
   await fs.rename(temporary, target);
   await pruneDataFiles(DATA_ROOT, date, 7);
-  console.log(`[stage 7] wrote ${target} with ${top5.length} stories`);
+  console.log(`[stage 7] wrote ${target} with ${top5.length} international and ${domestic.items.length} domestic stories`);
 }
 
 const isEntry = process.argv[1] && path.resolve(process.argv[1]) === new URL(import.meta.url).pathname;
