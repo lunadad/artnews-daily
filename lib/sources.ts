@@ -79,7 +79,10 @@ export const LISTICLE_TITLE_PATTERN = /^\d+\s+(books|shows|exhibitions|things|ar
 export const LISTICLE_TITLE_PHRASES = ["to read", "gift guide", "what to see", "best of the", "roundup", "we're looking forward to", "you should"] as const;
 
 export const KEYWORD_SIGNALS = [
-  { words: ["record", "million", "sold for", "sotheby", "christie", "phillips"], points: 8 },
+  { words: ["sold for", "record price", "auction record", "hammer price", "fetched"], points: 12 },
+  { words: ["sotheby", "christie", "phillips", "bonhams", "auction house"], points: 10 },
+  { words: ["art market", "sales report", "market report", "turnover", "bidding war", "estimate"], points: 9 },
+  { words: ["record", "million", "billion", "collector", "consign"], points: 7 },
   { words: ["museum director", "appointed", "resigns"], points: 6 },
   { words: ["restitution", "repatriat", "looted"], points: 7 },
   { words: ["biennale", "biennial", "documenta", "venice"], points: 6 },

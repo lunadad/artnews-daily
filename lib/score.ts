@@ -32,6 +32,16 @@ export interface ScoredCluster {
   score: number;
 }
 
+export const KEYWORD_POINTS_CAP = 28;
+export const MARKET_CATEGORY_BONUS = 15;
+export const CATEGORY_LIMITS: Readonly<Record<Category, number>> = {
+  market: 3,
+  museum: 2,
+  fair: 2,
+  artist: 2,
+  general: 2,
+};
+
 const STOP_WORDS = new Set(["a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "in", "is", "it", "of", "on", "or", "the", "to", "with"]);
 
 function containsPhrase(text: string, phrase: string): boolean {
@@ -114,7 +124,11 @@ export function freshnessPoints(publishedAt: string, now = new Date()): number {
 
 export function keywordPoints(text: string): number {
   const lower = text.toLowerCase();
-  return Math.min(20, KEYWORD_SIGNALS.reduce((sum, signal) => sum + (signal.words.some((word) => lower.includes(word)) ? signal.points : 0), 0));
+  return Math.min(KEYWORD_POINTS_CAP, KEYWORD_SIGNALS.reduce((sum, signal) => sum + (signal.words.some((word) => lower.includes(word)) ? signal.points : 0), 0));
+}
+
+export function categoryPoints(category: Category): number {
+  return category === "market" ? MARKET_CATEGORY_BONUS : 0;
 }
 
 export function scoreCluster(articles: ArticleCandidate[], now = new Date(), options: { includeImage?: boolean } = {}): ScoredCluster {
@@ -131,6 +145,7 @@ export function scoreCluster(articles: ArticleCandidate[], now = new Date(), opt
     + Math.max(...articles.map((item) => sourceWeight(item.sourceDomain)))
     + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
     + keywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
+    + categoryPoints(representative.category)
     + (includeImage && representative.image ? 5 : 0)
     - listiclePenalty(representative.title);
   return { representative, articles, coverage, score: Math.max(0, rawScore) };
@@ -146,7 +161,7 @@ export function selectTopFive(clusters: ScoredCluster[]): ScoredCluster[] {
   for (const cluster of sorted) {
     const category = cluster.representative.category;
     const domain = registrableDomain(cluster.representative.sourceDomain);
-    if (domains.has(domain) || (counts.get(category) ?? 0) >= 2) continue;
+    if (domains.has(domain) || (counts.get(category) ?? 0) >= CATEGORY_LIMITS[category]) continue;
     selected.push(cluster);
     domains.add(domain);
     counts.set(category, (counts.get(category) ?? 0) + 1);
@@ -155,7 +170,7 @@ export function selectTopFive(clusters: ScoredCluster[]): ScoredCluster[] {
   for (const cluster of sorted) {
     if (selected.includes(cluster)) continue;
     const category = cluster.representative.category;
-    if ((counts.get(category) ?? 0) >= 2) continue;
+    if ((counts.get(category) ?? 0) >= CATEGORY_LIMITS[category]) continue;
     selected.push(cluster);
     domains.add(registrableDomain(cluster.representative.sourceDomain));
     counts.set(category, (counts.get(category) ?? 0) + 1);

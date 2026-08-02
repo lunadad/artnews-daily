@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, titleTokens, type ArticleCandidate } from "@/lib/score";
+import { CATEGORY_LIMITS, clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, keywordPoints, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, titleTokens, type ArticleCandidate } from "@/lib/score";
 
 const candidate = (title: string, sourceDomain = "artnews.com", category: ArticleCandidate["category"] = "general", overrides: Partial<ArticleCandidate> = {}): ArticleCandidate => ({
   title,
@@ -68,12 +68,28 @@ describe("scoring and clustering", () => {
     expect(stage5.score - stage3.score).toBe(5);
   });
 
-  it("limits a category to two, then relaxes to fill five", () => {
-    const clusters = [[100, "market"], [90, "market"], [80, "market"], [70, "museum"], [60, "artist"], [50, "fair"]]
-      .map(([score, category]) => ({ representative: candidate(String(score), "other.test", category as ArticleCandidate["category"]), articles: [], coverage: 1, score: score as number }));
+  it("scores an otherwise identical market cluster exactly 15 points above museum", () => {
+    const now = new Date("2026-08-01T03:00:00Z");
+    const market = scoreCluster([candidate("Quarterly update", "artnews.com", "market")], now, { includeImage: false });
+    const museum = scoreCluster([candidate("Quarterly update", "artnews.com", "museum")], now, { includeImage: false });
+    expect(market.score - museum.score).toBe(15);
+  });
+
+  it("clamps stacked market keyword signals at 28 without changing non-market signals", () => {
+    expect(keywordPoints("sold for by Sotheby's art market collector")).toBe(28);
+    expect(keywordPoints("museum director restitution")).toBe(13);
+  });
+
+  it("allows three market stories while holding other categories to two", () => {
+    expect(CATEGORY_LIMITS).toMatchObject({ market: 3, museum: 2 });
+    const clusters = [[100, "market"], [99, "market"], [98, "market"], [97, "market"], [96, "museum"], [95, "museum"], [94, "museum"], [93, "artist"]]
+      .map(([score, category], index) => ({ representative: candidate(String(score), `source${index}.test`, category as ArticleCandidate["category"]), articles: [], coverage: 1, score: score as number }));
     const selected = selectTopFive(clusters);
     expect(selected).toHaveLength(5);
-    expect(selected.filter((item) => item.representative.category === "market")).toHaveLength(2);
+    expect(selected.filter((item) => item.representative.category === "market")).toHaveLength(3);
+    expect(selected.filter((item) => item.representative.category === "museum")).toHaveLength(2);
+    expect(selected.map((item) => item.score)).not.toContain(97);
+    expect(selected.map((item) => item.score)).not.toContain(94);
   });
 
   it("selects at least three publisher domains when enough eligible clusters exist", () => {

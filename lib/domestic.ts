@@ -1,4 +1,4 @@
-import { freshnessPoints, type ArticleCandidate, type ScoredCluster } from "./score";
+import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, type ArticleCandidate, type ScoredCluster } from "./score";
 import { registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
@@ -107,15 +107,17 @@ export function domesticNoticePenalty(title: string): number {
 
 export function domesticKeywordPoints(text: string): number {
   const groups = [
-    { words: ["낙찰", "최고가", "경매"], points: 8 },
+    { words: ["낙찰가", "최고가 낙찰", "낙찰률", "추정가", "응찰"], points: 12 },
+    { words: ["서울옥션", "케이옥션", "크리스티", "소더비", "경매사", "경매장"], points: 10 },
+    { words: ["미술시장", "거래액", "거래량", "시장 규모", "아트테크", "컬렉터"], points: 9 },
+    { words: ["경매", "낙찰", "출품", "매각", "판매액"], points: 7 },
     { words: ["관장", "선임", "임명", "사퇴"], points: 7 },
     { words: ["비엔날레", "베네치아", "한국관"], points: 7 },
     { words: ["환수", "반환", "도난"], points: 7 },
     { words: ["회고전", "대규모 전시"], points: 5 },
-    { words: ["미술시장", "거래액"], points: 6 },
     { words: ["표절", "위작", "소송"], points: 6 },
   ];
-  return Math.min(20, groups.reduce((sum, group) => sum + (group.words.some((word) => text.includes(word)) ? group.points : 0), 0));
+  return Math.min(KEYWORD_POINTS_CAP, groups.reduce((sum, group) => sum + (group.words.some((word) => text.includes(word)) ? group.points : 0), 0));
 }
 
 export function classifyDomesticCategory(text: string): Category {
@@ -138,6 +140,7 @@ export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Dat
     + Math.max(...articles.map((item) => domesticSourceWeight(item.sourceDomain, item.source)))
     + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
     + domesticKeywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
+    + categoryPoints(representative.category)
     - domesticNoticePenalty(representative.title);
   return { representative, articles, coverage, score: Math.max(0, score) };
 }

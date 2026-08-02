@@ -2,6 +2,7 @@ import { readFile } from "node:fs/promises";
 import { describe, expect, it } from "vitest";
 import {
   domesticNoticePenalty,
+  domesticKeywordPoints,
   domesticSourceWeight,
   filterDomesticCandidates,
   isDomesticHardExcluded,
@@ -62,6 +63,20 @@ describe("domestic art news", () => {
     const regular = scoreDomesticCluster([candidate("지역 작가 전시")], now);
     const notice = scoreDomesticCluster([candidate("지역 작가 초대전")], now);
     expect(regular.score - notice.score).toBe(10);
+  });
+
+  it("raises domestic auction and art-market signals and clamps their sum at 28", () => {
+    expect(domesticKeywordPoints("낙찰가 발표")).toBeGreaterThan(0);
+    expect(domesticKeywordPoints("서울옥션 결과")).toBe(10);
+    expect(domesticKeywordPoints("미술시장 동향")).toBe(9);
+    expect(domesticKeywordPoints("서울옥션 미술시장 낙찰가 경매 결과")).toBe(28);
+  });
+
+  it("adds the market category bonus to domestic clusters", () => {
+    const now = new Date("2026-08-02T03:00:00Z");
+    const market = scoreDomesticCluster([candidate("분기 동향", { category: "market" })], now);
+    const museum = scoreDomesticCluster([candidate("분기 동향", { category: "museum" })], now);
+    expect(market.score - museum.score).toBe(15);
   });
 
   it("parses historical daily JSON without the optional domestic field", async () => {
