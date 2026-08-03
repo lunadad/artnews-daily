@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T08:41:57.309+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "세계에서 가장 큰 그림이 2021년 6,200만 달러에 팔려 아동 자선단체에 도움을 주었지만 아직 자금을 받지 못했습니다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "200대 수집가 클라라 우 차이(Clara Wu Tsai)와 조셉 차이(Joseph Tsai)가 거의 30년 만에 이혼합니다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "루보프 갤러리 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 38세의 나이로 사망했다.",
+        "why": "3개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 작가 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 1,
+      "fair": 0,
+      "artist": 2,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 80,
+        "category": "artist",
+        "title": "충남교육청 갤러리 이음, 김정미 작가 개인전 ‘존재에 물음’ 개최",
+        "summary": "[충남=세종충청뉴스] 김형철 기자 = 충남교육청(교육감 이병도)은 8월 3일부터 10월 1일까지 청사 내 갤러리 이음에서 예산여자고등학교 미술 교사 김정미 작가의",
+        "url": "https://www.sj-ccnews.com/news/articleView.html?idxno=61105",
+        "source": "sj-ccnews.com",
+        "publishedAt": "2026-08-03T09:13:28.000Z",
+        "coverage": 6,
+        "resolved": true
+      },
+      {
+        "rank": 2,
+        "score": 71,
+        "category": "general",
+        "title": "이재용, 올 상반기 개인 배당액 728억 1위…정몽구·정몽준 뒤이어",
+        "summary": "[서울=뉴시스] 홍세희 기자 = 이재용 삼성전자 회장이 올해 상반기 728억원의 배당금을 받으며 개인 배당액 1위를 차지했다.지난해에는 이 회장 모친인 홍라희 리움미술관 명예관장이 1위였는데 상속세 재원 마련을 위해 삼성전자 주식 일부를 매각하면서 올해는 544억원으로 4위로 내려갔다. 4일 리더스인덱스가 국내 상장사 2873곳 중 전날까지 분기 또는 반기..",
+        "url": "https://www.newsis.com/view/NISX20260803_0003734547",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-03T21:00:00.000Z",
+        "coverage": 1,
+        "resolved": true
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "general",
+        "title": "쿠오카, 유영국 화백의 작품 세계를 향으로 재해석한 한정판 프레그런스 컬렉션 선보여",
+        "summary": "쿠오카가 유영국 화백 탄생 110주년과 서울시립미술관 전시를 기념해 한정판 프레그런스 컬렉션을 출시했다. ‘마운틴 위드인’ 향수와 태그, 시그니처 향 3종 핸드크림 에디션으로 작품 세계를 향으로 재해석했다.",
+        "url": "https://www.seoul.co.kr/news/economy/2026/08/03/20260803500017",
+        "source": "서울신문",
+        "publishedAt": "2026-08-03T00:10:07.000Z",
+        "coverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 4,
+        "score": 54,
+        "category": "artist",
+        "title": "한국화가 조영순 개인전 '사라진 동물의 수호 서사'",
+        "summary": "[아트코리아방송 = 김한정 기자] 한국화가 조영순 작가의 개인전 '사라진 동물의 수호 서사'가 2026년 7월 29일부터 8월 5일까지 서울 종로구 한벽원미술관에서 열리고 있다. 이번 전시는 자연을 단순히 아름다운 풍경으로 바라보는 데서 나아가, 인간과 함께 공존하며 책임지고 지켜야",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103723",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-03T02:35:07.000Z",
+        "coverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 5,
+        "score": 49,
+        "category": "museum",
+        "title": "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관이 도쿄문화재연구소와 일본에 남아 있는 한국 근현대미술 자료를 발굴해 조사하는 공동 연구에 나선다...",
+        "url": "https://www.yna.co.kr/view/AKR20260803031800005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-03T00:19:53.000Z",
+        "coverage": 1,
+        "resolved": true
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "d9539d858806",
+      "rank": 1,
+      "score": 96,
+      "category": "market",
+      "titleOriginal": "The World’s Largest Painting Sold for $62 M. in 2021 to Benefit Children’s Charities, But They Have Yet to Receive Any Funds",
+      "titleKo": "세계에서 가장 큰 그림이 2021년 6,200만 달러에 팔려 아동 자선단체에 도움을 주었지만 아직 자금을 받지 못했습니다",
+      "summaryKo": "Sacha Jafri는 자신이 만든 17,000평방피트 규모의 스플래터 그림을 2021년 두바이에서 판매하면 어린이 자선 단체를 지원할 것이라고 믿었지만 6,200만 달러는 결코 실현되지 않았다고 말했습니다.",
+      "url": "https://www.artnews.com/art-news/news/sacha-jafri-auctioned-world-largest-painting-for-charity-but-the-62-m-owed-is-missing-1234794219",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-03T19:22:15.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2021/03/AP20275523726813.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cf91cb9221a2",
+      "rank": 2,
+      "score": 84,
+      "category": "market",
+      "titleOriginal": "Top 200 Collectors Clara Wu Tsai and Joseph Tsai to Divorce After Nearly 30 Years",
+      "titleKo": "200대 수집가 클라라 우 차이(Clara Wu Tsai)와 조셉 차이(Joseph Tsai)가 거의 30년 만에 이혼합니다",
+      "summaryKo": "이 부부는 현대 미술에 중점을 두고 ARTnews의 2025년 상위 200대 수집가 목록에 공동으로 선정되었습니다.",
+      "url": "https://www.artnews.com/art-news/news/clara-wu-tsai-joseph-tsai-divorce-1234794234",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-03T22:04:10.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2180799439.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4c37939aa644",
+      "rank": 3,
+      "score": 81,
+      "category": "general",
+      "titleOriginal": "Francisco Correa Cordero, Founder of Lubov Gallery, Dies at 38",
+      "titleKo": "루보프 갤러리 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 38세의 나이로 사망했다.",
+      "summaryKo": "루보프 갤러리(Lubov Gallery) 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 38세의 나이로 사망했습니다.",
+      "url": "https://news.artnet.com/art-world/francisco-correa-cordero-lubov-gallery-founder-dead-2792229",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-03T20:22:46.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ed670987dd37",
+      "rank": 4,
+      "score": 79,
+      "category": "market",
+      "titleOriginal": "Amid Aspen Fairs, Collectors Peruse Big-Ticket Art, Private Jets, $62.5M House",
+      "titleKo": "아스펜 박람회(Aspen Fairs)에서 수집가들은 대형 티켓 예술품, 개인 제트기, 6250만 달러 주택을 정독합니다.",
+      "summaryKo": "Aspen Fairs 속에서 수집가들은 대형 티켓 예술품, 개인 제트기, 6250만 달러를 정독합니다. Artnet News",
+      "url": "https://news.artnet.com/market/aspen-art-fair-2026-2793233",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-03T20:13:00.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8330ce120268",
+      "rank": 5,
+      "score": 68,
+      "category": "museum",
+      "titleOriginal": "Jeju Museum Of Art Reveals Final Artist Lineup For 2026 Jeju Biennale",
+      "titleKo": "제주시립미술관, 2026 제주비엔날레 최종 작가 라인업 공개",
+      "summaryKo": "제주도립미술관, 2026 제주비엔날레 아트포럼 최종 작가 라인업 공개",
+      "url": "https://www.artforum.com/news/jeju-museum-of-art-artist-lineup-for-2026-jeju-biennale-1234756222",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-03T19:49:46.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/05_01.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
