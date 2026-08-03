@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T09:00:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "베티 사르, 시몬 포티, 발터 벤야민",
+      "titleOriginal": "Betye Saar, Simone Forti, Walter Benjamin",
+      "summaryKo": "유독한 사람들에 대한 구제책, 스미소니언 박물관에 대한 트럼프의 전쟁, 그리고 예술계의 두 거인에 대한 작별 인사입니다.",
+      "url": "https://hyperallergic.com/betye-saar-simone-forti-walter-benjamin/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": null
+    },
+    {
+      "rank": 2,
+      "titleKo": "8월에 기대되는 책 6권",
+      "titleOriginal": "6 Books We’re Looking Forward to in August",
+      "summaryKo": "이번 달의 작품은 존 싱어 사전트(John Singer Sargent)의 비밀스러운 삶을 탐구하고, 예술에 대한 실존적 질문을 던지며, 예술 세계라는 불투명한 생명체를 안내합니다.",
+      "url": "https://www.artnews.com/list/art-in-america/columns/6-books-sargent-depraved-how-to-enter-art-world-1234794048/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/aia_book-collage-1.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "검열을 언급한 아티스트 Emma Shapiro, Instagram 계정 복원을 위한 법적 소송 시작",
+      "titleOriginal": "Citing Censorship, Artist Emma Shapiro Launches Legal Challenge to Restore Instagram Account",
+      "summaryKo": "인스타그램은 2025년 12월 8일 온라인에서 성차별에 도전하는 프로젝트인 @nipeople을 영구적으로 종료했습니다.",
+      "url": "https://www.artnews.com/art-news/news/emma-shapiro-legal-challenge-restore-instagram-account-1234794131/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/1_fe154c.jpg?w=1023"
+    },
+    {
+      "rank": 4,
+      "titleKo": "시위 사진의 가시적인 정치",
+      "titleOriginal": "The Thorny Politics of Protest Photography",
+      "summaryKo": "새로운 다큐멘터리는 활동가이자 사진가인 미산 해리먼(Misan Harriman)의 작업을 따르지만 그가 포착한 움직임을 지나치게 미학적으로 만들 위험이 있습니다.",
+      "url": "https://hyperallergic.com/the-thorny-politics-of-protest-photography/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/07/STPSTILL6_CourtesyofWatermelonPictures.jpg"
+    }
+  ]
+}
