@@ -1,4 +1,4 @@
-import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, type ArticleCandidate, type ScoredCluster } from "./score";
+import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, normalizeUrl, type ArticleCandidate, type ScoredCluster } from "./score";
 import { INSTITUTION_NOTICE_PHRASES, registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
@@ -75,6 +75,48 @@ const DOMESTIC_DOMAIN_WEIGHTS: Record<string, number> = {
 };
 
 const SPECIALIST_SOURCE_NAMES = ["월간미술", "아트인컬처", "퍼블릭아트"] as const;
+
+// Words that recur across art coverage but do not identify a specific event.
+const DOMESTIC_GENERIC_WORDS = new Set([
+  "미술", "미술관", "박물관", "갤러리", "전시", "전시회", "개최", "작가", "개인전", "기획전", "작품", "예술", "아트",
+  "경매", "낙찰", "총액", "낙찰총액", "낙찰액", "연간", "실적", "올해", "작년", "지난해", "이번", "오늘", "내일",
+  "관련", "위해", "통해", "대한", "공동", "연구", "소개", "진행", "시작", "발표", "개막", "열려", "나서", "만에",
+  "까지", "부터", "오프라인", "온라인", "호조", "돌파", "경신", "한국", "서울", "국내", "신규", "최초", "최대",
+  "최고", "예정", "계획", "함께",
+]);
+
+export const DOMESTIC_EVENT_SIMILARITY_THRESHOLD = 0.15;
+
+export function domesticEventSignature(title: string): Set<string> {
+  const normalized = title
+    .toLowerCase()
+    .replace(/(\d+)억원/g, "$1억")
+    .replace(/(\d+)만원/g, "$1만")
+    .replace(/[^\p{L}\p{N}\s]/gu, " ");
+  return new Set(normalized.split(/\s+/).filter((word) => word.length >= 2 && !DOMESTIC_GENERIC_WORDS.has(word)));
+}
+
+export function domesticEventSimilarity(a: Set<string>, b: Set<string>): number {
+  if (!a.size || !b.size) return 0;
+  const union = new Set([...a, ...b]);
+  let intersection = 0;
+  for (const value of a) if (b.has(value)) intersection += 1;
+  return intersection / union.size;
+}
+
+export function clusterDomesticArticles(items: ArticleCandidate[]): ArticleCandidate[][] {
+  const unique = new Map<string, ArticleCandidate>();
+  for (const item of items) unique.set(normalizeUrl(item.url), item);
+  const clusters: ArticleCandidate[][] = [];
+  for (const item of unique.values()) {
+    const signature = domesticEventSignature(item.title);
+    const cluster = clusters.find((group) => group.some((member) => (
+      domesticEventSimilarity(signature, domesticEventSignature(member.title)) >= DOMESTIC_EVENT_SIMILARITY_THRESHOLD
+    )));
+    if (cluster) cluster.push(item); else clusters.push([item]);
+  }
+  return clusters;
+}
 
 const CATEGORY_RULES: Record<Exclude<Category, "general">, readonly string[]> = {
   market: [

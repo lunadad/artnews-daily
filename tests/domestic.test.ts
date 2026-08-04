@@ -2,6 +2,10 @@ import { readFile } from "node:fs/promises";
 import { describe, expect, it } from "vitest";
 import {
   classifyDomesticCategory,
+  clusterDomesticArticles,
+  DOMESTIC_EVENT_SIMILARITY_THRESHOLD,
+  domesticEventSignature,
+  domesticEventSimilarity,
   domesticNoticePenalty,
   domesticKeywordPoints,
   domesticSourceFloorPenalty,
@@ -27,6 +31,63 @@ const candidate = (title: string, overrides: Partial<ArticleCandidate> = {}): Ar
 });
 
 describe("domestic art news", () => {
+  const seoulAuctionTitles = [
+    '서울옥션 "올해 경매 낙찰 총액 682억…지난해 연간 실적 돌파"',
+    "서울옥션, 7월까지 낙찰총액 682억원…작년 연간 실적 돌파",
+    '서울옥션, 오프라인 경매 호조…"7개월 만에 연간 낙찰액 경신"',
+  ];
+  const unrelatedTitles = [
+    "광주미술관, 어린이 도슨트 42명 눈높이 전시 해설 나서",
+    "충남교육청 갤러리 이음, 김정미 작가 개인전 ‘존재에 물음’ 개최",
+    "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
+    "한국화가 조영순 개인전 '사라진 동물의 수호 서사'",
+    "강릉시립미술관 솔올 김종학 전시",
+    "김창열미술관, 전시형 라이브 퍼포먼스 '미술관에서의 춤' 개최",
+    "이재용, 올 상반기 개인 배당액 728억 1위…정몽구·정몽준 뒤이어",
+  ];
+
+  it("clusters all three Seoul Auction reports with the Korean event signature", () => {
+    for (let left = 0; left < seoulAuctionTitles.length; left += 1) {
+      for (let right = left + 1; right < seoulAuctionTitles.length; right += 1) {
+        expect(domesticEventSimilarity(domesticEventSignature(seoulAuctionTitles[left]), domesticEventSignature(seoulAuctionTitles[right])))
+          .toBeGreaterThanOrEqual(DOMESTIC_EVENT_SIMILARITY_THRESHOLD);
+      }
+    }
+    const articles = [
+      candidate(seoulAuctionTitles[0], { source: "뉴시스", sourceDomain: "newsis.com", url: "https://newsis.com/article" }),
+      candidate(seoulAuctionTitles[1], { source: "한국경제", sourceDomain: "hankyung.com", url: "https://hankyung.com/article" }),
+      candidate(seoulAuctionTitles[2], { source: "뉴스핀", sourceDomain: "newspim.com", url: "https://newspim.com/article" }),
+    ];
+    const clusters = clusterDomesticArticles(articles);
+    expect(clusters).toHaveLength(1);
+    const scored = scoreDomesticCluster(clusters[0]);
+    expect(scored.coverage).toBe(3);
+    expect(scored.representative.source).toBe("뉴시스");
+  });
+
+  it("does not merge any pair among unrelated domestic fixtures", () => {
+    for (let left = 0; left < unrelatedTitles.length; left += 1) {
+      for (let right = left + 1; right < unrelatedTitles.length; right += 1) {
+        expect(domesticEventSimilarity(domesticEventSignature(unrelatedTitles[left]), domesticEventSignature(unrelatedTitles[right])))
+          .toBeLessThan(DOMESTIC_EVENT_SIMILARITY_THRESHOLD);
+      }
+    }
+    expect(clusterDomesticArticles(unrelatedTitles.map((title, index) => candidate(title, {
+      sourceDomain: `unrelated${index}.test`,
+      url: `https://unrelated${index}.test/article`,
+    })))).toHaveLength(unrelatedTitles.length);
+  });
+
+  it("normalizes Korean numeric units and never merges empty signatures", () => {
+    expect(domesticEventSignature("서울옥션 682억")).toEqual(domesticEventSignature("서울옥션 682억원"));
+    expect(domesticEventSignature("올해 경매 낙찰 총액")).toEqual(new Set());
+    expect(domesticEventSimilarity(new Set(), new Set())).toBe(0);
+    expect(clusterDomesticArticles([
+      candidate("올해 경매 낙찰 총액", { url: "https://empty-a.test/article" }),
+      candidate("작년 연간 실적 돌파", { url: "https://empty-b.test/article" }),
+    ])).toHaveLength(2);
+  });
+
   it.each([
     "이더리움 가격 급등 전망",
     "강남 아파트 청약 시작",

@@ -3,7 +3,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
-import { classifyDomesticCategory, createDomesticHeadline, domesticGoogleFeedUrl, domesticSourceWeight, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster } from "../lib/domestic";
+import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, domesticSourceWeight, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
 import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
@@ -137,7 +137,7 @@ function domesticDistribution(items: DomesticItem[]): Record<Category, number> {
 async function collectDomestic(now: Date): Promise<DomesticData> {
   const candidates = (await Promise.all(DOMESTIC_GOOGLE_QUERIES.map((query) => collectDomesticFeed(query)))).flat();
   const filtered = filterDomesticCandidates(candidates);
-  const preliminary = clusterArticles(filtered)
+  const preliminary = clusterDomesticArticles(filtered)
     .map((articles) => scoreDomesticCluster(articles, now))
     .sort((a, b) => b.score - a.score);
   console.log(`[domestic stages 2-3] ${candidates.length} collected, ${filtered.length} after filters, ${preliminary.length} clusters`);
