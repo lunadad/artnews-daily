@@ -350,7 +350,7 @@ UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`�
 - 모바일: `grid-cols-2 gap-2.5`, 1번 항목 `col-span-2` (와이드 16:9), 나머지 4개 정사각
 - 각 타일: `<a href={url} target="_blank" rel="noreferrer">` + `aria-label={titleKo}`
   - `relative overflow-hidden rounded-2xl bg-surface-muted`, 이미지 `absolute inset-0 h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]`
-  - 제목 오버레이: `opacity-0 group-hover:opacity-100 group-focus-visible:opacity-100 transition-opacity` + `bg-gradient-to-t from-black/80 to-transparent`, 안에 `text-white text-sm font-semibold line-clamp-2` + 소스명
+  - 제목 오버레이: hover 불가 기기는 하단 45% 이내 그라데이션 위에 제목 1줄(`line-clamp-1`)과 소스명을 항상 표시한다. `@media (hover: hover)` 기기만 `opacity-0`에서 hover/focus 시 노출하고 제목을 2줄(`line-clamp-2`)로 확장한다. 화면 폭이 아니라 입력 장치의 hover 능력으로 분기한다.
   - `image: null`인 경우: 플레이스홀더 타일 — `bg-surface-muted`에 `text-foreground-subtle` 로 소스명 이니셜 + 항상 보이는 제목(썸네일이 없으니 제목이라도 보여야 링크 목적을 알 수 있음)
   - **접근성**: 시각적으로는 썸네일만이지만 스크린리더에는 항상 제목이 노출된다(`aria-label`). `prefers-reduced-motion` 시 scale 전환 비활성.
 
@@ -362,9 +362,16 @@ UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`�
 
 ### 6-3. `/archive`
 
-보관 중인 7일을 카드 리스트로 — 날짜, 헤드라인, 썸네일 5개 미니 스트립.
+보관 중인 7일을 카드 리스트로 — `2026년 8월 1일 (토)` 형식의 날짜, 그날 국제 뉴스 1위 제목(2줄 제한), 작은 보조 브리핑 문구, 썸네일 5개 미니 스트립. `top5`가 비어 있으면 브리핑 문구를 카드 제목으로 사용한다.
 
-### 6-4. 캘린더 (요구사항 9)
+### 6-4. 링크 공유 메타데이터
+
+- 루트 레이아웃의 `metadataBase`는 프로덕션 URL(`https://artnews-daily.vercel.app`)이다.
+- `/`와 `/archive/[date]`는 해당 날짜로 `오늘의 아트 뉴스 · YYYY년 M월 D일` 제목과 브리핑·1위 기사 조합 설명(160자 이내)을 생성한다. Open Graph는 `article`, `ko_KR`이며 Twitter는 `summary_large_image`를 사용한다.
+- 공유 이미지는 해당 날짜 `top5`에서 이미지가 있는 첫 항목만 `/api/thumb?u=...`로 중계하고 1200×630 크기를 선언한다. 이미지가 없으면 이미지 메타를 생략한다.
+- `/archive`는 목록 전용 정적 제목과 설명을 사용한다.
+
+### 6-5. 캘린더 (요구사항 9)
 
 `components/CalendarPicker.tsx` — client component. 외부 라이브러리 없이 구현:
 
@@ -377,7 +384,7 @@ UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`�
 - 키보드: `Esc` 닫기, 방향키로 날짜 이동, 활성 날짜만 tab stop
 - 팝오버 하단에 `최근 7일치만 보관합니다` 안내문
 
-### 6-5. 반응형 / 성능
+### 6-6. 반응형 / 성능
 
 - 첫 화면 히어로 top5 이미지는 모두 `loading="eager"`; 첫 타일만 `fetchpriority="high"`, 나머지는 `fetchpriority="auto"`
 - 아카이브 미니 스트립과 카리나 섹션처럼 스크롤 아래의 이미지는 `loading="lazy"` 유지

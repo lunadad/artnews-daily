@@ -3,6 +3,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://artnews-daily.vercel.app"),
   title: "아트 뉴스 데일리",
   description: "매일 엄선한 세계 미술계 주요 뉴스와 한글 브리핑",
 };
