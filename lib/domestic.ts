@@ -1,4 +1,4 @@
-import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, sourceFloorPenalty, type ArticleCandidate, type ScoredCluster } from "./score";
+import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, type ArticleCandidate, type ScoredCluster } from "./score";
 import { INSTITUTION_NOTICE_PHRASES, registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
@@ -35,24 +35,40 @@ const BLOCKED_TITLE_WORDS = [
 
 const NOTICE_WORDS = ["초대전", "공모", "수상자 발표", "관람 안내", "주간분양"] as const;
 
+const ART_DOMAIN_TOKENS = [
+  "미술", "아트", "작가", "작품", "전시", "갤러리", "화랑", "미술관", "박물관", "비엔날레", "아트페어",
+  "회화", "조각", "설치미술", "공예", "도예", "판화", "사진전", "개인전", "기획전", "소장품", "큐레이터",
+  "화백", "경매", "낙찰", "옥션", "컬렉터", "아트테크", "예술가", "조형",
+] as const;
+
+const PRODUCT_PR_TOKENS = [
+  "한정판", "프레그런스", "컬래버", "콜라보", "협업 상품", "굿즈", "에디션 출시", "신제품", "출시",
+  "패키지 리뉴얼", "향수", "화장품", "리미티드",
+] as const;
+
+const PRODUCT_PR_ART_EXCEPTIONS = ["경매", "낙찰", "전시", "미술관", "비엔날레"] as const;
+
 const DOMESTIC_DOMAIN_WEIGHTS: Record<string, number> = {
-  "yna.co.kr": 25,
-  "newsis.com": 25,
-  "news1.kr": 25,
-  "hani.co.kr": 23,
-  "khan.co.kr": 23,
-  "chosun.com": 23,
-  "joongang.co.kr": 23,
-  "donga.com": 23,
-  "kbs.co.kr": 23,
-  "imnews.imbc.com": 23,
-  "news.sbs.co.kr": 23,
+  "chosun.com": 26,
+  "joongang.co.kr": 26,
+  "donga.com": 26,
+  "hani.co.kr": 26,
+  "khan.co.kr": 26,
+  "hankookilbo.com": 26,
+  "seoul.co.kr": 26,
+  "munhwa.com": 26,
+  "yna.co.kr": 24,
+  "newsis.com": 24,
+  "news1.kr": 24,
   "mk.co.kr": 21,
   "hankyung.com": 21,
   "mt.co.kr": 21,
   "sedaily.com": 21,
-  "munhwa.com": 21,
-  "seoul.co.kr": 21,
+  "kbs.co.kr": 20,
+  "imnews.imbc.com": 20,
+  "news.sbs.co.kr": 20,
+  "ytn.co.kr": 20,
+  "jtbc.co.kr": 20,
   "kartprice.net": 18,
   "artworldnews.co.kr": 18,
   "artkoreatv.com": 18,
@@ -90,6 +106,9 @@ export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "u
   try { if (blockedDomain(new URL(item.url).hostname)) return true; }
   catch { return true; }
   if (BLOCKED_TITLE_WORDS.some((word) => title.includes(word))) return true;
+  if (!ART_DOMAIN_TOKENS.some((token) => context.includes(token))) return true;
+  const isProductPr = PRODUCT_PR_TOKENS.some((token) => context.includes(token));
+  if (isProductPr && !PRODUCT_PR_ART_EXCEPTIONS.some((token) => title.includes(token))) return true;
   const merchandise = ["셔츠", "유니폼", "굿즈"].some((word) => title.includes(word));
   return merchandise && title.includes("경매");
 }
@@ -109,6 +128,10 @@ export function domesticSourceWeight(domain: string, source = ""): number {
 export function domesticNoticePenalty(title: string): number {
   const lower = title.toLowerCase();
   return NOTICE_WORDS.some((word) => lower.includes(word)) ? 10 : 0;
+}
+
+export function domesticSourceFloorPenalty(maxSourceWeight: number, coverage: number): number {
+  return maxSourceWeight === 8 && coverage === 1 ? 15 : 0;
 }
 
 export function domesticKeywordPoints(text: string): number {
@@ -149,7 +172,7 @@ export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Dat
     + domesticKeywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
     + categoryPoints(representative.category)
     - domesticNoticePenalty(representative.title)
-    - sourceFloorPenalty(maxSourceWeight, coverage);
+    - domesticSourceFloorPenalty(maxSourceWeight, coverage);
   return { representative, articles, coverage, score: Math.max(0, score) };
 }
 

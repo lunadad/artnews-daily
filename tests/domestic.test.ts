@@ -4,6 +4,7 @@ import {
   classifyDomesticCategory,
   domesticNoticePenalty,
   domesticKeywordPoints,
+  domesticSourceFloorPenalty,
   domesticSourceWeight,
   filterDomesticCandidates,
   isDomesticHardExcluded,
@@ -59,11 +60,33 @@ describe("domestic art news", () => {
   });
 
   it("maps domestic publisher weights separately from international weights", () => {
-    expect(domesticSourceWeight("yna.co.kr")).toBe(25);
-    expect(domesticSourceWeight("www.chosun.com")).toBe(23);
-    expect(domesticSourceWeight("news.mt.co.kr")).toBe(21);
-    expect(domesticSourceWeight("unknown.example", "월간미술")).toBe(18);
-    expect(domesticSourceWeight("unknown.example")).toBe(8);
+    expect(domesticSourceWeight("www.chosun.com")).toBe(26);
+    expect(domesticSourceWeight("yna.co.kr")).toBe(24);
+    expect(domesticSourceWeight("news.kbs.co.kr")).toBe(20);
+    expect(domesticSourceWeight("seoul.co.kr")).toBe(26);
+    expect(domesticSourceWeight("artkoreatv.com")).toBe(18);
+    expect(domesticSourceWeight("sj-ccnews.com")).toBe(8);
+  });
+
+  it("penalizes only low-weight single-source domestic coverage", () => {
+    expect(domesticSourceFloorPenalty(8, 1)).toBe(15);
+    expect(domesticSourceFloorPenalty(8, 2)).toBe(0);
+    expect(domesticSourceFloorPenalty(24, 1)).toBe(0);
+  });
+
+  it("hard-excludes non-art and product-PR stories", () => {
+    expect(isDomesticHardExcluded(candidate("이재용, 올 상반기 개인 배당액 728억 1위…정몽구·정몽준 뒤이어"))).toBe(true);
+    expect(isDomesticHardExcluded(candidate("쿠오카, 유영국 화백의 작품 세계를 향으로 재해석한 한정판 프레그런스 컬렉션", {
+      summary: "서울시립미술관 전시를 기념해 출시한 향수 컬렉션",
+    }))).toBe(true);
+  });
+
+  it("keeps legitimate museum and art-market stories", () => {
+    expect(isDomesticHardExcluded(candidate("국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구"))).toBe(false);
+    const auction = candidate("서울옥션 근현대미술 경매 낙찰총액 120억");
+    expect(isDomesticHardExcluded(auction)).toBe(false);
+    expect(classifyDomesticCategory(auction.title)).toBe("market");
+    expect(isDomesticHardExcluded(candidate("미술관 전시 기념 한정판 굿즈 출시"))).toBe(false);
   });
 
   it("deducts ten points for notice-style headlines", () => {

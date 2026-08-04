@@ -142,7 +142,7 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
     .sort((a, b) => b.score - a.score);
   console.log(`[domestic stages 2-3] ${candidates.length} collected, ${filtered.length} after filters, ${preliminary.length} clusters`);
   const strongestLowSourceSolo = preliminary.find((cluster) => cluster.coverage === 1 && domesticSourceWeight(cluster.representative.sourceDomain, cluster.representative.source) === 8);
-  if (strongestLowSourceSolo) console.log(`[domestic stage 3] low-source solo penalty -12: ${strongestLowSourceSolo.representative.title}`);
+  if (strongestLowSourceSolo) console.log(`[domestic stage 3] low-source solo penalty -15: ${strongestLowSourceSolo.representative.title}`);
   await enrichDomesticClusters(preliminary);
   const resolvedExcluded = preliminary.filter((cluster) => isDomesticHardExcluded(cluster.representative));
   if (resolvedExcluded.length) console.log(`[domestic stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((cluster) => cluster.representative.title).join(" | ")}`);
@@ -233,7 +233,7 @@ export async function collect(): Promise<void> {
 
   // Stage 7: briefing, atomic dataset replacement, seven-day pruning, and index rebuild.
   const date = kstDate(now);
-  const payload = DailyDataSchema.parse({ date, generatedAt: kstIso(now), briefing: createBriefing(top5), domestic, top5, karina: null, ...(top5.length < 5 ? { partial: true } : {}) });
+  const payload = DailyDataSchema.parse({ date, generatedAt: kstIso(now), briefing: createBriefing(top5), domestic, top5, karina: null, ...(top5.length < 5 || domestic.items.length < 5 ? { partial: true } : {}) });
   await fs.mkdir(path.join(DATA_ROOT, "daily"), { recursive: true });
   const target = path.join(DATA_ROOT, "daily", `${date}.json`);
   const temporary = `${target}.tmp`;
