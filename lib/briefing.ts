@@ -1,7 +1,7 @@
 import type { Briefing, Category, NewsItem } from "./types";
 
 export const CATEGORY_LABELS: Record<Category, string> = {
-  market: "시장", museum: "기관", fair: "페어", artist: "작가", general: "종합",
+  market: "시장", museum: "기관", fair: "페어", artist: "작가", general: "일반",
 };
 
 const WHY: Record<Category, string> = {

@@ -497,10 +497,13 @@ artnews-daily/
 │  ├─ layout.tsx  globals.css  page.tsx
 │  ├─ archive/page.tsx
 │  ├─ archive/[date]/page.tsx
+│  ├─ robots.ts  sitemap.ts
+│  ├─ feed.xml/route.ts
 │  └─ api/thumb/route.ts
 ├─ components/
 │  ├─ Header.tsx  ThumbGrid.tsx  ThumbTile.tsx
 │  ├─ BriefingCard.tsx  KarinaSection.tsx  CalendarPicker.tsx
+│  └─ time.ts          # publishedAt 상대 시각 포맷(서버 계산)
 ├─ lib/
 │  ├─ data.ts        # data/ JSON 로딩·캐싱, 이미지 URL 허용 집합
 │  ├─ types.ts       # DailyData / NewsItem / KarinaData zod 스키마
@@ -521,6 +524,16 @@ DB·네트워크 없는 순수 함수 위주:
 - `briefing.test.ts` — 분포 집계, 헤드라인 선택, 포커스 3건 생성
 - `parse.test.ts` — 고정 RSS 픽스처(`tests/fixtures/*.xml`)로 Google News 링크 해석·og:image 추출
 - `retention.test.ts` — 7일 prune 로직이 정확히 7개만 남기는지
+- `presentation.test.ts` — 상대 시각 경계값·누락/오류 처리와 카테고리 한글 라벨 매핑
+
+### 8-5. 검색·구독 라우트와 수집 신호 표시
+
+- `/robots.txt`: 전체 크롤링을 허용하고 프로덕션 호스트와 `/sitemap.xml`을 안내한다.
+- `/sitemap.xml`: 홈, 아카이브, 보관 중인 날짜별 아카이브 URL을 포함하며 각 JSON의 `generatedAt`을 수정 시각으로 쓴다.
+- `/feed.xml`: 보관 중인 모든 국제 `top5`와 국내 `domestic.items`를 발행시각 역순으로 제공하는 RSS 2.0 피드다. XML 특수문자와 요약 CDATA 종료 문자열을 안전하게 처리하며 1시간 엣지 캐시를 적용한다.
+- 루트 메타데이터의 RSS alternate 링크로 브라우저와 피드 리더의 자동 탐색을 지원한다.
+- 국제 타일 오버레이는 `category`, `publishedAt`, `coverage`를 카테고리 라벨·상대 시각·보도 매체 수로 표시한다. 포인터 hover가 가능한 환경에서는 기존처럼 hover/focus 때만 오버레이가 나타나며, hover 불가 환경은 출처와 상대 시각만 간결하게 표시한다.
+- 국내 브리핑은 카테고리 배지와 상대 시각을 표시하고 `qualityCoverage >= 2`일 때만 고품질 보도 매체 수를 덧붙인다. 상대 시각은 서버에서 계산하며 누락되거나 유효하지 않은 시각은 생략한다.
 
 ---
 

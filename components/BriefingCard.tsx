@@ -1,7 +1,8 @@
 import { CATEGORY_LABELS } from "@/lib/briefing";
 import type { Category, DomesticData } from "@/lib/types";
+import { formatRelativeTime } from "./time";
 
-export function BriefingCard({ domestic }: { domestic: DomesticData }) {
+export function BriefingCard({ domestic, now }: { domestic: DomesticData; now: string }) {
   if (!domestic.items.length) return null;
   const entries = Object.entries(domestic.distribution) as [Category, number][];
   return (
@@ -13,7 +14,11 @@ export function BriefingCard({ domestic }: { domestic: DomesticData }) {
       <div className="mt-4 rounded-2xl border border-border bg-surface p-4 shadow-[0_1px_0_rgba(0,0,0,0.02)] sm:p-5">
         <p className="text-lg font-bold tracking-[-0.02em]">{domestic.headline}</p>
         <div className="mt-4 flex flex-wrap gap-2">{entries.filter(([, count]) => count > 0).map(([category, count]) => <span key={category} className="rounded-full bg-tag-bg px-3 py-1 text-xs font-semibold text-tag-foreground">{CATEGORY_LABELS[category]} {count}</span>)}</div>
-        <ol className="mt-5 divide-y divide-border border-t border-border">{domestic.items.map((item) => <li key={`${item.rank}-${item.url}`} className="flex gap-3 py-4 text-sm leading-relaxed"><span className="font-black text-accent">{item.rank}</span><div><a href={item.url} target="_blank" rel="noreferrer" className="font-semibold hover:text-accent">{item.title}</a>{item.summary ? <p className="mt-1 text-foreground-subtle">{item.summary}</p> : null}<p className="mt-1 text-xs text-foreground-muted">{item.source}</p></div></li>)}</ol>
+        <ol className="mt-5 divide-y divide-border border-t border-border">{domestic.items.map((item) => {
+          const relativeTime = formatRelativeTime(item.publishedAt, now);
+          const sourceDetails = [item.source, relativeTime, (item.qualityCoverage ?? 0) >= 2 ? `${item.qualityCoverage}개 매체` : null].filter(Boolean).join(" · ");
+          return <li key={`${item.rank}-${item.url}`} className="flex gap-3 py-4 text-sm leading-relaxed"><span className="font-black text-accent">{item.rank}</span><div><a href={item.url} target="_blank" rel="noreferrer" className="font-semibold hover:text-accent">{item.title}</a>{item.summary ? <p className="mt-1 text-foreground-subtle">{item.summary}</p> : null}<p className="mt-1 flex flex-wrap items-center gap-1.5 text-xs text-foreground-muted"><span className="rounded-full bg-tag-bg px-2 py-0.5 font-semibold text-tag-foreground">{CATEGORY_LABELS[item.category]}</span><span>{sourceDetails}</span></p></div></li>;
+        })}</ol>
       </div>
     </section>
   );
