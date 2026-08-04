@@ -4,10 +4,12 @@ import {
   classifyDomesticCategory,
   clusterDomesticArticles,
   DOMESTIC_EVENT_SIMILARITY_THRESHOLD,
+  domesticCoverageBonus,
   domesticEventSignature,
   domesticEventSimilarity,
   domesticNoticePenalty,
   domesticKeywordPoints,
+  domesticQualityCoverage,
   domesticSourceFloorPenalty,
   domesticSourceWeight,
   filterDomesticCandidates,
@@ -69,13 +71,23 @@ describe("domestic art news", () => {
     for (let left = 0; left < unrelatedTitles.length; left += 1) {
       for (let right = left + 1; right < unrelatedTitles.length; right += 1) {
         expect(domesticEventSimilarity(domesticEventSignature(unrelatedTitles[left]), domesticEventSignature(unrelatedTitles[right])))
-          .toBeLessThan(DOMESTIC_EVENT_SIMILARITY_THRESHOLD);
+          .toBe(0);
       }
     }
     expect(clusterDomesticArticles(unrelatedTitles.map((title, index) => candidate(title, {
       sourceDomain: `unrelated${index}.test`,
       url: `https://unrelated${index}.test/article`,
     })))).toHaveLength(unrelatedTitles.length);
+  });
+
+  it("separates the Gwangju museum release from an unrelated Incheon docent story", () => {
+    const gwangju = "광주미술관, 어린이 도슨트 42명 눈높이 전시 해설 나서";
+    const incheon = "인천시, 어린이 도슨트 프로그램 참여자 모집";
+    expect(domesticEventSimilarity(domesticEventSignature(gwangju), domesticEventSignature(incheon))).toBe(0);
+    expect(clusterDomesticArticles([
+      candidate(gwangju, { url: "https://gwangju.test/article" }),
+      candidate(incheon, { url: "https://incheon.test/article" }),
+    ])).toHaveLength(2);
   });
 
   it("normalizes Korean numeric units and never merges empty signatures", () => {
@@ -129,10 +141,33 @@ describe("domestic art news", () => {
     expect(domesticSourceWeight("sj-ccnews.com")).toBe(8);
   });
 
-  it("penalizes only low-weight single-source domestic coverage", () => {
-    expect(domesticSourceFloorPenalty(8, 1)).toBe(15);
-    expect(domesticSourceFloorPenalty(8, 2)).toBe(0);
-    expect(domesticSourceFloorPenalty(24, 1)).toBe(0);
+  it("uses quality-weighted coverage for bonuses and the no-quality penalty", () => {
+    const articlesFor = (sources: Array<[string, string]>) => sources.map(([source, sourceDomain], index) => candidate(`품질 커버리지 ${index}`, {
+      source,
+      sourceDomain,
+      url: `https://${sourceDomain}/article-${index}`,
+    }));
+
+    const mixed = articlesFor([["뉴시스", "newsis.com"], ["한국경제", "hankyung.com"], ["뉴스핌", "newspim.com"]]);
+    expect(domesticQualityCoverage(mixed)).toBe(2);
+    expect(domesticCoverageBonus(domesticQualityCoverage(mixed))).toBe(24);
+    expect(scoreDomesticCluster(mixed).qualityCoverage).toBe(2);
+
+    const syndicated = articlesFor(Array.from({ length: 9 }, (_, index) => [`지역지 ${index}`, `local-${index}.test`]));
+    expect(domesticQualityCoverage(syndicated)).toBe(0);
+    expect(domesticCoverageBonus(domesticQualityCoverage(syndicated))).toBe(0);
+    expect(domesticSourceFloorPenalty(domesticQualityCoverage(syndicated))).toBe(15);
+    expect(scoreDomesticCluster(syndicated)).toMatchObject({ coverage: 9, qualityCoverage: 0 });
+
+    const majorDaily = articlesFor([["동아일보", "donga.com"]]);
+    expect(domesticQualityCoverage(majorDaily)).toBe(1);
+    expect(domesticCoverageBonus(domesticQualityCoverage(majorDaily))).toBe(12);
+    expect(domesticSourceFloorPenalty(domesticQualityCoverage(majorDaily))).toBe(0);
+
+    const specialist = articlesFor([["아트코리아TV", "artkoreatv.com"]]);
+    expect(domesticSourceWeight(specialist[0].sourceDomain, specialist[0].source)).toBe(18);
+    expect(domesticQualityCoverage(specialist)).toBe(1);
+    expect(domesticSourceFloorPenalty(domesticQualityCoverage(specialist))).toBe(0);
   });
 
   it("hard-excludes non-art and product-PR stories", () => {

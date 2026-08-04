@@ -2,6 +2,10 @@ import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, normalizeUrl, type
 import { INSTITUTION_NOTICE_PHRASES, registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
+export interface DomesticScoredCluster extends ScoredCluster {
+  qualityCoverage: number;
+}
+
 export const DOMESTIC_GOOGLE_QUERIES = [
   "국립현대미술관",
   "리움미술관",
@@ -83,6 +87,7 @@ const DOMESTIC_GENERIC_WORDS = new Set([
   "관련", "위해", "통해", "대한", "공동", "연구", "소개", "진행", "시작", "발표", "개막", "열려", "나서", "만에",
   "까지", "부터", "오프라인", "온라인", "호조", "돌파", "경신", "한국", "서울", "국내", "신규", "최초", "최대",
   "최고", "예정", "계획", "함께",
+  "도슨트", "해설", "어린이", "눈높이", "체험", "프로그램", "운영", "모집", "선발", "참여", "시민", "관람객", "무료",
 ]);
 
 export const DOMESTIC_EVENT_SIMILARITY_THRESHOLD = 0.15;
@@ -172,8 +177,22 @@ export function domesticNoticePenalty(title: string): number {
   return NOTICE_WORDS.some((word) => lower.includes(word)) ? 10 : 0;
 }
 
-export function domesticSourceFloorPenalty(maxSourceWeight: number, coverage: number): number {
-  return maxSourceWeight === 8 && coverage === 1 ? 15 : 0;
+export function domesticQualityCoverage(articles: ArticleCandidate[]): number {
+  const qualityDomains = new Set<string>();
+  for (const item of articles) {
+    if (domesticSourceWeight(item.sourceDomain, item.source) >= 18) {
+      qualityDomains.add(registrableDomain(item.sourceDomain || item.url));
+    }
+  }
+  return qualityDomains.size;
+}
+
+export function domesticCoverageBonus(qualityCoverage: number): number {
+  return Math.min(qualityCoverage, 5) * 12;
+}
+
+export function domesticSourceFloorPenalty(qualityCoverage: number): number {
+  return qualityCoverage === 0 ? 15 : 0;
 }
 
 export function domesticKeywordPoints(text: string): number {
@@ -200,22 +219,23 @@ export function classifyDomesticCategory(text: string): Category {
   return best.category;
 }
 
-export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Date()): ScoredCluster {
+export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Date()): DomesticScoredCluster {
   if (!articles.length) throw new Error("Cannot score an empty domestic cluster");
   const representative = [...articles].sort((a, b) => {
     const weight = domesticSourceWeight(b.sourceDomain, b.source) - domesticSourceWeight(a.sourceDomain, a.source);
     return weight || new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
   })[0];
   const coverage = new Set(articles.map((item) => registrableDomain(item.sourceDomain || item.url))).size;
+  const qualityCoverage = domesticQualityCoverage(articles);
   const maxSourceWeight = Math.max(...articles.map((item) => domesticSourceWeight(item.sourceDomain, item.source)));
-  const score = Math.min(coverage, 5) * 12
+  const score = domesticCoverageBonus(qualityCoverage)
     + maxSourceWeight
     + Math.max(...articles.map((item) => freshnessPoints(item.publishedAt, now)))
     + domesticKeywordPoints(articles.map((item) => `${item.title} ${item.summary ?? ""}`).join(" "))
     + categoryPoints(representative.category)
     - domesticNoticePenalty(representative.title)
-    - domesticSourceFloorPenalty(maxSourceWeight, coverage);
-  return { representative, articles, coverage, score: Math.max(0, score) };
+    - domesticSourceFloorPenalty(qualityCoverage);
+  return { representative, articles, coverage, qualityCoverage, score: Math.max(0, score) };
 }
 
 export function createDomesticHeadline(items: DomesticItem[]): string {

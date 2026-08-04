@@ -3,7 +3,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
-import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, domesticSourceWeight, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster } from "../lib/domestic";
+import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, type DomesticScoredCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
 import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
@@ -106,7 +106,7 @@ async function enrichTopClusters(clusters: ScoredCluster[]): Promise<void> {
   }
 }
 
-async function enrichDomesticClusters(clusters: ScoredCluster[]): Promise<void> {
+async function enrichDomesticClusters(clusters: DomesticScoredCluster[]): Promise<void> {
   for (const cluster of clusters.slice(0, 8)) {
     const representative = cluster.representative;
     const resolution = await resolveGoogleNewsUrl(representative.url);
@@ -141,14 +141,15 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
     .map((articles) => scoreDomesticCluster(articles, now))
     .sort((a, b) => b.score - a.score);
   console.log(`[domestic stages 2-3] ${candidates.length} collected, ${filtered.length} after filters, ${preliminary.length} clusters`);
-  const strongestLowSourceSolo = preliminary.find((cluster) => cluster.coverage === 1 && domesticSourceWeight(cluster.representative.sourceDomain, cluster.representative.source) === 8);
-  if (strongestLowSourceSolo) console.log(`[domestic stage 3] low-source solo penalty -15: ${strongestLowSourceSolo.representative.title}`);
+  const strongestNoQualitySource = preliminary.find((cluster) => cluster.qualityCoverage === 0);
+  if (strongestNoQualitySource) console.log(`[domestic stage 3] no-quality-source penalty -15: ${strongestNoQualitySource.representative.title}`);
   await enrichDomesticClusters(preliminary);
   const resolvedExcluded = preliminary.filter((cluster) => isDomesticHardExcluded(cluster.representative));
   if (resolvedExcluded.length) console.log(`[domestic stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((cluster) => cluster.representative.title).join(" | ")}`);
-  const top = selectTopFive(preliminary
+  const rescored = preliminary
     .filter((cluster) => !isDomesticHardExcluded(cluster.representative))
-    .map((cluster) => scoreDomesticCluster(cluster.articles, now)));
+    .map((cluster) => scoreDomesticCluster(cluster.articles, now));
+  const top = selectTopFive(rescored) as DomesticScoredCluster[];
   const items: DomesticItem[] = top.map((cluster, index) => {
     const item = cluster.representative;
     return {
@@ -161,6 +162,7 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
       source: item.source,
       publishedAt: new Date(item.publishedAt).toISOString(),
       coverage: cluster.coverage,
+      qualityCoverage: cluster.qualityCoverage,
       resolved: item.resolved,
     };
   });
