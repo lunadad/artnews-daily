@@ -1,0 +1,203 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T08:36:18.106+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "focus": [
+      {
+        "title": "구겐하임 아부다비, 초대 디렉터 임명",
+        "why": "10개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "루보프 갤러리 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 37세의 나이로 사망했다.",
+        "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "입증된 수집가 Bernardo Paz가 브라질에 새로운 박물관을 개발 중입니다.",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 92,
+        "category": "market",
+        "title": "서울옥션 \"올해 경매 낙찰 총액 682억…지난해 연간 실적 돌파\"",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 올 들어 지난달까지 온·오프라인 경매에서 총 682억원의 낙찰총액을 기록했다고 4일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260804_0003735527",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-04T01:42:42.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 2,
+        "score": 60,
+        "category": "museum",
+        "title": "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관이 도쿄문화재연구소와 일본에 남아 있는 한국 근현대미술 자료를 발굴해 조사하는 공동 연구에 나선다...",
+        "url": "https://www.yna.co.kr/view/AKR20260803031800005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-03T00:19:53.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true
+      },
+      {
+        "rank": 3,
+        "score": 54,
+        "category": "museum",
+        "title": "세계 미술계 서울 앓이… 거장의 전시 쏟아진다",
+        "summary": "프리즈 서울 기간에 맞춰 국립현대미술관 서도호 최대 개인전, 리움 구정아 전시, 바젤리츠·솔 르윗·모나 하툼 등 거장과 여성 작가 전시가 서울 주요 미술관과 갤러리에서 연이어 열렸다.",
+        "url": "https://m.eye.seoul.co.kr/news/current_affairs/monhoa/2026/08/05/20260805016003?cp=eye",
+        "source": "서울Eye",
+        "publishedAt": "2026-08-04T16:07:29.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true
+      },
+      {
+        "rank": 4,
+        "score": 46,
+        "category": "general",
+        "title": "성동미술협회, 문화예술 축제의 새로운 시작 '2026 서울숲 국제 아트 페스타' 개최",
+        "summary": "[아트코리아방송 = 지유영 기자] (사)한국미술협회 성동지부, 성동미술협회가 서울특별시 민간축제 지원사업으로 선정된 '2026 서울숲 국제 아트 페스타(Seoul Forest International Art Festa, SIAF)'를 오는 8월 6일부터 8월 11일까지 서울숲에 위치한",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103748",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-04T12:54:35.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true
+      },
+      {
+        "rank": 5,
+        "score": 46,
+        "category": "artist",
+        "title": "고영종 개인전 “흑백 이야기”인사동 인사아트센터 G&J갤러리에서 개최",
+        "summary": "2026. 8월5일 수요일 부터 8월10일까지 인사동 인사애트센터 3층 G&J갤러리에 고영종 개인전 '흑백이야기'전이 개최된다이번 전시에서 40여점을 전시하며 흑",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5545",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-03T21:34:10.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "7bee4145c618",
+      "rank": 1,
+      "score": 111,
+      "category": "museum",
+      "titleOriginal": "Guggenheim Abu Dhabi Appoints Inaugural Director",
+      "titleKo": "구겐하임 아부다비, 초대 디렉터 임명",
+      "summaryKo": "구겐하임 아부다비, 초대 이사로 임명 - 뉴스와이어",
+      "url": "https://news.artnet.com/art-world/guggenheim-abu-dhabi-first-director-2793701",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-04T15:17:13.000Z",
+      "coverage": 10,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4c37939aa644",
+      "rank": 2,
+      "score": 101,
+      "category": "general",
+      "titleOriginal": "Francisco Correa Cordero, Founder of Lubov Gallery, Dies at 37",
+      "titleKo": "루보프 갤러리 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 37세의 나이로 사망했다.",
+      "summaryKo": "루보프 갤러리 설립자 프란시스코 코레아 코르데로(Francisco Correa Cordero)가 37세의 나이로 사망했다.",
+      "url": "https://news.artnet.com/art-world/francisco-correa-cordero-lubov-gallery-founder-dead-2792229",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-03T20:22:46.000Z",
+      "coverage": 5,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8130bf27b01e",
+      "rank": 3,
+      "score": 96,
+      "category": "market",
+      "titleOriginal": "Vindicated Collector Bernardo Paz is Developing a New Museum in Brazil",
+      "titleKo": "입증된 수집가 Bernardo Paz가 브라질에 새로운 박물관을 개발 중입니다.",
+      "summaryKo": "보도에 따르면 브라질의 백만장자 예술 수집가 베르나르도 파즈(Bernardo Paz)는 박물관 및 조각 정원 Instituto Inhotim의 설립자로서 Inhotim 바로 옆에 새로운 박물관과 식물원을 개발 중이라고 합니다. Paz는 현재 아직 이름이 알려지지 않은 새로운 프로젝트를 주도하고 자금을 지원하고 있습니다.",
+      "url": "https://www.artforum.com/news/collector-bernardo-paz-developing-new-museum-in-brazil-1234756249",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-04T18:23:59.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/intermediate_sizes/2022/06/featured00_square-150450.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "75f663003f67",
+      "rank": 4,
+      "score": 70,
+      "category": "general",
+      "titleOriginal": "Art Week NYC Names 76 Participating Galleries for Inaugural Event in November",
+      "titleKo": "Art Week NYC, 11월 첫 행사에 참여 갤러리 76개 선정",
+      "summaryKo": "참여하는 기업 중에는 Hauser & Wirth, Gagosian, David Zwirner, Pace Gallery, White Cube, Perrotin, Lisson 및 Paula Cooper와 같은 우량 기업이 있습니다.",
+      "url": "https://www.artnews.com/art-news/news/art-week-nyc-names-2026-participating-galleries-list-1234794276",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-04T16:46:42.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/art-week-graphcs-1.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cf91cb9221a2",
+      "rank": 5,
+      "score": 70,
+      "category": "market",
+      "titleOriginal": "Top 200 Collectors Clara Wu Tsai and Joseph Tsai to Divorce After Nearly 30 Years",
+      "titleKo": "200대 수집가 클라라 우 차이(Clara Wu Tsai)와 조셉 차이(Joseph Tsai)가 거의 30년 만에 이혼합니다",
+      "summaryKo": "이 부부는 현대 미술에 중점을 두고 ARTnews의 2025년 상위 200대 수집가 목록에 공동으로 선정되었습니다.",
+      "url": "https://www.artnews.com/art-news/news/clara-wu-tsai-joseph-tsai-divorce-1234794234",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-03T22:04:10.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2180799439.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
