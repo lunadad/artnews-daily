@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T08:32:14.773+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "구겐하임 아부다비의 초대 이사로 발레리 힐링스 임명",
+        "why": "16개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "호주 박물관은 라파누이 조상의 유적을 이스터 섬으로 반환합니다",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Sotheby의 새로운 통신 책임자, Freeman의 새로운 Old Masters 책임자 등: 2026년 8월 5일 업계 동향",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 86,
+        "category": "market",
+        "title": "서울옥션 \"올해 경매 낙찰 총액 682억…지난해 연간 실적 돌파\"",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 올 들어 지난달까지 온·오프라인 경매에서 총 682억원의 낙찰총액을 기록했다고 4일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260804_0003735527",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-04T01:42:42.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 55,
+        "category": "museum",
+        "title": "서도호의 천 집부터 거장 바젤리츠·솔 르윗까지···올가을 미술관은 ‘블록버스터’",
+        "summary": "바깥의 더위는 절정이지만, 미술계의 시계는 벌써 가을을 향하고 있다. 올해 상반기 데이미언 허스트의 개인전과 유영국 회고전이 미술계 흥행을 이끌었다면, 하반기에는 최대 아트페어 프리즈 서울·키아프 서울이 열리는 9월을 전후해 현대미술의 경계를 넓혀온 국내외 작가들의 굵직한 전시가 이어진다. 서도호·구정아부터 독일 신표현주의 거장 바젤리츠·개념미술 선구...",
+        "url": "https://www.khan.co.kr/article/202608051703011/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-08-05T08:03:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260729.8ba2c5f2289f4f3bbb1a756256bed381.jpeg"
+      },
+      {
+        "rank": 3,
+        "score": 54,
+        "category": "museum",
+        "title": "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관이 도쿄문화재연구소와 일본에 남아 있는 한국 근현대미술 자료를 발굴해 조사하는 공동 연구에 나선다...",
+        "url": "https://www.yna.co.kr/view/AKR20260803031800005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-03T00:19:53.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 53,
+        "category": "general",
+        "title": "이대원의 스승 사토 구니오의 희귀 회화 '설정(雪庭)'",
+        "summary": "[서울=뉴시스] 박진희 기자 = 국립현대미술관은 한국 근현대미술 화가 이대원의 회고전 '이대원: 당신을 슬프게 하는 것은 하나도 없다' 기자간담회를 5일 서울 중구 국립현대미술관 덕수궁에서 갖고 작가의 스승 사토 구니오의 희귀 회화 '설정(雪庭)'을 국내 최초로 공개하고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISI20260805_0021388767",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-05T02:13:22.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/05/NISI20260805_0021388767_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 49,
+        "category": "fair",
+        "title": "제3회 서울-한강비엔날레 및 제33회 한국미술국제대전 개최",
+        "summary": "[아트코리아방송 = 김한정 기자] 제3회 서울-한강비엔날레 및 제33회 한국미술국제대전이 오는 8월 국내외 작가들의 참여 속에 개최된다. 이번 행사는 8월 19일부터 8월 25일까지 인사동 한국미술관 2층에서 열리며, 8월 14일부터 8월 25일까지는 용산구청 아트홀 미술관에서도 함께",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103757",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-05T04:42:44.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103757_330952_4131_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e8c9853489cd",
+      "rank": 1,
+      "score": 112,
+      "category": "museum",
+      "titleOriginal": "Valerie Hillings Appointed Inaugural Director of Guggenheim Abu Dhabi",
+      "titleKo": "구겐하임 아부다비의 초대 이사로 발레리 힐링스 임명",
+      "summaryKo": "발레리 힐링스(Valerie Hillings), 구겐하임 아부다비 아트포럼(Guggenheim Abu Dhabi Artforum)의 초대 이사로 임명",
+      "url": "https://www.artforum.com/news/valerie-hillings-appointed-director-of-guggenheim-abu-dhabi-1234756359",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-05T16:11:53.000Z",
+      "coverage": 16,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Valerie-Hillings-Credits-Justin-Kase-Conder.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "22e96090fb29",
+      "rank": 2,
+      "score": 93,
+      "category": "museum",
+      "titleOriginal": "The Australian Museum returns remains of Rapa Nui ancestors to Easter Island",
+      "titleKo": "호주 박물관은 라파누이 조상의 유적을 이스터 섬으로 반환합니다",
+      "summaryKo": "호주 박물관은 라파누이 조상의 유적을 이스터 섬으로 반환합니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/04/australian-museum-repatriates-rapa-nui-remains-easter-island",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-05T02:13:55.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/e1d64e3b3c682aeb1ef08f9169bb0e6f17e86c6c-2000x1500.jpg?rect=0,150,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ec18b358c399",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "titleOriginal": "Sotheby’s New Comms Chief, Freeman’s New Old Masters Head, and More: Industry Moves for August 5, 2026",
+      "titleKo": "Sotheby의 새로운 통신 책임자, Freeman의 새로운 Old Masters 책임자 등: 2026년 8월 5일 업계 동향",
+      "summaryKo": "크리스티의 전 글로벌 커뮤니케이션 책임자였던 나타샤 르 벨(Natasha Le Bel)이 소더비의 최고 커뮤니케이션 책임자로 임명되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-new-comms-chief-freemans-new-old-masters-head-1234794329",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-05T18:36:58.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/GettyImages-2226857752.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4968d20d53d8",
+      "rank": 4,
+      "score": 86,
+      "category": "market",
+      "titleOriginal": "The Great Estate Rush That Is Reshaping the Art Market",
+      "titleKo": "미술 시장을 재편하고 있는 대규모 부동산 붐",
+      "summaryKo": "한 시장 관계자는 “현재 시장 회복이 전적으로 이러한 컬렉션에 의해 주도되고 있다는 점에는 의심의 여지가 없다”고 말했다.",
+      "url": "https://www.artnews.com/art-news/market/great-estate-rush-that-is-reshaping-art-market-1234794331",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-05T18:42:48.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2025/11/SOTHEBYS2025_1118_065348-6367_ALIVE.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8130bf27b01e",
+      "rank": 5,
+      "score": 82,
+      "category": "market",
+      "titleOriginal": "Vindicated Collector Bernardo Paz is Developing a New Museum in Brazil",
+      "titleKo": "입증된 수집가 Bernardo Paz가 브라질에 새로운 박물관을 개발 중입니다.",
+      "summaryKo": "보도에 따르면 브라질의 백만장자 예술 수집가 베르나르도 파즈(Bernardo Paz)는 박물관 및 조각 정원 Instituto Inhotim의 설립자로서 Inhotim 바로 옆에 새로운 박물관과 식물원을 개발 중이라고 합니다. Paz는 현재 아직 이름이 알려지지 않은 새로운 프로젝트를 주도하고 자금을 지원하고 있습니다.",
+      "url": "https://www.artforum.com/news/collector-bernardo-paz-developing-new-museum-in-brazil-1234756249",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-04T18:23:59.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/intermediate_sizes/2022/06/featured00_square-150450.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
