@@ -269,19 +269,19 @@ LLM 없이 규칙 기반으로 3부 구성:
 
 국내 선정도 공용 다양성 규칙을 사용해 시장·경매는 최대 3건, 나머지 카테고리는 최대 2건으로 제한한다.
 
-상위 8개 클러스터 대표만 기존 Google News `batchexecute` 해석기로 원문 URL을 복원한다. 원문 HTML의 `og:description`을 우선하고 `meta[name=description]`을 폴백으로 한 줄 요약을 만들며, 실패하면 제목만 노출한다. 국내 기사는 번역하거나 썸네일을 붙이지 않는다.
+상위 8개 클러스터 대표만 기존 Google News `batchexecute` 해석기로 원문 URL을 복원한다. 원문 HTML의 `og:description`을 우선하고 `meta[name=description]`을 폴백으로 한 줄 요약을 만든다. 같은 HTML 응답에서 `og:image` → `og:image:secure_url` → `twitter:image` 순으로 썸네일을 추출하며, 프로토콜 상대·문서 상대 URL은 HTTPS 절대 URL로 정규화한다. 설명이나 이미지 추출 실패는 각각 빈 요약과 `image: null`로 처리해 기사를 유지하고, 이미지 유무는 국내 점수에 반영하지 않는다.
 
 ```jsonc
 "domestic": {
   "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
   "distribution": { "market": 2, "museum": 2, "artist": 1, "fair": 0, "general": 0 },
   "items": [
-    { "rank": 1, "score": 78, "category": "market", "title": "...", "summary": "...", "url": "https://...", "source": "...", "publishedAt": "...", "coverage": 2, "resolved": true }
+    { "rank": 1, "score": 78, "category": "market", "title": "...", "summary": "...", "url": "https://...", "source": "...", "publishedAt": "...", "coverage": 2, "resolved": true, "image": "https://..." }
   ]
 }
 ```
 
-`domestic`은 과거 JSON 호환을 위해 optional이다. 필드나 항목이 없으면 UI에서 국내 브리핑 섹션만 생략하며, 국제 `briefing`은 계속 생성·보관하되 화면에는 렌더하지 않는다.
+`domestic`과 `domestic.items[].image`는 과거 JSON 호환을 위해 optional이다. `domestic`이나 항목이 없으면 UI에서 국내 브리핑 섹션만 생략하며, 항목의 `image`가 없으면 썸네일 칸 자체를 생략한 기존 텍스트 레이아웃으로 렌더한다. 국제 `briefing`은 계속 생성·보관하되 화면에는 렌더하지 않는다.
 
 ---
 
@@ -296,12 +296,12 @@ GET /api/thumb?u=<encodeURIComponent(원본 URL)>
 ```
 
 1. `u`가 **현재 보관 중인 `data/**.json` 안에 실제로 존재하는 이미지 URL인지 확인**한다(빌드 시 수집한 URL 집합을 메모리 캐시). 없으면 404. → 오픈 프록시가 되지 않으며 별도 시크릿도 불필요.
-2. `https:` 스킴만 허용, 10초 타임아웃, 응답 `content-type`이 `image/*`가 아니거나 `content-length > 5MB`면 404.
+2. `https:` 스킴만 허용, 10초 타임아웃, 응답 `content-type`이 `image/*`가 아니거나 `content-length > 8MB`면 404. 서울Eye의 약 6.3MB 원본도 허용하되 이 상한을 넘으면 기존처럼 거부한다.
 3. 성공 시 원본 바이트를 그대로 스트리밍하며 헤더 설정:
    `Cache-Control: public, max-age=3600, s-maxage=604800, stale-while-revalidate=86400`
 4. `export const runtime = 'nodejs'`
 
-UI에서는 `next/image` 대신 일반 `<img loading="lazy" decoding="async">`를 쓰고 `src="/api/thumb?u=..."`로 지정한다(같은 오리진이므로 `remotePatterns` 설정 자체가 불필요).
+국내 브리핑은 `next/image`에 `src="/api/thumb?u=..."`, 88×88 크기, 지연 로딩을 지정해 최적화한다. 같은 오리진이므로 `remotePatterns`는 불필요하고, Next.js 16의 쿼리 문자열 로컬 이미지 검증을 위해 `images.localPatterns`는 `/api/thumb` 경로로만 제한한다. 이미지가 없거나 로드에 실패하면 썸네일을 제거한다. 국제 히어로·아카이브 등 기존 화면은 일반 `<img loading="lazy" decoding="async">`와 같은 프록시 URL을 계속 사용한다.
 
 ---
 

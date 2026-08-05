@@ -111,16 +111,19 @@ async function enrichDomesticClusters(clusters: DomesticScoredCluster[]): Promis
     const representative = cluster.representative;
     const resolution = await resolveGoogleNewsUrl(representative.url);
     let summary: string | undefined;
+    let image: string | null = null;
     if (resolution.resolved) {
       try {
-        const description = extractDescription(await fetchText(resolution.url, 8_000));
+        const html = await fetchText(resolution.url, 8_000);
+        const description = extractDescription(html);
         const cleaned = description ? cleanText(decodeEntities(description)).slice(0, 300) : "";
         summary = cleaned || undefined;
+        image = extractImageUrl(html, resolution.url);
       } catch {
         // A missing or blocked article page must not prevent the domestic briefing.
       }
     }
-    const enriched = { ...representative, url: resolution.url, resolved: resolution.resolved, summary, image: null };
+    const enriched = { ...representative, url: resolution.url, resolved: resolution.resolved, summary, image };
     const index = cluster.articles.indexOf(representative);
     if (index >= 0) cluster.articles[index] = enriched;
     cluster.representative = enriched;
@@ -164,6 +167,7 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
       coverage: cluster.coverage,
       qualityCoverage: cluster.qualityCoverage,
       resolved: item.resolved,
+      image: item.image,
     };
   });
   return { headline: createDomesticHeadline(items), distribution: domesticDistribution(items), items };
@@ -229,8 +233,8 @@ export async function collect(): Promise<void> {
     };
   }));
 
-  // Domestic coverage is an independent Korean Google News pipeline. It has no
-  // thumbnails or translation and does not influence the international hero top5.
+  // Domestic coverage is an independent Korean Google News pipeline. It reuses
+  // article HTML for thumbnails, has no translation, and does not influence top5.
   const domestic = await collectDomestic(now);
 
   // Stage 7: briefing, atomic dataset replacement, seven-day pruning, and index rebuild.

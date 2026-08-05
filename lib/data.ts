@@ -36,6 +36,7 @@ export async function getAllowedImageUrls(): Promise<Set<string>> {
   for (const date of await getAvailableDates()) {
     const daily = await getDailyData(date);
     for (const item of daily?.top5 ?? []) if (item.image) urls.add(item.image);
+    for (const item of daily?.domestic?.items ?? []) if (item.image) urls.add(item.image);
     for (const item of daily?.karina?.items ?? []) if (item.image) urls.add(item.image);
   }
   return urls;

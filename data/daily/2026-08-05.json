@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T08:36:18.106+09:00",
+  "generatedAt": "2026-08-05T10:22:13.951+09:00",
   "briefing": {
     "headline": "오늘은 시장 신호가 가장 두드러집니다.",
     "distribution": {
@@ -31,8 +31,8 @@
       "market": 1,
       "museum": 2,
       "fair": 0,
-      "artist": 1,
-      "general": 1
+      "artist": 0,
+      "general": 2
     },
     "items": [
       {
@@ -46,11 +46,12 @@
         "publishedAt": "2026-08-04T01:42:42.000Z",
         "coverage": 3,
         "qualityCoverage": 2,
-        "resolved": true
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg"
       },
       {
         "rank": 2,
-        "score": 60,
+        "score": 54,
         "category": "museum",
         "title": "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
         "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관이 도쿄문화재연구소와 일본에 남아 있는 한국 근현대미술 자료를 발굴해 조사하는 공동 연구에 나선다...",
@@ -59,7 +60,8 @@
         "publishedAt": "2026-08-03T00:19:53.000Z",
         "coverage": 5,
         "qualityCoverage": 2,
-        "resolved": true
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg"
       },
       {
         "rank": 3,
@@ -72,33 +74,36 @@
         "publishedAt": "2026-08-04T16:07:29.000Z",
         "coverage": 1,
         "qualityCoverage": 1,
-        "resolved": true
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/08/05/SSC_20260805004702.jpg"
       },
       {
         "rank": 4,
-        "score": 46,
+        "score": 44,
         "category": "general",
-        "title": "성동미술협회, 문화예술 축제의 새로운 시작 '2026 서울숲 국제 아트 페스타' 개최",
-        "summary": "[아트코리아방송 = 지유영 기자] (사)한국미술협회 성동지부, 성동미술협회가 서울특별시 민간축제 지원사업으로 선정된 '2026 서울숲 국제 아트 페스타(Seoul Forest International Art Festa, SIAF)'를 오는 8월 6일부터 8월 11일까지 서울숲에 위치한",
-        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103748",
-        "source": "아트코리아방송",
-        "publishedAt": "2026-08-04T12:54:35.000Z",
-        "coverage": 1,
+        "title": "日에 남은 韓 근현대 미술자료 디지털화 추진",
+        "summary": "일본에 흩어져 있는 한국의 근현대 미술 자료들을 디지털로 정리하는 대형 프로젝트가 추진된다. 국립현대미술관(MMCA)은 3일 일본 도쿄문화재연구소와 한국 근현대 미술 연구 및 한일 미술 교류사 연구를 위한 업무협약(MOU)을 체결했다 며 2026…",
+        "url": "https://www.donga.com/news/amp/all/20260804/134415523/2",
+        "source": "동아일보",
+        "publishedAt": "2026-08-03T19:30:00.000Z",
+        "coverage": 2,
         "qualityCoverage": 1,
-        "resolved": true
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg"
       },
       {
         "rank": 5,
-        "score": 46,
-        "category": "artist",
-        "title": "고영종 개인전 “흑백 이야기”인사동 인사아트센터 G&J갤러리에서 개최",
-        "summary": "2026. 8월5일 수요일 부터 8월10일까지 인사동 인사애트센터 3층 G&J갤러리에 고영종 개인전 '흑백이야기'전이 개최된다이번 전시에서 40여점을 전시하며 흑",
-        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5545",
-        "source": "아트월드뉴스",
-        "publishedAt": "2026-08-03T21:34:10.000Z",
-        "coverage": 2,
+        "score": 44,
+        "category": "general",
+        "title": "日 소장 韓 근현대 미술 자료 한곳에…디지털 아카이브 구축 나선다",
+        "summary": "일본에 흩어져 있는 한국의 근현대 미술 자료들을 디지털로 정리하는 대형 프로젝트가 추진된다. 국립현대미술관(MMCA)은 3일 일본 도쿄문화재연구소와 한국 근현대 미술 연구 및 한일 미술 교류사 연구를 위한 업무협약(MOU)을 체결했다 며 2026년…",
+        "url": "https://www.donga.com/news/amp/all/20260803/134413070/1",
+        "source": "동아일보",
+        "publishedAt": "2026-08-03T06:43:00.000Z",
+        "coverage": 1,
         "qualityCoverage": 1,
-        "resolved": true
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg"
       }
     ]
   },
@@ -144,7 +149,7 @@
     {
       "id": "8130bf27b01e",
       "rank": 3,
-      "score": 96,
+      "score": 92,
       "category": "market",
       "titleOriginal": "Vindicated Collector Bernardo Paz is Developing a New Museum in Brazil",
       "titleKo": "입증된 수집가 Bernardo Paz가 브라질에 새로운 박물관을 개발 중입니다.",

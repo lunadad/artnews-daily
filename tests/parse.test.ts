@@ -54,6 +54,18 @@ describe("fixed RSS parsing", () => {
     const html = await readFile(new URL("./fixtures/article.html", import.meta.url), "utf8");
     expect(extractImageUrl(`${html}<meta name="twitter:image" content="https://cdn.example.com/twitter.jpg">`)).toBe("https://cdn.example.com/art.jpg");
     expect(extractImageUrl('<meta property="og:image:secure_url" content="https://cdn.example.com/secure.jpg"><meta name="twitter:image" content="https://cdn.example.com/twitter.jpg">')).toBe("https://cdn.example.com/secure.jpg");
+    expect(extractImageUrl('<meta name="twitter:image" content="https://cdn.example.com/twitter.jpg">')).toBe("https://cdn.example.com/twitter.jpg");
+  });
+
+  it("normalizes protocol-relative and article-relative metadata images and rejects http", () => {
+    expect(extractImageUrl('<meta property="og:image" content="//cdn.example.com/photo.jpg">', "https://news.example.com/story/1")).toBe("https://cdn.example.com/photo.jpg");
+    expect(extractImageUrl('<meta property="og:image" content="/img/photo.jpg">', "https://news.example.com/story/1")).toBe("https://news.example.com/img/photo.jpg");
+    expect(extractImageUrl('<meta property="og:image" content="http://cdn.example.com/photo.jpg">', "https://news.example.com/story/1")).toBeNull();
+  });
+
+  it("fails soft when article image metadata is absent or invalid", () => {
+    expect(extractImageUrl("<html><head></head></html>", "https://news.example.com/story/1")).toBeNull();
+    expect(extractImageUrl('<meta property="og:image" content="not a url">')).toBeNull();
   });
 
   it("prefers og:description to the standard description", () => {

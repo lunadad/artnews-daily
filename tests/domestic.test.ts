@@ -16,8 +16,8 @@ import {
   isDomesticHardExcluded,
   scoreDomesticCluster,
 } from "@/lib/domestic";
-import type { ArticleCandidate } from "@/lib/score";
-import { DailyDataSchema } from "@/lib/types";
+import { selectTopFive, type ArticleCandidate } from "@/lib/score";
+import { DailyDataSchema, DomesticItemSchema } from "@/lib/types";
 
 const candidate = (title: string, overrides: Partial<ArticleCandidate> = {}): ArticleCandidate => ({
   title,
@@ -212,5 +212,33 @@ describe("domestic art news", () => {
     const parsed = DailyDataSchema.parse(historical);
     expect(parsed.domestic).toBeUndefined();
     expect(parsed.top5).toHaveLength(5);
+  });
+
+  it("parses historical domestic items that have no image field", async () => {
+    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-02.json", import.meta.url), "utf8"));
+    const parsed = DailyDataSchema.parse(historical);
+    expect(parsed.domestic?.items).toHaveLength(5);
+    expect(parsed.domestic?.items.every((item) => item.image === undefined)).toBe(true);
+  });
+
+  it("keeps image-null items and preserves domestic scores and ranking when images are added", () => {
+    const titles = ["서울옥션 낙찰가 발표", "국립미술관 소장품 공개", "작가 회고전 개막"];
+    const withoutImages = titles.map((title, index) => scoreDomesticCluster([candidate(title, { image: null, url: `https://news.example.com/${index}` })]));
+    const withImages = titles.map((title, index) => scoreDomesticCluster([candidate(title, { image: `https://cdn.example.com/${index}.jpg`, url: `https://news.example.com/${index}` })]));
+    expect(withImages.map(({ score }) => score)).toEqual(withoutImages.map(({ score }) => score));
+    expect(selectTopFive(withImages).map(({ representative }) => representative.title)).toEqual(selectTopFive(withoutImages).map(({ representative }) => representative.title));
+    expect(DomesticItemSchema.parse({
+      rank: 1,
+      score: withoutImages[1].score,
+      category: "museum",
+      title: "국립미술관 소장품 공개",
+      summary: "",
+      url: "https://news.example.com/story",
+      source: "테스트일보",
+      publishedAt: "2026-08-02T00:00:00.000Z",
+      coverage: 1,
+      resolved: true,
+      image: null,
+    }).image).toBeNull();
   });
 });

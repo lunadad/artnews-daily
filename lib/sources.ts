@@ -218,10 +218,24 @@ function metaContent(html: string, attributeName: "property" | "name", value: st
   return null;
 }
 
-export function extractImageUrl(html: string): string | null {
-  return metaContent(html, "property", "og:image")
-    ?? metaContent(html, "property", "og:image:secure_url")
-    ?? metaContent(html, "name", "twitter:image");
+export function extractImageUrl(html: string, articleUrl?: string): string | null {
+  const candidates = [
+    metaContent(html, "property", "og:image"),
+    metaContent(html, "property", "og:image:secure_url"),
+    metaContent(html, "name", "twitter:image"),
+  ];
+  for (const candidate of candidates) {
+    if (!candidate) continue;
+    try {
+      const resolved = candidate.startsWith("//")
+        ? new URL(`https:${candidate}`)
+        : articleUrl ? new URL(candidate, articleUrl) : new URL(candidate);
+      if (resolved.protocol === "https:") return resolved.href;
+    } catch {
+      // Invalid metadata should not prevent lower-priority image fallbacks.
+    }
+  }
+  return null;
 }
 
 export function extractDescription(html: string): string | null {

@@ -1,7 +1,7 @@
 import { getAllowedImageUrls } from "@/lib/data";
 
 export const runtime = "nodejs";
-const MAX_BYTES = 5 * 1024 * 1024;
+const MAX_BYTES = 8 * 1024 * 1024;
 const CACHE_CONTROL = "public, max-age=3600, s-maxage=604800, stale-while-revalidate=86400";
 
 export async function GET(request: Request): Promise<Response> {

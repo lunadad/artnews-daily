@@ -43,6 +43,7 @@ export const DomesticItemSchema = z.object({
   coverage: z.number().int().positive(),
   qualityCoverage: z.number().int().nonnegative().optional(),
   resolved: z.boolean(),
+  image: z.url().nullable().optional(),
 });
 export type DomesticItem = z.infer<typeof DomesticItemSchema>;
 
