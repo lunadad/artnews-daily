@@ -103,10 +103,23 @@ export function domesticEventSignature(title: string): Set<string> {
 
 export function domesticEventSimilarity(a: Set<string>, b: Set<string>): number {
   if (!a.size || !b.size) return 0;
-  const union = new Set([...a, ...b]);
+  const bTokens = [...b];
   let intersection = 0;
-  for (const value of a) if (b.has(value)) intersection += 1;
-  return intersection / union.size;
+  for (const x of a) {
+    if (bTokens.some((y) => x === y || (x.length >= 2 && y.length >= 2 && (x.includes(y) || y.includes(x))))) {
+      intersection += 1;
+    }
+  }
+  return intersection / (a.size + b.size - intersection);
+}
+
+function hasMatchingPublisherImage(a: ArticleCandidate, b: ArticleCandidate): boolean {
+  return Boolean(
+    a.image
+    && b.image
+    && a.image === b.image
+    && registrableDomain(a.sourceDomain || a.url) === registrableDomain(b.sourceDomain || b.url),
+  );
 }
 
 export function clusterDomesticArticles(items: ArticleCandidate[]): ArticleCandidate[][] {
@@ -116,7 +129,8 @@ export function clusterDomesticArticles(items: ArticleCandidate[]): ArticleCandi
   for (const item of unique.values()) {
     const signature = domesticEventSignature(item.title);
     const cluster = clusters.find((group) => group.some((member) => (
-      domesticEventSimilarity(signature, domesticEventSignature(member.title)) >= DOMESTIC_EVENT_SIMILARITY_THRESHOLD
+      hasMatchingPublisherImage(item, member)
+      || domesticEventSimilarity(signature, domesticEventSignature(member.title)) >= DOMESTIC_EVENT_SIMILARITY_THRESHOLD
     )));
     if (cluster) cluster.push(item); else clusters.push([item]);
   }

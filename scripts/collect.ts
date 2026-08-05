@@ -147,9 +147,13 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
   const strongestNoQualitySource = preliminary.find((cluster) => cluster.qualityCoverage === 0);
   if (strongestNoQualitySource) console.log(`[domestic stage 3] no-quality-source penalty -15: ${strongestNoQualitySource.representative.title}`);
   await enrichDomesticClusters(preliminary);
-  const resolvedExcluded = preliminary.filter((cluster) => isDomesticHardExcluded(cluster.representative));
+  // Re-cluster after enrichment so the same-publisher + identical-image safety
+  // signal can merge reports whose titles alone are not similar enough.
+  const enriched = clusterDomesticArticles(preliminary.flatMap((cluster) => cluster.articles))
+    .map((articles) => scoreDomesticCluster(articles, now));
+  const resolvedExcluded = enriched.filter((cluster) => isDomesticHardExcluded(cluster.representative));
   if (resolvedExcluded.length) console.log(`[domestic stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((cluster) => cluster.representative.title).join(" | ")}`);
-  const rescored = preliminary
+  const rescored = enriched
     .filter((cluster) => !isDomesticHardExcluded(cluster.representative))
     .map((cluster) => scoreDomesticCluster(cluster.articles, now));
   const top = selectTopFive(rescored) as DomesticScoredCluster[];

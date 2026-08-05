@@ -68,16 +68,63 @@ describe("domestic art news", () => {
   });
 
   it("does not merge any pair among unrelated domestic fixtures", () => {
+    let checkedPairs = 0;
     for (let left = 0; left < unrelatedTitles.length; left += 1) {
       for (let right = left + 1; right < unrelatedTitles.length; right += 1) {
         expect(domesticEventSimilarity(domesticEventSignature(unrelatedTitles[left]), domesticEventSignature(unrelatedTitles[right])))
-          .toBe(0);
+          .toBeLessThan(DOMESTIC_EVENT_SIMILARITY_THRESHOLD);
+        checkedPairs += 1;
       }
     }
+    expect(checkedPairs).toBe(21);
     expect(clusterDomesticArticles(unrelatedTitles.map((title, index) => candidate(title, {
       sourceDomain: `unrelated${index}.test`,
       url: `https://unrelated${index}.test/article`,
     })))).toHaveLength(unrelatedTitles.length);
+  });
+
+  it.each([
+    [
+      "日에 남은 韓 근현대 미술자료 디지털화 추진",
+      "日 소장 韓 근현대 미술 자료 한곳에…디지털 아카이브 구축 나선다",
+    ],
+    [
+      "추경호 대구시장, 주말 맞아 미술관 현장 점검",
+      "추경호 대구시장, 대구간송미술관·대구미술관 방문해 시민 의견 청취",
+    ],
+  ])("matches Korean compound-noun variants: %s", (left, right) => {
+    expect(domesticEventSimilarity(domesticEventSignature(left), domesticEventSignature(right)))
+      .toBeGreaterThanOrEqual(DOMESTIC_EVENT_SIMILARITY_THRESHOLD);
+    expect(clusterDomesticArticles([
+      candidate(left, { url: "https://left.test/article" }),
+      candidate(right, { url: "https://right.test/article" }),
+    ])).toHaveLength(1);
+  });
+
+  it("does not substring-match one-character tokens", () => {
+    expect(domesticEventSimilarity(new Set(["日"]), new Set(["日에"]))).toBe(0);
+    expect(domesticEventSimilarity(new Set(["한"]), new Set(["한곳에"]))).toBe(0);
+  });
+
+  it("uses identical images only as a same-publisher clustering signal", () => {
+    const image = "https://cdn.example.com/shared.jpg";
+    const first = candidate("근현대 미술자료 디지털화 추진", {
+      sourceDomain: "news.example.com",
+      url: "https://news.example.com/a",
+      image,
+    });
+    const unrelated = candidate("추경호 대구시장 현장 점검", {
+      sourceDomain: "m.example.com",
+      url: "https://m.example.com/b",
+      image,
+    });
+    expect(clusterDomesticArticles([first, unrelated])).toHaveLength(1);
+
+    const otherPublisher = { ...unrelated, sourceDomain: "other.test", url: "https://other.test/b" };
+    expect(clusterDomesticArticles([first, otherPublisher])).toHaveLength(2);
+
+    const nullImage = { ...unrelated, image: null, url: "https://m.example.com/null" };
+    expect(clusterDomesticArticles([{ ...first, image: null }, nullImage])).toHaveLength(2);
   });
 
   it("separates the Gwangju museum release from an unrelated Incheon docent story", () => {

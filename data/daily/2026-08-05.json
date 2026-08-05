@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T10:22:13.951+09:00",
+  "generatedAt": "2026-08-05T10:32:45.883+09:00",
   "briefing": {
     "headline": "오늘은 시장 신호가 가장 두드러집니다.",
     "distribution": {
@@ -51,15 +51,15 @@
       },
       {
         "rank": 2,
-        "score": 54,
+        "score": 66,
         "category": "museum",
         "title": "국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구",
         "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관이 도쿄문화재연구소와 일본에 남아 있는 한국 근현대미술 자료를 발굴해 조사하는 공동 연구에 나선다...",
         "url": "https://www.yna.co.kr/view/AKR20260803031800005",
         "source": "연합뉴스",
         "publishedAt": "2026-08-03T00:19:53.000Z",
-        "coverage": 5,
-        "qualityCoverage": 2,
+        "coverage": 7,
+        "qualityCoverage": 3,
         "resolved": true,
         "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg"
       },
@@ -86,24 +86,24 @@
         "url": "https://www.donga.com/news/amp/all/20260804/134415523/2",
         "source": "동아일보",
         "publishedAt": "2026-08-03T19:30:00.000Z",
-        "coverage": 2,
+        "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
         "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg"
       },
       {
         "rank": 5,
-        "score": 44,
+        "score": 42,
         "category": "general",
-        "title": "日 소장 韓 근현대 미술 자료 한곳에…디지털 아카이브 구축 나선다",
-        "summary": "일본에 흩어져 있는 한국의 근현대 미술 자료들을 디지털로 정리하는 대형 프로젝트가 추진된다. 국립현대미술관(MMCA)은 3일 일본 도쿄문화재연구소와 한국 근현대 미술 연구 및 한일 미술 교류사 연구를 위한 업무협약(MOU)을 체결했다 며 2026년…",
-        "url": "https://www.donga.com/news/amp/all/20260803/134413070/1",
-        "source": "동아일보",
-        "publishedAt": "2026-08-03T06:43:00.000Z",
+        "title": "성동미술협회, 문화예술 축제의 새로운 시작 '2026 서울숲 국제 아트 페스타' 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xblZvMll2eURobWdHZnBBSThCbW5qTlpROVRHRUlqUUVIMXdNb0Z1a0RKX1VWbEdlc3RfSFdjUGM5ZG1wMzlXbkhhc082X1lzdXJsNW5vdmh0azVwZjczVnN1NlJzeWhfT1FRX1NB?oc=5",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-04T12:54:35.000Z",
         "coverage": 1,
         "qualityCoverage": 1,
-        "resolved": true,
-        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg"
+        "resolved": false,
+        "image": null
       }
     ]
   },
