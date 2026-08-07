@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T08:08:42.972+09:00",
+  "briefing": {
+    "headline": "오늘은 기관 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "focus": [
+      {
+        "title": "발레리 힐링스, 구겐하임 아부다비 초대 관장으로 임명",
+        "why": "5개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "eBay 이후 20년 만에 '악마는 프라다를 입는다' 의상이 이번에는 크리스티 경매에 다시 등장합니다.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "이탈리아의 거대한 핵 벙커는 곧 냉전 박물관이 될 것입니다",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 2,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 65,
+        "category": "museum",
+        "title": "'이대원 회고전' 설명하는 배원정 국립현대미술관 학예연구사",
+        "summary": "[서울=뉴시스] 박진희 기자 = 국립현대미술관은 한국 근현대미술을 대표하는 화가 이대원의 회고전 '이대원: 당신을 슬프게 하는 것은 하나도 없다' 기자간담회를 5일 서울 중구 국립현대미술관 덕수궁에서 갖고 작품 '인왕산'(오른쪽)을 선보이고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISI20260805_0021389083",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-05T04:51:58.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/05/NISI20260805_0021389083_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 62,
+        "category": "museum",
+        "title": "겸재정선미술관, 유근택 개인전 ‘숨’ 개최…30년 예술세계 한눈에",
+        "summary": "서울 강서구 겸재정선미술관이 현대 한국화를 대표하는 유근택 작가의 지난 30년간 작품 세계를 조망하는 개인전을 선보인다. 7일 강서구에 따르면 겸재정선미술관은 오는 10월 22일까지 유근택 작가의 개인전 ‘숨(Breath)’을 개최한다. 이번 전시에서는 초기작부터 최신",
+        "url": "https://www.munhwa.com/article/11607853",
+        "source": "문화일보",
+        "publishedAt": "2026-08-06T21:38:24.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 60,
+        "category": "artist",
+        "title": "“나는 무엇을 하다 죽을까”…최은영, 인사동 제주갤러리 개인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = \"나는 무엇을 하다 죽을까",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260807_0003739908",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-06T23:50:09.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 52,
+        "category": "general",
+        "title": "공기반 빛반…이대원이 그린 생의 찬미[박현주 아트에세이 ㉚]",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 서두르지 않는다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260807_0003740774",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-07T15:06:24.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207044_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 46,
+        "category": "artist",
+        "title": "갤러리 나우, 이동기 개인전 'Nothing is Forever'",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oelc4NE02ZjVKREdrd1YzT190Y3oxV3N0dzB5R2d4bUlIc0swZGtOMEhBYzd5T3J5dUQwd1p1YVFBRW5ZbFZWWG1BSmJCYXNEaDg2RmdtTDFqNHFWMmN0dVdYVkJiWmJaU3FSMWFn?oc=5",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-07T11:55:44.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "cbd0e2ed2c0e",
+      "rank": 1,
+      "score": 108,
+      "category": "museum",
+      "titleOriginal": "Valerie Hillings appointed inaugural director of Guggenheim Abu Dhabi",
+      "titleKo": "발레리 힐링스, 구겐하임 아부다비 초대 관장으로 임명",
+      "summaryKo": "현재 노스캐롤라이나 미술관 관장인 힐링스는 2009년부터 2018년까지 아부다비 프로젝트에 참여했습니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/05/valerie-hillings-appointed-inaugural-director-of-guggenheim-abu-dhabi",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-05T10:04:41.000Z",
+      "coverage": 5,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/5cd5ebcbdfbea7cf06ce7a8b0bedfa2c12ee4c06-1600x2400.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "432b0949d750",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "titleOriginal": "20 Years After eBay, ‘The Devil Wears Prada’ Costumes Are Back at Auction, This Time at Christie’s",
+      "titleKo": "eBay 이후 20년 만에 '악마는 프라다를 입는다' 의상이 이번에는 크리스티 경매에 다시 등장합니다.",
+      "summaryKo": "2006년에 그녀는 첫 번째 영화의 의상을 경매하는 아이디어를 내놓았고, 의상 중 일부는 eBay에서 판매되어 Dress for Success에 도움이 되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/devil-wears-prada-2-costumes-christies-auction-1234794548",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T18:59:17.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.07.03-PM.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f20b82225d93",
+      "rank": 3,
+      "score": 74,
+      "category": "museum",
+      "titleOriginal": "Sprawling Nuclear Bunker in Italy Will Soon Be a Cold War Museum",
+      "titleKo": "이탈리아의 거대한 핵 벙커는 곧 냉전 박물관이 될 것입니다",
+      "summaryKo": "이 부지에는 길이가 0.5마일이 넘는 터널 네트워크로 연결된 약 100개의 방이 있습니다.",
+      "url": "https://www.artnews.com/art-news/news/nuclear-bunker-italy-museum-1234794544",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T18:25:01.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/bunker.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "479eb4a1753d",
+      "rank": 4,
+      "score": 69,
+      "category": "general",
+      "titleOriginal": "Uffizi Unveils Plans for $58 Million Transformation",
+      "titleKo": "우피치, 5,800만 달러 규모의 변화 계획 공개",
+      "summaryKo": "피렌체의 우피치 미술관은 2년에 걸쳐 수행할 것으로 예상되는 5천만 유로(5천8백만 달러)의 복원 계획을 발표했습니다. 개조 공사에는 우피치 미술관, 피티 궁전, 보볼리 정원이 포함됩니다. 다양한 프로젝트에 대한 작업이 이미 시작되었으며 시차를 두고 있습니다.",
+      "url": "https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T20:45:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a9b6b5448bd4",
+      "rank": 5,
+      "score": 69,
+      "category": "general",
+      "titleOriginal": "New York Socialite Tracey Amon Asks Court to Compel Advisor Sandy Heller to Turn Over Papers Connected to Late Ex-Husband’s Art Collection",
+      "titleKo": "뉴욕 사교계 명사 Tracey Amon, 고문 Sandy Heller에게 고인이 된 전남편의 예술 컬렉션과 관련된 서류를 넘겨달라고 법원에 요청",
+      "summaryKo": "모리스 알랭 아몬(Maurice Alain Amon)의 사망 당시 재산은 약 6억 달러(약 6억 6,000억 원)에 달하는 것으로 알려졌다.",
+      "url": "https://www.artnews.com/art-news/news/tracey-amon-court-sandy-heller-papers-art-collection-1234794582",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T22:49:29.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Maurice-Amon-Tracey-Amon.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
