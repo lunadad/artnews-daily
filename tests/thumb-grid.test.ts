@@ -7,6 +7,7 @@ const item = (rank: number, image: string | null): NewsItem => ({
   rank,
   score: 100 - rank,
   category: "general",
+  articleType: "news",
   titleOriginal: `Story ${rank}`,
   titleKo: `기사 ${rank}`,
   summaryKo: `요약 ${rank}`,
