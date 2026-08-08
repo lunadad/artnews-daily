@@ -3,7 +3,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
-import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, type DomesticScoredCluster } from "../lib/domestic";
+import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, selectDomesticTopFive, type DomesticScoredCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
 import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
@@ -25,6 +25,11 @@ function kstIso(date = new Date()): string {
 
 function cleanText(html: string): string {
   return html.replace(/<[^>]+>/g, " ").replace(/&[a-z#0-9]+;/gi, " ").replace(/\s+/g, " ").trim();
+}
+
+function extractArticleText(html: string): string {
+  const withoutNonContent = html.replace(/<(script|style|noscript|svg)\b[^>]*>[\s\S]*?<\/\1>/gi, " ");
+  return cleanText(decodeEntities(withoutNonContent));
 }
 
 async function fetchText(url: string, timeoutMs = 12_000): Promise<string> {
@@ -112,6 +117,7 @@ async function enrichDomesticClusters(clusters: DomesticScoredCluster[]): Promis
     const resolution = await resolveGoogleNewsUrl(representative.url);
     let summary: string | undefined;
     let image: string | null = null;
+    let articleText: string | undefined;
     if (resolution.resolved) {
       try {
         const html = await fetchText(resolution.url, 8_000);
@@ -119,11 +125,12 @@ async function enrichDomesticClusters(clusters: DomesticScoredCluster[]): Promis
         const cleaned = description ? cleanText(decodeEntities(description)).slice(0, 300) : "";
         summary = cleaned || undefined;
         image = extractImageUrl(html, resolution.url);
+        articleText = extractArticleText(html);
       } catch {
         // A missing or blocked article page must not prevent the domestic briefing.
       }
     }
-    const enriched = { ...representative, url: resolution.url, resolved: resolution.resolved, summary, image };
+    const enriched = { ...representative, url: resolution.url, resolved: resolution.resolved, summary, image, articleText };
     const index = cluster.articles.indexOf(representative);
     if (index >= 0) cluster.articles[index] = enriched;
     cluster.representative = enriched;
@@ -151,12 +158,10 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
   // signal can merge reports whose titles alone are not similar enough.
   const enriched = clusterDomesticArticles(preliminary.flatMap((cluster) => cluster.articles))
     .map((articles) => scoreDomesticCluster(articles, now));
-  const resolvedExcluded = enriched.filter((cluster) => isDomesticHardExcluded(cluster.representative));
-  if (resolvedExcluded.length) console.log(`[domestic stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((cluster) => cluster.representative.title).join(" | ")}`);
-  const rescored = enriched
-    .filter((cluster) => !isDomesticHardExcluded(cluster.representative))
-    .map((cluster) => scoreDomesticCluster(cluster.articles, now));
-  const top = selectTopFive(rescored) as DomesticScoredCluster[];
+  const enrichedArticles = enriched.flatMap((cluster) => cluster.articles);
+  const resolvedExcluded = enrichedArticles.filter(isDomesticHardExcluded);
+  if (resolvedExcluded.length) console.log(`[domestic stage 5] hard-excluded after URL resolution: ${resolvedExcluded.map((item) => item.title).join(" | ")}`);
+  const top = selectDomesticTopFive(enrichedArticles, now);
   const items: DomesticItem[] = top.map((cluster, index) => {
     const item = cluster.representative;
     return {

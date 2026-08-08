@@ -1,4 +1,4 @@
-import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, normalizeUrl, type ArticleCandidate, type ScoredCluster } from "./score";
+import { categoryPoints, freshnessPoints, KEYWORD_POINTS_CAP, normalizeUrl, selectTopFive, type ArticleCandidate, type ScoredCluster } from "./score";
 import { INSTITUTION_NOTICE_PHRASES, registrableDomain } from "./sources";
 import type { Category, DomesticItem } from "./types";
 
@@ -51,6 +51,11 @@ const PRODUCT_PR_TOKENS = [
 ] as const;
 
 const PRODUCT_PR_ART_EXCEPTIONS = ["경매", "낙찰", "전시", "미술관", "비엔날레"] as const;
+
+const PHOTO_CAPTION_TITLE_PATTERN = /^['"]?[^'"]{0,40}(?:전|展)['"]?\s*(?:설명하는|살펴보는|관람하는|둘러보는|감상하는|보여주는|선보이는|안내하는|취재진에게)/;
+const PHOTO_POSITION_PATTERN = /\((?:오른쪽|왼쪽|가운데)\)/;
+const PHOTO_WIRE_END_PATTERN = /\d{4}\.\d{2}\.\d{2}\.\s*[\w.]+@(newsis|yna|news1)\.(com|co\.kr)\s*$/i;
+const PHOTO_CAPTION_MAX_LENGTH = 1_500;
 
 const DOMESTIC_DOMAIN_WEIGHTS: Record<string, number> = {
   "chosun.com": 26,
@@ -156,10 +161,19 @@ function blockedDomain(input: string): boolean {
   return BLOCKED_DOMAINS.some((domain) => hostname === domain || hostname.endsWith(`.${domain}`));
 }
 
-export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "source" | "sourceDomain" | "summary">): boolean {
+export function isDomesticPhotoCaption(title: string, articleText?: string): boolean {
+  if (!PHOTO_CAPTION_TITLE_PATTERN.test(title) || articleText === undefined) return false;
+  const text = articleText.trim();
+  return PHOTO_POSITION_PATTERN.test(text)
+    || PHOTO_WIRE_END_PATTERN.test(text)
+    || text.length < PHOTO_CAPTION_MAX_LENGTH;
+}
+
+export function isDomesticHardExcluded(item: Pick<ArticleCandidate, "title" | "url" | "source" | "sourceDomain" | "summary" | "articleText">): boolean {
   const title = item.title.toLowerCase();
   const context = `${item.title} ${item.summary ?? ""}`.toLowerCase();
   if (/^\s*\[(?:생생갤러리|포토|사진|영상|화보|오늘의 사진)\]/.test(item.title)) return true;
+  if (isDomesticPhotoCaption(item.title, item.articleText)) return true;
   if (INSTITUTION_NOTICE_PHRASES.some((phrase) => context.includes(phrase))) return true;
   if (item.source.trim() === "주달") return true;
   if (BLOCKED_SOURCE_NAMES.some((name) => item.source.toLowerCase().includes(name.toLowerCase()))) return true;
@@ -250,6 +264,12 @@ export function scoreDomesticCluster(articles: ArticleCandidate[], now = new Dat
     - domesticNoticePenalty(representative.title)
     - domesticSourceFloorPenalty(qualityCoverage);
   return { representative, articles, coverage, qualityCoverage, score: Math.max(0, score) };
+}
+
+export function selectDomesticTopFive(items: ArticleCandidate[], now = new Date()): DomesticScoredCluster[] {
+  const scored = clusterDomesticArticles(filterDomesticCandidates(items))
+    .map((articles) => scoreDomesticCluster(articles, now));
+  return selectTopFive(scored) as DomesticScoredCluster[];
 }
 
 export function createDomesticHeadline(items: DomesticItem[]): string {

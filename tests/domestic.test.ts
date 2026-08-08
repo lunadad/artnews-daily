@@ -14,7 +14,9 @@ import {
   domesticSourceWeight,
   filterDomesticCandidates,
   isDomesticHardExcluded,
+  isDomesticPhotoCaption,
   scoreDomesticCluster,
+  selectDomesticTopFive,
 } from "@/lib/domestic";
 import { selectTopFive, type ArticleCandidate } from "@/lib/score";
 import { DailyDataSchema, DomesticItemSchema } from "@/lib/types";
@@ -175,6 +177,20 @@ describe("domestic art news", () => {
     expect(isDomesticHardExcluded(candidate("[생생갤러리] AI영상으로 새롭게 단장한 대한제국실"))).toBe(true);
   });
 
+  it("hard-excludes a narrative photo caption only when article-text evidence agrees", () => {
+    const captionTitle = "'이대원 회고전' 설명하는 배원정 국립현대미술관 학예연구사";
+    const captionBody = "국립현대미술관은 이대원 작품 '인왕산'(오른쪽)을 선보이고 있다. 2026.08.05. pak7130@newsis.com";
+    expect(isDomesticPhotoCaption(captionTitle, captionBody)).toBe(true);
+    expect(isDomesticHardExcluded(candidate(captionTitle, { articleText: captionBody }))).toBe(true);
+
+    const essayTitle = "공기반 빛반…이대원이 그린 생의 찬미[박현주 아트에세이 ㉚]";
+    expect(isDomesticHardExcluded(candidate(essayTitle, { articleText: "정상 칼럼 본문 ".repeat(300) }))).toBe(false);
+    expect(isDomesticHardExcluded(candidate(captionTitle, { articleText: "정상 기사 본문 ".repeat(250) }))).toBe(false);
+    expect(isDomesticHardExcluded(candidate("국립현대미술관, 도쿄문화재연구소와 한일 미술교류사 공동 연구", {
+      articleText: "공동 연구의 배경과 계획을 설명하는 정상 기사 본문",
+    }))).toBe(false);
+  });
+
   it("classifies a gallery solo-show notice outside market", () => {
     expect(classifyDomesticCategory('정순이 개인전 "시간으로의 여행" 인사아트센터 G&J갤러리')).toBe("artist");
   });
@@ -186,6 +202,40 @@ describe("domestic art news", () => {
     expect(domesticSourceWeight("seoul.co.kr")).toBe(26);
     expect(domesticSourceWeight("artkoreatv.com")).toBe(18);
     expect(domesticSourceWeight("sj-ccnews.com")).toBe(8);
+  });
+
+  it("prioritizes a major daily over a local source in the domestic top-five selection pipeline", () => {
+    const now = new Date("2026-08-02T03:00:00Z");
+    const selected = selectDomesticTopFive([
+      candidate("김환기 미술 세계의 새로운 해석", { source: "조선일보", sourceDomain: "chosun.com", url: "https://chosun.com/a" }),
+      candidate("박수근 미술 드로잉 최초 공개", { source: "지역일보", sourceDomain: "local.test", url: "https://local.test/b" }),
+    ], now);
+    expect(selected.map((cluster) => cluster.representative.source)).toEqual(["조선일보", "지역일보"]);
+  });
+
+  it("orders major daily, wire service, and broadcaster by domestic source priority", () => {
+    const now = new Date("2026-08-02T03:00:00Z");
+    const selected = selectDomesticTopFive([
+      candidate("김환기 미술 세계 재조명", { source: "조선일보", sourceDomain: "chosun.com", url: "https://chosun.com/a" }),
+      candidate("박수근 미술 자료 첫 공개", { source: "연합뉴스", sourceDomain: "yna.co.kr", url: "https://yna.co.kr/b" }),
+      candidate("백남준 미술 아카이브 구축", { source: "KBS", sourceDomain: "news.kbs.co.kr", url: "https://news.kbs.co.kr/c" }),
+    ], now);
+    expect(selected.map((cluster) => cluster.representative.source)).toEqual(["조선일보", "연합뉴스", "KBS"]);
+  });
+
+  it("keeps a major-daily exclusive ahead of low-quality three-source syndication", () => {
+    const now = new Date("2026-08-02T03:00:00Z");
+    const selected = selectDomesticTopFive([
+      candidate("김환기 미술 세계 심층 분석", { source: "조선일보", sourceDomain: "chosun.com", url: "https://chosun.com/exclusive" }),
+      ...["alpha.local", "beta.local", "gamma.local"].map((sourceDomain) => candidate("지역 미술 조각전 순회 개최", {
+        source: sourceDomain,
+        sourceDomain,
+        url: `https://${sourceDomain}/syndicated`,
+      })),
+    ], now);
+    expect(selected[0].representative.source).toBe("조선일보");
+    expect(selected[0].qualityCoverage).toBe(1);
+    expect(selected[1]).toMatchObject({ coverage: 3, qualityCoverage: 0 });
   });
 
   it("uses quality-weighted coverage for bonuses and the no-quality penalty", () => {
@@ -255,7 +305,8 @@ describe("domestic art news", () => {
   });
 
   it("parses historical daily JSON without the optional domestic field", async () => {
-    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-01.json", import.meta.url), "utf8"));
+    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-02.json", import.meta.url), "utf8"));
+    delete historical.domestic;
     const parsed = DailyDataSchema.parse(historical);
     expect(parsed.domestic).toBeUndefined();
     expect(parsed.top5).toHaveLength(5);

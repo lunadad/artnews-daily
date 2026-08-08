@@ -24,6 +24,7 @@ export interface ArticleCandidate {
   category: Category;
   image: string | null;
   summary?: string;
+  articleText?: string;
 }
 
 export interface ScoredCluster {
