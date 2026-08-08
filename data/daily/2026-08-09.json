@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T08:01:11.585+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "eBay 이후 20년 만에 '악마는 프라다를 입는다' 의상이 이번에는 크리스티 경매에 다시 등장합니다.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "구겐하임 아부다비의 초대 관장으로 발레리 힐링스 임명",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "화이트 큐브 뉴욕, 최고 이사 3명 잃었다",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 2,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 60,
+        "category": "museum",
+        "title": "수원시립미술관, 12일 합창단 공연 및 무료 전시",
+        "summary": "[수원=뉴시스] 양효원 기자 = 경기 수원시립미술관은 8월 '문화가 있는 날' 일환으로 무료 전시와 수원시립합창단의 찾아가는 음악회를 연다고 8일 밝혔다.오는 12일 오전 11시 수원시립미술관 행궁 본관 로비에서 수원시립합창단의 찾아가는 음악회 '미술관에서 보내는 여름방학'을 진행한다. 음악회는 무료로 열리며 누구나 현장에서 자유롭게 감상할 수 있다.음악회..",
+        "url": "https://www.newsis.com/view/NISX20260807_0003740107",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-08T01:00:00.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206624_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 56,
+        "category": "museum",
+        "title": "겸재정선미술관, 유근택 개인전 ‘숨’ 개최…30년 예술세계 한눈에",
+        "summary": "서울 강서구 겸재정선미술관이 현대 한국화를 대표하는 유근택 작가의 지난 30년간 작품 세계를 조망하는 개인전을 선보인다. 7일 강서구에 따르면 겸재정선미술관은 오는 10월 22일까지 유근택 작가의 개인전 ‘숨(Breath)’을 개최한다. 이번 전시에서는 초기작부터 최신",
+        "url": "https://www.munhwa.com/article/11607853",
+        "source": "문화일보",
+        "publishedAt": "2026-08-06T21:38:24.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 54,
+        "category": "artist",
+        "title": "“나는 무엇을 하다 죽을까”…최은영, 인사동 제주갤러리 개인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = \"나는 무엇을 하다 죽을까",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260807_0003739908",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-06T23:50:09.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 46,
+        "category": "artist",
+        "title": "박삼화 작가, 은방울꽃에 담아낸 영원한 행복과 위로",
+        "summary": "[아트코리아방송 = 김한정 기자] 인사동의 여름을 예술적 열기로 물들이는 '2026 제7회 인사동 아리랑미술제'가 2026년 8월 5일부터 8월 10일까지 서울 종로구 인사동 갤러리 라메르 4관에서 열리고 있다.이번 미술제는 '아리랑 미술 공모대전', '아리랑 예술 명인전', '아리랑",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=103802",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-08T16:00:46.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103802_331281_5959_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "general",
+        "title": "미디어아트가 재미없다고? 이 '원형 극장'에선 발 묶인다",
+        "summary": "미디어아트가 재미없다고? 이 '원형 극장'에선 발 묶인다, 영상설치 작가 함양아 아트선재센터 개인전",
+        "url": "https://www.hankyung.com/article/202607317291i",
+        "source": "한국경제",
+        "publishedAt": "2026-08-06T23:55:32.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202607/01.45265695.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "432b0949d750",
+      "rank": 1,
+      "score": 73,
+      "category": "market",
+      "titleOriginal": "20 Years After eBay, ‘The Devil Wears Prada’ Costumes Are Back at Auction, This Time at Christie’s",
+      "titleKo": "eBay 이후 20년 만에 '악마는 프라다를 입는다' 의상이 이번에는 크리스티 경매에 다시 등장합니다.",
+      "summaryKo": "2006년에 그녀는 첫 번째 영화의 의상을 경매하는 아이디어를 내놓았고, 의상 중 일부는 eBay에서 판매되어 Dress for Success에 도움이 되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/devil-wears-prada-2-costumes-christies-auction-1234794548",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T18:59:17.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.07.03-PM.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cbd0e2ed2c0e",
+      "rank": 2,
+      "score": 66,
+      "category": "museum",
+      "titleOriginal": "Valerie Hillings appointed inaugural director of Guggenheim Abu Dhabi",
+      "titleKo": "구겐하임 아부다비의 초대 관장으로 발레리 힐링스 임명",
+      "summaryKo": "현재 노스캐롤라이나 미술관 관장인 힐링스는 2009년부터 2018년까지 아부다비 프로젝트에 참여했습니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/05/valerie-hillings-appointed-inaugural-director-of-guggenheim-abu-dhabi",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-05T10:04:41.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/5cd5ebcbdfbea7cf06ce7a8b0bedfa2c12ee4c06-1600x2400.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "042b654b5bd6",
+      "rank": 3,
+      "score": 66,
+      "category": "museum",
+      "titleOriginal": "White Cube New York Loses Three Top Directors",
+      "titleKo": "화이트 큐브 뉴욕, 최고 이사 3명 잃었다",
+      "summaryKo": "3명의 스타 감독이 화이트 큐브의 뉴욕 갤러리와 관계를 끊었다고 아트넷 뉴스가 보도했습니다. 코트니 윌리스 블레어(Courtney Willis Blair), 수칸야 라자라트남(Sukanya Rajaratnam), 제시 워시번-해리스(Jessie Washburne-Harris) 등 3인조는 탈퇴 이유를 다양하게 제시했다. 뉴스는 David Zwirner 및 Pace와 같은 강자들과 함께 코호트와 함께 제공됩니다.",
+      "url": "https://www.artforum.com/news/white-cube-new-york-loses-three-star-directors-1234756678",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-07T20:40:49.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/1002-Madison-Avenue-683x1024_Crop.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f19f1e77662a",
+      "rank": 4,
+      "score": 64,
+      "category": "market",
+      "titleOriginal": "Collector Bernardo Paz plans new museum in Brazil next-door to Inhotim",
+      "titleKo": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
+      "summaryKo": "더 이상 Inhotim과 관련이 없지만 Paz는 식물 풍경에서 예술 전시관 모델을 부활시키는 것으로 보입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/bernardo-paz-inhotim-founder-new-museum-next-door",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T16:57:17.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "64f9c2407262",
+      "rank": 5,
+      "score": 57,
+      "category": "market",
+      "titleOriginal": "Dia Azzawi donates work to charity auction supporting displaced people in Lebanon",
+      "titleKo": "Dia Azzawi는 레바논의 실향민을 지원하는 자선 경매에 작품을 기부합니다.",
+      "summaryKo": "런던에 거주하는 이라크 예술가와 아랍 세계의 다른 예술가 29명의 작품은 베이루트와 그 외 지역에서 활동하는 인도주의 단체를 돕기 위해 판매될 예정입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/27/dia-azzawi-donates-work-to-charity-auction-supporting-displaced-people-in-lebanon",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-27T15:46:37.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/f0e166159b511cd290412cdac96d1c8746b7c4fa-5120x3196.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
