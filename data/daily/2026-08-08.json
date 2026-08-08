@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-08T12:21:08.130+09:00",
+  "generatedAt": "2026-08-08T12:28:50.806+09:00",
   "briefing": {
     "headline": "오늘은 기관 신호가 가장 두드러집니다.",
     "distribution": {
@@ -79,27 +79,27 @@
       },
       {
         "rank": 4,
-        "score": 48,
-        "category": "general",
-        "title": "공기반 빛반…이대원이 그린 생의 찬미[박현주 아트에세이 ㉚]",
-        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 서두르지 않는다",
-        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260807_0003740774",
-        "source": "뉴시스",
-        "publishedAt": "2026-08-07T15:06:24.000Z",
-        "coverage": 1,
-        "qualityCoverage": 1,
-        "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002207044_web.jpg"
-      },
-      {
-        "rank": 5,
-        "score": 45,
+        "score": 50,
         "category": "artist",
         "title": "“신작 회화 연작 첫 공개”…써저리, 존 버거맨 개인전 개최",
         "summary": "",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHQmRwTTVaRTN6ZmpTMUp6ekVJTEdVSE4zUG9jeFNtV2tJY3phRGYxOEpRcVpQUDFtcVBRWWl5bXduU2dFNGc?oc=5",
+        "url": "https://m.mk.co.kr/amp/12121226",
         "source": "매일경제",
         "publishedAt": "2026-08-07T09:52:07.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.c43cf55729c241deac01e73b36850dd2_R.png"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "general",
+        "title": "공기반 빛반…이대원이 그린 생의 찬미[박현주 아트에세이 ㉚]",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWNVNSNWUxSnhnbkd4R3E3M2xtN1dDRk1RdlRvUUpSQlZxZHUwQzN5bi1IR1VZNnZiLS1tYmY4WkJnM1h6NWpKN29PbXNvc1g2TmIwWnlCbnR2UHczRjc0cjY4MlR6Z1pNa29FRkdqdjJJcXU3Wjhfd9IBeEFVX3lxTFBWNVNSNWUxSnhnbkd4R3E3M2xtN1dDRk1RdlRvUUpSQlZxZHUwQzN5bi1IR1VZNnZiLS1tYmY4WkJnM1h6NWpKN29PbXNvc1g2TmIwWnlCbnR2UHczRjc0cjY4MlR6Z1pNa29FRkdqdjJJcXU3Wjhfdw?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-07T15:06:24.000Z",
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": false,

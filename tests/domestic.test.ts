@@ -66,7 +66,7 @@ describe("domestic art news", () => {
     expect(clusters).toHaveLength(1);
     const scored = scoreDomesticCluster(clusters[0]);
     expect(scored.coverage).toBe(3);
-    expect(scored.representative.source).toBe("뉴시스");
+    expect(scored.representative.source).toBe("한국경제");
   });
 
   it("does not merge any pair among unrelated domestic fixtures", () => {
@@ -200,6 +200,7 @@ describe("domestic art news", () => {
     expect(domesticSourceWeight("yna.co.kr")).toBe(24);
     expect(domesticSourceWeight("news.kbs.co.kr")).toBe(20);
     expect(domesticSourceWeight("seoul.co.kr")).toBe(26);
+    expect(domesticSourceWeight("mk.co.kr")).toBe(26);
     expect(domesticSourceWeight("artkoreatv.com")).toBe(18);
     expect(domesticSourceWeight("sj-ccnews.com")).toBe(8);
   });
@@ -221,6 +222,16 @@ describe("domestic art news", () => {
       candidate("백남준 미술 아카이브 구축", { source: "KBS", sourceDomain: "news.kbs.co.kr", url: "https://news.kbs.co.kr/c" }),
     ], now);
     expect(selected.map((cluster) => cluster.representative.source)).toEqual(["조선일보", "연합뉴스", "KBS"]);
+  });
+
+  it("gives an economic daily the same top-tier weight as a general daily", () => {
+    const now = new Date("2026-08-02T03:00:00Z");
+    const selected = selectDomesticTopFive([
+      candidate("김환기 미술 세계 재조명", { source: "조선일보", sourceDomain: "chosun.com", url: "https://chosun.com/a" }),
+      candidate("박수근 미술 자료 첫 공개", { source: "매일경제", sourceDomain: "mk.co.kr", url: "https://mk.co.kr/b" }),
+    ], now);
+    expect(selected.map((cluster) => cluster.score)).toEqual([58, 58]);
+    expect(selected.map((cluster) => domesticSourceWeight(cluster.representative.sourceDomain))).toEqual([26, 26]);
   });
 
   it("keeps a major-daily exclusive ahead of low-quality three-source syndication", () => {
