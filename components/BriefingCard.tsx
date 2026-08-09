@@ -2,6 +2,7 @@ import { CATEGORY_LABELS } from "@/lib/briefing";
 import type { Category, DomesticData } from "@/lib/types";
 import { DomesticThumbnail } from "./DomesticThumbnail";
 import { formatRelativeTime } from "./time";
+import { ArticleTypeBadge } from "./ArticleTypeBadge";
 
 export function BriefingCard({ domestic, now }: { domestic: DomesticData; now: string }) {
   if (!domestic.items.length) return null;
@@ -18,7 +19,7 @@ export function BriefingCard({ domestic, now }: { domestic: DomesticData; now: s
         <ol className="mt-5 divide-y divide-border border-t border-border">{domestic.items.map((item) => {
           const relativeTime = formatRelativeTime(item.publishedAt, now);
           const sourceDetails = [item.source, relativeTime, (item.qualityCoverage ?? 0) >= 2 ? `${item.qualityCoverage}개 매체` : null].filter(Boolean).join(" · ");
-          return <li key={`${item.rank}-${item.url}`} className="flex gap-3 py-4 text-sm leading-relaxed"><span className="font-black text-accent">{item.rank}</span><DomesticThumbnail image={item.image} title={item.title} url={item.url} /><div className="min-w-0 flex-1"><a href={item.url} target="_blank" rel="noreferrer" className="font-semibold hover:text-accent">{item.title}</a>{item.summary ? <p className="mt-1 text-foreground-subtle">{item.summary}</p> : null}<p className="mt-1 flex flex-wrap items-center gap-1.5 text-xs text-foreground-muted"><span className="rounded-full bg-tag-bg px-2 py-0.5 font-semibold text-tag-foreground">{CATEGORY_LABELS[item.category]}</span><span>{sourceDetails}</span></p></div></li>;
+          return <li key={`${item.rank}-${item.url}`} className="flex gap-3 py-4 text-sm leading-relaxed"><span className="font-black text-accent">{item.rank}</span><DomesticThumbnail image={item.image} title={item.title} url={item.url} /><div className="min-w-0 flex-1"><a href={item.url} target="_blank" rel="noreferrer" className="font-semibold hover:text-accent">{item.title}</a>{item.summary ? <p className="mt-1 text-foreground-subtle">{item.summary}</p> : null}<p className="mt-1 flex flex-wrap items-center gap-1.5 text-xs text-foreground-muted"><span className="rounded-full bg-tag-bg px-2 py-0.5 font-semibold text-tag-foreground">{CATEGORY_LABELS[item.category]}</span><ArticleTypeBadge type={item.articleType} /><span>{sourceDetails}</span></p></div></li>;
         })}</ol>
       </div>
     </section>
