@@ -185,6 +185,7 @@ LLM 없이 규칙 기반으로 3부 구성:
       "rank": 1,
       "score": 87,
       "category": "market",
+      "articleType": "news",
       "titleOriginal": "Sotheby's...",
       "titleKo": "소더비...",
       "summaryKo": "한 줄 요약(번역·정제)",
@@ -280,12 +281,18 @@ LLM 없이 규칙 기반으로 3부 구성:
   "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
   "distribution": { "market": 2, "museum": 2, "artist": 1, "fair": 0, "general": 0 },
   "items": [
-    { "rank": 1, "score": 78, "category": "market", "title": "...", "summary": "...", "url": "https://...", "source": "...", "publishedAt": "...", "coverage": 2, "resolved": true, "image": "https://..." }
+    { "rank": 1, "score": 78, "category": "market", "articleType": "news", "title": "...", "summary": "...", "url": "https://...", "source": "...", "publishedAt": "...", "coverage": 2, "resolved": true, "image": "https://..." }
   ]
 }
 ```
 
 `domestic`과 `domestic.items[].image`는 과거 JSON 호환을 위해 optional이다. `domestic`이나 항목이 없으면 UI에서 국내 브리핑 섹션만 생략하며, 항목의 `image`가 없으면 썸네일 칸 자체를 생략한 기존 텍스트 레이아웃으로 렌더한다. 국제 `briefing`은 계속 생성·보관하되 화면에는 렌더하지 않는다.
+
+### 4-9. 기사 유형 분류
+
+최종 선정된 국제 `top5`와 국내 `domestic.items`에는 `articleType`을 저장한다. 값과 표시명은 `news`(보도), `analysis`(분석), `interview`(인터뷰), `review`(리뷰), `pr`(PR), `event`(행사안내)다. 판정 우선순위는 `pr → event → interview → review → analysis → news`이며 한국어·영어 제목 패턴을 결정론적으로 적용한다. 명확한 신호가 없으면 `news`다.
+
+기존 하드 필터 뒤에 분류하므로 제외된 저품질 기사를 되살리지 않는다. 기사 유형은 표시와 주간 집계에만 사용하고 현재 점수·순위·다양성 규칙을 변경하지 않는다. 백필 이전 JSON에서 필드가 없으면 로더가 `news`로 보정하며, `npx tsx scripts/backfill-article-types.ts`는 보관 파일의 누락 필드만 멱등하게 채운다.
 
 ---
 
@@ -315,7 +322,7 @@ GET /api/thumb?u=<encodeURIComponent(원본 URL)>
 
 ```
 ┌ Header (sticky) ────────────────────────────────────┐
-│  [A] 아트 뉴스 / ART NEWS DAILY      홈 브리핑 아카이브 │
+│  [A] 아트 뉴스 / ART NEWS DAILY   홈 브리핑 주간 동향 아카이브 │
 └──────────────────────────────────────────────────────┘
 
   TODAY'S PICKS                      2026년 8월 1일 (금)
@@ -354,7 +361,7 @@ GET /api/thumb?u=<encodeURIComponent(원본 URL)>
 - 모바일: `grid-cols-2 gap-2.5`, 1번 항목 `col-span-2` (와이드 16:9), 나머지 4개 정사각
 - 각 타일: `<a href={url} target="_blank" rel="noreferrer">` + `aria-label={titleKo}`
   - `relative overflow-hidden rounded-2xl bg-surface-muted`, 이미지 `absolute inset-0 h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]`
-  - 제목 오버레이: hover 불가 기기는 하단 45% 이내 그라데이션 위에 제목 1줄(`line-clamp-1`)과 소스명을 항상 표시한다. `@media (hover: hover)` 기기만 `opacity-0`에서 hover/focus 시 노출하고 제목을 2줄(`line-clamp-2`)로 확장한다. 화면 폭이 아니라 입력 장치의 hover 능력으로 분기한다.
+  - 제목 오버레이: hover 불가 기기는 하단 50% 이내 그라데이션 위에 기사 유형 배지, 제목 1줄(`line-clamp-1`), 소스명을 항상 표시한다. `@media (hover: hover)` 기기만 `opacity-0`에서 hover/focus 시 노출하고 제목을 2줄(`line-clamp-2`)로 확장한다. 화면 폭이 아니라 입력 장치의 hover 능력으로 분기한다.
   - `image: null`인 경우: 플레이스홀더 타일 — `bg-surface-muted`에 `text-foreground-subtle` 로 소스명 이니셜 + 항상 보이는 제목(썸네일이 없으니 제목이라도 보여야 링크 목적을 알 수 있음)
   - **접근성**: 시각적으로는 썸네일만이지만 스크린리더에는 항상 제목이 노출된다(`aria-label`). `prefers-reduced-motion` 시 scale 전환 비활성.
 
@@ -394,6 +401,20 @@ GET /api/thumb?u=<encodeURIComponent(원본 URL)>
 - 아카이브 미니 스트립과 카리나 섹션처럼 스크롤 아래의 이미지는 `loading="lazy"` 유지
 - 페이지는 `export const revalidate = 300` (ISR) — 데이터가 파일이므로 재배포 시 갱신되지만, 카리나 push가 반영되도록 짧은 revalidate 유지
 - 다크모드는 `prefers-color-scheme` 자동 (newbook과 동일, 토글 없음)
+
+### 6-7. `/weekly` — 주간 미술계 동향
+
+`data/index.json`의 최근 최대 7일에서 국제 `top5`와 국내 `domestic.items`를 통합하며 카리나는 제외한다. 별도 주간 JSON은 저장하지 않는다. 개별 일별 파일이 없거나 손상되면 해당 날짜만 건너뛰고 유효한 날짜로 리포트를 생성한다.
+
+고정 주제는 경매·시장, 미술관·기관, 전시·회고전, 아트페어·비엔날레, 작가·수상·부고, 갤러리·화랑, 환수·문화재, 법률·정책의 여덟 개다. 제목·요약 신호로 주요 주제 하나와 보조 주제 최대 하나를 정하며 신호가 없으면 기존 카테고리로 폴백한다.
+
+```text
+importance = 주요 주제 score 합 + round(보조 주제 score × 0.5) 합
+trendScore = importance + uniqueDates × 8 + uniqueSources × 4 + crossScopeBonus
+crossScopeBonus = 국제·국내 모두 등장하면 12, 아니면 0
+```
+
+화면은 주간 개요, 핵심 동향 3개, 기사 유형 분포, 전체 주제 순위, 일별 흐름 순서다. 유형 분포는 외부 차트 없이 동일 accent 색의 비율 막대와 `전체·국제·국내·비율` 직접 라벨을 함께 표시해 색상만으로 의미를 전달하지 않는다. 헤더와 사이트맵에 `/weekly`를 포함한다.
 
 ---
 
