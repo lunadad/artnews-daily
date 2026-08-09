@@ -316,7 +316,7 @@ describe("domestic art news", () => {
   });
 
   it("parses historical daily JSON without the optional domestic field", async () => {
-    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-02.json", import.meta.url), "utf8"));
+    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-03.json", import.meta.url), "utf8"));
     delete historical.domestic;
     const parsed = DailyDataSchema.parse(historical);
     expect(parsed.domestic).toBeUndefined();
@@ -324,7 +324,7 @@ describe("domestic art news", () => {
   });
 
   it("parses historical domestic items that have no image field", async () => {
-    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-02.json", import.meta.url), "utf8"));
+    const historical = JSON.parse(await readFile(new URL("../data/daily/2026-08-03.json", import.meta.url), "utf8"));
     const parsed = DailyDataSchema.parse(historical);
     expect(parsed.domestic?.items).toHaveLength(5);
     expect(parsed.domestic?.items.every((item) => item.image === undefined)).toBe(true);
