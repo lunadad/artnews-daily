@@ -3,11 +3,15 @@ import { z } from "zod";
 export const CategorySchema = z.enum(["market", "museum", "fair", "artist", "general"]);
 export type Category = z.infer<typeof CategorySchema>;
 
+export const ArticleTypeSchema = z.enum(["news", "analysis", "interview", "review", "pr", "event"]);
+export type ArticleType = z.infer<typeof ArticleTypeSchema>;
+
 export const NewsItemSchema = z.object({
   id: z.string().min(1),
   rank: z.number().int().positive(),
   score: z.number().nonnegative(),
   category: CategorySchema,
+  articleType: ArticleTypeSchema.default("news"),
   titleOriginal: z.string().min(1),
   titleKo: z.string().min(1),
   summaryKo: z.string(),
@@ -35,6 +39,7 @@ export const DomesticItemSchema = z.object({
   rank: z.number().int().positive(),
   score: z.number().nonnegative(),
   category: CategorySchema,
+  articleType: ArticleTypeSchema.default("news"),
   title: z.string().min(1),
   summary: z.string(),
   url: z.url(),

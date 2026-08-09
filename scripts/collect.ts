@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { classifyArticleType } from "../lib/article-type";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
 import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, selectDomesticTopFive, type DomesticScoredCluster } from "../lib/domestic";
@@ -168,6 +169,7 @@ async function collectDomestic(now: Date): Promise<DomesticData> {
       rank: index + 1,
       score: cluster.score,
       category: item.category,
+      articleType: classifyArticleType({ title: item.title, summary: item.summary ?? "", language: "ko" }),
       title: item.title,
       summary: item.summary ?? "",
       url: normalizeUrl(item.url),
@@ -226,6 +228,7 @@ export async function collect(): Promise<void> {
       rank: index + 1,
       score: cluster.score,
       category: item.category,
+      articleType: classifyArticleType({ title: item.title, summary: item.summary ?? "", language: "en" }),
       titleOriginal: item.title,
       titleKo,
       summaryKo,

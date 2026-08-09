@@ -11,6 +11,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   return [
     { url: SITE_URL, lastModified: latestModified },
     { url: `${SITE_URL}/archive`, lastModified: latestModified },
+    { url: `${SITE_URL}/weekly`, lastModified: latestModified },
     ...dailyData.flatMap((data) => data ? [{ url: `${SITE_URL}/archive/${data.date}`, lastModified: data.generatedAt }] : []),
   ];
 }

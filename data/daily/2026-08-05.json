@@ -47,7 +47,8 @@
         "coverage": 3,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -61,7 +62,8 @@
         "coverage": 7,
         "qualityCoverage": 3,
         "resolved": true,
-        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg"
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg",
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -75,7 +77,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img.seoul.co.kr/img/upload/2026/08/05/SSC_20260805004702.jpg"
+        "image": "https://img.seoul.co.kr/img/upload/2026/08/05/SSC_20260805004702.jpg",
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -89,7 +92,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg"
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/03/134413138.1.jpg",
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -103,7 +107,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": false,
-        "image": null
+        "image": null,
+        "articleType": "news"
       }
     ]
   },
@@ -125,7 +130,8 @@
       "coverage": 10,
       "image": null,
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "4c37939aa644",
@@ -144,7 +150,8 @@
       "coverage": 5,
       "image": null,
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "8130bf27b01e",
@@ -163,7 +170,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/intermediate_sizes/2022/06/featured00_square-150450.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "75f663003f67",
@@ -182,7 +190,8 @@
       "coverage": 2,
       "image": "https://www.artnews.com/wp-content/uploads/2026/08/art-week-graphcs-1.png?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "cf91cb9221a2",
@@ -201,7 +210,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2180799439.jpg?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

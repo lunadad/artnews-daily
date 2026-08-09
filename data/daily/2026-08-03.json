@@ -45,7 +45,8 @@
         "source": "동아일보",
         "publishedAt": "2026-08-02T19:30:00.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -57,7 +58,8 @@
         "source": "씨원뉴스",
         "publishedAt": "2026-08-02T15:00:00.000Z",
         "coverage": 2,
-        "resolved": false
+        "resolved": false,
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -69,7 +71,8 @@
         "source": "아트코리아방송",
         "publishedAt": "2026-08-02T14:39:52.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -81,7 +84,8 @@
         "source": "아트코리아방송",
         "publishedAt": "2026-08-02T15:54:37.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -93,7 +97,8 @@
         "source": "한국경제",
         "publishedAt": "2026-08-02T00:16:56.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       }
     ]
   },
@@ -115,7 +120,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2024/11/Bouvier.png?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "f19f1e77662a",
@@ -134,7 +140,8 @@
       "coverage": 1,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "bc25754bac11",
@@ -153,7 +160,8 @@
       "coverage": 1,
       "image": "https://news.dupontregistry.com/cdn/shop/articles/dR_Live_August_1st_Week_2026_56448451-f285-41cc-9965-b2f35c24fa49.jpg?v=1785690203&width=1200",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "d7eabe31ef2d",
@@ -172,7 +180,8 @@
       "coverage": 1,
       "image": "https://p-news-upload.storage.googleapis.com/2025/10/monuments-men-neuschwanstein-nazi-loot-scaled.jpg",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "ad2e1590942d",
@@ -191,7 +200,8 @@
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

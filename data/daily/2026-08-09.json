@@ -47,7 +47,8 @@
         "coverage": 3,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206624_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206624_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -61,7 +62,8 @@
         "coverage": 2,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg"
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg",
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -75,7 +77,8 @@
         "coverage": 2,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -89,7 +92,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103802_331281_5959_v150.jpg"
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103802_331281_5959_v150.jpg",
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -103,7 +107,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img.hankyung.com/photo/202607/01.45265695.1.jpg"
+        "image": "https://img.hankyung.com/photo/202607/01.45265695.1.jpg",
+        "articleType": "news"
       }
     ]
   },
@@ -125,7 +130,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.07.03-PM.png?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "cbd0e2ed2c0e",
@@ -144,7 +150,8 @@
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/5cd5ebcbdfbea7cf06ce7a8b0bedfa2c12ee4c06-1600x2400.jpg?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "042b654b5bd6",
@@ -163,7 +170,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/1002-Madison-Avenue-683x1024_Crop.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "f19f1e77662a",
@@ -182,7 +190,8 @@
       "coverage": 1,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "64f9c2407262",
@@ -201,7 +210,8 @@
       "coverage": 1,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/f0e166159b511cd290412cdac96d1c8746b7c4fa-5120x3196.jpg?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null
