@@ -47,7 +47,8 @@
         "coverage": 4,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -61,7 +62,8 @@
         "coverage": 4,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg"
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/07/news-p.v1.20260807.c6a25c4bc74d4d018d39e5457bf679e5_R.jpg",
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -75,7 +77,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img.khan.co.kr/news/2026/08/07/news-p.v1.20260806.b410b5c5c30a45e9a6ffec41824ec350_P1.png"
+        "image": "https://img.khan.co.kr/news/2026/08/07/news-p.v1.20260806.b410b5c5c30a45e9a6ffec41824ec350_P1.png",
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -89,7 +92,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -103,7 +107,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": false,
-        "image": null
+        "image": null,
+        "articleType": "news"
       }
     ]
   },
@@ -125,7 +130,8 @@
       "coverage": 6,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/2218433267.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "e8c9853489cd",
@@ -144,7 +150,8 @@
       "coverage": 9,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/Valerie-Hillings-Credits-Justin-Kase-Conder.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "91ef6973b069",
@@ -163,7 +170,8 @@
       "coverage": 1,
       "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/noi-in-studio-bassa.jpg",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "989d79e25192",
@@ -182,7 +190,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/Carlos-Quijon-Jr.-CCP-Chief-Curator_-scaled-1-1.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "22e96090fb29",
@@ -201,7 +210,8 @@
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/e1d64e3b3c682aeb1ef08f9169bb0e6f17e86c6c-2000x1500.jpg?rect=0,150,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

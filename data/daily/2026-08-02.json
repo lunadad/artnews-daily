@@ -45,7 +45,8 @@
         "source": "연합뉴스",
         "publishedAt": "2026-07-31T02:03:24.000Z",
         "coverage": 3,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -57,7 +58,8 @@
         "source": "이로운넷",
         "publishedAt": "2026-08-02T05:10:19.000Z",
         "coverage": 2,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -69,7 +71,8 @@
         "source": "아트코리아방송",
         "publishedAt": "2026-08-02T04:53:41.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -81,7 +84,8 @@
         "source": "뉴시스",
         "publishedAt": "2026-07-31T15:01:00.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -93,7 +97,8 @@
         "source": "아트코리아방송",
         "publishedAt": "2026-08-01T09:46:43.000Z",
         "coverage": 1,
-        "resolved": true
+        "resolved": true,
+        "articleType": "news"
       }
     ]
   },
@@ -115,7 +120,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2024/11/Bouvier.png?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "f19f1e77662a",
@@ -134,7 +140,8 @@
       "coverage": 1,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?rect=0,360,1800,1080&w=1200&h=720&q=85&fit=crop&auto=format",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "fa69735f3154",
@@ -153,7 +160,8 @@
       "coverage": 4,
       "image": "https://www.easternriverinachronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d931484f-1d60-4cd0-b92e-4d1ea7ec33fc.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "e777efee3e08",
@@ -172,7 +180,8 @@
       "coverage": 3,
       "image": null,
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "ad2e1590942d",
@@ -191,7 +200,8 @@
       "coverage": 2,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/37431e1b2833402b34d0194122c4872201e72e28-10863x8146.jpg?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

@@ -47,7 +47,8 @@
         "coverage": 2,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206624_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206624_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -61,7 +62,8 @@
         "coverage": 2,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/07/NISI20260807_0002206499_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -75,7 +77,8 @@
         "coverage": 6,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img1.yna.co.kr/etc/inner/KR/2026/08/06/AKR20260806019300051_01_i_P4.jpg"
+        "image": "https://img1.yna.co.kr/etc/inner/KR/2026/08/06/AKR20260806019300051_01_i_P4.jpg",
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -89,7 +92,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://wimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.c43cf55729c241deac01e73b36850dd2_R.png"
+        "image": "https://wimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.c43cf55729c241deac01e73b36850dd2_R.png",
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -103,7 +107,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": false,
-        "image": null
+        "image": null,
+        "articleType": "news"
       }
     ]
   },
@@ -125,7 +130,8 @@
       "coverage": 4,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/5cd5ebcbdfbea7cf06ce7a8b0bedfa2c12ee4c06-1600x2400.jpg?w=460",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "432b0949d750",
@@ -144,7 +150,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.07.03-PM.png?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "042b654b5bd6",
@@ -163,7 +170,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/1002-Madison-Avenue-683x1024_Crop.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "a9b6b5448bd4",
@@ -182,7 +190,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2026/08/Maurice-Amon-Tracey-Amon.jpg?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "989d79e25192",
@@ -201,7 +210,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/Carlos-Quijon-Jr.-CCP-Chief-Curator_-scaled-1-1.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

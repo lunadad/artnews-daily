@@ -47,7 +47,8 @@
         "coverage": 4,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/04/NISI20260804_0002203811_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 2,
@@ -61,7 +62,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260729.8ba2c5f2289f4f3bbb1a756256bed381.jpeg"
+        "image": "https://img.khan.co.kr/news/2026/08/05/news-p.v1.20260729.8ba2c5f2289f4f3bbb1a756256bed381.jpeg",
+        "articleType": "news"
       },
       {
         "rank": 3,
@@ -75,7 +77,8 @@
         "coverage": 4,
         "qualityCoverage": 2,
         "resolved": true,
-        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg"
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/03/AKR20260803031800005_01_i_P4.jpg",
+        "articleType": "news"
       },
       {
         "rank": 4,
@@ -89,7 +92,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://img1.newsis.com/2026/08/05/NISI20260805_0021388767_web.jpg"
+        "image": "https://img1.newsis.com/2026/08/05/NISI20260805_0021388767_web.jpg",
+        "articleType": "news"
       },
       {
         "rank": 5,
@@ -103,7 +107,8 @@
         "coverage": 1,
         "qualityCoverage": 1,
         "resolved": true,
-        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103757_330952_4131_v150.jpg"
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/103757_330952_4131_v150.jpg",
+        "articleType": "news"
       }
     ]
   },
@@ -125,7 +130,8 @@
       "coverage": 16,
       "image": "https://www.artforum.com/wp-content/uploads/2026/08/Valerie-Hillings-Credits-Justin-Kase-Conder.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "22e96090fb29",
@@ -144,7 +150,8 @@
       "coverage": 3,
       "image": "https://cdn.sanity.io/images/cxgd3urn/production/e1d64e3b3c682aeb1ef08f9169bb0e6f17e86c6c-2000x1500.jpg?rect=0,150,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "ec18b358c399",
@@ -163,7 +170,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2026/07/GettyImages-2226857752.jpg?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "4968d20d53d8",
@@ -182,7 +190,8 @@
       "coverage": 1,
       "image": "https://www.artnews.com/wp-content/uploads/2025/11/SOTHEBYS2025_1118_065348-6367_ALIVE.jpg?w=1024",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     },
     {
       "id": "8130bf27b01e",
@@ -201,7 +210,8 @@
       "coverage": 2,
       "image": "https://www.artforum.com/wp-content/uploads/intermediate_sizes/2022/06/featured00_square-150450.jpg?w=650",
       "imageWidth": null,
-      "imageHeight": null
+      "imageHeight": null,
+      "articleType": "news"
     }
   ],
   "karina": null

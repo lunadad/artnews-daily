@@ -1,6 +1,15 @@
-import { describe, expect, it } from "vitest";
+import { promises as fs } from "node:fs";
+import os from "node:os";
+import path from "node:path";
+import { afterEach, describe, expect, it } from "vitest";
 import { ARTICLE_TYPE_LABELS, classifyArticleType } from "@/lib/article-type";
 import { DomesticItemSchema, NewsItemSchema } from "@/lib/types";
+import { backfillArticleTypes } from "@/scripts/backfill-article-types";
+
+const roots: string[] = [];
+afterEach(async () => {
+  await Promise.all(roots.splice(0).map((root) => fs.rm(root, { recursive: true, force: true })));
+});
 
 const baseNews = {
   id: "story-1",
@@ -86,5 +95,49 @@ describe("stored article type compatibility", () => {
       image: null,
     });
     expect(parsed.articleType).toBe("news");
+  });
+
+  it("backfills international and domestic rows without changing ranks or scores", async () => {
+    const root = await fs.mkdtemp(path.join(os.tmpdir(), "artnews-types-"));
+    roots.push(root);
+    await fs.mkdir(path.join(root, "daily"), { recursive: true });
+    const payload = {
+      date: "2026-08-08",
+      generatedAt: "2026-08-08T09:00:00+09:00",
+      briefing: {
+        headline: "기관",
+        distribution: { market: 0, museum: 1, fair: 0, artist: 0, general: 0 },
+        focus: [],
+      },
+      domestic: {
+        headline: "국내",
+        distribution: { market: 0, museum: 0, fair: 0, artist: 1, general: 0 },
+        items: [{
+          rank: 1,
+          score: 55,
+          category: "artist",
+          title: "작가와의 대화: 김민정 인터뷰",
+          summary: "",
+          url: "https://example.com/ko",
+          source: "예시일보",
+          publishedAt: "2026-08-08T00:00:00.000Z",
+          coverage: 1,
+          resolved: true,
+          image: null,
+        }],
+      },
+      top5: [{ ...baseNews, titleOriginal: "Analysis: what museum expansion means", rank: 1, score: 70, futureField: "preserve me" }],
+      karina: null,
+      futureTopLevel: { enabled: true },
+    };
+    const file = path.join(root, "daily", "2026-08-08.json");
+    await fs.writeFile(file, JSON.stringify(payload));
+
+    expect(await backfillArticleTypes(root)).toBe(1);
+    const first = JSON.parse(await fs.readFile(file, "utf8"));
+    expect(first.top5[0]).toMatchObject({ rank: 1, score: 70, articleType: "analysis", futureField: "preserve me" });
+    expect(first.domestic.items[0]).toMatchObject({ rank: 1, score: 55, articleType: "interview" });
+    expect(first.futureTopLevel).toEqual({ enabled: true });
+    expect(await backfillArticleTypes(root)).toBe(0);
   });
 });
