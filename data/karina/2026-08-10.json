@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T09:00:37+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "도둑들은 하룻밤 급습으로 이탈리아 회사로부터 460만 달러의 미술품을 훔쳤습니다.",
+      "titleOriginal": "Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid",
+      "summaryKo": "도둑들은 이탈리아 연료 유통 회사인 Lilli Petroli의 Abruzzo 본사를 밤새 급습하여 400만 유로(460만 달러) 상당의 예술품을 훔쳤습니다. 이탈리아 신문 Il Messaggero는 도둑들이 약 30점의 예술품을 훔쳤으며 모두 회사 소유주 M의 소유라고 보도했습니다.",
+      "url": "https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/",
+      "source": "Artforum",
+      "category": "artist",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-1237473544.jpg?w=650"
+    },
+    {
+      "rank": 2,
+      "titleKo": "뉴욕시의 잃어버린 진주",
+      "titleOriginal": "The Lost Pearls of New York City",
+      "summaryKo": "거버너스 아일랜드(Governors Island)에 설치된 Alan Michelson의 공공 미술 설치물 “The Oyster”는 간과되었던 원주민 조개무지의 역사를 불러일으킵니다.",
+      "url": "https://hyperallergic.com/the-lost-pearls-of-new-york-city/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/IMG_7846--2-.jpeg"
+    },
+    {
+      "rank": 3,
+      "titleKo": "항소법원, 트럼프 대통령에게 백악관 연회장 건설 권한 부족",
+      "titleOriginal": "Appeals Court Says Trump Lacks Authority to Build White House Ballroom",
+      "summaryKo": "트럼프 대통령은 소셜미디어 게시물을 통해 자신이 '부당한 결정'이라고 부르는 것에 대해 미국 대법원에 항소하겠다고 밝혔습니다.",
+      "url": "https://www.artnews.com/art-news/news/appeals-court-says-trump-lacks-authority-to-build-white-house-ballroom-1234794551/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2287639764.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "eBay 이후 20년 만에 '악마는 프라다를 입는다' 의상이 이번에는 크리스티 경매에 다시 등장합니다.",
+      "titleOriginal": "20 Years After eBay, ‘The Devil Wears Prada’ Costumes Are Back at Auction, This Time at Christie’s",
+      "summaryKo": "2006년에 그녀는 첫 번째 영화의 의상을 경매하는 아이디어를 내놓았고, 의상 중 일부는 eBay에서 판매되어 Dress for Success에 도움이 되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/devil-wears-prada-2-costumes-christies-auction-1234794548/",
+      "source": "ARTnews",
+      "category": "market",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.07.03-PM.png?w=1024"
+    }
+  ]
+}
