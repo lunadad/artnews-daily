@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T08:09:22.745+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "스톰 킹 아트 센터(Storm King Art Center), 앤 리브(Anne Reeve)를 수석 큐레이터로 임명",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "약탈당한 코트디부아르의 \"말하는 북\"이 100여년 만에 고향 마을에 도착하다",
+        "why": "주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "희귀 황금알, '놀라운' 경매 기록 세워",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 82,
+        "category": "museum",
+        "articleType": "news",
+        "title": "40년간 중심 잡아온 한국 미술의 산실…‘빛’으로 자축하는 국립현대미술관 과천",
+        "summary": "건물 어귀에서 조나단 보로프스키의 ‘노래하는 사람’(1994)이 관람객을 환대하듯 소리를 내고, 그 맞은편엔 곽인식의 ‘작품 86-끝없는’(1986)이 우뚝 서 있다. 국립현대미술관 과천의 3만3000㎡(약 1만평) 부지가 84점 규모의 조각공원이 되기까지 40년이 걸렸다. 1969년 경복궁에서 개관한 국립현대미술관은 1973년 덕수궁 석조전 동관으로 이전했고, 1986년 과천으로 신축 이전했다. 1986년 아시안 게임과 1988년 서울 올림픽 개최를 계기로 야외 조각공원을 조성할 넓은 부지를 찾으면서다.",
+        "url": "https://www.joongang.co.kr/article/25452089",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-10T02:25:08.000Z",
+        "coverage": 13,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/fcb89615-b9ac-44fb-be25-1e93518d0af1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 71,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 출신 박미화, 세종 한글 비엔날레 예술감독 위촉",
+        "summary": "[세종=뉴시스]송승화 기자 = 세종시가 10일 세종실에서 박미화 전 국립현대미술관 과장을 '2027 세종 한글 비엔날레' 예술감독으로 공식 위촉했다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260810_0003742592",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-10T01:44:20.000Z",
+        "coverage": 16,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208318_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 58,
+        "category": "general",
+        "articleType": "news",
+        "title": "박정희 정권에 찍혀 뜯겼다가 56년 만에 되살아난 설치작품",
+        "summary": "서울 태평로 덕수궁은 희한한 궁궐이었다. 고종 황제가 1919년 세상을 떠날 때까지 살았던 대한제국 비운의 정궁이었지만, 1960년대 말~1970년대 초 군사정권 치하의 대한민국에선 당대 청년 작가들이 뛰어놀던 전위미술 전시의 거점이었다. 미술 작가들에게 무료로 전시",
+        "url": "https://www.hani.co.kr/arti/culture/music/1272290.html",
+        "source": "한겨레",
+        "publishedAt": "2026-08-10T20:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0810/20260810503231.webp"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "2026 구상전art bridge 인사동 인사아트프라자갤러리에서 개최",
+        "summary": "2026 구상전 아트 브리지 제8회 전이 8월 5일(수) 부터 8월 10일(월) 인사아트프라자갤러리 3층 4층에서 개최 되었다.공라연ㆍ개인전 17회ㆍ수상 : 성남",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5573",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-10T19:16:32.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202608/5573_122801_5559_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "artist",
+        "articleType": "news",
+        "title": "젊은 작가 발굴 25년…송은미술대상 거쳐간 179명 한자리",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 젊은 작가를 발굴하고 지원해온 송은미술대상이 제정 25주년을 맞아 역대 수상 및 본선 진출 작가 179명의 작...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260810058200005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-10T01:56:57.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810058200005_02_i_P4.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "93a5a65c764c",
+      "rank": 1,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Storm King Art Center Appoints Anne Reeve as Senior Curator",
+      "titleKo": "스톰 킹 아트 센터(Storm King Art Center), 앤 리브(Anne Reeve)를 수석 큐레이터로 임명",
+      "summaryKo": "Reeve는 야외 조각품에 대한 상당한 큐레이터 경험을 바탕으로 광대한 야외 박물관을 방문합니다.",
+      "url": "https://www.artnews.com/art-news/artists/storm-king-art-center-anne-reeve-senior-curator-1234794623",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-10T19:45:53.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/image-e1786391054184.png?w=1023",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f5174ccf0563",
+      "rank": 2,
+      "score": 69,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Looted Ivorian “Talking Drum” Arrives at Its Home Village After More Than a Century",
+      "titleKo": "약탈당한 코트디부아르의 \"말하는 북\"이 100여년 만에 고향 마을에 도착하다",
+      "summaryKo": "드럼은 8월 7일 Adjame에 도착했고, 그곳에서 지역 사회가 처음으로 드럼을 볼 수 있었습니다.",
+      "url": "https://www.artnews.com/art-news/news/ivorian-talking-drum-looted-by-french-arrives-home-1234794607",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-10T19:35:18.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2288641006.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1db1a6332ee0",
+      "rank": 3,
+      "score": 67,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare golden egg sets 'incredible' auction record",
+      "titleKo": "희귀 황금알, '놀라운' 경매 기록 세워",
+      "summaryKo": "희귀 황금알, 경매 기록 '놀라운' 기록",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwxmy4ej8o",
+      "source": "bbc.co.uk",
+      "sourceDomain": "bbc.co.uk",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-10T17:36:50.000Z",
+      "coverage": 1,
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb7c/live/1027c5f0-94cb-11f1-8dc4-8907761852f3.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f19f1e77662a",
+      "rank": 4,
+      "score": 64,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Collector Bernardo Paz plans new museum in Brazil next-door to Inhotim",
+      "titleKo": "수집가 베르나르도 파즈(Bernardo Paz)는 브라질의 Inhotim 옆에 새로운 박물관을 계획하고 있습니다.",
+      "summaryKo": "더 이상 Inhotim과 관련이 없지만 Paz는 식물 풍경에서 예술 전시관 모델을 부활시키는 것으로 보입니다.",
+      "url": "https://www.theartnewspaper.com/2026/07/31/bernardo-paz-inhotim-founder-new-museum-next-door",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-07-31T16:57:17.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/b3bbe14807e3d813462e65c9f936de92366e1cc2-1800x1800.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "145a355d266d",
+      "rank": 5,
+      "score": 63,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Garrard & Co.'s 22k Gold Cadbury Egg Set an Auction Record",
+      "titleKo": "Garrard & Co.의 22k 골드 Cadbury 달걀이 경매 기록을 세웠습니다.",
+      "summaryKo": "Garrard & Co.의 22k 골드 Cadbury 달걀이 경매 기록을 세웠습니다. jckonline.com",
+      "url": "https://www.jckonline.com/editorial-article/garrard-cadbury-egg-auction",
+      "source": "jckonline.com",
+      "sourceDomain": "jckonline.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-10T16:50:16.000Z",
+      "coverage": 1,
+      "image": "https://www.jckonline.com/wp-content/uploads/2026/08/Golden-Conundrum-Egg.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
