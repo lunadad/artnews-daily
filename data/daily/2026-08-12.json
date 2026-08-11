@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T08:20:59.115+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "역대 최고의 개인 히로시게 컬렉션 중 하나가 크리스티 미술관으로 향하고 있습니다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "유명한 역사를 지닌 희귀 황금알이 경매 최고 기록을 세웠습니다.",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "BBC 진행자는 야심찬 미술 상인이 출연하는 새로운 리얼리티 TV 쇼를 '예술계의 견습생'으로 원합니다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 94,
+        "category": "museum",
+        "articleType": "news",
+        "title": "40년간 중심 잡아온 한국 미술의 산실…‘빛’으로 자축하는 국립현대미술관 과천",
+        "summary": "건물 어귀에서 조나단 보로프스키의 ‘노래하는 사람’(1994)이 관람객을 환대하듯 소리를 내고, 그 맞은편엔 곽인식의 ‘작품 86-끝없는’(1986)이 우뚝 서 있다. 국립현대미술관 과천의 3만3000㎡(약 1만평) 부지가 84점 규모의 조각공원이 되기까지 40년이 걸렸다. 1969년 경복궁에서 개관한 국립현대미술관은 1973년 덕수궁 석조전 동관으로 이전했고, 1986년 과천으로 신축 이전했다. 1986년 아시안 게임과 1988년 서울 올림픽 개최를 계기로 야외 조각공원을 조성할 넓은 부지를 찾으면서다.",
+        "url": "https://www.joongang.co.kr/article/25452089",
+        "source": "중앙일보",
+        "publishedAt": "2026-08-10T02:25:08.000Z",
+        "coverage": 15,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/10/fcb89615-b9ac-44fb-be25-1e93518d0af1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 출신 박미화, 세종 한글 비엔날레 예술감독 위촉",
+        "summary": "[세종=뉴시스]송승화 기자 = 세종시가 10일 세종실에서 박미화 전 국립현대미술관 과장을 '2027 세종 한글 비엔날레' 예술감독으로 공식 위촉했다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260810_0003742592",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-10T01:44:20.000Z",
+        "coverage": 8,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/10/NISI20260810_0002208318_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "박정희 정권에 찍혀 뜯겼다가…56년 만에 부활한 설치작품",
+        "summary": "서울 태평로 덕수궁은 희한한 궁궐이었다. 고종 황제가 1919년 세상을 떠날 때까지 살았던 대한제국 비운의 정궁이었지만, 1960년대 말~1970년대 초 군사정권 치하의 대한민국에선 당대 청년 작가들이 뛰어놀던 전위미술 전시의 거점이었다. 미술 작가들에게 무료로 전시",
+        "url": "https://www.hani.co.kr/arti/culture/music/1272290.html",
+        "source": "한겨레",
+        "publishedAt": "2026-08-11T07:38:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/970/728/imgdb/original/2026/0810/20260810503231.webp"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "동물로 펼친 화려한 색채 실험...라이언킴 개인전",
+        "summary": "동물로 펼친 화려한 색채 실험...라이언킴 개인전, 서울 청담동 갤러리가이아에서 23일까지",
+        "url": "https://www.hankyung.com/article/202608104168i",
+        "source": "한국경제",
+        "publishedAt": "2026-08-11T01:45:49.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202608/01.45294319.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "general",
+        "articleType": "news",
+        "title": "“내가 오디세이”…강요배 “그림은 모르는 나를 끄집어내는 일”[박현주 아트클럽]",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = [[[[:newsis_bold_start:]]]]“자기가 모르는 자기를 끄집어내는 거예요",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260811_0003744460",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-11T06:14:43.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/11/NISI20260811_0021394851_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "439f68a514bc",
+      "rank": 1,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "One of the Greatest Private Hiroshige Collections Ever Assembled Is Heading to Christie’s",
+      "titleKo": "역대 최고의 개인 히로시게 컬렉션 중 하나가 크리스티 미술관으로 향하고 있습니다",
+      "summaryKo": "일본 목판화 시장은 젊은 수집가, 미술상 및 경매장 사이의 성배가 해당 카테고리에 진입하고 수요가 일본을 넘어 훨씬 더 널리 퍼지면서 눈에 띄게 국제화되었습니다.",
+      "url": "https://www.artnews.com/art-news/news/christies-alan-medaugh-hiroshige-collection-auction-1234794665",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-11T19:36:09.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-11-2026-at-11_11_15-AM.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8d08432612e9",
+      "rank": 2,
+      "score": 78,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare golden egg with famous history sets huge auction record",
+      "titleKo": "유명한 역사를 지닌 희귀 황금알이 경매 최고 기록을 세웠습니다.",
+      "summaryKo": "유명한 역사를 지닌 희귀한 황금알이 엄청난 경매 기록을 세웠습니다. Something About Rocks",
+      "url": "https://somethingaboutrocks.com/rare-golden-egg-with-famous-history-sets-huge-auction-record",
+      "source": "Something About Rocks",
+      "sourceDomain": "somethingaboutrocks.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-11T10:49:44.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b021700c8226",
+      "rank": 3,
+      "score": 77,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "BBC Host Wants New Reality TV Show Featuring Aspiring Art Dealers To Be ‘The Apprentice for the Art World’",
+      "titleKo": "BBC 진행자는 야심찬 미술 상인이 출연하는 새로운 리얼리티 TV 쇼를 '예술계의 견습생'으로 원합니다",
+      "summaryKo": "과거의 리얼리티 TV 쇼는 예술적 과정을 포착하려고 노력했습니다. 예술 거래도 평범한 텔레비전을 만들 수 있습니까?",
+      "url": "https://www.artnews.com/art-news/news/bbc-reality-tv-show-aspiring-art-dealers-the-apprentice-1234794731",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-11T21:20:27.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Big-Deal-Steph-McGovern.jpeg?w=910",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f6a04ba25abb",
+      "rank": 4,
+      "score": 75,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Michael J. Anderson appointed director of Portland Art Museum",
+      "titleKo": "마이클 J. 앤더슨(Michael J. Anderson) 포틀랜드 미술관 관장 임명",
+      "summaryKo": "마이클 J. 앤더슨, 포틀랜드 미술관 관장으로 임명 artreview.com",
+      "url": "https://artreview.com/michael-j-anderson-appointed-director-of-portland-art-museum",
+      "source": "artreview.com",
+      "sourceDomain": "artreview.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-11T17:32:46.000Z",
+      "coverage": 3,
+      "image": "https://backend.artreview.com/wp-content/uploads/2026/08/Michael-Anderson-2026-Headshot1-60-975x500-cropped.png",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c7da872ba862",
+      "rank": 5,
+      "score": 65,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "A gripping account of the hunt for the treasure-laden San José shipwreck",
+      "titleKo": "보물이 가득한 산호세 난파선을 찾는 흥미진진한 이야기",
+      "summaryKo": "새로운 책은 침몰한 배를 찾기 위한 강박적인 탐구와 그 발견 이후 배의 수십억 달러 화물에 대한 다양한 주장을 자세히 설명합니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/11/a-gripping-account-of-the-hunt-for-the-treasure-laden-san-jose-shipwreck",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-11T16:23:27.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8d3b91d981c99f55b48caba671e10e4b914855fb-1843x1289.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
