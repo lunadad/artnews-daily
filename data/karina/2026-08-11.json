@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T09:00:52+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "너다니엘 메리 퀸의 집의 파편들",
+      "titleOriginal": "Nathaniel Mary Quinn’s Fragments of Home",
+      "summaryKo": "국립 공공 주택 박물관에 있는 그의 조각난 초상화는 시카고의 로버트 테일러 홈스(Robert Taylor Homes)가 형성한 기억, 가족, 어린 시절을 담고 있습니다.",
+      "url": "https://hyperallergic.com/nathaniel-mary-quinns-fragments-of-home/",
+      "source": "Hyperallergic",
+      "category": "museum",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/Nathaniel-Mary-Quinn_Erica-with-the-Pearl-Earring_2015.jpg"
+    },
+    {
+      "rank": 2,
+      "titleKo": "다이버들이 이탈리아에서 2,000년 된 로마 난파선을 우연히 발견했습니다.",
+      "titleOriginal": "Divers Stumble Upon 2,000-Year-Old Roman Shipwreck in Italy",
+      "summaryKo": "점토 선박으로 가득 찬 이탈리아 해안의 난파선은 “최근 몇 년간 가장 중요한 수중 고고학 발견 중 하나”로 칭송받고 있습니다.",
+      "url": "https://hyperallergic.com/divers-stumble-upon-2-000-year-old-roman-shipwreck-in-italy/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Amphorae-Discovery-August-08-2026-3.jpg"
+    },
+    {
+      "rank": 3,
+      "titleKo": "639년에 걸친 존 케이지 공연, 2년 만에 첫 코드 체인지",
+      "titleOriginal": "A 639-Year-Long John Cage Performance Had Its First Chord Change In Two Years",
+      "summaryKo": "역사상 최장 공연 중 하나인 이 공연은 8월 5일 2년여 만에 처음으로 코드 변경을 목격했습니다. 독일 할버슈타트 성 부르차디 교회에서 639년 동안 진행되는 이 공연은 존 케이지(John Cage)의 작곡 \"Organ² / ASLSP – As Slow as Possible\"을 선보입니다.",
+      "url": "https://www.artforum.com/news/639-year-john-cage-piece-first-chord-change-in-900-days-1234756726/",
+      "source": "Artforum",
+      "category": "general",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2284733294.jpg?w=650"
+    },
+    {
+      "rank": 4,
+      "titleKo": "RIP 베르메르, 당신은 AI를 싫어했을 겁니다",
+      "titleOriginal": "RIP Vermeer, You Would’ve Hated AI",
+      "summaryKo": "네덜란드 화가의 전기는 목표를 놓치고, Ed Simon은 Anthropic의 책 펄핑 등에 반응합니다.",
+      "url": "https://hyperallergic.com/rip-vermeer-you-wouldve-hated-ai/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": null
+    }
+  ]
+}
