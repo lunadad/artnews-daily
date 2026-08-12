@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T08:20:02.989+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Zeitz MOCAA, 예술 감독으로 Elvira Dyangani Ose 임명",
+        "why": "7개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "마이클 J. 앤더슨, 포틀랜드 미술관 차기 관장으로 임명",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Sotheby's Lands는 4억 5천만 달러의 인상파 보물을 보유한 Blaquier 가족 부품으로 또 다른 블록버스터 컬…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 81,
+        "category": "museum",
+        "articleType": "news",
+        "title": "'텔레토비'와 함께하는 국립현대미술관 과천관 40주년",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관(MMCA) 과천관이 개관 40주년을 맞아 '텔레토비' 캐릭터와 함께하는 특별 이벤트를 연다.",
+        "url": "https://www.yna.co.kr/view/AKR20260810031100005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-10T00:22:12.000Z",
+        "coverage": 12,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img8.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810031100005_01_i_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "하반기 기대전 ‘서도호’ 온다…국립현대미술관, 17일부터 얼리버드 예매",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 데이미언 허스트 이후 하반기 국립현대미술관 기대 전시로 꼽히는 세계적인 설치미술가 서도호의 대규모 개인전이 얼리버드 예매에 들어간다.국립현대미술관은 오는 27일 개막하는 '서도호'전의 얼리버드 예매를 17일 오후 6시부터 진행한다고 12일 밝혔다.이번 전시는 학생 시절 초기작부터 작가를 대표하는 주요 작품과 현재 진..",
+        "url": "https://www.newsis.com/view/NISX20260812_0003745337",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-11T22:49:51.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/12/NISI20260812_0002210097_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 55,
+        "category": "general",
+        "articleType": "news",
+        "title": "2026경북예술장터 '예술을 소유하다' 인사동 갤러리경북에서 23일까지 개최",
+        "summary": "8월13일부터 23일까지 서울 종로구 인사동 갤러리경북에서 경북예술장터 전이 개최 되었다.이번 전시에는 경북 예술인 270여명이 참여하는 대규모 전시·판매전으로,",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5589",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-12T20:42:20.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202608/5589_123296_3928_v150.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 55,
+        "category": "fair",
+        "articleType": "news",
+        "title": "베네치아비엔날레 한국관 설계 과정, 3D 디지털 아카이브로 공개",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 베네치아비엔날레 한국관이 건립되기까지의 설계 과정과 건축가들의 고민을 살펴볼 수 있는 기록물이 3차원(3D) ...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260812121400005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-12T07:09:46.000Z",
+        "coverage": 4,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812121400005_01_i_P4.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 54,
+        "category": "general",
+        "articleType": "news",
+        "title": "쇠라의 점·고흐의 선과는 다른…자수·나전 닮은 한국적 현대회화",
+        "summary": "이대원(1921~2005·사진)에게는 ‘화단의 신사’ ‘색채의 마법사’ ‘세상에서 가장 행복한 화가’ 등 유난히 많은 수식어가 따라붙었다. 경성제대 법학도, 국내 첫 상업화랑 격인 반도화랑의 운영자, 홍익대 미대 초대 학장이자 화가 출신 최초의 대학 총장, 대한민국예술원 회장 등 그의 경력은 여러 영역을 가로질렀다. 과수원과 산, 연못과 들판을 원색으...",
+        "url": "https://www.khan.co.kr/article/202608122024015",
+        "source": "khan.co.kr",
+        "publishedAt": "2026-08-12T11:24:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/08/12/l_2026081301000322100035651.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "89c5a36cbbec",
+      "rank": 1,
+      "score": 111,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Zeitz MOCAA Taps Elvira Dyangani Ose as Artistic Director",
+      "titleKo": "Zeitz MOCAA, 예술 감독으로 Elvira Dyangani Ose 임명",
+      "summaryKo": "Zeitz MOCAA, 예술 감독으로 Elvira Dyangani Ose 영입 Artnet News",
+      "url": "https://news.artnet.com/art-world/zeitz-mocaa-elvira-dyangani-ose-2796853",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-12T09:00:51.000Z",
+      "coverage": 7,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1d1de6bb5745",
+      "rank": 2,
+      "score": 104,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Michael J. Anderson Named as Next Director of the Portland Art Museum",
+      "titleKo": "마이클 J. 앤더슨, 포틀랜드 미술관 차기 관장으로 임명",
+      "summaryKo": "마이클 J. 앤더슨, 포틀랜드 미술관 차기 관장으로 임명 Artforum",
+      "url": "https://www.artforum.com/news/michael-j-anderson-next-director-of-the-portland-art-museum-1234756897",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-12T19:19:31.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Michael-Anderson-2026-Headshot1-60_.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "75cc943b1fb0",
+      "rank": 3,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Sotheby’s Lands Another Blockbuster Collection as Blaquier Family Parts With $450 M. of Impressionist Treasures",
+      "titleKo": "Sotheby's Lands는 4억 5천만 달러의 인상파 보물을 보유한 Blaquier 가족 부품으로 또 다른 블록버스터 컬렉션을 선보입니다.",
+      "summaryKo": "하이라이트 중에는 1890년 반 고흐의 작품이 있는데, 이 작품은 1억 5천만 달러에서 2억 달러 사이의 수익을 올릴 수 있습니다.",
+      "url": "https://www.artnews.com/art-news/news/sothebys-blaquier-450-million-art-collection-1234794798",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-12T19:00:10.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2025/01/GettyImages-1231759561.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8e3997e91204",
+      "rank": 4,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The New York Gallery That Brought You Adrien Brody Is Suing a Collector for More than $800,000 in Unpaid Invoices",
+      "titleKo": "당신을 데려온 뉴욕 갤러리 애드리언 브로디(Adrien Brody)는 80만 달러 이상의 미지급 송장에 대해 수집가를 고소했습니다.",
+      "summaryKo": "Eden은 갤러리가 Jacob Shochat의 뉴저지 집에 일부 작품을 직접 전달하기도 했다고 말했습니다.",
+      "url": "https://www.artnews.com/art-news/news/new-york-gallery-eden-suing-collector-unpaid-invoices-1234794788",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-12T18:58:45.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Eden-Gallery-interior.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "53c20752762c",
+      "rank": 5,
+      "score": 68,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Sotheby’s Lands $450M Argentine Art Collection With Van Gogh, Cézanne, Degas",
+      "titleKo": "Sotheby's Lands, 반 고흐, 세잔, 드가와 함께 4억 5천만 달러 규모의 아르헨티나 미술 컬렉션",
+      "summaryKo": "Sotheby's Lands, 반 고흐, 세잔, 드가와 함께 4억 5천만 달러 규모의 아르헨티나 미술 컬렉션 Artnet News",
+      "url": "https://news.artnet.com/market/blaquier-art-collection-sothebys-2795536",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-11T21:06:24.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
