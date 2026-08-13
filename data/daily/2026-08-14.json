@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T08:21:39.704+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+        "why": "12개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "명품 산업이 위축되고 있는데 경매장의 명품 판매가 급증하는 이유는 무엇입니까?",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "R&B 슈퍼스타 어셔(Usher)가 자신의 애틀랜타 집을 가득 채운 블루칩 예술을 공개합니다.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 129,
+        "category": "market",
+        "articleType": "news",
+        "title": "광복절 앞두고 경매 나온 백범 김구의 ‘독립만세’",
+        "summary": "광복절을 앞두고 백범 김구 선생의 서예 작품 ‘독립만세’가 경매에 출품됐다. 서울옥션은 오는 25일 서울옥션 강남센터에서 열리는 ‘194회 미술품 경매’에 117점이 출품된다고 13일 밝혔다. 총액은 낮은 추정가 기준 91억여원이다. 올해는 백범 김구 선생 탄생 150주년을 맞는 해다. 김구의 유묵 ‘독립만세’는 1948년 1월8일에 쓴 작품으로, 추...",
+        "url": "https://www.khan.co.kr/article/202608131448001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-08-13T05:48:00.000Z",
+        "coverage": 5,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/08/13/news-p.v1.20260813.9e487246948f4beca1f595f2ffa3a10a.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 88,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관, 'MMCA 지역동행 –예술영화·다원예술' 개최",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 국립현대미술관(MMCA)이 예술영화와 다원예술 프로그램을 들고 지역미술관을 찾아간다.국립현대미술관은 지역 문화생태계 지원 프로그램 ‘MMCA 지역동행’의 일환으로 오는 9월 5일부터 11월 1일까지 경남·전남·전북 등 지역미술관에서 예술영화 상영과 다원예술 퍼포먼스를 선보인다고 13일 밝혔다.‘MMCA 지역동행-예술..",
+        "url": "https://www.newsis.com/view/NISX20260813_0003747538",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-13T01:39:22.000Z",
+        "coverage": 9,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/13/NISI20260813_0002211427_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 67,
+        "category": "fair",
+        "articleType": "news",
+        "title": "베니스비엔날레 한국관은 어떻게 지어졌나…8단계 설계 과정 3D 복원",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 종이 도면과 팩스 속에 남아 있던 베니스비엔날레 한국관의 탄생 과정이 3차원 공간으로 되살아났다.한국문화예술위원회(아르코)는 오는 11월 30일까지 서울 서초동 아르코예술기록원 본원 열람실에서 소장기록물 기획코너 ‘원 테이블: 7. PAPER TO SPACE, 한국관’을 개최한다.베니스 자르디니 공원에 자리한 한국관..",
+        "url": "https://www.newsis.com/view/NISX20260813_0003748345",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-13T07:52:48.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/13/NISI20260813_0002212161_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 59,
+        "category": "museum",
+        "articleType": "news",
+        "title": "‘거꾸로 회화’로 질서 깬 거장 바젤리츠 회고전…대표작 등 46점 전시",
+        "summary": "태광그룹 세화예술문화재단이 운영하는 세화미술관은 독일 현대미술의 거장 게오르그 바젤리츠 회고전을 개막한다고 13일 밝혔다. 전시는 오는 12월 27일까지 진행된다. 게오르그 바젤리츠는 현대미술사에 큰 영향을 끼친 세계적인 거장이다. 기존 회화의 관습을 뒤집는 독창적인",
+        "url": "https://www.munhwa.com/article/11609401",
+        "source": "문화일보",
+        "publishedAt": "2026-08-13T07:05:05.000Z",
+        "coverage": 16,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/13/news-p.v1.20260813.d96cdb97276c4a569841a519c38f1870_R.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "달의 흔적 part2 김명화 개인전 인사동 인사아트센터 5층 경남갤러리에서 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMMzE2Y2ptalV3bVcxX0hEOEgxcjkwZHE3dFo2cU0xMi16ZV9Sak1uXzA2ck13RzdCWElkQy1EWlhYRGFUM0lvYUdyWGRHZWNUNlk4MlAtcjV2dXpQTFotYUROYUgtcE1mTVE0clZ0LS0?oc=5",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-13T21:19:41.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e3a17b394ae1",
+      "rank": 1,
+      "score": 118,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Elvira Dyangani Ose appointed artistic director of Cape Town's Zeitz MoCAA",
+      "titleKo": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+      "summaryKo": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+      "url": "https://www.theartnewspaper.com/2026/08/13/elvira-dyangani-ose-appointed-artistic-director-of-cape-towns-zeitz-mocaa",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-13T11:34:12.000Z",
+      "coverage": 12,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/4585d9c1d1f0105cb21d533ee4602fbd6d92f5a7-5065x6331.jpg?rect=0,272,5065,3039&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2d9d27fe75aa",
+      "rank": 2,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The Luxury Industry is Contracting—So Why Are Auction Houses’ Luxury Sales Booming?",
+      "titleKo": "명품 산업이 위축되고 있는데 경매장의 명품 판매가 급증하는 이유는 무엇입니까?",
+      "summaryKo": "최근 몇 년간 업계 전체에서 5천만 명의 구매자를 잃었음에도 불구하고 주요 경매장에서의 명품 판매는 호황을 누리고 있습니다.",
+      "url": "https://www.artnews.com/art-news/market/why-are-auction-houses-luxury-sales-booming-1234794874",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-13T17:51:48.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2023/06/GettyImages-1492221203.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9f19c77c3947",
+      "rank": 3,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "R&B Superstar Usher Reveals the Blue-Chip Art That Fills His Atlanta Home",
+      "titleKo": "R&B 슈퍼스타 어셔(Usher)가 자신의 애틀랜타 집을 가득 채운 블루칩 예술을 공개합니다.",
+      "summaryKo": "멀티플래티넘 및 그래미상을 수상한 R&B 슈퍼스타 Usher가 헌신적인 미술품 수집가라는 사실을 알고 계셨습니까? 이제 그렇습니다.",
+      "url": "https://www.artnews.com/art-news/news/usher-reveals-blue-chip-contemporary-art-atlanta-home-1234794861",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-13T16:41:32.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/2280370421-e1786637984186.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2a285adff331",
+      "rank": 4,
+      "score": 70,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "SFMOMA Names MOCA’s Anna Katz Head of Painting and Sculpture",
+      "titleKo": "SFMOMA, MOCA의 Anna Katz 회화 및 조각 책임자로 임명",
+      "summaryKo": "SFMOMA, MOCA의 Anna Katz를 회화 및 조각 부문 책임자로 임명 artforum.com",
+      "url": "https://www.artforum.com/news/sfmoma-names-anna-katz-head-of-painting-and-sculpture-1234756936",
+      "source": "artforum.com",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-13T14:24:07.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Anna-Katz-scaled-1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "161bbf26318a",
+      "rank": 5,
+      "score": 68,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "At the Venice Biennale, collateral exhibitions embrace the possibilities of digital art",
+      "titleKo": "베니스 비엔날레, 디지털 아트의 가능성을 담은 부수 전시",
+      "summaryKo": "베니스 비엔날레, 디지털 예술의 가능성을 담은 부대전시회 The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/08/13/digital-art-exhibition-venice-biennale-collateral",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-13T19:37:11.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/cb2a5db99ec9dd72d6cccfba89f6ceae3c9a6131-2000x1333.jpg?rect=0,67,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
