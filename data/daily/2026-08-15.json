@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T07:54:12.862+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "65년 전 도난당한 피카소가 다시 나타났다. 구겐하임은 그것을 되찾고 싶어한다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "대규모 히로시게 컬렉션이 크리스티와 더 많은 산업 인텔로 향합니다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 133,
+        "category": "market",
+        "articleType": "news",
+        "title": "광복절 앞두고 경매 나온 백범 김구의 ‘독립만세’",
+        "summary": "광복절을 앞두고 백범 김구 선생의 서예 작품 ‘독립만세’가 경매에 출품됐다. 서울옥션은 오는 25일 서울옥션 강남센터에서 열리는 ‘194회 미술품 경매’에 117점이 출품된다고 13일 밝혔다. 총액은 낮은 추정가 기준 91억여원이다. 올해는 백범 김구 선생 탄생 150주년을 맞는 해다. 김구의 유묵 ‘독립만세’는 1948년 1월8일에 쓴 작품으로, 추...",
+        "url": "https://www.khan.co.kr/article/202608131448001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-08-13T05:48:00.000Z",
+        "coverage": 7,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/08/13/news-p.v1.20260813.9e487246948f4beca1f595f2ffa3a10a.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 115,
+        "category": "market",
+        "articleType": "news",
+        "title": "박수근 명작 '나무와 여인', 40년 만에 다시 경매 시장으로",
+        "summary": "한국 근현대 미술의 거장 박수근 화가의 희귀작이 40년 만에 다시 경매 시장에 모습을 드러낸다.케이옥션은 26일 오후 4시 서울 강남구 신사동 본사에서 작품 10 …",
+        "url": "https://www.news1.kr/amp/life-culture/performance-exhibition/6258960",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-14T01:51:14.000Z",
+        "coverage": 5,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/8/14/8055663/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 상반기 영업이익 7억…전년比 흑자 전환",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 상반기 연결 영업이익이 7억원을 기록해 전년 동기 대비 흑자 전환했다고 14일 밝혔다.같은 기간 매출액은 196억원으로 94% 늘었다.회사 측에 따르면 상반기 호실적은 핵심 사업인 미술품 온·오프라인 경매 부문 매출 증대에 따른 것이다. 서울옥션은 올해 반기 만에 지난해 연간 낙찰총액의 94%에 달하..",
+        "url": "https://www.newsis.com/view/NISX20260814_0003748782",
+        "source": "newsis.com",
+        "publishedAt": "2026-08-13T23:32:46.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/14/NISI20260814_0002212427_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 78,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관, 'MMCA 지역동행 –예술영화·다원예술' 개최",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 국립현대미술관(MMCA)이 예술영화와 다원예술 프로그램을 들고 지역미술관을 찾아간다.국립현대미술관은 지역 문화생태계 지원 프로그램 ‘MMCA 지역동행’의 일환으로 오는 9월 5일부터 11월 1일까지 경남·전남·전북 등 지역미술관에서 예술영화 상영과 다원예술 퍼포먼스를 선보인다고 13일 밝혔다.‘MMCA 지역동행-예술..",
+        "url": "https://www.newsis.com/view/NISX20260813_0003747538",
+        "source": "newsis.com",
+        "publishedAt": "2026-08-13T01:39:22.000Z",
+        "coverage": 6,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/13/NISI20260813_0002211427_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "‘거꾸로 회화’로 질서 깬 거장 바젤리츠 회고전…대표작 등 46점 전시",
+        "summary": "태광그룹 세화예술문화재단이 운영하는 세화미술관은 독일 현대미술의 거장 게오르그 바젤리츠 회고전을 개막한다고 13일 밝혔다. 전시는 오는 12월 27일까지 진행된다. 게오르그 바젤리츠는 현대미술사에 큰 영향을 끼친 세계적인 거장이다. 기존 회화의 관습을 뒤집는 독창적인",
+        "url": "https://www.munhwa.com/article/11609401",
+        "source": "문화일보",
+        "publishedAt": "2026-08-13T07:05:05.000Z",
+        "coverage": 9,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/13/news-p.v1.20260813.d96cdb97276c4a569841a519c38f1870_R.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e3a17b394ae1",
+      "rank": 1,
+      "score": 88,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Elvira Dyangani Ose appointed artistic director of Cape Town's Zeitz MoCAA",
+      "titleKo": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+      "summaryKo": "Elvira Dyangani Ose, 케이프타운 Zeitz MoCAA 예술감독으로 임명",
+      "url": "https://www.theartnewspaper.com/2026/08/13/elvira-dyangani-ose-appointed-artistic-director-of-cape-towns-zeitz-mocaa",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-13T11:34:12.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/4585d9c1d1f0105cb21d533ee4602fbd6d92f5a7-5065x6331.jpg?rect=0,272,5065,3039&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a359874865d8",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A Picasso Stolen 65 Years Ago Has Resurfaced. The Guggenheim Wants It Back",
+      "titleKo": "65년 전 도난당한 피카소가 다시 나타났다. 구겐하임은 그것을 되찾고 싶어한다",
+      "summaryKo": "구겐하임은 2023년 8월에 그림의 반환을 요구했다고 밝혔습니다. 소유자는 이를 거부했으며 그 그림은 그 이후로 계속 크리스티 경매에 보관되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/guggenheim-picasso-stolen-1961-lawsuit-1234795001",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-14T19:36:01.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/2181757198.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4f5cb87694a5",
+      "rank": 3,
+      "score": 82,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Massive Hiroshige Collection Heads to Christie’s—and More Industry Intel",
+      "titleKo": "대규모 히로시게 컬렉션이 크리스티와 더 많은 산업 인텔로 향합니다",
+      "summaryKo": "대규모 히로시게 컬렉션이 크리스티와 더 많은 산업으로 향합니다 Intel Artnet News",
+      "url": "https://news.artnet.com/market/hiroshige-collection-industry-intel-aug-14-2797779?amp=1",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-14T16:55:50.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "84a7a99137fa",
+      "rank": 4,
+      "score": 76,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Camden Art Centre director Martin Clark to step down and lead Towner Eastbourne",
+      "titleKo": "Camden Art Center의 Martin Clark 관장이 사임하고 Towner Eastbourne을 이끌게 됩니다.",
+      "summaryKo": "캠든 아트 센터(Camden Art Center)의 마틴 클라크(Martin Clark) 디렉터가 사임하고 이스트본 타우너(Towner Eastbourne)를 이끌게 됩니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/14/camden-art-centre-director-martin-clark-to-step-down-and-lead-towner-eastbourne",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-14T11:01:11.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ce41d8a2a5f288204b76ad507e971adf3da889b4-1514x2018.jpg?rect=0,555,1514,908&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cd2009ba25b1",
+      "rank": 5,
+      "score": 69,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Italian Police Recover $10 M. Worth of Artworks by Cezanne, Matisse, and Renoir",
+      "titleKo": "이탈리아 경찰, 천만 달러 상당의 세잔, 마티스, 르누아르 작품 압수",
+      "summaryKo": "예술 작품의 총 가치는 1,040만 달러를 초과하는 것으로 알려졌습니다.",
+      "url": "https://www.artnews.com/art-news/news/italian-police-recover-artworks-cezanne-matisse-and-renoir-1234794996",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-14T17:59:42.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/italy-artwork-recovered-800x600-1.jpg?w=800",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
