@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-16T09:00:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "영향력 있는 추상화가 메리 하일만(Mary Heilmann), 86세로 사망",
+      "titleOriginal": "Mary Heilmann, Influential Abstract Painter, Dead at 86",
+      "summaryKo": "하일만은 대중문화, 공예, 미술사의 요소를 쉽고 재치 있게 혼합한 선구적인 추상 화가였습니다.",
+      "url": "https://www.artnews.com/art-news/news/mary-heilmann-influential-abstract-painter-dead-86-1234795047/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/LACOMBE_20013_MARY_HEILMANN_91NN_10_A.jpg?w=1024"
+    },
+    {
+      "rank": 2,
+      "titleKo": "베티 사르, 피카소, 블랙스타",
+      "titleOriginal": "Betye Saar, Picasso, BlackStar",
+      "summaryKo": "Zeitz MOCAA의 새로운 리더이자 구겐하임 미술관 소유였던 도난당한 피카소와 2,000년 된 로마 난파선의 발견에 대한 잘 알려지지 않은 이야기입니다.",
+      "url": "https://hyperallergic.com/betye-saar-picasso-blackstar/",
+      "source": "Hyperallergic",
+      "category": "museum",
+      "image": null
+    },
+    {
+      "rank": 3,
+      "titleKo": "도난당한 피카소 판화, 8년 후 빈 아파트에서 회수",
+      "titleOriginal": "Stolen Picasso Print Recovered Eight Years Later in Vacant Apartment",
+      "summaryKo": "최근 보도에 따르면, 2018년 밀워키 갤러리에서 도난당한 피카소의 판화가 같은 도시의 낡은 아파트에서 기적적으로 다시 모습을 드러냈습니다. 판화 Torero(1949)는 최근 퇴거로 인해 비워진 아파트를 집주인이 둘러보던 중 발견되었습니다. 손실을 상쇄하기를 희망함",
+      "url": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/",
+      "source": "Artforum",
+      "category": "general",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/91205863007-02316-b-19-ffca-43-ed-8842799-b-0-ecf-900-f-e1786732192250.webp?w=600"
+    },
+    {
+      "rank": 4,
+      "titleKo": "프랑스에서 송환된 후 시리아 다마스쿠스 성채에서 보이는 로마 유물",
+      "titleOriginal": "Roman Artifacts on View at Syria’s Damascus Citadel Following Repatriation from France",
+      "summaryKo": "이 물건들은 원래 15년 전 파리에 있는 아랍세계연구소에 대여된 것이었습니다.",
+      "url": "https://www.artnews.com/art-news/news/roman-artifacts-on-view-syria-damascus-citadel-repatriation-france-1234795006/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-2288677688.jpg?w=1024"
+    }
+  ]
+}
