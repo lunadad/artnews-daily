@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T09:00:45+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "예술로 간주되는 것에 대한 대담한 비전을 담은 서사적 쇼 'Strange Rules'",
+      "titleOriginal": "In ‘Strange Rules,’ an Epic Show with a Bold Vision For What Counts as Art",
+      "summaryKo": "Palazzo Diedo에서 열리는 \"Strange Rules\" 전시회는 다음과 같은 많은 생각을 불러일으키는 질문을 던집니다. 예술이란 무엇입니까?",
+      "url": "https://www.artnews.com/art-news/artists/strange-rules-venice-exhibition-asks-what-is-art-1234795127/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/lawrenceabuhamdan-waterfalls.png?w=1024"
+    },
+    {
+      "rank": 2,
+      "titleKo": "시나이 사막 발굴을 통해 고대 이집트에서 해당 지역의 전략적 중요성에 대한 새로운 정보가 밝혀졌습니다",
+      "titleOriginal": "Sinai Desert Excavations Reveal New Information About Site’s Strategic Importance in Ancient Egypt",
+      "summaryKo": "주요 발견물 중 하나는 람세스 2세와 호루스에 대한 언급이 새겨진 크고 부서진 상인방입니다.",
+      "url": "https://www.artnews.com/art-news/news/tel-abu-saify-excavations-masen-revelation-ancient-egypt-1234795111/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/773339230_1471767171651491_5127549593154917757_n.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "Brett Littman, MCA San Diego의 차기 이사로 임명",
+      "titleOriginal": "Brett Littman Named Next Director of MCA San Diego",
+      "summaryKo": "이전에는 노구치 미술관 관장과 드로잉 센터 관장을 역임했습니다.",
+      "url": "https://www.artnews.com/art-news/news/brett-littman-director-mca-san-diego-1234795110/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Brett_Littman_Photography-by-Don-Stahl.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "이탈리아 고대 우물에서 발굴된 2,500년 된 에트루리아 청동 유물",
+      "titleOriginal": "2,500-Year-Old Etruscan Bronze Relics Excavated from Ancient Well in Italy",
+      "summaryKo": "Marzabotto 마을 근처에서 발견된 보물 중 일부는 금속 광택을 유지했습니다.",
+      "url": "https://www.artnews.com/art-news/news/etruscan-bronze-relics-italy-1234795085/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/estrucan.jpg?w=1024"
+    }
+  ]
+}
