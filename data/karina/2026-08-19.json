@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T09:00:46+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "Anna Weyant는 'Vanity Fair' 표지에 그림을 그리는 Marc Jacobs를 포착했습니다.",
+      "titleOriginal": "Anna Weyant Captures Marc Jacobs in Painting on Cover of ‘Vanity Fair’",
+      "summaryKo": "잡지는 제이콥스의 패션 분야 40년 역사와 그의 이름을 딴 라벨 판매를 탐구하는 커버 스토리에 제이콥스의 초상화를 그려달라고 Weyant에게 의뢰했습니다.",
+      "url": "https://www.artnews.com/art-news/news/anna-weyant-paints-marc-jacobs-in-vanity-fair-cover-1234795195/",
+      "source": "ARTnews",
+      "category": "market",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/VF0926_DigitalCover.jpg?w=1024"
+    },
+    {
+      "rank": 2,
+      "titleKo": "마감일과 신성한 방해물",
+      "titleOriginal": "Deadlines and Divine Distractions",
+      "summaryKo": "“나는 그녀의 불가능한 삶에 사로잡혀 있어요”",
+      "url": "https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/",
+      "source": "Artforum",
+      "category": "general",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/rita-p-feat-image.jpg?w=650"
+    },
+    {
+      "rank": 3,
+      "titleKo": "메디나 트리엔날레의 인프라로서의 예술",
+      "titleOriginal": "Art as Infrastructure at the Medina Triennial",
+      "summaryKo": "광범위하면서도 엄격한 전시회의 첫 번째 판에서는 공유 시스템의 노동, 규제, 추출 및 수리를 조사합니다.",
+      "url": "https://hyperallergic.com/art-as-infrastructure-at-the-medina-triennial/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/Finnegan_Shannon_hello-from-my-bedside-table_2022-copy.jpg"
+    },
+    {
+      "rank": 4,
+      "titleKo": "송환된 두개골, 오악사카 지역사회 박물관에 전시될 예정",
+      "titleOriginal": "Repatriated Skull To Be Displayed in Community Museum in Oaxaca",
+      "summaryKo": "보도에 따르면 고대 메소아메리카 두개골은 네덜란드에서 송환된 지 1년여가 지난 지금 멕시코 국립인류학역사연구소(INAH)가 소유하고 있다고 한다. 두개골은 결국 Yucu Saa 커뮤니티 뮤즈에 전시될 예정입니다.",
+      "url": "https://www.artforum.com/news/repatriated-skull-to-be-displayed-in-museum-in-oaxaca-1234757191/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/skull.avif?w=650"
+    }
+  ]
+}
