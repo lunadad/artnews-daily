@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T07:54:39.930+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "focus": [
+      {
+        "title": "AMTD, The Art Newspaper의 글로벌 편집장으로 Benjamin Sutton 임명",
+        "why": "3개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "루이스 컴포트 티파니가 여전히 수집가들을 매료시키는 이유",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "남아시아 미술 시장, 가짜 유입에 직면하다",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 111,
+        "category": "general",
+        "articleType": "news",
+        "title": "전 세계 갤러리 308곳이 서울로… 미술의 계절이 요동친다",
+        "summary": "프리즈 서울과 키아프 서울이 9월 첫 주 코엑스에서 나란히 열려 전 세계 30개국 308개 갤러리가 서울로 모였다. 프리즈는 스포트라이트와 머티리얼 프랙티스를 새로 선보이고, 키아프는 공존을 주제로 특별전과 키아프 하이라이트를 강화했다.",
+        "url": "https://m.go.seoul.co.kr/news/life/2026/08/20/20260820016001?cp=go",
+        "source": "서울Pn",
+        "publishedAt": "2026-08-19T15:46:43.000Z",
+        "coverage": 18,
+        "qualityCoverage": 6,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/08/20/SSC_20260820004637.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 95,
+        "category": "museum",
+        "articleType": "news",
+        "title": "미디어아트 어때요…서서울미술관 ‘두더지들’, DDP 백남준·유영국 ‘빛의 향연’ [이.주.여.주]",
+        "summary": "서울의 가을을 미디어아트로 채우는 전시와 축제가 잇따라 열린다. 서서울미술관은 김희천의 첫 미디어 작가전 ‘두더지들’을, DDP는 백남준·유영국과 시조를 빛과 영상으로 재해석한 ‘서울라이트 DDP 2026 가을’을 무료로 선보인다.",
+        "url": "https://www.seoul.co.kr/news/plan/AttentionThisWeekend/2026/08/20/20260820500140",
+        "source": "서울신문",
+        "publishedAt": "2026-08-20T06:00:00.000Z",
+        "coverage": 28,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/08/20/SSC_20260820145909_O2.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 74,
+        "category": "general",
+        "articleType": "news",
+        "title": "조각품일까, 악기일까…리움 찾아오는 '전위적 음악' - 머니투데이",
+        "summary": "조각인 동시에 연주 가능한 악기를 이용해 최정희의 '세븐'과 라 몬테 영의 '활과 원반에 대한 연구'를 선보인다. 공연에 사용되는 악기는 작가 '월터 드 마리아'와 '로버트 모리스'가 설계하고 만든 작품이다.",
+        "url": "https://www.mt.co.kr/amp/culture/2026/08/20/2026082015062451324",
+        "source": "머니투데이",
+        "publishedAt": "2026-08-20T06:35:14.000Z",
+        "coverage": 6,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082015062451324_1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "까마귀가 전시장에…스리랑카 부부 작가 서울 2인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 자연을 그리는 아내와 사회를 응시하는 남편.스리랑카에서 활동하는 예술가 부부 아찰라 구나와르다나(Achala Gunawardhana)와 수닷 아베이세카라(Sudath Abeysekara)가 서울에서 2인전을 연다.서울 인사동 갤러리 모나리자 산촌에서 오는 23일 개막하는 이번 전시는 회화와 판화, 설치 등 서로 다른..",
+        "url": "https://www.newsis.com/view/NISX20260821_0003758057",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-21T22:00:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/21/NISI20260821_0002218307_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "artist",
+        "articleType": "news",
+        "title": "학고재 '개인전개인전개인전'…굿모닝타운·순이지·주재범",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KY3hGdmNkYm5LRmVvUGl1Q0lhbGZuOEk1U2ZwdGtSbENQNTFKZkxuMU5HRzhBeUlZbWljTnFVZmdMVnZZelBvQUp0VE1Eb3hETHZDb1pGNGNwaDIyOW9JadIBeEFVX3lxTE4zeHNrSm5qOU00aVhkTUxtZUVjYnU4MEkwLUtSUFQ1RjJYYVdReG9WZ3NsdjhsNmc5bm01MExoN180dE5YNFlONlFJTkZDeTVya00zU3BWd0F1SkZhMU5QNGM5Q1drM0dGazgyMXB0aGxYUkRET3Zxdw?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-21T05:33:41.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "bbfd29a0b845",
+      "rank": 1,
+      "score": 89,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "AMTD appoints Benjamin Sutton as Global Editor-in-Chief of The Art Newspaper",
+      "titleKo": "AMTD, The Art Newspaper의 글로벌 편집장으로 Benjamin Sutton 임명",
+      "summaryKo": "AMTD, The Art Newspaper의 글로벌 편집장으로 Benjamin Sutton 임명",
+      "url": "https://www.theartnewspaper.com/2026/08/21/amtd-appoints-benjamin-sutton-global-editor-chief-the-art-newspaper",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T16:12:03.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/48948947b5e27eb10d4c5e04ee9416abdfe0d16e-1600x1000.jpg?rect=0,19,1600,960&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1ff5291083e4",
+      "rank": 2,
+      "score": 79,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Why Louis Comfort Tiffany Still Dazzles Collectors",
+      "titleKo": "루이스 컴포트 티파니가 여전히 수집가들을 매료시키는 이유",
+      "summaryKo": "루이스 컴포트 티파니가 여전히 수집가들을 매료시키는 이유 Artnet News",
+      "url": "https://news.artnet.com/art-world/louis-comfort-tiffany-met-nassau-market-2799918",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T17:01:56.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "82a6dc5e1ba6",
+      "rank": 3,
+      "score": 79,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "South Asian Art Market Faces Influx of Fakes",
+      "titleKo": "남아시아 미술 시장, 가짜 유입에 직면하다",
+      "summaryKo": "남아시아 미술 시장, 가짜 작품 유입에 직면하다 Artforum",
+      "url": "https://www.artforum.com/news/south-asian-art-market-faces-forgeries-1234757469",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-20T17:19:55.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/ganesh-pyne-the-fisherman-OTHXC.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "fc688a9aced2",
+      "rank": 4,
+      "score": 76,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A century ago, Tate borrowed five Van Goghs to inaugurate its new ‘modern foreign’ galleries",
+      "titleKo": "100년 전, 테이트는 다섯 명의 반 고흐 작품을 빌려 새로운 '현대 외국' 갤러리를 개관했습니다.",
+      "summaryKo": "영국의 개인 수집가들이 대여한 반 고흐의 작품은 이후 해외로 나갔습니다. 단, 현재 웨일스의 성에 있는 가짜 작품은 예외입니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/21/a-century-ago-tate-borrowed-five-van-goghs-to-inaugurate-its-new-modern-foreign-galleries",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/51f4dbafbd4c7942d232b27f71f4eb7b8be1070f-2000x1478.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5c748c607673",
+      "rank": 5,
+      "score": 76,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Mahatma Gandhi's handwritten notes sell for record rs 16.2 crore | GRAVITAS",
+      "titleKo": "마하트마 간디의 손으로 쓴 메모가 1억 6200만 루피에 팔렸습니다 | 중력",
+      "summaryKo": "마하트마 간디의 손으로 쓴 메모가 1억 6200만 루피에 팔렸습니다 | 그라비타스 위온",
+      "url": "https://www.wionews.com/india-news/mahatma-gandhi-s-handwritten-notes-sell-for-record-rs-16-2-crore-gravitas-1787335192000",
+      "source": "WION",
+      "sourceDomain": "wionews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T18:12:00.000Z",
+      "coverage": 2,
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260821/image-1787335877436.jpg?imwidth=1200&imheight=900",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
