@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T07:53:06.839+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+        "why": "2개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "South Asian Art Market Faces Influx of Fakes",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "A century ago, Tate borrowed five Van Goghs to inaugurate its new ‘mo…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 2,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 68,
+        "category": "general",
+        "articleType": "news",
+        "title": "조각품일까, 악기일까…리움 찾아오는 '전위적 음악' - 머니투데이",
+        "summary": "조각인 동시에 연주 가능한 악기를 이용해 최정희의 '세븐'과 라 몬테 영의 '활과 원반에 대한 연구'를 선보인다. 공연에 사용되는 악기는 작가 '월터 드 마리아'와 '로버트 모리스'가 설계하고 만든 작품이다.",
+        "url": "https://www.mt.co.kr/index.php/culture/2026/08/20/2026082015062451324",
+        "source": "머니투데이",
+        "publishedAt": "2026-08-20T06:35:14.000Z",
+        "coverage": 7,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026082015062451324_1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 66,
+        "category": "museum",
+        "articleType": "news",
+        "title": "지리산·섬진강, 작품으로 만나다…하동 '찾아가는 도립미술관'",
+        "summary": "(거창=연합뉴스) 이정훈 기자 = 경남도립미술관은 하동군 하동읍 하동문화예술회관 아트갤러리에서 '2026 찾아가는 도립미술관' 다섯번째 전시를 ...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260821047900052",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-21T00:55:31.000Z",
+        "coverage": 5,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img3.yna.co.kr/etc/inner/KR/2026/08/21/AKR20260821047900052_01_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 62,
+        "category": "museum",
+        "articleType": "news",
+        "title": "미디어아트 어때요…서서울미술관 ‘두더지들’, DDP 백남준·유영국 ‘빛의 향연’ [이.주.여.주]",
+        "summary": "서울의 가을을 미디어아트로 채우는 전시와 축제가 잇따라 열린다. 서서울미술관은 김희천의 첫 미디어 작가전 ‘두더지들’을, DDP는 백남준·유영국과 시조를 빛과 영상으로 재해석한 ‘서울라이트 DDP 2026 가을’을 무료로 선보인다.",
+        "url": "https://www.seoul.co.kr/news/plan/AttentionThisWeekend/2026/08/20/20260820500140",
+        "source": "서울신문",
+        "publishedAt": "2026-08-20T06:00:00.000Z",
+        "coverage": 12,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/08/20/SSC_20260820145909_O2.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 53,
+        "category": "artist",
+        "articleType": "news",
+        "title": "작가 없어도 작품은 완성된다…아모레퍼시픽미술관, 솔 르윗 개인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = “아이디어가 예술을 만드는 기계가 된다.”개념미술의 선구자 솔 르윗(1928~2007)이 남긴 유명한 명제다. 작가가 직접 손으로 작품을 완성하지 않아도 아이디어와 지시문이 있다면 작품은 계속 새롭게 만들어질 수 있다는 발상이었다.그가 세상을 떠난 지 19년. 서울 용산 아모레퍼시픽미술관 벽에서 그의 작품이 다시 만..",
+        "url": "https://www.newsis.com/view/NISX20260821_0003757183",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-21T01:07:35.000Z",
+        "coverage": 11,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217681_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "한정원 작가 초대개인전 《도시의 온도 V》판교 델리아트스페이스 갤러리에서 개최",
+        "summary": "한정원 작가 초대개인전 《도시의 온도 V》도시의 기억과 인간의 내면을 겹겹의 회화로 담아내도시의 풍경과 그 안을 살아가는 인간의 감정을 자신만의 조형언어로 표현해",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5636",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-22T17:02:23.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202608/5636_124638_123_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "c9cc81050944",
+      "rank": 1,
+      "score": 78,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+      "titleKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+      "summaryKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale Artforum",
+      "url": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T23:17:46.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "82a6dc5e1ba6",
+      "rank": 2,
+      "score": 73,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "South Asian Art Market Faces Influx of Fakes",
+      "titleKo": "South Asian Art Market Faces Influx of Fakes",
+      "summaryKo": "The booming market for South Asian art has been flooded with forgeries. With auction sales for South Asian art exceeding $100 million in 2025 alone, both major names and middle-market artists are finding their work targeted by forgers. “We are seeing an awful lot more dodgy stuff on the market,” Cha",
+      "url": "https://www.artforum.com/news/south-asian-art-market-faces-forgeries-1234757469",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-20T17:19:55.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/ganesh-pyne-the-fisherman-OTHXC.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "fc688a9aced2",
+      "rank": 3,
+      "score": 70,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A century ago, Tate borrowed five Van Goghs to inaugurate its new ‘modern foreign’ galleries",
+      "titleKo": "A century ago, Tate borrowed five Van Goghs to inaugurate its new ‘modern foreign’ galleries",
+      "summaryKo": "Lent by British private collectors, the Van Goghs subsequently went abroad—except for a fake, which is now in a castle in Wales",
+      "url": "https://www.theartnewspaper.com/2026/08/21/a-century-ago-tate-borrowed-five-van-goghs-to-inaugurate-its-new-modern-foreign-galleries",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-21T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/51f4dbafbd4c7942d232b27f71f4eb7b8be1070f-2000x1478.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "deaa5a6780ba",
+      "rank": 4,
+      "score": 67,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Speed Art Museum Repatriates 24 Artifacts to Cheyenne and Arapaho Tribes",
+      "titleKo": "Speed Art Museum Repatriates 24 Artifacts to Cheyenne and Arapaho Tribes",
+      "summaryKo": "In a ceremony that took place on Tuesday, August 19, the Speed Art Museum in Louisville, Kentucky returned twenty-four cultural items from its collection to the Southern Cheyenne and Arapaho tribes, both of which hail from Oklahoma. This is the first time the museum has repatriated items under the N",
+      "url": "https://www.artforum.com/news/speed-art-museum-repatriates-24-artifacts-1234757486",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-20T18:56:23.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Speed_Art_Museum.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1ff5291083e4",
+      "rank": 5,
+      "score": 65,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Why Louis Comfort Tiffany Still Dazzles Collectors",
+      "titleKo": "Why Louis Comfort Tiffany Still Dazzles Collectors",
+      "summaryKo": "Why Louis Comfort Tiffany Still Dazzles Collectors Artnet News",
+      "url": "https://news.artnet.com/art-world/louis-comfort-tiffany-met-nassau-market-2799918",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T17:01:56.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
