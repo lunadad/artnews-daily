@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T07:52:25.397+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "India's art market is booming, fuelled by new money and a new generat…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M i…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "South Asian Art Market Faces Influx of Fakes",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 2,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "울산시립미술관 기획 전시 ‘팬레터’ 인기…‘트로트와 현대미술의 만남’에 큰 관심",
+        "summary": "울산=곽시열 기자 울산시립미술관은 대중음악 트로트를 현대미술로 만나는 기획전 ‘팬레터’가 개막 40일 만에 관람객 1만 명을 돌파하며 높은 호응을 얻고 있다고 21일 밝혔다. 지난 7월 9일부터 오는 9월 27일까지 울산시립미술관에서 진행되는 펜레터는 트로트와 아시아",
+        "url": "https://www.munhwa.com/article/11610960",
+        "source": "문화일보",
+        "publishedAt": "2026-08-21T01:30:24.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/21/news-p.v1.20260821.1859575e58ee45f1b6b037f5602ff785_R.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "지리산·섬진강, 작품으로 만나다…하동 '찾아가는 도립미술관'",
+        "summary": "(거창=연합뉴스) 이정훈 기자 = 경남도립미술관은 하동군 하동읍 하동문화예술회관 아트갤러리에서 '2026 찾아가는 도립미술관' 다섯번째 전시를 ...",
+        "url": "https://www.yna.co.kr/view/AKR20260821047900052",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-21T00:55:31.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img3.yna.co.kr/etc/inner/KR/2026/08/21/AKR20260821047900052_01_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 42,
+        "category": "general",
+        "articleType": "news",
+        "title": "아모리 아트쇼 ARMORY ART SHOW 인사동 인사아트센터 경남갤러리에서 개최",
+        "summary": "2026년 8월 19일(수)부터 24일(월)까지 서울 인사동 인사아트센터 5층 경남갤러리에서 석랑 임석숙 작가가 참여하는 전시가 열리고 있다. 석랑 임석숙 작가석",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5644",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-23T04:01:17.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.artworldnews.co.kr/image/logo/snslogo_20240830100641.png"
+      },
+      {
+        "rank": 4,
+        "score": 42,
+        "category": "artist",
+        "articleType": "news",
+        "title": "최서은 6번째 개인전 인사동 마루아트센터 가온갤러리에서 개최",
+        "summary": "작가 최서은의 개인전이 2026년 8월 19일(수)부터 25일(화)까지 서울 인사동 가온갤러리에서 개최된다. 이번 전시는 다양한 개인전과 국내외 기획전, 아트페어",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5641",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-23T01:24:22.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202608/5641_124794_4329_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 41,
+        "category": "artist",
+        "articleType": "news",
+        "title": "작가 없어도 작품은 완성된다…아모레퍼시픽미술관, 솔 르윗 개인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = “아이디어가 예술을 만드는 기계가 된다.”개념미술의 선구자 솔 르윗(1928~2007)이 남긴 유명한 명제다. 작가가 직접 손으로 작품을 완성하지 않아도 아이디어와 지시문이 있다면 작품은 계속 새롭게 만들어질 수 있다는 발상이었다.그가 세상을 떠난 지 19년. 서울 용산 아모레퍼시픽미술관 벽에서 그의 작품이 다시 만..",
+        "url": "https://www.newsis.com/view/NISX20260821_0003757183",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-21T01:07:35.000Z",
+        "coverage": 11,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/21/NISI20260821_0002217681_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "d1e2ccce6804",
+      "rank": 1,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "India's art market is booming, fuelled by new money and a new generation of collectors",
+      "titleKo": "India's art market is booming, fuelled by new money and a new generation of collectors",
+      "summaryKo": "India's art market is booming, fuelled by new money and a new generation of collectors The Economic Times",
+      "url": "https://m.economictimes.com/news/india/indias-art-market-is-booming-fuelled-by-new-money-and-a-new-generation-of-collectors/articleshow/133436047.cms",
+      "source": "The Economic Times",
+      "sourceDomain": "economictimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-23T07:25:12.000Z",
+      "coverage": 2,
+      "image": "https://img.etimg.com/thumb/msid-133436073,width-1200,height-630,imgsize-276290,overlay-economictimes/articleshow.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d83d0d1b4ae8",
+      "rank": 2,
+      "score": 75,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner",
+      "titleKo": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner",
+      "summaryKo": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/michael-jordan-game-worn-1998-122009818.html",
+      "source": "Yahoo Sports",
+      "sourceDomain": "yahoo.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-23T12:20:09.000Z",
+      "coverage": 2,
+      "image": "https://s.yimg.com/lo/mysterio/api/d4a7dda228cd7e241347b3c55a021484e6e81c635176656667b3e5b4700fad76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F8a9f1ade4f29704e238984ddb13b5ea5.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "82a6dc5e1ba6",
+      "rank": 3,
+      "score": 73,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "South Asian Art Market Faces Influx of Fakes",
+      "titleKo": "South Asian Art Market Faces Influx of Fakes",
+      "summaryKo": "The booming market for South Asian art has been flooded with forgeries. With auction sales for South Asian art exceeding $100 million in 2025 alone, both major names and middle-market artists are finding their work targeted by forgers. “We are seeing an awful lot more dodgy stuff on the market,” Cha",
+      "url": "https://www.artforum.com/news/south-asian-art-market-faces-forgeries-1234757469",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-20T17:19:55.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/ganesh-pyne-the-fisherman-OTHXC.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c9cc81050944",
+      "rank": 4,
+      "score": 60,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+      "titleKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+      "summaryKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale Artforum",
+      "url": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-21T23:17:46.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b71de68af291",
+      "rank": 5,
+      "score": 58,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Rehoboth Art League Opens 12th Regional Biennial Exhibition",
+      "titleKo": "Rehoboth Art League Opens 12th Regional Biennial Exhibition",
+      "summaryKo": "Rehoboth Art League Opens 12th Regional Biennial Exhibition Hoodline",
+      "url": "https://hoodline.com/2026/08/rehoboth-art-league-picks-111-works-from-70-artists-for-biennial-show",
+      "source": "Hoodline",
+      "sourceDomain": "hoodline.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-23T17:37:30.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
