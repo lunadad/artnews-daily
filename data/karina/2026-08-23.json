@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T09:00:31+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "Chris Kraus, Venice Pavilions, Rina Banerjee",
+      "titleOriginal": "Chris Kraus, Venice Pavilions, Rina Banerjee",
+      "summaryKo": "Our favorite national pavilions at the Venice Biennale, Shirley Tse and Dana Berman Duff’s breathing moons, and Dean Millien’s aluminum-foil animal world.",
+      "url": "https://hyperallergic.com/chris-kraus-venice-pavilions-rina-banerjee/",
+      "source": "Hyperallergic",
+      "category": "museum",
+      "image": null
+    },
+    {
+      "rank": 2,
+      "titleKo": "Pleasantries from the Potato Museum",
+      "titleOriginal": "Pleasantries from the Potato Museum",
+      "summaryKo": "“You could buy potato flavored gum”",
+      "url": "https://www.artforum.com/columns/pleasantries-from-the-potato-museum-postcard-1234757695/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/cravens-feat-image.jpg?w=650"
+    },
+    {
+      "rank": 3,
+      "titleKo": "Marseille Museum President Accused of Sexual Misconduct, Putting Institution ‘At Risk’: Report",
+      "titleOriginal": "Marseille Museum President Accused of Sexual Misconduct, Putting Institution ‘At Risk’: Report",
+      "summaryKo": "A government audit claims Pierre-Olivier Costa, the recently suspended president of the Musée des civilization de l’Europe et de la Méditerranée (Mucem), sexually and morally harassed staff, while showing 'favoritism' in hiring and contracting, sparking a broader criminal investigation.",
+      "url": "https://www.artnews.com/art-news/news/report-accuses-marseille-museum-president-of-sexual-harassment-and-putting-institution-at-risk-1234795542/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/mucem.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "An Obscure Canadian Agency Helped Convict Norval Morrisseau Forgers—and Is Finally Getting Its Due",
+      "titleOriginal": "An Obscure Canadian Agency Helped Convict Norval Morrisseau Forgers—and Is Finally Getting Its Due",
+      "summaryKo": "Fakes had been churned out since at least 1996, an investigation found.",
+      "url": "https://www.artnews.com/art-news/news/obscure-canadian-agency-forgers-norval-morrisseau-1234795553/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2024/06/GettyImages-909361884.jpg?w=1024"
+    }
+  ]
+}
