@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T07:58:18.335+09:00",
+  "briefing": {
+    "headline": "오늘은 기관 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Photographer Sues Elizabeth Peyton Over Painting Using His Photo of O…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Helsinki Biennial Reveals Theme for 2027 Edition",
+        "why": "2개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Leyla Aliyeva views works from first Bukhara Biennial [PHOTOS/VIDEO]",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 87,
+        "category": "museum",
+        "articleType": "news",
+        "title": "부산비엔날레 29일 개막…현대미술관 등 3곳서 전시",
+        "summary": "(부산=연합뉴스) 김선호 기자 = '2026 부산비엔날레'가 오는 29일부터 11월 1일까지 '불협하는 합창(Dissident Chorus)'을...",
+        "url": "https://www.yna.co.kr/view/AKR20260825020900051",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-24T23:27:22.000Z",
+        "coverage": 10,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/08/25/AKR20260825020900051_01_i_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 63,
+        "category": "general",
+        "articleType": "news",
+        "title": "박서보의 묘법·김세은의 도시…두 세대의 회화 한 자리에",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 글로벌 아트페어(미술품 장터) '프리즈 서울'을 앞두고 국내 대표 상업화랑 국제갤러리가 올해 행사에 출품하는 ...",
+        "url": "https://www.yna.co.kr/view/AKR20260825158500005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-25T22:01:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img4.yna.co.kr/etc/inner/KR/2026/08/25/AKR20260825158500005_03_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 59,
+        "category": "general",
+        "articleType": "news",
+        "title": "미술 축제가 열린다! 미리 만나는 2026 Kiaf·Frieze ①",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52S3dOQ2M2ZFQwTVJna18zUEdSQ3NNS0ItMEFDOHE0M2pScDBlYVhFbzNmU0pITS10U2lNN1dEV0FseTVVNW9VbGY4c0Z2ZWRlWmtaYjlWYzJDdWNoSWd2eDRYRlg2cl9QOHfSAW5BVV95cUxOQTVwbGVSRUhzdl9qTUJnUjR1eXJ5UXdxSk93bWdETmxxb1dlU25uNEZhbGZwUnZqNGc5X0tva1llSXJQcU0wSWMxandjUmtFcVFXUGlmS1JZT0RSSUVjUkpwSTBzMWpLdFh3dmdJZw?oc=5",
+        "source": "여성조선",
+        "publishedAt": "2026-08-24T01:02:53.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 55,
+        "category": "museum",
+        "articleType": "news",
+        "title": "\"미술관 밖으로 나온 조각 123점\"…서울 곳곳이 전시장 된다",
+        "summary": "29일부터 서울 5곳서 '서울조각페스티벌'…야외전시 11월30일까지 서울 도심 광장부터 한강공원과 숲, 역사공간까지 서울 곳곳이 거대한 '야외 미술관'으로 변신한다. 대형 조각 작품을 감상하는 데 그치지 않고 작품에 직접 앉아보거 …",
+        "url": "https://www.news1.kr/local/moi/6268291",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-25T02:15:00.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/8/25/8070257/medium.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 52,
+        "category": "artist",
+        "articleType": "news",
+        "title": "안중근·광주민주화운동·서태지가 ‘색’으로…송영후 개인전",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 안중근 의사의 의거, 광주민주화운동, 88서울올림픽, 서태지와 아이들, 성수대교 붕괴. 한국 현대사 100년의 장면들이 모두 사라지고 ‘색’만 남았다.부산을 기반으로 활동해온 작가 송영후(52)가 한국 현대사의 사진 기록을 색채 데이터로 압축한 10m 대작을 서울에서 선보인다.서울 삼청동 공근혜갤러리는 오는 27일부..",
+        "url": "https://www.newsis.com/view/NISX20260825_0003761108",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-25T15:01:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/25/NISI20260825_0002220242_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "ec93913d0276",
+      "rank": 1,
+      "score": 105,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Photographer Sues Elizabeth Peyton Over Painting Using His Photo of Oasis Band Members",
+      "titleKo": "Photographer Sues Elizabeth Peyton Over Painting Using His Photo of Oasis Band Members",
+      "summaryKo": "The painting featuring Liam Gallagher kissing brother Noel on the cheek, sold for nearly $2 million at Sotheby’s.",
+      "url": "https://www.artnews.com/art-news/news/photographer-sues-elizabeth-peyton-over-painting-using-his-photo-of-oasis-band-members-1234795728",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-25T21:11:25.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/peyton-lawsuit.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3bfe98d336fa",
+      "rank": 2,
+      "score": 80,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Helsinki Biennial Reveals Theme for 2027 Edition",
+      "titleKo": "Helsinki Biennial Reveals Theme for 2027 Edition",
+      "summaryKo": "Helsinki Biennial Reveals Theme for 2027 Edition Artforum",
+      "url": "https://www.artforum.com/news/helsinki-biennial-announces-theme-for-2027-edition-1234757776",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-25T17:21:30.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/MamiKataoka_ArjaMiller-01.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4014b49218a1",
+      "rank": 3,
+      "score": 79,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Leyla Aliyeva views works from first Bukhara Biennial [PHOTOS/VIDEO]",
+      "titleKo": "Leyla Aliyeva views works from first Bukhara Biennial [PHOTOS/VIDEO]",
+      "summaryKo": "Leyla Aliyeva views works from first Bukhara Biennial [PHOTOS/VIDEO] AzerNews",
+      "url": "https://www.azernews.az/culture/262839.html",
+      "source": "AzerNews",
+      "sourceDomain": "azernews.az",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-25T06:21:00.000Z",
+      "coverage": 4,
+      "image": "https://www.azernews.az/media/2026/08/25/frefrefe1.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c49da9e76472",
+      "rank": 4,
+      "score": 76,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Two Convicted in Hamburg Court of Selling Looted Egyptian Antiquities",
+      "titleKo": "Two Convicted in Hamburg Court of Selling Looted Egyptian Antiquities",
+      "summaryKo": "The accused were part of a synidate that sold some $64 million worth of antiquties to the Louvre and the Metropolitan Museum of Art.",
+      "url": "https://www.artnews.com/art-news/news/children-serop-simonian-convicted-egyptian-antiquities-1234795719",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-25T21:12:10.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2022/08/fayum.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9458c949bb77",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+      "titleKo": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+      "summaryKo": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies program called it “woke” and “aesthetically terrifying.” The canvas, titled Youn",
+      "url": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-25T20:11:54.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
