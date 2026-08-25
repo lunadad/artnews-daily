@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T09:00:27+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "오늘의 주요 미술계 소식",
+      "titleOriginal": "Sliman Mansour, Painter of Palestinian Hope and Humanity, Dies at 79",
+      "summaryKo": "오늘 주목할 미술계의 주요 소식입니다. 오늘의 핵심 흐름을 넓게 잡아두면 이후 세부 뉴스를 해석하기 쉬워집니다. 확인할 점은 제목만 보지 말고 관련 기관/작가/시장 연결고리까지 같이 살피면 좋아요.",
+      "url": "https://hyperallergic.com/sliman-mansour-painter-of-palestinian-hope-and-humanity-dies-at-79/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/Sliman_Mansour--1-.jpg"
+    },
+    {
+      "rank": 2,
+      "titleKo": "오늘의 미술관과 전시 소식",
+      "titleOriginal": "Details Of Allegations Against Suspended MuCEM President Revealed",
+      "summaryKo": "주요 미술관과 전시의 최신 변화를 다룬 소식입니다. 주요 기관/전시 흐름이 보이면, 이번 주 아트씬의 온도를 읽는 데 도움이 됩니다. 확인할 점은 전시 일정, 시설 이슈, 기관 대응, 관람 동선 변화까지 같이 보시면 좋아요.",
+      "url": "https://www.artforum.com/news/allegations-against-suspended-mucem-president-revealed-1234757770/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2036328763.jpg?w=650"
+    },
+    {
+      "rank": 3,
+      "titleKo": "오늘의 주요 미술계 소식",
+      "titleOriginal": "Photo Books for Summer’s End",
+      "summaryKo": "오늘 주목할 미술계의 주요 소식입니다. 오늘의 핵심 흐름을 넓게 잡아두면 이후 세부 뉴스를 해석하기 쉬워집니다. 확인할 점은 제목만 보지 말고 관련 기관/작가/시장 연결고리까지 같이 살피면 좋아요.",
+      "url": "https://hyperallergic.com/photo-books-for-summers-end/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": null
+    },
+    {
+      "rank": 4,
+      "titleKo": "오늘의 작가와 전시 소식",
+      "titleOriginal": "Former Pussy Riot member says she was recruited by Russian security service to spy on dissident artists",
+      "summaryKo": "작가와 전시의 새로운 동향을 다룬 소식입니다. 작가·전시 뉴스는 다음 주목 포인트를 고르는 데 유용합니다. 확인할 점은 작가의 작업 맥락, 전시 규모, 대표작 언급, 다음 일정까지 같이 확인해보세요.",
+      "url": "https://www.theartnewspaper.com/2026/08/24/pussy-riot-rita-flores-margarita-konovalova-fsb-spying-pressure",
+      "source": "The Art Newspaper",
+      "category": "artist",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/61ccfdcad11ac7a619382e3f654f04e2ac59658c-2000x1521.jpg?rect=0,27,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format"
+    }
+  ]
+}
