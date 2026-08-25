@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Estonian Artists Donate Artworks for Auction Following $800,000 Bank …",
+        "title": "에스토니아 예술가들, 80만 달러 은행 사기로 미술품 경매에 기증",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Diego Maradona’s ‘Hand of God’ Soccer Ball Sells for $3.3 M., Well Be…",
+        "title": "디에고 마라도나(Diego Maradona)의 '신의 손' 축구공이 330만 달러에 팔렸습니다. 추정가는 1천만 달러보다 훨…",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "When galleries go bust, artists and collectors can struggle to recove…",
+        "title": "갤러리가 파산하면 예술가와 수집가는 작품을 복구하는 데 어려움을 겪을 수 있습니다. 여기서 법률 전문가가 조언을 제공합니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Estonian Artists Donate Artworks for Auction Following $800,000 Bank Scam",
-      "titleKo": "Estonian Artists Donate Artworks for Auction Following $800,000 Bank Scam",
-      "summaryKo": "After scammers defrauded the Estonian Artists' Association's bank accounts of 700,000 euros earlier this year, local artists united to alleviate the financial loss.",
+      "titleKo": "에스토니아 예술가들, 80만 달러 은행 사기로 미술품 경매에 기증",
+      "summaryKo": "올해 초 사기꾼들이 에스토니아 예술가 협회 은행 계좌에서 70만 유로를 사취한 후 현지 예술가들이 연합하여 재정적 손실을 완화했습니다.",
       "url": "https://www.artnews.com/art-news/news/estonian-artists-donate-artworks-auction-following-816400-bank-scam-1234795628",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Diego Maradona’s ‘Hand of God’ Soccer Ball Sells for $3.3 M., Well Below $10 M. Estimate",
-      "titleKo": "Diego Maradona’s ‘Hand of God’ Soccer Ball Sells for $3.3 M., Well Below $10 M. Estimate",
-      "summaryKo": "The ball has twice appeared at auction previously, both times failing to sell.",
+      "titleKo": "디에고 마라도나(Diego Maradona)의 '신의 손' 축구공이 330만 달러에 팔렸습니다. 추정가는 1천만 달러보다 훨씬 낮습니다.",
+      "summaryKo": "이 공은 이전에 경매에 두 번 나왔는데 두 번 다 팔리지 않았습니다.",
       "url": "https://www.artnews.com/art-news/news/diego-maradona-hand-of-god-soccer-ball-sells-below-estimate-1234795606",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
-      "titleKo": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
-      "summaryKo": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice The Art Newspaper",
+      "titleKo": "갤러리가 파산하면 예술가와 수집가는 작품을 복구하는 데 어려움을 겪을 수 있습니다. 여기서 법률 전문가가 조언을 제공합니다.",
+      "summaryKo": "갤러리가 파산하면 예술가와 수집가는 작품을 복구하기 위해 고군분투할 수 있습니다. 여기서 법률 전문가가 조언을 제공합니다.",
       "url": "https://www.theartnewspaper.com/2026/08/24/when-galleries-go-bust-artists-and-collectors-can-struggle-to-recover-their-workshere-legal-experts-offer-advice",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Leyla Aliyeva familiarized herself with the works of the first Bukhara Biennale",
-      "titleKo": "Leyla Aliyeva familiarized herself with the works of the first Bukhara Biennale",
-      "summaryKo": "Leyla Aliyeva familiarized herself with the works of the first Bukhara Biennale Baku.ws",
+      "titleKo": "Leyla Aliyeva는 첫 번째 부하라 비엔날레 작품에 익숙해졌습니다.",
+      "summaryKo": "Leyla Aliyeva는 첫 번째 Bukhara Biennale Baku.ws의 작품에 익숙해졌습니다.",
       "url": "https://baku.ws/en/politics/leyla-aliyeva-familiarized-herself-with-the-works-of-the-first-bukhara-biennale",
       "source": "Baku.ws",
       "sourceDomain": "baku.ws",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "FBI Returns 48 Ancient Objects to Egypt in Repatriation Ceremony",
-      "titleKo": "FBI Returns 48 Ancient Objects to Egypt in Repatriation Ceremony",
-      "summaryKo": "FBI Returns 48 Ancient Objects to Egypt in Repatriation Ceremony Artforum",
+      "titleKo": "FBI, 송환식을 통해 고대 유물 48점을 이집트로 반환",
+      "summaryKo": "FBI, 송환식을 통해 고대 유물 48점을 이집트로 반환 Artforum",
       "url": "https://www.artforum.com/news/fbi-returns-48-ancient-objects-to-egypt-in-ceremony-1234757758",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
