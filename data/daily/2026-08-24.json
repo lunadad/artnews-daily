@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "India's art market is booming, fuelled by new money and a new generat…",
+        "title": "인도 미술 시장은 새로운 자금과 새로운 수집가 세대에 힘입어 급성장하고 있습니다.",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M i…",
+        "title": "마이클 조던이 착용한 1998년 NBA 결승전 유니폼, 기록적인 경매에서 1억 달러에 낙찰될 수도 있다: 소유주",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "South Asian Art Market Faces Influx of Fakes",
+        "title": "남아시아 미술 시장, 위조품 유입에 직면",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "India's art market is booming, fuelled by new money and a new generation of collectors",
-      "titleKo": "India's art market is booming, fuelled by new money and a new generation of collectors",
-      "summaryKo": "India's art market is booming, fuelled by new money and a new generation of collectors The Economic Times",
+      "titleKo": "인도 미술 시장은 새로운 자금과 새로운 수집가 세대에 힘입어 급성장하고 있습니다.",
+      "summaryKo": "인도 미술 시장은 새로운 자금과 새로운 수집가 세대에 힘입어 급성장하고 있습니다.",
       "url": "https://m.economictimes.com/news/india/indias-art-market-is-booming-fuelled-by-new-money-and-a-new-generation-of-collectors/articleshow/133436047.cms",
       "source": "The Economic Times",
       "sourceDomain": "economictimes.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner",
-      "titleKo": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner",
-      "summaryKo": "Michael Jordan’s game-worn 1998 NBA Finals jersey could fetch $100M in record-setting auction: owner Yahoo Sports",
+      "titleKo": "마이클 조던이 착용한 1998년 NBA 결승전 유니폼, 기록적인 경매에서 1억 달러에 낙찰될 수도 있다: 소유주",
+      "summaryKo": "마이클 조던이 착용한 1998년 NBA 결승전 유니폼, 기록적인 경매에서 1억 달러에 낙찰될 수도 있다: 소유주 야후 스포츠",
       "url": "https://sports.yahoo.com/articles/michael-jordan-game-worn-1998-122009818.html",
       "source": "Yahoo Sports",
       "sourceDomain": "yahoo.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "South Asian Art Market Faces Influx of Fakes",
-      "titleKo": "South Asian Art Market Faces Influx of Fakes",
-      "summaryKo": "The booming market for South Asian art has been flooded with forgeries. With auction sales for South Asian art exceeding $100 million in 2025 alone, both major names and middle-market artists are finding their work targeted by forgers. “We are seeing an awful lot more dodgy stuff on the market,” Cha",
+      "titleKo": "남아시아 미술 시장, 위조품 유입에 직면",
+      "summaryKo": "급성장하고 있는 남아시아 예술 시장은 위조품으로 가득 차 있습니다. 2025년에만 남아시아 예술품 경매 판매액이 1억 달러를 초과하면서 주요 유명 예술가와 중견 예술가 모두 자신의 작품이 위조자의 표적이 되고 있습니다. \"우리는 시장에서 훨씬 더 많은 이상한 제품을 보고 있습니다.\"라고 Cha는 말했습니다.",
       "url": "https://www.artforum.com/news/south-asian-art-market-faces-forgeries-1234757469",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
-      "titleKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
-      "summaryKo": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale Artforum",
+      "titleKo": "마리암 엘노자히(Mariam Elnozahy), 2027 울란바토르 비엔날레 큐레이터로 임명",
+      "summaryKo": "마리암 엘노자히(Mariam Elnozahy), 2027 울란바토르 비엔날레 아트포럼 큐레이터로 임명",
       "url": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Rehoboth Art League Opens 12th Regional Biennial Exhibition",
-      "titleKo": "Rehoboth Art League Opens 12th Regional Biennial Exhibition",
-      "summaryKo": "Rehoboth Art League Opens 12th Regional Biennial Exhibition Hoodline",
+      "titleKo": "르호보스 아트 리그, 제12회 지역 비엔날레 전시회 개최",
+      "summaryKo": "르호보스 아트 리그, 제12회 지역 비엔날레 전시회 개최",
       "url": "https://hoodline.com/2026/08/rehoboth-art-league-picks-111-works-from-70-artists-for-biennial-show",
       "source": "Hoodline",
       "sourceDomain": "hoodline.com",
