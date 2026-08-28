@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T15:16:36.996+09:00",
+  "briefing": {
+    "headline": "오늘은 작가 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 0,
+      "fair": 1,
+      "artist": 2,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "why": "25개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies age…",
+        "why": "11개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 127,
+        "category": "fair",
+        "articleType": "news",
+        "title": "120ARTLAB, 아틀란타 아트페어에 한국 현대미술 알린다",
+        "summary": "120ARTLAB, 2026 아틀란타 아트페어 참가…한국 중견 작가 작품 소개2016년부터 미국·유럽서 한국 미술 알려…이번엔 미 남부 관람객·컬렉터와 만남[스포츠동아 양형모 기자] 120ARTLAB(120아트랩·대표 이정화)이 2026 아틀란타 아트페어(Atlant…",
+        "url": "https://sports.donga.com/life/article/all/20260828/134562253/1",
+        "source": "sports.donga.com",
+        "publishedAt": "2026-08-28T02:23:02.000Z",
+        "coverage": 46,
+        "qualityCoverage": 6,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/28/134562256.1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 56,
+        "category": "museum",
+        "articleType": "news",
+        "title": "사진·드로잉·뉴미디어·한국화로 엮은 '만남'…서울시립미술관 소장품전",
+        "summary": "서울시립미술관·동작문화재단 '만남의 장면들' 동작아트갤러리 장성은부터 한상아까지…스쳐 가는 일상을 포착 서울시립미술관과 동작문화재단은 협력전시 '세마 콜렉션: 만남의 장면들'을 9월 19일까지 서울 동작구 동작아트갤러리에서 연다. 사진·드로잉·뉴미디어·한국화 등 미 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6271988",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-28T01:01:12.000Z",
+        "coverage": 6,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/8/27/8075934/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“한 시간에 그림 하나…미술관에선 속도를 내려놓으세요”",
+        "summary": "[짬] ‘국내 1세대 미술관 에듀케이터’ 한주연 미술관교육연구회장 17초. 뉴욕의 대표적 명소인 메트로폴리탄 미술관에서 관람객이 작품 하나를 관람하는 평균 시간이라고 한다. 설명문과 작품을 대조하고 돌아서기에도 빠듯한 시간. 마음으로 느끼고 머금을 여유가 없다. 인증과",
+        "url": "https://www.hani.co.kr/arti/culture/music/1274997.html",
+        "source": "한겨레",
+        "publishedAt": "2026-08-27T09:50:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/600/479/imgdb/original/2026/0827/20260827503431.webp"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "아트위크, 나를 비추고 세상을 투영하다",
+        "summary": "아트위크, 나를 비추고 세상을 투영하다, Cover Story 국내 최대 미술축제 'KIAF-프리즈 서울'",
+        "url": "https://www.hankyung.com/article/2026082776221",
+        "source": "한국경제",
+        "publishedAt": "2026-08-27T10:07:44.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202608/AA.45469918.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "‘사과 작가’ 윤병락, 시간과 계절을 그리다",
+        "summary": "[아트코리아방송 = 김한정 기자] 화면을 가득 채운 붉은 사과가 금세라도 전시장 바닥으로 굴러떨어질 듯하다. 윤병락의 사과는 익숙한 정물이면서도, 보는 이의 시선을 현실과 회화의 경계로 이끄는 낯선 조형물이다.서울 청담동 보자르갤러리에서 열리고 있는 윤병락 개인전 ‘The Season",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104139",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-28T04:58:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202608/104139_332585_5357_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "2a6d652b8968",
+      "rank": 1,
+      "score": 110,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "summaryKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97 Artforum",
+      "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-27T19:12:52.000Z",
+      "coverage": 25,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-187291310.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "17df95ac3ffe",
+      "rank": 2,
+      "score": 103,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+      "titleKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+      "summaryKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97 The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-27T02:17:00.000Z",
+      "coverage": 11,
+      "image": "https://i.guim.co.uk/img/media/68341279febaa1d142dd19321d4c9405ceb511e6/348_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18af89c3dda3e753c8e4b864c004c60c",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5fe6c5a1a154",
+      "rank": 3,
+      "score": 90,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
+      "titleKo": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
+      "summaryKo": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale Artforum",
+      "url": "https://www.artforum.com/news/taiwan-pavilions-name-reinstated-gwangju-biennale-1234758013",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-26T20:44:11.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "74a6358aa2a1",
+      "rank": 4,
+      "score": 79,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Phillips Faces Major Senior Leadership Shake-Up, Ahead of Fall Sales",
+      "titleKo": "Phillips Faces Major Senior Leadership Shake-Up, Ahead of Fall Sales",
+      "summaryKo": "Miety Heiden, chairman of private sales, and Jonathan Crockett, chairman for Asia, are among the high-level departures from Phillips since May.",
+      "url": "https://www.artnews.com/art-news/market/phillips-senior-leadership-exits-miety-heiden-jonathan-crockett-1234796099",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-27T17:54:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2023/03/Phillips.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "92f4effe836a",
+      "rank": 5,
+      "score": 72,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Former Pussy Riot Member Says She Was Recruited to Spy on Artists by the Russian Government",
+      "titleKo": "Former Pussy Riot Member Says She Was Recruited to Spy on Artists by the Russian Government",
+      "summaryKo": "Rita Flores, a former member of the protest art collective Pussy Riot, alleged in an interview on Monday that members of the Federal Security Service of the Russian Federation (FSB) had recruited her to spy on dissident artists. In the interview, which was conducted by Flores’ lawyer for Port Media—",
+      "url": "https://www.artforum.com/news/former-pussy-riot-member-recruited-to-spy-by-russians-1234758015",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-26T20:54:07.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Pussy_Riot_by_Igor_Mukhin.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
