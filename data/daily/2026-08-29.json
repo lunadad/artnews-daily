@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T12:50:15.944+09:00",
+  "briefing": {
+    "headline": "오늘은 작가 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 0,
+      "fair": 1,
+      "artist": 2,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies age…",
+        "why": "6개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      },
+      {
+        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "why": "26개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves …",
+        "why": "3개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 비엔날레·아트페어 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 2,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 127,
+        "category": "fair",
+        "articleType": "news",
+        "title": "부산에 울리는 저항의 메아리…부산 비엔날레 개막",
+        "summary": "부산에 울리는 저항의 메아리…부산 비엔날레 개막, 에블린 사이먼스 아말 칼라프 공동 감독 부산의 역사와 바다, 노동자의 살아 숨쉬는 소리서 영감받아 전 세계 22개국 46명 작가 및 팀 학교 선박 창고 미술관 세 곳 무대 삼아 11월 1일까지 65일간의 항해에 닻 올려",
+        "url": "https://www.hankyung.com/article/202608290665i",
+        "source": "한국경제",
+        "publishedAt": "2026-08-29T01:38:07.000Z",
+        "coverage": 49,
+        "qualityCoverage": 9,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202608/01.45488053.1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 57,
+        "category": "fair",
+        "articleType": "news",
+        "title": "광주비엔날레 잔칫집에 ‘외교갈등’ 찬물…‘대만관’ 허용에 중국 인력 철수",
+        "summary": "16회 광주비엔날레 개막을 일주일 앞두고 중국쪽이 대만과의 갈등으로 전시 설치를 중단했다. 28일 광주비엔날레재단 말을 들어보면, 이날 오후 중국 전시설치 인력들은 전남광주통합특별시 광주미술관(옛 광주시립미술관) 하정웅미술관에서 진행 중이던 작품 설치를 중단하고 철수했",
+        "url": "https://www.hani.co.kr/arti/area/honam/1275213.html",
+        "source": "한겨레",
+        "publishedAt": "2026-08-28T13:08:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/800/320/imgdb/original/2026/0828/20260828502494.webp"
+      },
+      {
+        "rank": 3,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "[마이더스] 갤러리 - 백준승 '빛과 침묵'",
+        "summary": "'Light and Silence'(빛과 침묵) 시리즈는 고요 속에서 더 또렷해지는 감정, 그 안에서 자라나는 밝은 기운을 이야기한다. 이를 통...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260827080100980",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-29T01:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img6.yna.co.kr/photo/cms/2026/08/27/72/PCM20260827000072990_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[이번 주 전시] 신진 예술가들이 한자리에 모이는 이유",
+        "summary": "경기도미술관과 아르코미술관이 청년 작가 및 신진 예술가들의 기획전을 9월 27일까지 개최한다. 회화, 조각, 미디어, 설치미술, 디자인 등 다양한 작품과 프레젠테이션, 관객 대담이 열린다. |",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026082700260002512",
+        "source": "한국일보",
+        "publishedAt": "2026-08-28T10:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/08/27/780239c8-b922-4fed-bca2-9347870e1b2f.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "museum",
+        "articleType": "news",
+        "title": "사진·드로잉·뉴미디어·한국화로 엮은 '만남'…서울시립미술관 소장품전",
+        "summary": "서울시립미술관·동작문화재단 '만남의 장면들' 동작아트갤러리 장성은부터 한상아까지…스쳐 가는 일상을 포착 서울시립미술관과 동작문화재단은 협력전시 '세마 콜렉션: 만남의 장면들'을 9월 19일까지 서울 동작구 동작아트갤러리에서 연다. 사진·드로잉·뉴미디어·한국화 등 미 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6271988",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-28T01:01:12.000Z",
+        "coverage": 6,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/8/27/8075934/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "17df95ac3ffe",
+      "rank": 1,
+      "score": 99,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+      "titleKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+      "summaryKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97 The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-28T04:25:00.000Z",
+      "coverage": 6,
+      "image": "https://i.guim.co.uk/img/media/68341279febaa1d142dd19321d4c9405ceb511e6/348_0_2811_2248/master/2811.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18af89c3dda3e753c8e4b864c004c60c",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2a6d652b8968",
+      "rank": 2,
+      "score": 96,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "summaryKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97 Artforum",
+      "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-27T19:12:52.000Z",
+      "coverage": 26,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-187291310.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8bd15dd89f5a",
+      "rank": 3,
+      "score": 88,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
+      "titleKo": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
+      "summaryKo": "The Chinese ambassador reportedly expressed his “regret and concern” over the decision to restore the name “Taiwan Pavilion”.",
+      "url": "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-28T19:13:47.000Z",
+      "coverage": 3,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/06/2t13122owac4p1i.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "eb62d646c68e",
+      "rank": 4,
+      "score": 79,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97",
+      "titleKo": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97",
+      "summaryKo": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97 My Modern Met",
+      "url": "https://mymodernmet.com/yayoi-kusama-tribute",
+      "source": "My Modern Met",
+      "sourceDomain": "mymodernmet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-27T20:57:11.000Z",
+      "coverage": 6,
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2026/08/yayoi-kusama-rip-thumbnail.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5634a0080313",
+      "rank": 5,
+      "score": 76,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "titleKo": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "summaryKo": "But he did buy seven of the artist’s paintings, which are now shown at his Philadelphia museum—including two risqué ones",
+      "url": "https://www.theartnewspaper.com/2026/08/28/pioneering-us-collector-albert-barnes-turned-down-both-of-van-goghs-starry-nights",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-28T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/746101706be0b3fa3ca6f3474624eaf5028f4a7a-1200x941.heif?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
