@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T09:38:11.087+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "why": "4개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Top Execs Depart Phillips—and More Industry Intel",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 비엔날레·아트페어 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 2,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 93,
+        "category": "fair",
+        "articleType": "news",
+        "title": "부산에 울리는 저항의 메아리…부산 비엔날레 개막",
+        "summary": "부산에 울리는 저항의 메아리…부산 비엔날레 개막, 에블린 사이먼스 아말 칼라프 공동 감독 부산의 역사와 바다, 노동자의 살아 숨쉬는 소리서 영감받아 전 세계 22개국 46명 작가 및 팀 학교 선박 창고 미술관 세 곳 무대 삼아 11월 1일까지 65일간의 항해에 닻 올려",
+        "url": "https://www.hankyung.com/article/202608290665i",
+        "source": "한국경제",
+        "publishedAt": "2026-08-29T01:38:07.000Z",
+        "coverage": 47,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202608/01.45488053.1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 58,
+        "category": "museum",
+        "articleType": "news",
+        "title": "CULTURE LETTER ③ 9월의 추천 전시",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wTTN3b3J5eHBucTVqNEo2QUt5OG5RTnh4ZHJ3UHRUZHEyZGdzbjM0TjRHdVE0TDlhZDdTMnB6LWxPd05sVVd0ZUl4Xzc4MXJPY3ZVclplV013eHMwdElralNuZ0NQUXZhc1HSAW5BVV95cUxOaG04VUw2aDlMU09qcEE1Qkkyd0F0LWxLWFl3a2FqUzk2LTYzTTAzZW5rbXdPT2hxTWh1RkJzYjVrZHNGYTdlUHFiS2xvd1VqVENXeWIyaVF1X0gzbnl4djl0X2tnb0MtaVd0MUNCdw?oc=5",
+        "source": "여성조선",
+        "publishedAt": "2026-08-29T23:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "fair",
+        "articleType": "news",
+        "title": "광주비엔날레 중국 측 작품 설치 중단…외교 갈등 번지나",
+        "summary": "광주비엔날레가 대만 파빌리온 명칭 승인 뒤 중국 측 작품 설치가 중단되며 외교 갈등으로 번졌다. 재단은 대만 측 요구를 수용했으나 중국이 강하게 반발했고, 개막을 앞두고 전시 파행 우려가 커졌다.",
+        "url": "https://www.seoul.co.kr/news/society/2026/08/29/20260829500022",
+        "source": "서울신문",
+        "publishedAt": "2026-08-29T07:29:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/08/29/SSC_20260829162907_O2.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“오딧세이의 유랑이 아닌 스타트랙의 엔터프라이즈호처럼”…모란미술관, 기획전 ‘대항해 시대, 미확정 지도’의 꿈",
+        "summary": "‘전속작가 지원사업’서 발굴한 22명 초청 회화, 조각, 설치, 공예, 영상 등 작품 전시 “갤러리가 주목한 유망 작가들의 대항해” 한국현대미술의 현재와 미래를 볼 수 있어 “21세기 컴퓨터 화면 속으로 인류 전체가 항해에 나선 전대미문의 대항해시대에 인간다움이란 무엇",
+        "url": "https://www.munhwa.com/article/11612978",
+        "source": "문화일보",
+        "publishedAt": "2026-08-29T06:32:04.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/08/29/news-p.v1.20260829.9fe0aa71eb2041239ce78249449e7db9_R.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "제17회한국현대미술작가연합회 정기전 인사동 갤러리 라메르 3에서 개최",
+        "summary": "제17회 한국현대미술작가연합회 정기전이 8월 26일부터 9월 1일까지 서울 인사동 갤러리 라메르 1층 1관·3관과 3층 전관에서 개최 되었다.이번 전시는 전국에서",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5665",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-08-29T23:46:13.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202608/5665_126392_244_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "2a6d652b8968",
+      "rank": 1,
+      "score": 84,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "summaryKo": "Yayoi Kusama, a pioneer of Pop and Minimalism whose playful glass sculptures, mirrored installations, and polka-dot paintings mesmerized audiences around the world, died on August 14 at a hospital in Tokyo of multiple organ failure. She was ninety-seven. Her death was announced on August 27 by her s",
+      "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-27T19:12:52.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-187291310.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5634a0080313",
+      "rank": 2,
+      "score": 70,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "titleKo": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "summaryKo": "But he did buy seven of the artist’s paintings, which are now shown at his Philadelphia museum—including two risqué ones",
+      "url": "https://www.theartnewspaper.com/2026/08/28/pioneering-us-collector-albert-barnes-turned-down-both-of-van-goghs-starry-nights",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-28T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/746101706be0b3fa3ca6f3474624eaf5028f4a7a-1200x941.heif?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "75d57e8babf1",
+      "rank": 3,
+      "score": 68,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Top Execs Depart Phillips—and More Industry Intel",
+      "titleKo": "Top Execs Depart Phillips—and More Industry Intel",
+      "summaryKo": "Top Execs Depart Phillips—and More Industry Intel Artnet News",
+      "url": "https://news.artnet.com/market/industry-intel-aug-28-2804188",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-28T18:07:47.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "57cc75b0d87f",
+      "rank": 4,
+      "score": 67,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
+      "titleKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
+      "summaryKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026 PA Media",
+      "url": "https://pressreleasehub.pa.media/article/new-auction-record-set-as-falcon-sells-for-aed-15-million-at-adihex-2026-81852.html",
+      "source": "PA Media",
+      "sourceDomain": "pa.media",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-29T21:59:08.000Z",
+      "coverage": 1,
+      "image": "https://content-media.pa.media/press-release/picture/2026/08/29/01M17R8HK08KWY1GBXVRGRQW6Y.jpg?fix=bounds&w=1200",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8bd15dd89f5a",
+      "rank": 5,
+      "score": 66,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
+      "titleKo": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
+      "summaryKo": "The Chinese ambassador reportedly expressed his “regret and concern” over the decision to restore the name “Taiwan Pavilion”.",
+      "url": "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-28T19:13:47.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/06/2t13122owac4p1i.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
