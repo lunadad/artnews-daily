@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T09:48:01.281+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "Govt launches digital system to speed up repatriation of trafficking …",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX …",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 79,
+        "category": "artist",
+        "articleType": "pr",
+        "title": "KB금융, Kiaf SEOUL에서 김택상 작가 특별전 「별의 축적」 선보여",
+        "summary": "KB금융, Kiaf SEOUL에서 김택상 작가 특별전 「별의 축적」 선보여, 문화예술 향유 기회를 제공하고, 국내 미술시장의 성장을 지원하고자 3년 연속 Kiaf SEOUL 후원 김택상 작가가 탐구해 온 '시간의 축적'과 KB금융이 고객과 함께 쌓아온 '신뢰'를 연결한 특별전 작품 안에 머물며 시간을 감각적으로 경험할 수 있도록 시각 소리 향을 아우르는 몰입형 전시 공간 구성",
+        "url": "https://www.hankyung.com/article/202608312731P",
+        "source": "한국경제",
+        "publishedAt": "2026-08-30T23:57:40.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202608/948ad6f54426016282a8cdd2ee64c32a.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 63,
+        "category": "museum",
+        "articleType": "news",
+        "title": "부산비엔날레 개막…현대미술관·영도 등 3곳서 동시 전시",
+        "summary": "(부산=연합뉴스) 김선호 기자 = '2026 부산비엔날레'가 28일 '불협하는 합창(Dissident Chorus)'을 주제로 부산현대미술관과 ...",
+        "url": "https://www.yna.co.kr/view/AKR20260828114000051",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-28T08:10:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img9.yna.co.kr/photo/cms/2024/08/19/08/PCM20240819000108051_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "fair",
+        "articleType": "news",
+        "title": "예술행사까지 불똥 ‘대만’ 명칭…중국-대만 사이에 낀 광주비엔날레",
+        "summary": "2014년 ‘세월오월’ 전시 외압 사태로 파행을 겪은 광주비엔날레가 올해는 ‘대만관’ 명칭 문제로 중국과 대만 사이에 끼어 곤란을 겪고 있다. 30일 광주비엔날레 쪽 말을 들어보면, 전남광주통합특별시 광주미술관(옛 광주시립미술관) 하정웅미술관에서 16회 광주비엔날레 특",
+        "url": "https://www.hani.co.kr/arti/area/honam/1275320.html",
+        "source": "한겨레",
+        "publishedAt": "2026-08-30T06:27:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/800/320/imgdb/original/2026/0830/20260830501573.webp"
+      },
+      {
+        "rank": 4,
+        "score": 54,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[신문은 선생님] [세계 미술관 산책] 폐허 된 기차역… 전쟁·분단 상처 딛고 ‘예술 실험실’ 됐죠",
+        "summary": "독일 베를린의 폐기된 기차역을 현대미술관으로 재건한 함부르거 반호프의 역사를 다룹니다. 전쟁과 분단의 상처를 지우지 않고 역사적 가치를 살려 예술 실험실로 변모시킨 과정을 조명하며, 불편한 역사까지 예술적 대화의 소재로 활용하는 공간의 의미를 설명합니다.",
+        "url": "https://www.chosun.com/national/nie/2026/08/31/3YAAI4V3HVE5XDNBNF2WYQTR6Y",
+        "source": "조선일보",
+        "publishedAt": "2026-08-30T15:40:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/S27QVWN7PVFH7MBJGSDCGLPMMU.jpg?auth=6e694a44b9d67b66190b134ec282c469c28a10bc07ab07102cb35d2aec9c4184&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 5,
+        "score": 42,
+        "category": "general",
+        "articleType": "review",
+        "title": "[김종근 미술평론] 우리는 서도호를 데미안 허스트와 바꾸지 않겠다",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xR1p4Nzl2YUpWa0tQMzJ5SWJwRUZqcl93aTRIZ3owSGNKdkxuckF3cmNFdTRPNUc1YjBoWkVicTBXMkZWNXJLa1RMVmJjQWNtLXpQT3ltTWZsSHZ0U0hmNWJEUGZJSkhsLThTYzd3?oc=5",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-08-30T07:06:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "2a6d652b8968",
+      "rank": 1,
+      "score": 106,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+      "summaryKo": "Yayoi Kusama, a pioneer of Pop and Minimalism whose playful glass sculptures, mirrored installations, and polka-dot paintings mesmerized audiences around the world, died on August 14 at a hospital in Tokyo of multiple organ failure. She was ninety-seven. Her death was announced on August 27 by her s",
+      "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-27T19:12:52.000Z",
+      "coverage": 5,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-187291310.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f3a8f3690c22",
+      "rank": 2,
+      "score": 84,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Govt launches digital system to speed up repatriation of trafficking victims",
+      "titleKo": "Govt launches digital system to speed up repatriation of trafficking victims",
+      "summaryKo": "Govt launches digital system to speed up repatriation of trafficking victims The Daily Star",
+      "url": "https://www.thedailystar.net/news/news/govt-launches-digital-system-speed-repatriation-trafficking-victims-4260161",
+      "source": "The Daily Star",
+      "sourceDomain": "thedailystar.net",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-30T13:56:00.000Z",
+      "coverage": 4,
+      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Launching%20event%20of%20RDMS.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cc2a068ff2bb",
+      "rank": 3,
+      "score": 77,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
+      "titleKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
+      "summaryKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026 bastillepost.com",
+      "url": "https://www.bastillepost.com/global/article/6116468-new-auction-record-set-as-falcon-sells-for-aed-1-5-million-at-adihex-2026",
+      "source": "bastillepost.com",
+      "sourceDomain": "bastillepost.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-29T21:54:19.000Z",
+      "coverage": 2,
+      "image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2026/08/7b8084172e8a43f6aa218a30b560a91a_Qarmousha_Pure_Ultra_White_Photo_AETOSWire_FB.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5634a0080313",
+      "rank": 4,
+      "score": 64,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "titleKo": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
+      "summaryKo": "But he did buy seven of the artist’s paintings, which are now shown at his Philadelphia museum—including two risqué ones",
+      "url": "https://www.theartnewspaper.com/2026/08/28/pioneering-us-collector-albert-barnes-turned-down-both-of-van-goghs-starry-nights",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-28T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/746101706be0b3fa3ca6f3474624eaf5028f4a7a-1200x941.heif?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8bead2122e35",
+      "rank": 5,
+      "score": 64,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
+      "titleKo": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
+      "summaryKo": "Without proper written agreements, consigners sometimes find themselves in a protracted and costly process",
+      "url": "https://www.theartnewspaper.com/2026/08/24/when-galleries-go-bust-artists-and-collectors-can-struggle-to-recover-their-workshere-legal-experts-offer-advice",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-24T11:06:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ef77e78dd0bb00165e146105cfb2b50341beb9ef-1546x1030.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
