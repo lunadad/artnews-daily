@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "title": "무한거울방으로 세상을 매료시킨 쿠사마 야요이, 97세로 별세",
         "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "Govt launches digital system to speed up repatriation of trafficking …",
+        "title": "정부, 인신매매 피해자 송환 속도 높일 디지털 시스템 도입",
         "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX …",
+        "title": "ADIHEX 2026서 매 150만 디르함에 낙찰, 신기록 경신",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
-      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
-      "summaryKo": "Yayoi Kusama, a pioneer of Pop and Minimalism whose playful glass sculptures, mirrored installations, and polka-dot paintings mesmerized audiences around the world, died on August 14 at a hospital in Tokyo of multiple organ failure. She was ninety-seven. Her death was announced on August 27 by her s",
+      "titleKo": "무한거울방으로 세상을 매료시킨 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "팝아트와 미니멀리즘의 선구자로 유리 조각, 거울 설치, 물방울무늬 회화로 전 세계 관객을 매료시킨 쿠사마 야요이가 8월 14일 도쿄의 한 병원에서 다발성 장기부전으로 별세했다. 향년 97세. 그의 별세 소식은 8월 27일 그의",
       "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Govt launches digital system to speed up repatriation of trafficking victims",
-      "titleKo": "Govt launches digital system to speed up repatriation of trafficking victims",
-      "summaryKo": "Govt launches digital system to speed up repatriation of trafficking victims The Daily Star",
+      "titleKo": "정부, 인신매매 피해자 송환 속도 높일 디지털 시스템 도입",
+      "summaryKo": "정부, 인신매매 피해자 송환 속도 높일 디지털 시스템 도입 데일리 스타",
       "url": "https://www.thedailystar.net/news/news/govt-launches-digital-system-speed-repatriation-trafficking-victims-4260161",
       "source": "The Daily Star",
       "sourceDomain": "thedailystar.net",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
-      "titleKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026",
-      "summaryKo": "New Auction Record Set as Falcon Sells for AED 1.5 Million at ADIHEX 2026 bastillepost.com",
+      "titleKo": "ADIHEX 2026서 매 150만 디르함에 낙찰, 신기록 경신",
+      "summaryKo": "ADIHEX 2026서 매 150만 디르함에 낙찰, 신기록 경신 바스티유포스트닷컴",
       "url": "https://www.bastillepost.com/global/article/6116468-new-auction-record-set-as-falcon-sells-for-aed-1-5-million-at-adihex-2026",
       "source": "bastillepost.com",
       "sourceDomain": "bastillepost.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
-      "titleKo": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
-      "summaryKo": "But he did buy seven of the artist’s paintings, which are now shown at his Philadelphia museum—including two risqué ones",
+      "titleKo": "미국 컬렉터 앨버트 반스, 반 고흐 '별이 빛나는 밤' 두 점 모두 거절했다",
+      "summaryKo": "대신 반 고흐 회화 7점을 구입해 현재 필라델피아 자신의 미술관에 전시 중이다—그중 두 점은 파격적인 작품이다",
       "url": "https://www.theartnewspaper.com/2026/08/28/pioneering-us-collector-albert-barnes-turned-down-both-of-van-goghs-starry-nights",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
-      "titleKo": "When galleries go bust, artists and collectors can struggle to recover their works—here, legal experts offer advice",
-      "summaryKo": "Without proper written agreements, consigners sometimes find themselves in a protracted and costly process",
+      "titleKo": "갤러리가 문을 닫으면, 작가와 컬렉터는 작품을 되찾기 어려울 수 있다—법률 전문가의 조언",
+      "summaryKo": "서면 계약이 없으면 위탁자는 종종 길고 비용이 많이 드는 절차에 휘말리게 된다",
       "url": "https://www.theartnewspaper.com/2026/08/24/when-galleries-go-bust-artists-and-collectors-can-struggle-to-recover-their-workshere-legal-experts-offer-advice",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",

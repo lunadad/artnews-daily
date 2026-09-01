@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies age…",
+        "title": "세계적 스타가 된 일본 작가 쿠사마 야요이, 97세로 별세",
         "why": "6개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       },
       {
-        "title": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
+        "title": "무한거울방으로 세상을 매료시킨 쿠사마 야요이, 97세로 별세",
         "why": "26개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves …",
+        "title": "'대만관' 추진에 중국, 광주 비엔날레 참가 작가 철수",
         "why": "3개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
-      "titleKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
-      "summaryKo": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97 The Guardian",
+      "titleKo": "세계적 스타가 된 일본 작가 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "세계적 스타가 된 일본 작가 쿠사마 야요이, 97세로 별세 가디언",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
       "source": "The Guardian",
       "sourceDomain": "theguardian.com",
@@ -140,8 +140,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
-      "titleKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97",
-      "summaryKo": "Yayoi Kusama, Whose Infinity Rooms Dazzled, Dies at 97 Artforum",
+      "titleKo": "무한거울방으로 세상을 매료시킨 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "무한거울방으로 세상을 매료시킨 쿠사마 야요이, 97세로 별세 아트포럼",
       "url": "https://www.artforum.com/news/yayoi-kusama-whose-infinity-rooms-dazzled-dead-at-97-1234758104",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
-      "titleKo": "China Pulls Artists from Gwangju Biennale as ‘Taiwan Pavilion’ Moves Forward",
-      "summaryKo": "The Chinese ambassador reportedly expressed his “regret and concern” over the decision to restore the name “Taiwan Pavilion”.",
+      "titleKo": "'대만관' 추진에 중국, 광주 비엔날레 참가 작가 철수",
+      "summaryKo": "중국 대사는 '대만관' 명칭을 복원하기로 한 결정에 \"유감과 우려\"를 표했다고 전해진다.",
       "url": "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97",
-      "titleKo": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97",
-      "summaryKo": "RIP Yayoi Kusama: Iconic Japanese Artist Known for Her Dots Dies at 97 My Modern Met",
+      "titleKo": "삼가 고인의 명복을: 물방울무늬의 상징 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "삼가 고인의 명복을: 물방울무늬의 상징 쿠사마 야요이, 97세로 별세 마이 모던 멧",
       "url": "https://mymodernmet.com/yayoi-kusama-tribute",
       "source": "My Modern Met",
       "sourceDomain": "mymodernmet.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
-      "titleKo": "Pioneering US collector Albert Barnes turned down both of Van Gogh’s 'Starry Nights'",
-      "summaryKo": "But he did buy seven of the artist’s paintings, which are now shown at his Philadelphia museum—including two risqué ones",
+      "titleKo": "미국 컬렉터 앨버트 반스, 반 고흐 '별이 빛나는 밤' 두 점 모두 거절했다",
+      "summaryKo": "대신 반 고흐 회화 7점을 구입해 현재 필라델피아 자신의 미술관에 전시 중이다—그중 두 점은 파격적인 작품이다",
       "url": "https://www.theartnewspaper.com/2026/08/28/pioneering-us-collector-albert-barnes-turned-down-both-of-van-goghs-starry-nights",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",

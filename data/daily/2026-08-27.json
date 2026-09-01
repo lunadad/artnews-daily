@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
+        "title": "광주 비엔날레, '대만관' 명칭 복원",
         "why": "6개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97",
+        "title": "요절하지 않고 확장하며 버텨온 팝 아티스트 쿠사마 야요이, 97세로 별세",
         "why": "6개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       },
       {
-        "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97",
+        "title": "미술계에 물방울무늬를 흩뿌린 쿠사마 야요이, 97세로 별세",
         "why": "8개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
-      "titleKo": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale",
-      "summaryKo": "Taiwan Pavilion’s Name Reinstated at Gwangju Biennale Artforum",
+      "titleKo": "광주 비엔날레, '대만관' 명칭 복원",
+      "summaryKo": "광주 비엔날레, '대만관' 명칭 복원 아트포럼",
       "url": "https://www.artforum.com/news/taiwan-pavilions-name-reinstated-gwangju-biennale-1234758013",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97",
-      "titleKo": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97",
-      "summaryKo": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97 The New York Times",
+      "titleKo": "요절하지 않고 확장하며 버텨온 팝 아티스트 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "요절하지 않고 확장하며 버텨온 팝 아티스트 쿠사마 야요이, 97세로 별세 뉴욕타임스",
       "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
       "source": "The New York Times",
       "sourceDomain": "nytimes.com",
@@ -160,8 +160,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97",
-      "titleKo": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97",
-      "summaryKo": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 Los Angeles Times",
+      "titleKo": "미술계에 물방울무늬를 흩뿌린 쿠사마 야요이, 97세로 별세",
+      "summaryKo": "미술계에 물방울무늬를 흩뿌린 쿠사마 야요이, 97세로 별세 로스앤젤레스타임스",
       "url": "https://www.latimes.com/entertainment-arts/story/2026-08-26/yayoi-kusama-who-splashed-polka-dots-across-art-world-dies-at-97",
       "source": "Los Angeles Times",
       "sourceDomain": "latimes.com",
@@ -180,8 +180,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Elizabeth Peyton Sued for Copyright Infringement Over Oasis Painting",
-      "titleKo": "Elizabeth Peyton Sued for Copyright Infringement Over Oasis Painting",
-      "summaryKo": "Rock photographer Justin Thomas is suing painter Elizabeth Peyton for allegedly copying his 1995 photo of Oasis’s Liam and Noel Gallagher in her work Earl’s Court (Liam + Noel) (1996). Thomas filed suit in the Southern District of New York against Peyton, David Zwirner Gallery, and Sotheby’s, where",
+      "titleKo": "엘리자베스 페이튼, 오아시스 회화로 저작권 침해 피소",
+      "summaryKo": "록 사진작가 저스틴 토마스가 화가 엘리자베스 페이튼을 상대로, 오아시스 리암·노엘 갤러거를 찍은 1995년 자신의 사진을 작품 'Earl's Court (Liam + Noel)'(1996)에 무단 도용했다며 소송을 제기했다. 토마스는 뉴욕 남부지방법원에 페이튼과 데이비드 즈위너 갤러리, 소더비를 상대로 소를 제기했으며",
       "url": "https://www.artforum.com/news/elizabeth-peyton-sued-for-copyright-infringement-1234758017",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "What Happens to Seoul’s Art Market After the Hype?",
-      "titleKo": "What Happens to Seoul’s Art Market After the Hype?",
-      "summaryKo": "South Korea posted growth of 6 percent in 2025, compared to the global art market's 4 percent of growth.",
+      "titleKo": "열풍이 지나간 뒤 서울 미술시장은 어디로",
+      "summaryKo": "한국은 2025년 6% 성장해 세계 미술시장 평균 성장률 4%를 웃돌았다.",
       "url": "https://www.artnews.com/art-news/market/frieze-seoul-kiaf-2026-preview-korean-art-market-1234795903",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",

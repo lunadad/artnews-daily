@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
+        "title": "경매사들, 소송에 휘말렸던 키스 해링 드로잉 판매 거부",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Leadership Exodus at Phillips",
+        "title": "필립스, 리더십 대거 이탈",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+        "title": "로버트 인디애나 자택, 고인의 뜻과 달리 매물로 나와",
         "why": "2개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
-      "titleKo": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
-      "summaryKo": "A judge deemed the work authentic but its lack of provenance records dimmed its market prospects.",
+      "titleKo": "경매사들, 소송에 휘말렸던 키스 해링 드로잉 판매 거부",
+      "summaryKo": "판사는 이 작품을 진품으로 판단했지만, 소장 이력 기록 부재로 시장성이 위축되었다.",
       "url": "https://www.artnews.com/art-news/news/keith-haring-drawing-lawsuit-1234796342",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Leadership Exodus at Phillips",
-      "titleKo": "Leadership Exodus at Phillips",
-      "summaryKo": "Blue chip auction house Phillips has seen the departure of half its executive team and several top-level employees since the close of its May sales, Artnews reports. Miety Heiden, chair of private sales, and Jonathan Crockett, chair for Asia, are set to exit in September, leaving Robert Manley, chai",
+      "titleKo": "필립스, 리더십 대거 이탈",
+      "summaryKo": "아트뉴스에 따르면 명품 경매사 필립스는 5월 경매 마감 이후 임원진의 절반과 여러 고위 직원이 떠났다. 개인판매 총괄 미에티 하이덴과 아시아 총괄 조너선 크로켓이 9월 퇴사할 예정이며, 로버트 맨리 총괄이 남는다",
       "url": "https://www.artforum.com/news/leadership-exodus-at-phillips-auction-house-1234758420",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
-      "titleKo": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
-      "summaryKo": "The Star of Hope Lodge, which was once the home of artist Robert Indiana, is now listed for sale at $1.4 million. The Victorian-era structure, located on the island of Vinalhaven in Maine, is currently owned by the Star of Hope Foundation, which has also listed another neighboring property that Indi",
+      "titleKo": "로버트 인디애나 자택, 고인의 뜻과 달리 매물로 나와",
+      "summaryKo": "작가 로버트 인디애나가 살던 '스타 오브 호프 로지'가 140만 달러에 매물로 나왔다. 메인주 바이널헤이븐 섬에 위치한 이 빅토리아 시대 건물은 현재 스타 오브 호프 재단이 소유하고 있으며, 재단은 인디애나가",
       "url": "https://www.artforum.com/news/robert-indianas-home-goes-on-market-defying-artists-wishes-1234758524",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Online platform connects hundreds of emerging Iranian artists with collectors abroad",
-      "titleKo": "Online platform connects hundreds of emerging Iranian artists with collectors abroad",
-      "summaryKo": "Online platform connects hundreds of emerging Iranian artists with collectors abroad The Art Newspaper",
+      "titleKo": "온라인 플랫폼, 이란 신진 작가 수백 명을 해외 컬렉터와 연결",
+      "summaryKo": "온라인 플랫폼, 이란 신진 작가 수백 명을 해외 컬렉터와 연결 아트 뉴스페이퍼",
       "url": "https://www.theartnewspaper.com/2026/08/31/online-platform-continuum-connects-iranian-artists-collectors-abroad",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Govt launches digital system to speed up repatriation of trafficking victims",
-      "titleKo": "Govt launches digital system to speed up repatriation of trafficking victims",
-      "summaryKo": "Govt launches digital system to speed up repatriation of trafficking victims The Daily Star",
+      "titleKo": "정부, 인신매매 피해자 송환 속도 높일 디지털 시스템 도입",
+      "summaryKo": "정부, 인신매매 피해자 송환 속도 높일 디지털 시스템 도입 데일리 스타",
       "url": "https://www.thedailystar.net/news/news/govt-launches-digital-system-speed-repatriation-trafficking-victims-4260161",
       "source": "The Daily Star",
       "sourceDomain": "thedailystar.net",
