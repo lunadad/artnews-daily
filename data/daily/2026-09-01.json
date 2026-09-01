@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T10:22:52.233+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Leadership Exodus at Phillips",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+        "why": "2개 매체가 함께 보도했습니다. 작가의 평가와 작품 세계를 새롭게 조명하는 계기입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 0,
+      "fair": 0,
+      "artist": 2,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 101,
+        "category": "general",
+        "articleType": "news",
+        "title": "9월 대한민국은 아트로 물든다",
+        "summary": "가을이 시작되는 9월 한 달간 전국이 ‘아트의 향기’로 물들 전망이다. 비엔날레·아트페어 등 다양한 행사가 전국에서 열리는 것과 함께 할인 등 각종 혜택이 미술 애호가들을 기다리고 있다. 문화체육관광부는 예술경영지원센터와 함께 이달 한달간 전국 각지에서 ‘2026 대한민국 미술축제(Korea Art Festival 2026)’를 진행한다고 밝혔다. 2024",
+        "url": "https://m.sedaily.com/amparticle/20085552",
+        "source": "서울경제",
+        "publishedAt": "2026-08-31T23:30:24.000Z",
+        "coverage": 7,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/01/news-p.v1.20260901.0e31c4fc1e6f469b8c96d1129c1feef3_R.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "세계 디자인 갤러리·컬렉터 서울로…'디자인마이애미' DDP서 개막",
+        "summary": "(서울=뉴스1) 이광호 기자 = 31일 오후 서울 동대문디자인플라자(DDP)에서 열린 '디자인마이애미 서울 2026' 프리뷰 행사에서 관계자들이 전시작품을 살펴보고 있다.'디자인마 …",
+        "url": "https://www.news1.kr/photos/8080533",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-31T07:08:19.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://image.news1.kr/system/photos/2026/8/31/8080533/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 79,
+        "category": "artist",
+        "articleType": "news",
+        "title": "KB금융, Kiaf SEOUL에서 김택상 작가 특별전 「별의 축적」 선보여",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNDV6UFVyV2FUMmlyVzdlLWl0RHU1X3B3OVJtWVhHV2tKdk5ONkNqWGF5SmpvSkRlMUREVjViWWRxU09OYXNNUEQ5Umt2WkkyUmZjZ3Q5RHB5dw?oc=5",
+        "source": "한국경제",
+        "publishedAt": "2026-08-30T23:57:40.000Z",
+        "coverage": 14,
+        "qualityCoverage": 2,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 74,
+        "category": "general",
+        "articleType": "news",
+        "title": "억소리 나는 작품들… 안목 높일 ‘미술 큰 장’ 선다",
+        "summary": "9월은 미술의 계절이다. 광주와 부산에서 현대미술 축제인 비엔날레가 열리고, 국내 최대 규모 아트페어(미술품 장터)인 키아프와 프리즈가 같은 날 같은 장소에서 판을 벌인다. 키아프는 한국화랑협회가 주관하며, 영국에 본사를 둔 프리즈는 아트바젤과 함께 세계 미술시장을 양",
+        "url": "https://www.munhwa.com/article/11613555",
+        "source": "munhwa.com",
+        "publishedAt": "2026-09-01T00:35:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/09/01/news-p.v1.20260901.6b78df235f7c4010a4542b522f2b9c79_R.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 68,
+        "category": "artist",
+        "articleType": "news",
+        "title": "“본다는 것은 이해하는 것”…‘웃기는 작가’ 구정아의 ‘우스모스’",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 연약함도, 귀함도, 보임도 고정된 성질이 아니다.각설탕과 샤프심에서 향과 자석, 야광 스케이트파크, 6톤에 달하는 스테인리스 스틸 구조물까지. 구정아의 작업은 30여 년간 재료도 크기도 끊임없이 달라졌다. 그러나 그가 바라보는 곳은 한결같다. 우리가 익숙해서 지나쳐버린 것, 눈앞에 있어도 미처 보지 못했던 세계다.3..",
+        "url": "https://www.newsis.com/view/NISX20260831_0003769649",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-31T05:11:48.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/31/NISI20260831_0021417190_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "67aeeaa0bd8b",
+      "rank": 1,
+      "score": 100,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
+      "titleKo": "Auction Houses Won’t Sell a Keith Haring Drawing That Faced a Lawsuit",
+      "summaryKo": "A judge deemed the work authentic but its lack of provenance records dimmed its market prospects.",
+      "url": "https://www.artnews.com/art-news/news/keith-haring-drawing-lawsuit-1234796342",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-31T19:25:03.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/GettyImages-166897057.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5dd564a5d84e",
+      "rank": 2,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Leadership Exodus at Phillips",
+      "titleKo": "Leadership Exodus at Phillips",
+      "summaryKo": "Blue chip auction house Phillips has seen the departure of half its executive team and several top-level employees since the close of its May sales, Artnews reports. Miety Heiden, chair of private sales, and Jonathan Crockett, chair for Asia, are set to exit in September, leaving Robert Manley, chai",
+      "url": "https://www.artforum.com/news/leadership-exodus-at-phillips-auction-house-1234758420",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-31T16:08:12.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2021/04/article00_large-185.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "48b4e24b3844",
+      "rank": 3,
+      "score": 81,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+      "titleKo": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+      "summaryKo": "The Star of Hope Lodge, which was once the home of artist Robert Indiana, is now listed for sale at $1.4 million. The Victorian-era structure, located on the island of Vinalhaven in Maine, is currently owned by the Star of Hope Foundation, which has also listed another neighboring property that Indi",
+      "url": "https://www.artforum.com/news/robert-indianas-home-goes-on-market-defying-artists-wishes-1234758524",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-08-31T22:01:33.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-968555122.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b575ddcd3e97",
+      "rank": 4,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Online platform connects hundreds of emerging Iranian artists with collectors abroad",
+      "titleKo": "Online platform connects hundreds of emerging Iranian artists with collectors abroad",
+      "summaryKo": "Online platform connects hundreds of emerging Iranian artists with collectors abroad The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/08/31/online-platform-continuum-connects-iranian-artists-collectors-abroad",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-31T16:39:02.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/c314aade49924e848d699a44f3e3757a14eb8608-800x1000.jpg?rect=0,182,800,480&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f3a8f3690c22",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Govt launches digital system to speed up repatriation of trafficking victims",
+      "titleKo": "Govt launches digital system to speed up repatriation of trafficking victims",
+      "summaryKo": "Govt launches digital system to speed up repatriation of trafficking victims The Daily Star",
+      "url": "https://www.thedailystar.net/news/news/govt-launches-digital-system-speed-repatriation-trafficking-victims-4260161",
+      "source": "The Daily Star",
+      "sourceDomain": "thedailystar.net",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-30T13:56:00.000Z",
+      "coverage": 4,
+      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-08/Launching%20event%20of%20RDMS.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
