@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T09:01:01+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "늦은 예술가의 소원을 들어주는 로버트 인디애나의 집",
+      "titleOriginal": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+      "summaryKo": "한때 예술가 로버트 인디애나의 고향이었던 스타 오브 호프 롯지는 현재 140만 달러 ($) 에 매물로 나와 있습니다. 메인 주 비날헤이븐 섬에 위치한 빅토리아 시대 건물은 현재 스타 오브 호프 재단 (Star of Hope Foundation) 이 소유하고 있으며, 인디애나 주가 21만 달러 ($) 에 소유한 또 다른 이웃 부동산도 등록되어 있습니다. 이러한 행동은 인디애나의 바람에 어긋납니다.",
+      "url": "https://www.artforum.com/news/robert-indianas-home-goes-on-market-defying-artists-wishes-1234758524/",
+      "source": "Artforum",
+      "category": "market",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-968555122.jpg?w=650"
+    },
+    {
+      "rank": 2,
+      "titleKo": "메트로폴리탄 박물관과 디자이너 존 갈리아노 (John Galliano) 는 반발 속에서 계획된 의상 연구소 전시를 취소합니다.",
+      "titleOriginal": "Metropolitan Museum and designer John Galliano cancel planned Costume Institute exhibition amid backlash",
+      "summaryKo": "유대인 커뮤니티 지도자, 기부자, 정치인 등으로 구성된 코러스는 2023년 다큐멘터리 '하이 앤 로우' 의 한 장면에서 2011년 반유대주의 증오 범죄에 대한 유죄 판결을 받은 존 갈리아노를 기리기 위한 메트로폴리탄 미술관의 결정을 비판했습니다. 존 갈리아노 크레디트: BFA/니콜라스 매튜스/무비 뉴욕 메트로폴리탄 미술관과 영국 패션 디자이너 존 갈리아노는 계획된 갈리아노를 기리는 전시회를 열었습니다. 내년 봄, 디자이너의 반유대주의적 진술의 역사에 비추어 볼 때 반대파의 물결이 뒤따랐습니다.",
+      "url": "https://www.theartnewspaper.com/2026/08/31/metropolitan-museum-costume-institute-john-galliano-exhibition-cancelled",
+      "source": "The Art Newspaper",
+      "category": "museum",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad3b443ae6405e6c9c4efd663da6d75a9edae060-2000x1334.jpg?rect=0,128,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+      "rank": 3,
+      "titleKo": "\"마리나\" 기술을 비웃다",
+      "titleOriginal": "\"Marina\" Dares You to Laugh at Technology",
+      "summaryKo": "훌리오 토레스 (Julio Torres) 와 마르티네 구티에레스 (Martine Gutierrez) 의 새로운 공연은 스크린과의 유독한 관계를 무너뜨리는 시각적 즐거움의 그로테스크 퍼레이드입니다. 우리의 관심, 제도 및 사회적 능력에 대한 기술의 끊임없이 강화 된 그립에 맞서려는 예술적 시도는 종종 블랙 미러 학교의 인간 후 열병 꿈의 형태를 취합니다. 비판적으로 의도되었지만 쉽게 담론적이고 사이보그로 가득 찬 피드백 루프로 전환 할 수 있습니다.",
+      "url": "https://hyperallergic.com/marina-dares-you-to-laugh-at-technology/",
+      "source": "Hyperallergic",
+      "category": "general",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/Marina-LI-vnina-31.jpg"
+    },
+    {
+      "rank": 4,
+      "titleKo": "볼티모어 미술관, 새로운 인수 발표",
+      "titleOriginal": "Baltimore Museum of Art Announces New Acquisitions",
+      "summaryKo": "구매, 선물 및 약속 된 선물 기간, 문화 및 매체에 대한 컬렉션의 새로운 추가 BMA의 컬렉션에는 Bernd와 Hilla Becher, Jack Whitten, Rina Banerjee, Lee Ufan 및 Ben Shahn의 작품이 추가되었습니다. 볼티모어 미술관은 지난 6 개월 동안 약 118 점의 작품을 인수했다고 발표했습니다. 구매, 선물, 약속된 선물 등 다양한 기간과 문화가 컬렉션에 새롭게 추가되었습니다.",
+      "url": "https://www.artnews.com/list/art-news/news/baltimore-museum-of-art-announces-new-acquisitions-1234796364/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/08/Banerjee_Contagious-Migrations2-copy-1.jpg?w=1024"
+    }
+  ]
+}
