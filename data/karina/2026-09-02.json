@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T09:01:36+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "올 가을 로스앤젤레스에서 볼 수 있는 15가지 예술 공연",
+      "titleOriginal": "15 Art Shows to See in Los Angeles This Fall",
+      "summaryKo": "카르멘 로마스 가르자 (Carmen Lomas Garza) 의 치캉스 (Chicanx) 공동체의 부드러운 장면, 위게트 칼란드 (Huguette Caland) 의 삶, 불타는 원주민 예술가와 청지기, 트랜스 상호 원조 사진 등. 게으르고 흐릿한 여름이 지나면 가을은 다시 집중하고 다시 상상하는 시간입니다. 이는 예술계에도 마찬가지입니다.",
+      "url": "https://hyperallergic.com/15-art-shows-to-see-in-los-angeles-this-fall/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/garza--heaven-and-hell-ii.jpg"
+    },
+    {
+      "rank": 2,
+      "titleKo": "앤디 번햄 영국 총리, 영국 박물관에 파르테논 구슬 반환 요청 번복",
+      "titleOriginal": "UK Prime Minister Andy Burnham Reverses Call for British Museum to Return Parthenon Marbles",
+      "summaryKo": "그리스 정부는 1983년 처음으로 구슬의 배상을 공식적으로 요청했으며, 대영 박물관은 이를 지속적으로 거부해왔다. 최근 영국 총리로 집권한 앤디 번햄은 파르테논 구슬을 그리스에 반환하라는 이전의 요청을 번복했다. 지난 7월 취임한 앤디 번햄 영국 총리는 런던 대영박물관이 파르테논 구슬을 그리스에 반환하라는 이전의 요구를 번복했다.",
+      "url": "https://www.artnews.com/art-news/news/andy-burnham-reverses-call-return-parthenon-marbles-1234796603/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-2210330310.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "샌디에이고 현대미술관, 재정 및 리더십 위기 직면",
+      "titleOriginal": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
+      "summaryKo": "박물관이 여름 동안 직원의 거의 절반을 해고 한 후, 메인 캠퍼스가 폐쇄되었고 직원들은 이사 해제를 요구하고 있습니다. ICA 샌디에고의 발보아 파크에있는 본관 ICA 샌디에고 의례 현대 미술 연구소 (ICA) 는 최근 직원의 거의 절반 인 8 명의 직원을 해고했습니다. 7월 29일부터 8월 16일까지 진행된 정리해고에는 박물관의 유일한 큐레이터와 직접적인 또는 학습과 참여에 대한 것입니다.",
+      "url": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
+      "source": "The Art Newspaper",
+      "category": "museum",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg?rect=0,126,1080,648&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+      "rank": 4,
+      "titleKo": "유럽 식민지화에 직면하여 원주민 예술가들이 강력한 존재의 이미지를 만들었습니다.",
+      "titleOriginal": "In the Face of European Colonization, Aboriginal Artists Created Images of Powerful Beings, Study Finds",
+      "summaryKo": "이 연구는 변화와 관련된 생물인 무지개 뱀의 이미지에 초점을 맞추었다. 새로운 연구에 따르면 접촉 후 초대형 암벽화의 원주민 생산은 토지에 대한 권력을 재확인하는 방법이라고 결론지었습니다. 유럽 식민지화에 직면하여 원주민 예술가들은 강력한 조상 존재의 이미지를 만들었습니다.",
+      "url": "https://www.artnews.com/art-news/news/aboriginal-giant-rock-art-made-post-colonization-studied-1234796582/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/raaa_a_2676505_f0005_c.jpg?w=1024"
+    }
+  ]
+}
