@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T09:29:03.777+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Mark Feary to Curate 2028 Adelaide Biennial",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Christie’s London Offers a Restituted Kandinsky, Long Displayed in a …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 작가 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 1,
+      "fair": 0,
+      "artist": 2,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 103,
+        "category": "museum",
+        "articleType": "news",
+        "title": "포스코미술관 ‘3040 대표작가 7인’ 특별기획전",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoVHhtR1pVbEhsaFREcDZoVGRBVE9RdlJnTXEwWHl6MHJ0UEIwTHdXY1RKUmx4S2hiaExLOXBraTducWh2bnJzSjRnRTdYWFEx?oc=5",
+        "source": "문화일보",
+        "publishedAt": "2026-09-01T02:49:33.000Z",
+        "coverage": 12,
+        "qualityCoverage": 4,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "세계 디자인 갤러리·컬렉터 서울로…'디자인마이애미' DDP서 개막",
+        "summary": "(서울=뉴스1) 이광호 기자 = 31일 오후 서울 동대문디자인플라자(DDP)에서 열린 '디자인마이애미 서울 2026' 프리뷰 행사에서 관계자들이 전시작품을 살펴보고 있다.'디자인마 …",
+        "url": "https://www.news1.kr/photos/8080533",
+        "source": "뉴스1",
+        "publishedAt": "2026-08-31T07:08:19.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://image.news1.kr/system/photos/2026/8/31/8080533/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 62,
+        "category": "artist",
+        "articleType": "news",
+        "title": "KB금융, Kiaf SEOUL에서 김택상 작가 특별전 「별의 축적」 선보여",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNDV6UFVyV2FUMmlyVzdlLWl0RHU1X3B3OVJtWVhHV2tKdk5ONkNqWGF5SmpvSkRlMUREVjViWWRxU09OYXNNUEQ5Umt2WkkyUmZjZ3Q5RHB5dw?oc=5",
+        "source": "한국경제",
+        "publishedAt": "2026-08-30T23:57:40.000Z",
+        "coverage": 10,
+        "qualityCoverage": 2,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "artist",
+        "articleType": "news",
+        "title": "“본다는 것은 이해하는 것”…‘웃기는 작가’ 구정아의 ‘우스모스’",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 연약함도, 귀함도, 보임도 고정된 성질이 아니다.각설탕과 샤프심에서 향과 자석, 야광 스케이트파크, 6톤에 달하는 스테인리스 스틸 구조물까지. 구정아의 작업은 30여 년간 재료도 크기도 끊임없이 달라졌다. 그러나 그가 바라보는 곳은 한결같다. 우리가 익숙해서 지나쳐버린 것, 눈앞에 있어도 미처 보지 못했던 세계다.3..",
+        "url": "https://www.newsis.com/view/NISX20260831_0003769649",
+        "source": "뉴시스",
+        "publishedAt": "2026-08-31T05:11:48.000Z",
+        "coverage": 8,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/08/31/NISI20260831_0021417190_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "명품만으론 VIP 못 잡는다…'아트 경험'에 베팅하는 백화점",
+        "summary": "신세계 프리즈 5년·현대 키아프 5년…VIP 경쟁, 명품서 문화예술로 롯데는 여행·미식까지 확대…'희소한 경험'으로 충성고객 잡는다 백화점업계의 VIP 경쟁이 명품 브랜드를 넘어 미술·여행·미식 등 '경험 콘텐츠'로 확장되고 있다.주요 백화점의 명품 브랜드 구성이 상향 평준화된 가운데",
+        "url": "https://www.news1.kr/industry/distribution/6276723",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-01T21:41:24.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/1/8082961/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "8910c53cc42f",
+      "rank": 1,
+      "score": 101,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "titleKo": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "summaryKo": "The Colorful Life, 1907, a landmark painting by Wassily Kandinsky that was returned to the heirs of its original Dutch Jewish owners three years ago, will be offered at auction at Christie’s London in October. The auction house projects that the work will fetch bids of over $30 million. The painting",
+      "url": "https://www.artforum.com/news/repatriated-kandinsky-up-for-auction-at-christies-1234758611",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T19:34:32.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2279267882.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2dbd244d5334",
+      "rank": 2,
+      "score": 88,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Mark Feary to Curate 2028 Adelaide Biennial",
+      "titleKo": "Mark Feary to Curate 2028 Adelaide Biennial",
+      "summaryKo": "The Art Gallery of South Australia (AGSA) has named Mark Feary as the curator of the next Adelaide Biennial of Australian Art, to take place March 3–June 4, 2028. The New Zealand–born Feary was selected following an open call. He is currently artistic director of Melbourne’s Gertrude Contemporary. F",
+      "url": "https://www.artforum.com/news/mark-feary-will-curate-2028-adelaide-biennial-1234758565",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T15:47:17.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/210419-Gertrude-Portraits-209%E2%80%93300-dpi_2000PX_AdobeRGB_1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "97e69a41f7ab",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s London Offers a Restituted Kandinsky, Long Displayed in a German Museum, for $30 M.",
+      "titleKo": "Christie’s London Offers a Restituted Kandinsky, Long Displayed in a German Museum, for $30 M.",
+      "summaryKo": "The painting has hung in the same Munich museum for some five decades.",
+      "url": "https://www.artnews.com/art-news/market/christies-london-offers-restituted-kandinsky-german-museum-1234796483",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T19:46:34.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Wassily-Kandinsky-Das-bunte-Leben-1907.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "37e5e67d4860",
+      "rank": 4,
+      "score": 81,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "UK Prime Minister Andy Burnham reverses position on returning Parthenon Marbles to Greece",
+      "titleKo": "UK Prime Minister Andy Burnham reverses position on returning Parthenon Marbles to Greece",
+      "summaryKo": "UK Prime Minister Andy Burnham reverses position on returning Parthenon Marbles to Greece The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/08/31/andy-burnham-reverses-position-parthenon-marbles-repatriation-greece",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-08-31T17:55:28.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/953a419c2a0256934fdb6b2dd4dbe385851941b1-2000x1334.jpg?rect=0,0,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5d696d7d9099",
+      "rank": 5,
+      "score": 78,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "South Korea’s art market correction signals maturity",
+      "titleKo": "South Korea’s art market correction signals maturity",
+      "summaryKo": "Though the value of the country’s market has yet to regain its 2022 peak, it has consolidated its position as a key regional centre for art",
+      "url": "https://www.theartnewspaper.com/2026/09/01/south-koreas-art-market-correction-signals-maturity",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T09:32:40.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/e3346444aa7e9b73088b7ce8f4c2a4c6efe0f501-3307x2206.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
