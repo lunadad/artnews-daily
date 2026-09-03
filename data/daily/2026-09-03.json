@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T09:34:39.831+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "King Charles III to View Bayeux Tapestry at the British Museum",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Mark Feary to Curate 2028 Adelaide Biennial",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Paul Durand-Ruel’s €43 M. Collection of Monet, Picasso, and Renoir Co…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 비엔날레·아트페어 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 1,
+      "fair": 2,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 122,
+        "category": "fair",
+        "articleType": "news",
+        "title": "亞 최대 미술장터 ‘프리즈’… 세계 애호가들 사로잡다",
+        "summary": "프리즈 서울과 키아프 서울이 코엑스에서 동시에 개막했다. 30개국 133개 갤러리가 참여했고, 서도호·조지 콘도·키스 해링·리 로자노 작품이 잇따라 팔리며 현장 열기를 높였다.",
+        "url": "https://m.eye.seoul.co.kr/news/life/exhibition/2026/09/03/20260903014002",
+        "source": "서울Eye",
+        "publishedAt": "2026-09-02T16:15:52.000Z",
+        "coverage": 33,
+        "qualityCoverage": 7,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/09/02/SSC_20260902233510.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 81,
+        "category": "market",
+        "articleType": "news",
+        "title": "아트로 물든 서울…컬렉터 지갑도 ‘활짝’",
+        "summary": "데이미언 허스트 단독 부스로 꾸민 가고시안 갤러리가 관람객들과 컬렉터들로 북새통을 이룬다. 부스 앞에 걸린 땡땡이 연작의 출품가는 47만 5000달러(약 6억 5000만 원)이다. 가고시안은 1980년 래리 가고시안이 설립한 세계 최대 규모의 현대미술 갤러리 중 하나다",
+        "url": "https://www.sedaily.com/article/20086445",
+        "source": "서울경제",
+        "publishedAt": "2026-09-02T08:50:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260902.a9a230bfd1364951a8be6660060c8d58_R.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 59,
+        "category": "fair",
+        "articleType": "news",
+        "title": "\"한국 미술 알리겠다\" 키아프리즈 개막…'1조 미술시장' 다시 연다 - 머니투데이",
+        "summary": "갤러리 관계자나 콜렉터(수집가) 외에 미술품을 보려는 관람객들도 많았다. 5000만원짜리 그림을 판매한 갤러리 관계자는 \"3년째 참가 중인데 개막일 거래가 성사된 것은 올해가 처음\"이라며 \"고가 미술품의 구입을 문의하는 관람객들도 예년보다 많다\"고 설명했다.",
+        "url": "https://www.mt.co.kr/index.php/culture/2026/09/02/2026090212374150949",
+        "source": "머니투데이",
+        "publishedAt": "2026-09-02T06:26:53.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026090212374150949_1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 54,
+        "category": "general",
+        "articleType": "news",
+        "title": "명품만으론 VIP 못 잡는다…'아트 경험'에 베팅하는 백화점",
+        "summary": "신세계 프리즈 5년·현대 키아프 5년…VIP 경쟁, 명품서 문화예술로 롯데는 여행·미식까지 확대…'희소한 경험'으로 충성고객 잡는다 백화점업계의 VIP 경쟁이 명품 브랜드를 넘어 미술·여행·미식 등 '경험 콘텐츠'로 확장되고 있다.주요 백화점의 명품 브랜드 구성이 상향 평준화된 가운데",
+        "url": "https://www.news1.kr/industry/distribution/6276723",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-01T21:41:24.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/1/8082961/high.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "museum",
+        "articleType": "news",
+        "title": "KF, 해외 미술관 큐레이터 15명 초청해 한국 미술 알린다",
+        "summary": "(서울=연합뉴스) 강성철 기자 = 한국국제교류재단(KF·이사장 송기도)은 세계 유수 미술관에서 활동하는 현대미술 큐레이터 15명을 한국으로 초청...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260902066000371",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-02T01:46:54.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img9.yna.co.kr/etc/inner/KR/2026/09/02/AKR20260902066000371_01_i_P4.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "56bd5cb5d234",
+      "rank": 1,
+      "score": 90,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "King Charles III to View Bayeux Tapestry at the British Museum",
+      "titleKo": "King Charles III to View Bayeux Tapestry at the British Museum",
+      "summaryKo": "King Charles III to View Bayeux Tapestry at the British Museum The New York Times",
+      "url": "https://www.nytimes.com/2026/09/02/arts/design/bayeux-tapestry-king-charles.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-02T20:18:54.000Z",
+      "coverage": 4,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2dbd244d5334",
+      "rank": 2,
+      "score": 90,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Mark Feary to Curate 2028 Adelaide Biennial",
+      "titleKo": "Mark Feary to Curate 2028 Adelaide Biennial",
+      "summaryKo": "The Art Gallery of South Australia (AGSA) has named Mark Feary as the curator of the next Adelaide Biennial of Australian Art, to take place March 3–June 4, 2028. The New Zealand–born Feary was selected following an open call. He is currently artistic director of Melbourne’s Gertrude Contemporary. F",
+      "url": "https://www.artforum.com/news/mark-feary-will-curate-2028-adelaide-biennial-1234758565",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T15:47:17.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/210419-Gertrude-Portraits-209%E2%80%93300-dpi_2000PX_AdobeRGB_1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "125c74e0f2ce",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Paul Durand-Ruel’s €43 M. Collection of Monet, Picasso, and Renoir Comes to Christie’s During Paris Art Week",
+      "titleKo": "Paul Durand-Ruel’s €43 M. Collection of Monet, Picasso, and Renoir Comes to Christie’s During Paris Art Week",
+      "summaryKo": "The October sale will also include works from Pierre-Auguste Renoir, Eugène Boudin, and Alfred Sisley.",
+      "url": "https://www.artnews.com/art-news/news/paul-durand-collection-auction-christies-1234796746",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-02T18:51:14.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/77369901_JPEG-large.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "68726fffc691",
+      "rank": 4,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Recent Key Departures at Phillips Point to a Pivot in Strategy",
+      "titleKo": "Recent Key Departures at Phillips Point to a Pivot in Strategy",
+      "summaryKo": "It appears Phillips has decided it doesn’t want to be the same company it spent the last decade trying to become.",
+      "url": "https://www.artnews.com/art-news/market/phillips-departures-strategy-pivot-1234796724",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-02T18:41:56.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2023/03/Phillips-New-Asia-headquarters-in-West-Kowloon-Night.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8910c53cc42f",
+      "rank": 5,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "titleKo": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "summaryKo": "The Colorful Life, 1907, a landmark painting by Wassily Kandinsky that was returned to the heirs of its original Dutch Jewish owners three years ago, will be offered at auction at Christie’s London in October. The auction house projects that the work will fetch bids of over $30 million. The painting",
+      "url": "https://www.artforum.com/news/repatriated-kandinsky-up-for-auction-at-christies-1234758611",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T19:34:32.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2279267882.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
