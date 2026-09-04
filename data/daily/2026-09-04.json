@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T09:23:23.372+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Chinese Artists Officially Withdraw from Gwangju Biennale in Protest …",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Christie’s and Bonhams Quietly Hike Buyers’ Fees",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 107,
+        "category": "fair",
+        "articleType": "news",
+        "title": "‘키아프리즈’ 가족·청년 북적…미술시장 체질 개선",
+        "summary": "3일 오전 서울 강남구 코엑스에는 개장 전부터 ‘키아프리즈’(키아프+프리즈)를 찾은 관람객들의 발길이 이어졌다. 전날 VIP 프리뷰로 막을 올린 국내 최대 아트페어 키아프 서울과 세계적인 아트페어 프리즈 서울은 이날부터 일반 관람객을 맞았다. 미술시장 침체 속에서도 관람층이 넓어지고, 중간 가격대 시장이 탄탄해지는 변화가 감지된다. 올해 5회째인 프리...",
+        "url": "https://www.khan.co.kr/article/202609032045015",
+        "source": "경향신문",
+        "publishedAt": "2026-09-03T11:45:00.000Z",
+        "coverage": 27,
+        "qualityCoverage": 8,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/09/03/l_2026090401000152000013323.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 81,
+        "category": "museum",
+        "articleType": "news",
+        "title": "광주비엔날레 ‘대만관’ 논란 일파만파…중국 작가들 “전시 철수”",
+        "summary": "제16회 광주비엔날레 개막을 이틀 앞둔 3일 중국측이 ‘대만관’(Taiwan Pavilion) 명칭 사용에 반발해 전시 철수를 결정했다. 중국 광저우시 인민대표대회 상무위원회 대표단은 이 문제에 항의하며 6~7일 예정됐던 전남광주통합특별시 방문을 전격 취소했다. 갈등이 해소되지 않으면서 행사 차질이 우려된다 중국 파빌리온팀은 이날 광주 하정웅미술관에서...",
+        "url": "https://weekly.khan.co.kr/article/202609031610001",
+        "source": "주간경향",
+        "publishedAt": "2026-09-03T07:10:00.000Z",
+        "coverage": 8,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/weekly/2026/09/03/news-p.v1.20260903.9c08294f8506417b80feba530ae6adc9_P1.png"
+      },
+      {
+        "rank": 3,
+        "score": 75,
+        "category": "market",
+        "articleType": "news",
+        "title": "아트로 물든 서울…컬렉터 지갑도 ‘활짝’",
+        "summary": "데이미언 허스트 단독 부스로 꾸민 가고시안 갤러리가 관람객들과 컬렉터들로 북새통을 이룬다. 부스 앞에 걸린 땡땡이 연작의 출품가는 47만 5000달러(약 6억 5000만 원)이다. 가고시안은 1980년 래리 가고시안이 설립한 세계 최대 규모의 현대미술 갤러리 중 하나다",
+        "url": "https://www.sedaily.com/article/20086445",
+        "source": "서울경제",
+        "publishedAt": "2026-09-02T08:50:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260902.a9a230bfd1364951a8be6660060c8d58_R.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "유영국에 30만명 몰렸다…서울시립미술관 역대 최대 회고전 흥행",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 한국 추상미술의 거장 유영국(1916~2002)의 ‘산’에 30만명이 몰렸다.서울시립미술관은 서소문본관에서 열리고 있는 유영국 탄생 110주년 기념전 ‘유영국: 산은 내 안에 있다’가 누적 관람객 30만명을 돌파했다고 4일 밝혔다. 지난 5월19일 개막한 지 108일, 실제 개관일 기준 95일 만이다.이번 전시는 유..",
+        "url": "https://www.newsis.com/view/NISX20260904_0003775997",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-03T23:57:58.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/05/18/NISI20260518_0002138873_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "artist",
+        "articleType": "news",
+        "title": "RM이 '콕' 집은 작가와 전 세계 큐레이터 만난다…KF, 큐레이팅 행사 개최 - 머니투데이",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRF9sbEQyeXVUZm5IS09ibVJ4MHRIYzNqYnEwU2pwUktnN1h6alAwcEFwN2dVeW92dnhIeGZVcmM2cGFUSV9rNzlfcTNsaC1EQThfZGZMZmZ2cnlRV01WTHpRcnZUeUQxMFVlUNIBckFVX3lxTE1yQjZ2WXAxX3MtNGJFODlMeDZicGVPVzBMVmpNQ1RLemYzUDA1UTc5TEQyWUN5cUJaSEZDZkRvbmh3OUgwTmhEUHdTdnk4TEVhRXpWVDNMR1RWZktDRTdNSDhmQUNWU1RBUGtSNXFSRVVadw?oc=5",
+        "source": "머니투데이",
+        "publishedAt": "2026-09-02T08:05:28.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "47a2c8e91fd4",
+      "rank": 1,
+      "score": 104,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Chinese Artists Officially Withdraw from Gwangju Biennale in Protest of ‘Taiwan Pavilion’",
+      "titleKo": "Chinese Artists Officially Withdraw from Gwangju Biennale in Protest of ‘Taiwan Pavilion’",
+      "summaryKo": "Beijing maintains that Taiwan is part of its territory and considers any recognition of the island as a sovereign state a violation of its diplomatic policy.",
+      "url": "https://www.artnews.com/art-news/news/chinese-artists-officially-withdraw-from-gwangju-biennale-in-protest-of-taiwan-pavilion-1234796931",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-03T20:26:31.000Z",
+      "coverage": 4,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-1232052664.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "01468bbd0dca",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s and Bonhams Quietly Hike Buyers’ Fees",
+      "titleKo": "Christie’s and Bonhams Quietly Hike Buyers’ Fees",
+      "summaryKo": "Christie’s had raised its fees in September 2025, while Bonhams had not done so since 2023.",
+      "url": "https://www.artnews.com/art-news/market/christies-and-bonhams-quietly-hike-buyers-fees-1234796933",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-03T20:02:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/02/BONHAMS-FEB10-4.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8910c53cc42f",
+      "rank": 3,
+      "score": 81,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "titleKo": "Repatriated Kandinsky Masterwork Will Go Up for Auction at Christie’s London",
+      "summaryKo": "The Colorful Life, 1907, a landmark painting by Wassily Kandinsky that was returned to the heirs of its original Dutch Jewish owners three years ago, will be offered at auction at Christie’s London in October. The auction house projects that the work will fetch bids of over $30 million. The painting",
+      "url": "https://www.artforum.com/news/repatriated-kandinsky-up-for-auction-at-christies-1234758611",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T19:34:32.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2279267882.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "898d4a3a24f3",
+      "rank": 4,
+      "score": 75,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Why a New Generation of Collectors Is Chasing 20th-Century Modernism",
+      "titleKo": "Why a New Generation of Collectors Is Chasing 20th-Century Modernism",
+      "summaryKo": "Why a New Generation of Collectors Is Chasing 20th-Century Modernism Artnet News",
+      "url": "https://news.artnet.com/art-world/fall-auctions-modernism-2806123",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-03T17:12:02.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "dfdff03d1069",
+      "rank": 5,
+      "score": 73,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "China Withdraws from Gwangju Biennale in Protest of Taiwan’s Inclusion",
+      "titleKo": "China Withdraws from Gwangju Biennale in Protest of Taiwan’s Inclusion",
+      "summaryKo": "The news comes just nine days after the South Korean biennale reinstated the name “Taiwan Pavilion” after it was omitted from initial press materials.",
+      "url": "https://hyperallergic.com/china-withdraws-from-gwangju-biennale-in-protest-of-taiwans-inclusion",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-03T18:41:15.000Z",
+      "coverage": 2,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-1232052722--1-.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
