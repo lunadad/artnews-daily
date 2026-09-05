@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T09:20:02.796+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+        "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Leading Mexican curator Cuauhtémoc Medina tapped to organise next edi…",
+        "why": "3개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 130,
+        "category": "market",
+        "articleType": "news",
+        "title": "“한국 미술시장, 올해 더 강해졌다”…프리즈 CEO의 진단",
+        "summary": "“초고가 한두 건보다 전체 거래량 중요” 프리즈 서울, 亞미술 허브로 자리매김 내년 DDP서 개최…“서울 전역 영향력 키울 것”",
+        "url": "https://www.mk.co.kr/news/culture/12144430",
+        "source": "매일경제",
+        "publishedAt": "2026-09-04T05:17:04.000Z",
+        "coverage": 36,
+        "qualityCoverage": 10,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202609/04/news-p.v1.20260904.d7405cfc24e04e5a8bb6d130fc540f63_R.png"
+      },
+      {
+        "rank": 2,
+        "score": 73,
+        "category": "museum",
+        "articleType": "news",
+        "title": "광주비엔날레 ‘대만관’ 논란 일파만파…중국 작가들 “전시 철수”",
+        "summary": "제16회 광주비엔날레 개막을 이틀 앞둔 3일 중국측이 ‘대만관’(Taiwan Pavilion) 명칭 사용에 반발해 전시 철수를 결정했다. 중국 광저우시 인민대표대회 상무위원회 대표단은 이 문제에 항의하며 6~7일 예정됐던 전남광주통합특별시 방문을 전격 취소했다. 갈등이 해소되지 않으면서 행사 차질이 우려된다 중국 파빌리온팀은 이날 광주 하정웅미술관에서...",
+        "url": "https://weekly.khan.co.kr/article/202609031610001",
+        "source": "주간경향",
+        "publishedAt": "2026-09-03T07:10:00.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/weekly/2026/09/03/news-p.v1.20260903.9c08294f8506417b80feba530ae6adc9_P1.png"
+      },
+      {
+        "rank": 3,
+        "score": 69,
+        "category": "market",
+        "articleType": "news",
+        "title": "아트로 물든 서울…컬렉터 지갑도 ‘활짝’",
+        "summary": "데이미언 허스트 단독 부스로 꾸민 가고시안 갤러리가 관람객들과 컬렉터들로 북새통을 이룬다. 부스 앞에 걸린 땡땡이 연작의 출품가는 47만 5000달러(약 6억 5000만 원)이다. 가고시안은 1980년 래리 가고시안이 설립한 세계 최대 규모의 현대미술 갤러리 중 하나다",
+        "url": "https://www.sedaily.com/article/20086445",
+        "source": "서울경제",
+        "publishedAt": "2026-09-02T08:50:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260902.a9a230bfd1364951a8be6660060c8d58_R.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "'개관 10주년' 청주시립미술관, 연말까지 릴레이 전시회",
+        "summary": "[청주=뉴시스] 이도근 기자 = 충북 청주시립미술관이 개관 10주년을 맞아 그동안의 지역 미술 흐름을 조명하는 다채로운 전시 프로그램을 선보인다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260904_0003776407",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-04T02:25:19.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2021/02/05/NISI20210205_0000686649_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 58,
+        "category": "general",
+        "articleType": "news",
+        "title": "아트토큰, 日 '도쿄 겐다이 2026' 간다…최영욱·하태임 작품 선봬",
+        "summary": "아트토큰, 日 '도쿄 겐다이 2026' 간다…최영욱·하태임 작품 선봬, 증권",
+        "url": "https://www.hankyung.com/article/202609044494B",
+        "source": "한국경제",
+        "publishedAt": "2026-09-04T05:03:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/f01d837d-50aa-4c3e-ae74-321be0b698e3.webp"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "50366e6c22fb",
+      "rank": 1,
+      "score": 116,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+      "titleKo": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+      "summaryKo": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through its pavilion name. Central to the dispute is the Biennale’s Pavilion Project, wh",
+      "url": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T20:39:29.000Z",
+      "coverage": 5,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "65718239e257",
+      "rank": 2,
+      "score": 98,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Leading Mexican curator Cuauhtémoc Medina tapped to organise next edition of Guatemala’s Bienal de Arte Paiz",
+      "titleKo": "Leading Mexican curator Cuauhtémoc Medina tapped to organise next edition of Guatemala’s Bienal de Arte Paiz",
+      "summaryKo": "Leading Mexican curator Cuauhtémoc Medina tapped to organise next edition of Guatemala’s Bienal de Arte Paiz The Art Newspaper",
+      "url": "https://www.theartnewspaper.com/2026/09/03/guatemala-bienal-arte-paiz-cuauthemoc-medina-next-curator",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-03T17:31:56.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/b2a1fec34e43f51dc713b1b3f7c7cbe78c25eedf-2000x2999.jpg?rect=0,598,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "dac1edc3ef9e",
+      "rank": 3,
+      "score": 86,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+      "titleKo": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+      "summaryKo": "The half-day symposium “The Rise of the U.S. Latino Art Market: Lessons from Latin America” took place in El Museo’s iconic Teatro space.",
+      "url": "https://www.artnews.com/art-news/news/el-museo-del-barrio-aspen-conexion-latinx-art-convening-1234797269",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T22:56:11.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/05122026AspenConexionElMuseoPeogramKNDFotos16.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "43dd2cfee389",
+      "rank": 4,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Adam Lindemann Sued by Nature Conservancy for Allegedly Installing Julian Schnabel Sculpture Without Permission",
+      "titleKo": "Adam Lindemann Sued by Nature Conservancy for Allegedly Installing Julian Schnabel Sculpture Without Permission",
+      "summaryKo": "The lawsuit alleges the prominent art dealer \"refused\" to deinstall the piece.",
+      "url": "https://www.artnews.com/art-news/news/adam-lindemann-sued-julian-schnabel-sculpture-montauk-1234797149",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T20:47:21.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-459889766.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1fc096366f2f",
+      "rank": 5,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Collector Leon Black Sues House Oversight Committee over Jeffrey Epstein Investigation",
+      "titleKo": "Collector Leon Black Sues House Oversight Committee over Jeffrey Epstein Investigation",
+      "summaryKo": "The committee had subpoenaed him, demanding that he testify under oath.",
+      "url": "https://www.artnews.com/art-news/news/leon-black-sues-house-oversight-committee-jeffrey-epstein-1234797126",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T17:30:35.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2023/10/GettyImages-1063608482-e1696532319327.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
