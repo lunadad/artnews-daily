@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T09:18:03.926+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal …",
+        "why": "3개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "South Korea’s art market correction signals maturity",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 106,
+        "category": "museum",
+        "articleType": "news",
+        "title": "금호문화재단 미술사업 종료…금호미술관 내년 7월 폐관",
+        "summary": "금호미술관이 내년 7월 문을 닫는다. 1989년 금호갤러리로 출발한 이후 38년 만에 폐관한다. 금호문화재단은 내년 7월 금호미술관 운영을 비롯한 미술사업을 전면 종료한다고 밝혔다. 재단은 폐관 직전까지 예정된 전시와 프로그램은 모두 차질 없이 진행하고, 이후 관련 절",
+        "url": "https://www.munhwa.com/article/11614833",
+        "source": "문화일보",
+        "publishedAt": "2026-09-06T05:10:09.000Z",
+        "coverage": 8,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/09/06/news-p.v1.20260906.96283f6ccacc4416bbd9dd725775355e_R.png"
+      },
+      {
+        "rank": 2,
+        "score": 94,
+        "category": "fair",
+        "articleType": "news",
+        "title": "국내 최대 미술장터 키아프·프리즈 서울 ‘인산인해’",
+        "summary": "국내 최대 미술장터 키아프·프리즈 서울이 1일 개막해 관람객이 몰렸다. 25주년 키아프에는 18개국 175개 갤러리가, 프리즈 서울에는 30개 국가·지역 133개 갤러리가 참여했다. 미술축제는 비엔날레와 아트페어, 관광 협업 프로그램을 함께 선보였다.",
+        "url": "https://m.go.seoul.co.kr/news/life/exhibition/2026/09/04/20260904500159?cp=go",
+        "source": "서울Pn",
+        "publishedAt": "2026-09-04T04:09:27.000Z",
+        "coverage": 13,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/09/04/SSC_20260904130905.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 65,
+        "category": "fair",
+        "articleType": "news",
+        "title": "분자·역사·우주… 광주비엔날레, 예술로 상상력을 자극하다",
+        "summary": "",
+        "url": "https://amp.seoul.co.kr/seoul/20260907018001",
+        "source": "서울신문",
+        "publishedAt": "2026-09-06T19:32:59.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/09/07/SSC_20260907043253.jpg.webp"
+      },
+      {
+        "rank": 4,
+        "score": 62,
+        "category": "market",
+        "articleType": "news",
+        "title": "“한국 미술시장, 올해 더 강해졌다”…프리즈 CEO의 진단",
+        "summary": "“초고가 한두 건보다 전체 거래량 중요” 프리즈 서울, 亞미술 허브로 자리매김 내년 DDP서 개최…“서울 전역 영향력 키울 것”",
+        "url": "https://www.mk.co.kr/news/culture/12144430",
+        "source": "매일경제",
+        "publishedAt": "2026-09-04T05:17:04.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202609/04/news-p.v1.20260904.d7405cfc24e04e5a8bb6d130fc540f63_R.png"
+      },
+      {
+        "rank": 5,
+        "score": 58,
+        "category": "museum",
+        "articleType": "news",
+        "title": "윤선희 서울시의원, 서울시립미술관 추경 심사서 “안일한 행정이 예산 부실 자초” 질타",
+        "summary": "윤선희 서울시의원이 서울시립미술관 추경 심사에서 전시장 고객관리 예산의 유급휴일수당 누락, 서서울미술관 배리어프리 본인증 보완비 지연, 서소문본관 리모델링 절차 미숙을 지적했다. 미술관이 뒤늦게 예산을 편성한 관행과 행정 부실이 문제라고 봤다.",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260904500311",
+        "source": "서울Pn",
+        "publishedAt": "2026-09-04T08:12:10.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://imggo.seoul.co.kr/img/go_share.png"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "4cd51626e26d",
+      "rank": 1,
+      "score": 78,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal de Arte Paiz in Guatemala",
+      "titleKo": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal de Arte Paiz in Guatemala",
+      "summaryKo": "The biennial will be on view in Guatemala City and Antigua from November 2027 through February 2028.",
+      "url": "https://www.artnews.com/art-news/news/mexican-curator-cuauhtemoc-medina-organize-2027-bienal-de-arte-paiz-guatemala-1234797178",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T20:14:04.000Z",
+      "coverage": 3,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/1b9bb691-27dd-82c7-d76e-0e11c43207c6.png?w=941",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5d696d7d9099",
+      "rank": 2,
+      "score": 66,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "South Korea’s art market correction signals maturity",
+      "titleKo": "South Korea’s art market correction signals maturity",
+      "summaryKo": "Though the value of the country’s market has yet to regain its 2022 peak, it has consolidated its position as a key regional centre for art",
+      "url": "https://www.theartnewspaper.com/2026/09/01/south-koreas-art-market-correction-signals-maturity",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T09:32:40.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/e3346444aa7e9b73088b7ce8f4c2a4c6efe0f501-3307x2206.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "dac1edc3ef9e",
+      "rank": 3,
+      "score": 66,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+      "titleKo": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+      "summaryKo": "The half-day symposium “The Rise of the U.S. Latino Art Market: Lessons from Latin America” took place in El Museo’s iconic Teatro space.",
+      "url": "https://www.artnews.com/art-news/news/el-museo-del-barrio-aspen-conexion-latinx-art-convening-1234797269",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T22:56:11.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/05122026AspenConexionElMuseoPeogramKNDFotos16.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a1a30e1659ee",
+      "rank": 4,
+      "score": 66,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Korea’s new art market law gets off to a shaky start",
+      "titleKo": "Korea’s new art market law gets off to a shaky start",
+      "summaryKo": "Part one of the Art Promotion Act, which came into effect in July, has left dealers struggling to comply amid widespread administrative confusion",
+      "url": "https://www.theartnewspaper.com/2026/09/01/koreas-new-art-market-law-gets-off-to-a-shaky-start",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-01T09:22:39.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/5e820b3dfc4ed84db6b7817a46476b6c1abe77dc-2205x3307.jpg?rect=0,466,2205,1556&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "50366e6c22fb",
+      "rank": 5,
+      "score": 60,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+      "titleKo": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+      "summaryKo": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through its pavilion name. Central to the dispute is the Biennale’s Pavilion Project, wh",
+      "url": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-04T20:39:29.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
