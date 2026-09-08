@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T09:39:03.071+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Come to the British Library’s Agatha Christie show—if you dare",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 91,
+        "category": "market",
+        "articleType": "news",
+        "title": "초고가보다는 ‘실속’…젊은 컬렉터도 북적",
+        "summary": "한국 미술시장의 최대 행사인 키아프 서울과 프리즈 서울이 지난 주말 나란히 막을 내렸다. 10억 원 이상의 초고가 작품 거래는 주춤했지만 수천만원~수억 원대 작품 거래가 적지 않았고, 수백만원 대 중저가 작품 거래가 활발해 ‘실리’를 챙겼다는 평가가 나온다. 페어 기간 서울시립미술관의 유영국 회고전, 국립현대미술관 서도호전, 리움미술관 구정아전이 동시에 열",
+        "url": "https://m.sedaily.com/amparticle/20088098",
+        "source": "서울경제",
+        "publishedAt": "2026-09-07T08:36:32.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/07/news-p.v1.20260907.eb59c41ea150467ea00f2fbad31b699c_R.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 75,
+        "category": "museum",
+        "articleType": "news",
+        "title": "‘뼈를 갈아 넣은 3년’ 김성희 관장, 박수칠 때 떠난다[박현주 아트클럽]",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 박수칠 때 떠난다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260907_0003779886",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-07T22:00:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/07/NISI20260907_0021427283_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 66,
+        "category": "market",
+        "articleType": "news",
+        "title": "25억 유영국, 5억 엘리다니- 뜨거웠던 서울 미술시장",
+        "summary": "2026년 서울의 9월 미술시장은 다시 한 번 뜨겁게 달아올랐다. 프리즈 서울과 키아프 서울이 국내외 컬렉터들의 관심 속에 막을 내리며 한국 미술시장의 저력을 확인시킨 가운데, 주요 아트페어와 맞물려 열린 전시 현장에서도 주목할 만한 판매 소식이 이어졌다.특히 프리즈 서울에서는 한국",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104309",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-07T04:41:48.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104309_333278_4051_v150.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 66,
+        "category": "market",
+        "articleType": "news",
+        "title": "\"미술시장 새 활력\"…키아프, 백남준 작품 거액 판매·8만 명 동원",
+        "summary": "국내에서 가장 오래된 미술 장터인 '키아프 서울 2026'이 6일 강남 코엑스에서 닷새간의 일정을 마무리하며, 미술 시장의 새로운 활력을 확인했다올해로 25회를 …",
+        "url": "https://www.news1.kr/amp/life-culture/performance-exhibition/6281606",
+        "source": "news1.kr",
+        "publishedAt": "2026-09-07T00:01:38.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/2/8084160/high.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "museum",
+        "articleType": "news",
+        "title": "\"온몸으로 느끼는 미래 전시 공간\"…부산시립미술관, 국제 학술행사 개최",
+        "summary": "'2026 BMA 미래미술관 국제 포럼' 부산시립미술관 1층 다목적홀 19일 단순히 벽에 걸린 그림을 눈으로 훑어보고 지나치던 낡은 관람 방식이 역사 속으로 사라지고 있다. 만지고 듣고 디지털 화면과 호흡하며 온몸의 감각을 깨우는 새로운 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6282857",
+        "source": "news1.kr",
+        "publishedAt": "2026-09-08T00:25:50.000Z",
+        "coverage": 4,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/8/8093401/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "dc807b23fe44",
+      "rank": 1,
+      "score": 104,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
+      "titleKo": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
+      "summaryKo": "To mark her 45th birthday, the pop music superstar and art collector gave generously to the revered New York City museum",
+      "url": "https://www.theartnewspaper.com/2026/09/07/a-big-bday-gift-beyonce-gives-2m-to-the-studio-museum-in-harlem",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-07T08:18:51.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/01964460ff657b7d5ba5f058f90799fc45cdc02e-2000x1325.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4e5d58d7f932",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
+      "titleKo": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
+      "summaryKo": "Falcon sets world auction record at AED2.1 million in Abu Dhabi Sharjah24",
+      "url": "https://sharjah24.ae/en/Articles/2026/09/07/a5",
+      "source": "Sharjah24",
+      "sourceDomain": "sharjah24.ae",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-07T16:49:14.000Z",
+      "coverage": 2,
+      "image": "https://sharjah24.ae/-/media/Sharjah24/Articles/2026/September-2026/07/Falcon-sets-world-auction-record-at-AED21-million-in-Abu-Dhabi.jpg?20260908043904",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ca81b502d776",
+      "rank": 3,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Come to the British Library’s Agatha Christie show—if you dare",
+      "titleKo": "Come to the British Library’s Agatha Christie show—if you dare",
+      "summaryKo": "London exhibition will examine the life of the crime fiction writer and how she created her most famous characters",
+      "url": "https://www.theartnewspaper.com/2026/09/07/come-to-the-british-librarys-agatha-christie-showif-you-dare",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-07T13:56:35.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8bbb91d29d34580911b8a91143c7c1ae4a38e0d4-4240x2832.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "996e6e4263fc",
+      "rank": 4,
+      "score": 68,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement",
+      "titleKo": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement",
+      "summaryKo": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement Financial Times",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609071230CANADANWCANADAPR_C3898-1",
+      "source": "Financial Times",
+      "sourceDomain": "ft.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-07T16:30:00.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3b1d01cc4ef5",
+      "rank": 5,
+      "score": 68,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation",
+      "titleKo": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation",
+      "summaryKo": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation RTV News",
+      "url": "https://rtvonline.com/english/bangladesh/national/276420",
+      "source": "RTV News",
+      "sourceDomain": "rtvonline.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-07T10:26:43.000Z",
+      "coverage": 3,
+      "image": "https://img.rtvonline.com/resize?w=600&h=315&q=100&cmp=RM&img=/media/images/2026/09/07/pm-lead-1788775554-276420_1788775973.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
