@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T09:30:37.516+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
+        "why": "5개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Mar…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Scul…",
+        "why": "2개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 최대주주 5억 규모 지분 장내 매수",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 회사 최대주주인 이호재 회장이 최근 회사 주식 총 10만주를 장내 매수했다고 9일 밝혔다. 약 5억2000만원 규모다.회사 측에 따르면 서울옥션의 최대주주 이호재 회장은 지난달 25일과 이달 3일 각각 8만주와 2만주의 서울옥션 주식을 매수했다. 이번 취득으로 이 회장의 보유 주식은 246만5000주..",
+        "url": "https://www.newsis.com/view/NISX20260909_0003781852",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-08T23:40:46.000Z",
+        "coverage": 8,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/09/NISI20260909_0002233915_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 71,
+        "category": "fair",
+        "articleType": "news",
+        "title": "키아프·프리즈와 함께…서울 전체가 예술 전시장",
+        "summary": "지난달 31일 저녁 서울 을지로 뉴스뮤지엄. 비가 내리는 월요일이었지만 1층 전시장은 관람객으로 발 디딜 틈이 없었다. 외국인 관람객들이 작품 앞에�...",
+        "url": "https://plus.hankyung.com/apps/newsinside.view?aid=2026090819271&category=&sns=y",
+        "source": "모바일한경",
+        "publishedAt": "2026-09-08T08:25:41.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/AA.45608604.1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 65,
+        "category": "museum",
+        "articleType": "news",
+        "title": "허스트, 개인전 출품 작품 2점… 국립현대미술관에 기증하기로",
+        "summary": "데이미언 허스트가 국립현대미술관 서울 개인전에 출품했던 작품 2점을 기증하기로 했다. 8일 미술관에 따르면 허스트는 1999년 작 아름답게 폭발하는 막무가내 대혼란과 광기, 무지개의 소용돌이 그리고 죽음의 화산 페인팅 과 2008년 작 인간은 끝…",
+        "url": "https://www.donga.com/news/amp/all/20260909/134630582/2",
+        "source": "동아일보",
+        "publishedAt": "2026-09-08T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134631571.1.png"
+      },
+      {
+        "rank": 4,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "칼끝으로 새긴 민중의 삶과 신명…오윤 40주기 기획전",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 한국 근현대사의 굴곡과 민중의 삶을 힘 있는 선과 형상으로 담아낸 오윤(1946∼1986)이 작고 40주기를 ...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20260908122000005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-08T06:39:16.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img0.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908122000005_05_i_P4.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "museum",
+        "articleType": "pr",
+        "title": "애경산업, 현대미술 거장 게오르그 바젤리츠 전시 후원",
+        "summary": "[서울=뉴시스]동효정 기자 = 글로벌 토탈 뷰티 기업 애경산업이 세계적인 현대미술 거장 게오르그 바젤리츠 전시의 공식 후원사로 참여하며 문화·예술을 통한 소비자 접점 확대에 나선다.애경산업은 전시가 열리는 세화미술관에 대표 뷰티 브랜드를 직접 경험할 수 있는 브랜드 부스를 마련했다고 9일 밝혔다.세화미술관 1층 로비에 마련된 브랜드 부스에서는 스킨 퍼스트 ..",
+        "url": "https://www.newsis.com/view/NISX20260909_0003781886",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-09T00:02:37.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/09/NISI20260909_0002233931_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "ee317adb52ab",
+      "rank": 1,
+      "score": 117,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
+      "titleKo": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
+      "summaryKo": "Thieves took two further works but dropped them as they fled, the mayor of Cagnes-sur-Mer says",
+      "url": "https://www.theartnewspaper.com/2026/09/08/two-renoir-paintings-worth-9m-stolen-from-renoir-museum-in-south-of-france",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-08T12:22:32.000Z",
+      "coverage": 5,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/dba9d91802c8b861b43d7f7c5b2c55bceb5d1232-1856x1240.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "fef63fc4f304",
+      "rank": 2,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Marquee New York Sales",
+      "titleKo": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Marquee New York Sales",
+      "summaryKo": "The house valued the eight works at more than $35 million.",
+      "url": "https://www.artnews.com/art-news/news/clive-davis-warhol-hockney-paintings-christies-1234797524",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-08T19:11:17.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/77602169_dotcom.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "bb6402442398",
+      "rank": 3,
+      "score": 81,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Sculpture",
+      "titleKo": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Sculpture",
+      "summaryKo": "It is reportedly headed next to the National Gallery of Art's sculpture garden.",
+      "url": "https://www.artnews.com/art-news/news/joel-shapiro-sculpture-kennedy-center-buyer-1234797472",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-08T14:57:27.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-2219834614.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5f6089f2d545",
+      "rank": 4,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The Man Who Bought The Scream: Collector Leon Black’s Reckoning Is Far from Over",
+      "titleKo": "The Man Who Bought The Scream: Collector Leon Black’s Reckoning Is Far from Over",
+      "summaryKo": "Read an excerpt from William D. Cohan’s MONEY TO BURN: The Unvarnished Truth About Leon Black, Apollo, and the Rise of a New Wall Street .",
+      "url": "https://www.artnews.com/art-news/news/leon-black-money-to-burn-excerpt-william-d-cohan-1234797473",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-08T15:00:50.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/9780593716342.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2c9421d91e25",
+      "rank": 5,
+      "score": 70,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "titleKo": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+      "summaryKo": "Artworks stolen from Renoir Museum on French Riviera in latest heist The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-08T07:38:00.000Z",
+      "coverage": 2,
+      "image": "https://i.guim.co.uk/img/media/6235d71a3657bcf8b36cb5880d323374852b2ee2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5649367a3832eb7aebc100ec9385b89",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
