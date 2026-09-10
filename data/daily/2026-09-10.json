@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T09:32:07.377+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Louisville’s Speed Art Museum Names New Director",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition af…",
+        "why": "10개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 95,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 최대주주 5억 규모 지분 장내 매수",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 회사 최대주주인 이호재 회장이 최근 회사 주식 총 10만주를 장내 매수했다고 9일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260909_0003781852",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-08T23:40:46.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/09/NISI20260909_0002233915_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 73,
+        "category": "museum",
+        "articleType": "news",
+        "title": "허스트, 개인전 출품 작품 2점… 국립현대미술관에 기증하기로",
+        "summary": "데이미언 허스트가 국립현대미술관 서울 개인전에 출품했던 작품 2점을 기증하기로 했다. 8일 미술관에 따르면 허스트는 1999년 작 ‘아름답게 폭발하는 막무가내 대혼란과 광기, 무지개의 소용돌이 그리고 죽음의 화산 페인팅’과 2008년 작 ‘인간은 끝내 아무것도 알 …",
+        "url": "https://www.donga.com/news/Culture/article/all/20260909/134630582/2",
+        "source": "동아일보",
+        "publishedAt": "2026-09-08T19:30:00.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134631571.1.png"
+      },
+      {
+        "rank": 3,
+        "score": 73,
+        "category": "market",
+        "articleType": "news",
+        "title": "[해외 미술시장] 필립스옥션, 데이비드 호크니 에디션 경매로 가을 시즌 개막",
+        "summary": "필립스옥션이 데이비드 호크니 에디션 단독 경매를 앞세워 가을 시즌의 문을 연다. 이번 경매는 필립스가 다섯 번째로 선보이는 데이비드 호크니 단독 에디션 경매로, 호크니가 70여 년에 걸쳐 구축해온 판화와 에디션 작업의 흐름을 한자리에서 조명한다.런던에서 진행되는 이번 가을 에디션 경매",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104366",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-09T04:26:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104366_333468_2056_v150.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 65,
+        "category": "fair",
+        "articleType": "news",
+        "title": "일주일 앞둔 경기도자비엔날레…“1만 년 한국문화 정수 보여주겠다”",
+        "summary": "수원=박성훈 기자 “우리 도자에는 1만 년의 역사가 있습니다. 현현히 흘러온 도자의 시간에 한국 문화의 정수가 담겼습니다. 이번 경기도자비엔날레는 실용과 예술의 한복판에 서 있는 도자의 과거와 미래를 모두 보이고자 합니다.” 류인권 한국도자재단 대표는 오는 18일 도자",
+        "url": "https://www.munhwa.com/article/11615863",
+        "source": "문화일보",
+        "publishedAt": "2026-09-09T21:28:35.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/09/10/news-p.v1.20260909.23b42a688c7344ecb38f174876d40486_R.png"
+      },
+      {
+        "rank": 5,
+        "score": 63,
+        "category": "museum",
+        "articleType": "news",
+        "title": "광주 양림골목비엔날레 10일 개막…'마을이 미술관이 되는 시간'",
+        "summary": "2026 양림골목비엔날레가 10일 오후 2시 전남광주통합특별시 남구 한희원미술관에서 개막, 10월 31일까지 양림동 일원에서 펼쳐진다.양림골목비엔날레는 양림을 기 …",
+        "url": "https://www.news1.kr/amp/local/gwangju-jeonnam/6285016",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-09T05:40:04.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/9/8097033/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "7d69d669e7a2",
+      "rank": 1,
+      "score": 117,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "fd2f43d46983",
+      "rank": 2,
+      "score": 98,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Louisville’s Speed Art Museum Names New Director",
+      "titleKo": "Louisville’s Speed Art Museum Names New Director",
+      "summaryKo": "Kathleen V. Jameson replaces Raphaela Platow, who stepped down last year at the end of a four-year contract.",
+      "url": "https://www.artnews.com/art-news/news/speed-art-museum-louisville-next-director-kathleen-v-jameson-1234797709",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T19:26:02.000Z",
+      "coverage": 4,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Kathleen-Portrait-3-Alex-Brumley-PC.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "101be344c678",
+      "rank": 3,
+      "score": 88,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month",
+      "titleKo": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month",
+      "summaryKo": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month CTPost",
+      "url": "https://www.ctpost.com/entertainment/article/amsterdam-s-stedelijk-museum-opens-a-major-22423512.php",
+      "source": "CTPost",
+      "sourceDomain": "ctpost.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-09T22:31:14.000Z",
+      "coverage": 10,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "940493659d8e",
+      "rank": 4,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Modernist Collection Rich in Signac Paintings Heads to Sale at Christie’s",
+      "titleKo": "Modernist Collection Rich in Signac Paintings Heads to Sale at Christie’s",
+      "summaryKo": "Paintings by Paul Signac are earmarked for high-profile sales in New York, Paris, and London.",
+      "url": "https://www.artnews.com/art-news/news/christies-radiant-modernism-paul-signac-paintings-1234797507",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T16:47:40.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Paul-Signac-Sainte-Anne-Saint-Tropez-1905.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "dc65f604f6f6",
+      "rank": 5,
+      "score": 75,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37",
+      "titleKo": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37",
+      "summaryKo": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37 Hyperallergic",
+      "url": "https://hyperallergic.com/artist-lucien-smith-fixture-of-nycs-downtown-scene-dies-at-37",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-08T18:44:28.000Z",
+      "coverage": 3,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/GettyImages-1357092772.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
