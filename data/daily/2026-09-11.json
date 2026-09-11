@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T09:29:20.575+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Kathleen V. Jameson Named Speed Museum Director",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens",
+        "why": "6개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 125,
+        "category": "market",
+        "articleType": "news",
+        "title": "일본서 돌아온 단원 김홍도 작품 22일 경매",
+        "summary": "일본에서 돌아온 단원 김홍도의 그림이 경매에 나온다. 서울옥션은 22일 오후 4시 서울 강남구 신사동 서울옥션 강남센터에서 제195회 미술품 경매를 연다고 10일 밝혔다. 총 101건, 낮은 추정가 기준 총 85억원 규모의 이번 경매에는 일본으로 넘어갔다 돌아온 문화유산 4점을 소개하는 ‘귀환-환수문화유산’을 선보인다. 이 중 하나인 단원의 ‘백세노두타(百歲老頭陀)’는 조선 통감을 지낸 소네 아라스케(1849~1910)가 소장했던 걸로 추정된다. 추정가는 3000만~6000만원이다.",
+        "url": "https://www.joongang.co.kr/article/25460774",
+        "source": "중앙일보",
+        "publishedAt": "2026-09-10T06:49:10.000Z",
+        "coverage": 7,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/10/eecd13ee-149e-41c3-a411-8759bf18ae44.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 93,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 최대주주 5억 규모 지분 장내 매수",
+        "summary": "[서울=뉴시스] 김경택 기자 = 미술품 경매사 서울옥션은 회사 최대주주인 이호재 회장이 최근 회사 주식 총 10만주를 장내 매수했다고 9일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260909_0003781852",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-08T23:40:46.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/09/NISI20260909_0002233915_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "category": "museum",
+        "articleType": "news",
+        "title": "허스트, 개인전 출품 작품 2점… 국립현대미술관에 기증하기로",
+        "summary": "데이미언 허스트가 국립현대미술관 서울 개인전에 출품했던 작품 2점을 기증하기로 했다. 8일 미술관에 따르면 허스트는 1999년 작 ‘아름답게 폭발하는 막무가내 대혼란과 광기, 무지개의 소용돌이 그리고 죽음의 화산 페인팅’과 2008년 작 ‘인간은 끝내 아무것도 알 …",
+        "url": "https://www.donga.com/news/Culture/article/all/20260909/134630582/2",
+        "source": "동아일보",
+        "publishedAt": "2026-09-08T19:30:00.000Z",
+        "coverage": 13,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134631571.1.png"
+      },
+      {
+        "rank": 4,
+        "score": 67,
+        "category": "market",
+        "articleType": "news",
+        "title": "[해외 미술시장] 필립스옥션, 데이비드 호크니 에디션 경매로 가을 시즌 개막",
+        "summary": "필립스옥션이 데이비드 호크니 에디션 단독 경매를 앞세워 가을 시즌의 문을 연다. 이번 경매는 필립스가 다섯 번째로 선보이는 데이비드 호크니 단독 에디션 경매로, 호크니가 70여 년에 걸쳐 구축해온 판화와 에디션 작업의 흐름을 한자리에서 조명한다.런던에서 진행되는 이번 가을 에디션 경매",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104366",
+        "source": "artkoreatv.com",
+        "publishedAt": "2026-09-09T04:26:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104366_333468_2056_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 65,
+        "category": "museum",
+        "articleType": "news",
+        "title": "예술이 농익는 가을… 전시로 물드는 서울",
+        "summary": "가을바람과 함께 현대미술축제인 부산·광주비엔날레가 베일을 벗었고, 국내 최대 아트페어(미술품 장터)인 키아프와 프리즈도 성료됐다. 북적이던 장이 파하고, 이제 진짜 ‘전시의 계절’이다. 비엔날레의 전위적 에너지, 아트페어의 수집 열기는 미술관으로 수렴된다. 주요 미술관",
+        "url": "https://www.munhwa.com/article/11615634",
+        "source": "문화일보",
+        "publishedAt": "2026-09-09T00:47:42.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/09/09/news-p.v1.20260908.7c8ff61a59ad4d98bef12791a33ce75d_R.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "5b8837b9420e",
+      "rank": 1,
+      "score": 104,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Kathleen V. Jameson Named Speed Museum Director",
+      "titleKo": "Kathleen V. Jameson Named Speed Museum Director",
+      "summaryKo": "Kathleen V. Jameson Named Speed Museum Director Hyperallergic",
+      "url": "https://hyperallergic.com/kathleen-v-jameson-named-speed-museum-director",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-10T21:40:24.000Z",
+      "coverage": 4,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/Kathleen-Portrait-3-Alex-Brumley---PC-1.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7d69d669e7a2",
+      "rank": 2,
+      "score": 103,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "0a9e5850d097",
+      "rank": 3,
+      "score": 93,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens",
+      "titleKo": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens",
+      "summaryKo": "Bayeux Tapestry 'mania' sweeps UK as sold-out exhibition opens CNA",
+      "url": "https://www.channelnewsasia.com/world/bayeux-tapestry-mania-sweeps-uk-sold-out-exhibition-opens-6377176",
+      "source": "CNA",
+      "sourceDomain": "channelnewsasia.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-10T20:25:03.000Z",
+      "coverage": 6,
+      "image": "https://dam.mediacorp.sg/image/upload/s--KLAJOyEg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-02T111055Z_2_LYNXMPEM810ZF_RTROPTP_3_BRITAIN-FRANCE-BAYEUX-TAPESTRY.JPG?itok=t6FOYs_8",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2aa0081ca3b7",
+      "rank": 4,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Princess Diana’s Revenge Dress Returns to Sotheby’s With $300,000 Price Tag",
+      "titleKo": "Princess Diana’s Revenge Dress Returns to Sotheby’s With $300,000 Price Tag",
+      "summaryKo": "The late princess put 79 of her dresses up for sale to raise money for cancer and AIDS charities in 1997.",
+      "url": "https://www.artnews.com/art-news/news/princess-diana-revenge-dress-auction-sothebys-300000-1234797803",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-10T13:37:08.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Princess-Diana-wearing-the-Revenge-Dress_Photo-by-Jayne-Fincher-for-Getty-Images_Licensed-for-Editorial-by-Sothebys.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "88dd912b0e56",
+      "rank": 5,
+      "score": 74,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "2026 Winners of $50,000 Rabkin Prize Announced",
+      "titleKo": "2026 Winners of $50,000 Rabkin Prize Announced",
+      "summaryKo": "The Dorothea and Leo Rabkin Foundation on September 10 named the eight recipients of its 2026 Rabkin Prize for arts journalists. Each will receive an unrestricted grant of $50,000. Established in 2017, the honor recognizes the contributions of journalists writing about the visual arts for a general",
+      "url": "https://www.artforum.com/news/2026-winners-of-rabkin-prize-announced-1234759021",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-10T21:34:48.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Web-ready-horizontal-for-Announcement-ad-or-IG-post.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
