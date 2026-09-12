@@ -20,26 +20,38 @@ const daily = (top5: NewsItem[], domesticCount = 5): Pick<DailyData, "top5" | "d
   domestic: { headline: "국내", distribution: { market: 0, museum: domesticCount, fair: 0, artist: 0, general: 0 }, items: Array.from({ length: domesticCount }, (_, index) => domesticItem(index + 1)) },
 });
 
+const untranslated = (count: number) => translatedTop5.map((item, index) => index < count ? { ...item, titleKo: item.titleOriginal } : item);
+const healthy = { previousKarinaPresent: true, previousTop5: translatedTop5 };
+
 describe("checkDailyHealth", () => {
   it("passes a fully translated, complete dataset", () => {
-    expect(checkDailyHealth(daily(translatedTop5), { previousKarinaPresent: true })).toEqual({ errors: [], warnings: [] });
+    expect(checkDailyHealth(daily(translatedTop5), healthy)).toEqual({ errors: [], warnings: [] });
   });
 
-  it("reports an error naming how many international titles shipped untranslated", () => {
-    const top5 = translatedTop5.map((item, index) => index < 3 ? { ...item, titleKo: item.titleOriginal } : item);
-    const report = checkDailyHealth(daily(top5), { previousKarinaPresent: true });
-    expect(report.errors).toHaveLength(1);
-    expect(report.errors[0]).toContain("3/5");
+  it("only warns about today's untranslated titles, since the Hermes job translates them after collection", () => {
+    const report = checkDailyHealth(daily(untranslated(3)), healthy);
+    expect(report.errors).toEqual([]);
+    expect(report.warnings).toEqual([expect.stringContaining("3/5")]);
+  });
+
+  it("reports an error when the previous day's titles are still untranslated", () => {
+    const report = checkDailyHealth(daily(translatedTop5), { ...healthy, previousTop5: untranslated(2) });
+    expect(report.errors).toEqual([expect.stringContaining("2/5")]);
+    expect(report.errors[0]).toContain("Hermes");
+  });
+
+  it("skips the previous-day translation check when there is no previous file", () => {
+    expect(checkDailyHealth(daily(translatedTop5), { ...healthy, previousTop5: null }).errors).toEqual([]);
   });
 
   it("warns, without failing, about short international or domestic lists", () => {
-    const report = checkDailyHealth(daily(translatedTop5.slice(0, 4), 3), { previousKarinaPresent: true });
+    const report = checkDailyHealth(daily(translatedTop5.slice(0, 4), 3), healthy);
     expect(report.errors).toEqual([]);
     expect(report.warnings).toHaveLength(2);
   });
 
   it("warns when the previous day's Karina briefing never arrived", () => {
-    const report = checkDailyHealth(daily(translatedTop5), { previousKarinaPresent: false });
+    const report = checkDailyHealth(daily(translatedTop5), { ...healthy, previousKarinaPresent: false });
     expect(report.errors).toEqual([]);
     expect(report.warnings).toEqual([expect.stringContaining("Karina")]);
   });

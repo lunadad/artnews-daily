@@ -22,11 +22,13 @@ export async function verifyLatestDaily(root = DATA_ROOT): Promise<number> {
     console.log("::error::no daily data file found");
     return 1;
   }
-  const daily = DailyDataSchema.parse(JSON.parse(await fs.readFile(path.join(root, "daily", latest), "utf8")));
-  const karinaFile = path.join(root, "karina", `${previousDate(daily.date)}.json`);
-  const previousKarinaPresent = await fs.access(karinaFile).then(() => true, () => false);
+  const readDaily = async (name: string) => DailyDataSchema.parse(JSON.parse(await fs.readFile(path.join(root, "daily", name), "utf8")));
+  const daily = await readDaily(latest);
+  const yesterday = previousDate(daily.date);
+  const previousTop5 = names.includes(`${yesterday}.json`) ? (await readDaily(`${yesterday}.json`)).top5 : null;
+  const previousKarinaPresent = await fs.access(path.join(root, "karina", `${yesterday}.json`)).then(() => true, () => false);
 
-  const { errors, warnings } = checkDailyHealth(daily, { previousKarinaPresent });
+  const { errors, warnings } = checkDailyHealth(daily, { previousKarinaPresent, previousTop5 });
   for (const warning of warnings) console.log(`::warning::${daily.date}: ${warning}`);
   for (const error of errors) console.log(`::error::${daily.date}: ${error}`);
   if (!errors.length) console.log(`[verify-daily] ${daily.date} ok (${warnings.length} warnings)`);
