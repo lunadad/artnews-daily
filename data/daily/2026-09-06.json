@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal …",
+        "title": "다작의 멕시코 큐레이터 Cuauhtémoc Medina가 과테말라에서 2027 Bienal de Arte Paiz를 조직합니다.",
         "why": "3개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "Beyoncé Gives the Studio Museum in Harlem a $2 M. Gift on Her Birthday",
+        "title": "비욘세는 할렘에 있는 스튜디오 박물관에 그녀의 생일에 $ 2M의 선물을 줍니다.",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
+        "title": "엘 무세오 델 바리오와 아스펜 코넥시온, 라틴 예술의 급부상",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal de Arte Paiz in Guatemala",
-      "titleKo": "Prolific Mexican Curator Cuauhtémoc Medina Will Organize 2027 Bienal de Arte Paiz in Guatemala",
-      "summaryKo": "The biennial will be on view in Guatemala City and Antigua from November 2027 through February 2028.",
+      "titleKo": "다작의 멕시코 큐레이터 Cuauhtémoc Medina가 과테말라에서 2027 Bienal de Arte Paiz를 조직합니다.",
+      "summaryKo": "비엔날레는 2027년 11월부터 2028년 2월까지 과테말라 시티와 앤티가에서 개최됩니다.",
       "url": "https://www.artnews.com/art-news/news/mexican-curator-cuauhtemoc-medina-organize-2027-bienal-de-arte-paiz-guatemala-1234797178",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Beyoncé Gives the Studio Museum in Harlem a $2 M. Gift on Her Birthday",
-      "titleKo": "Beyoncé Gives the Studio Museum in Harlem a $2 M. Gift on Her Birthday",
-      "summaryKo": "The entertainer turned 45 on September 4, and apparently was feeling generous.",
+      "titleKo": "비욘세는 할렘에 있는 스튜디오 박물관에 그녀의 생일에 $ 2M의 선물을 줍니다.",
+      "summaryKo": "9월 4일에 45세가 된 연예인은 넉넉한 것 같았다.",
       "url": "https://www.artnews.com/art-news/news/beyonce-gives-studio-museum-harlem-gift-her-own-birthday-1234797300",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
-      "titleKo": "El Museo del Barrio and Aspen Conexión Look at the Rise of Latinx Art",
-      "summaryKo": "The half-day symposium “The Rise of the U.S. Latino Art Market: Lessons from Latin America” took place in El Museo’s iconic Teatro space.",
+      "titleKo": "엘 무세오 델 바리오와 아스펜 코넥시온, 라틴 예술의 급부상",
+      "summaryKo": "반나절 동안 열린 심포지엄 \"미국 라틴아트 시장의 부상: 라틴 아메리카의 교훈\" 은 엘 무세오의 상징적인 극장 공간에서 열렸습니다.",
       "url": "https://www.artnews.com/art-news/news/el-museo-del-barrio-aspen-conexion-latinx-art-convening-1234797269",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Long-hidden Van Gogh self-portrait to star in major Paris exhibition",
-      "titleKo": "Long-hidden Van Gogh self-portrait to star in major Paris exhibition",
-      "summaryKo": "Now owned by the Niarchos Greek shipping family, it will be loaned to a huge show on the fabled pioneer collector Gustave Fayet",
+      "titleKo": "파리 주요 전시회에서 주인공이 되어보는 반 고흐의 자화상",
+      "summaryKo": "이제 니아르코스 그리스 해운 가족이 소유하고 있으며, 전설적인 선구자 수집가 구스타브 파예 (Gustave Fayet) 의 거대한 쇼에 대여됩니다.",
       "url": "https://www.theartnewspaper.com/2026/09/04/one-of-van-goghs-most-important-self-portraits-to-star-in-exhibition-for-first-time-in-35-years",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s and Bonhams Hike Buyer’s Fees—and More Industry Intel",
-      "titleKo": "Christie’s and Bonhams Hike Buyer’s Fees—and More Industry Intel",
-      "summaryKo": "Christie’s and Bonhams Hike Buyer’s Fees—and More Industry Intel Artnet News",
+      "titleKo": "Christie 's와 Bonhams 하이킹 구매자 수수료 및 기타 산업 정보",
+      "summaryKo": "",
       "url": "https://news.artnet.com/market/industry-intel-sept-4-2806789",
       "source": "Artnet News",
       "sourceDomain": "artnet.com",

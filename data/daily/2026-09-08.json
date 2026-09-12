@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
+        "title": "큰 B’Day 선물: 비욘세는 할렘의 스튜디오 박물관에 $ 2m를 기부합니다",
         "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
+        "title": "아부다비에서 210만 호주 달러 (AED) 로 세계 경매 기록을 세운 팔콘",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Come to the British Library’s Agatha Christie show—if you dare",
+        "title": "감히 대영 도서관의 아가사 크리스티 쇼에 오세요",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
-      "titleKo": "A big B’Day gift: Beyoncé gives $2m to the Studio Museum in Harlem",
-      "summaryKo": "To mark her 45th birthday, the pop music superstar and art collector gave generously to the revered New York City museum",
+      "titleKo": "큰 B’Day 선물: 비욘세는 할렘의 스튜디오 박물관에 $ 2m를 기부합니다",
+      "summaryKo": "그녀의 45번째 생일을 기념하기 위해 팝 음악 슈퍼스타이자 아트 컬렉터는 존경받는 뉴욕시 박물관에 아낌없이 기부했습니다.",
       "url": "https://www.theartnewspaper.com/2026/09/07/a-big-bday-gift-beyonce-gives-2m-to-the-studio-museum-in-harlem",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
-      "titleKo": "Falcon sets world auction record at AED2.1 million in Abu Dhabi",
-      "summaryKo": "Falcon sets world auction record at AED2.1 million in Abu Dhabi Sharjah24",
+      "titleKo": "아부다비에서 210만 호주 달러 (AED) 로 세계 경매 기록을 세운 팔콘",
+      "summaryKo": "",
       "url": "https://sharjah24.ae/en/Articles/2026/09/07/a5",
       "source": "Sharjah24",
       "sourceDomain": "sharjah24.ae",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Come to the British Library’s Agatha Christie show—if you dare",
-      "titleKo": "Come to the British Library’s Agatha Christie show—if you dare",
-      "summaryKo": "London exhibition will examine the life of the crime fiction writer and how she created her most famous characters",
+      "titleKo": "감히 대영 도서관의 아가사 크리스티 쇼에 오세요",
+      "summaryKo": "런던 전시회는 범죄 소설 작가의 삶과 그녀가 가장 유명한 캐릭터를 어떻게 만들었는지 살펴볼 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/09/07/come-to-the-british-librarys-agatha-christie-showif-you-dare",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement",
-      "titleKo": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement",
-      "summaryKo": "Artprice News: D-12 | 18th LYON BIENNALE - CONTEMPORARY ART – Company Announcement Financial Times",
+      "titleKo": "아트프라이스 뉴스: D-12 | 제18회 리옹 비엔날레 - 현대 미술 – 회사 발표",
+      "summaryKo": "",
       "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609071230CANADANWCANADAPR_C3898-1",
       "source": "Financial Times",
       "sourceDomain": "ft.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation",
-      "titleKo": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation",
-      "summaryKo": "Prime Minister Urges Japan's Special Envoy to Help Secure Safe Rohingya Repatriation RTV News",
+      "titleKo": "총리, 일본 특사에게 안전한 로힝야 송환 지원 촉구",
+      "summaryKo": "",
       "url": "https://rtvonline.com/english/bangladesh/national/276420",
       "source": "RTV News",
       "sourceDomain": "rtvonline.com",

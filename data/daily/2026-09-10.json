@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "title": "Swizz Beatz와 Alicia Keys, Bonhams와 함께 재판매 로열티 이니셔티브 개시",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Louisville’s Speed Art Museum Names New Director",
+        "title": "루이빌 스피드 미술관, 신임 관장 지명",
         "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition af…",
+        "title": "암스테르담의 스테델릭 박물관 (Stedelijk Museum) 이 지난달 사망한 후 주요 야요이 쿠사마 (Yayoi Kusa…",
         "why": "10개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "titleKo": "Swizz Beatz와 Alicia Keys, Bonhams와 함께 재판매 로열티 이니셔티브 개시",
+      "summaryKo": "자발적 프로그램을 통해 위탁자는 해머 가격의 일부를 예술가에게 기부할 수 있으며, Bonhams는",
       "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Louisville’s Speed Art Museum Names New Director",
-      "titleKo": "Louisville’s Speed Art Museum Names New Director",
-      "summaryKo": "Kathleen V. Jameson replaces Raphaela Platow, who stepped down last year at the end of a four-year contract.",
+      "titleKo": "루이빌 스피드 미술관, 신임 관장 지명",
+      "summaryKo": "캐슬린 V. 제임슨 (Kathleen V. Jameson) 이 라파엘라 플래토 (Raphaela Platow) 를 대신합니다. 그는 4년 계약을 끝으로 작년에 물러났습니다.",
       "url": "https://www.artnews.com/art-news/news/speed-art-museum-louisville-next-director-kathleen-v-jameson-1234797709",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month",
-      "titleKo": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month",
-      "summaryKo": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month CTPost",
+      "titleKo": "암스테르담의 스테델릭 박물관 (Stedelijk Museum) 이 지난달 사망한 후 주요 야요이 쿠사마 (Yayoi Kusama) 전시회를 연다.",
+      "summaryKo": "",
       "url": "https://www.ctpost.com/entertainment/article/amsterdam-s-stedelijk-museum-opens-a-major-22423512.php",
       "source": "CTPost",
       "sourceDomain": "ctpost.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Modernist Collection Rich in Signac Paintings Heads to Sale at Christie’s",
-      "titleKo": "Modernist Collection Rich in Signac Paintings Heads to Sale at Christie’s",
-      "summaryKo": "Paintings by Paul Signac are earmarked for high-profile sales in New York, Paris, and London.",
+      "titleKo": "크리스티스 (Christie's) 에서 판매하는 모더니스트 컬렉션 리치 인 시그낙 페인팅",
+      "summaryKo": "Paul Signac의 그림은 뉴욕, 파리, 런던에서 큰 인기를 끌고 있습니다.",
       "url": "https://www.artnews.com/art-news/news/christies-radiant-modernism-paul-signac-paintings-1234797507",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37",
-      "titleKo": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37",
-      "summaryKo": "Artist Lucien Smith, Fixture of NYC’s Downtown Scene, Dies at 37 Hyperallergic",
+      "titleKo": "예술가 루시엔 스미스 (Lucien Smith), 뉴욕 다운타운 씬 픽스쳐 (Fixture of NYC's Downtown Scene), 37",
+      "summaryKo": "",
       "url": "https://hyperallergic.com/artist-lucien-smith-fixture-of-nycs-downtown-scene-dies-at-37",
       "source": "Hyperallergic",
       "sourceDomain": "hyperallergic.com",

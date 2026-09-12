@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Louisville’s Speed Art Museum Names New Director",
+        "title": "루이빌 스피드 미술관, 신임 관장 지명",
         "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scotti…",
+        "title": "수집가 디미트리스 다스칼로풀로스, 그리스 및 스코틀랜드 박물관에 작품 51점 기증",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Review | ‘£1 a minute’: is the British Museum's Bayeux Tapestry exhib…",
+        "title": "리뷰 | ‘분당 £ 1’: 대영 박물관의 바이외 태피스트리 전시회는 그만한 가치가 있습니까?",
         "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Louisville’s Speed Art Museum Names New Director",
-      "titleKo": "Louisville’s Speed Art Museum Names New Director",
-      "summaryKo": "Louisville’s Speed Art Museum Names New Director Artforum",
+      "titleKo": "루이빌 스피드 미술관, 신임 관장 지명",
+      "summaryKo": "",
       "url": "https://www.artforum.com/news/louisville-kentucky-speed-art-museum-names-new-director-1234759028",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
-      "titleKo": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
-      "summaryKo": "The Greek entrepreneur Dimitris Daskalopoulos has donated fifty-one artworks—mostly by Greek artists—from his personal collection to four museums in Greece and Scotland as part of an ongoing philanthropic campaign to make contemporary art accessible to wider audiences. “This initiative seeks to ensu",
+      "titleKo": "수집가 디미트리스 다스칼로풀로스, 그리스 및 스코틀랜드 박물관에 작품 51점 기증",
+      "summaryKo": "그리스의 기업가인 디미트리스 다스칼로풀로스 (Dimitris Daskalopoulos) 는 개인 소장품부터 그리스와 스코틀랜드에 있는 4개의 박물관에 이르기까지, 더 많은 관객이 현대 미술을 접할 수 있도록 하기 위한 지속적인 자선 캠페인의 일환으로 그리스 예술가들의 작품 51점을 기증했습니다. \"이 이니셔티브는",
       "url": "https://www.artforum.com/news/dimitris-daskalopoulos-donates-greek-and-scottish-museums-1234759128",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "review",
       "titleOriginal": "Review | ‘£1 a minute’: is the British Museum's Bayeux Tapestry exhibition worth it?",
-      "titleKo": "Review | ‘£1 a minute’: is the British Museum's Bayeux Tapestry exhibition worth it?",
-      "summaryKo": "Our correspondent Martin Bailey visits the blockbuster show on its first day to see what the experience is really like for the paying public",
+      "titleKo": "리뷰 | ‘분당 £ 1’: 대영 박물관의 바이외 태피스트리 전시회는 그만한 가치가 있습니까?",
+      "summaryKo": "마틴 베일리 (Martin Bailey) 특파원은 첫날 블록버스터 쇼를 방문하여 유료 대중에게 어떤 경험을 선사하는지 확인합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/11/review-1-gbp-a-minute-is-the-british-museums-bayeux-tapestry-exhibition-worth-it",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "titleKo": "Swizz Beatz와 Alicia Keys, Bonhams와 함께 재판매 로열티 이니셔티브 개시",
+      "summaryKo": "자발적 프로그램을 통해 위탁자는 해머 가격의 일부를 예술가에게 기부할 수 있으며, Bonhams는",
       "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "The Breadth of Asia’s Art Market Takes Centre Stage at Frieze Seoul 2026",
-      "titleKo": "The Breadth of Asia’s Art Market Takes Centre Stage at Frieze Seoul 2026",
-      "summaryKo": "The Breadth of Asia’s Art Market Takes Centre Stage at Frieze Seoul 2026 Frieze",
+      "titleKo": "프리즈 서울 2026에서 아시아 미술 시장의 폭이 중심을 이룹니다",
+      "summaryKo": "",
       "url": "https://www.frieze.com/article/frieze-seoul-2026-asia-art-market-sales-prizes-acquisitions",
       "source": "Frieze",
       "sourceDomain": "frieze.com",

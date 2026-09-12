@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
+        "title": "프랑스 르누아르 박물관에서 도난당한 € 9m 상당의 르누아르 그림 2점",
         "why": "5개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Mar…",
+        "title": "클라이브 데이비스 (Clive Davis) 의 워홀, 호크니 페인팅 (Hockney Paintings) 은 마키 뉴욕 세일즈…",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Scul…",
+        "title": "전 케네디 센터 회장, 해체된 조엘 샤피로 조각상 구입",
         "why": "2개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
-      "titleKo": "Two Renoir paintings worth €9m stolen from Renoir Museum in France",
-      "summaryKo": "Thieves took two further works but dropped them as they fled, the mayor of Cagnes-sur-Mer says",
+      "titleKo": "프랑스 르누아르 박물관에서 도난당한 € 9m 상당의 르누아르 그림 2점",
+      "summaryKo": "카뉴 쉬르 메르 (Cagnes-sur-Mer) 시장은 도둑들이 두 가지 추가 작업을 했지만 도주하면서 떨어뜨렸다고 말합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/08/two-renoir-paintings-worth-9m-stolen-from-renoir-museum-in-south-of-france",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Marquee New York Sales",
-      "titleKo": "Clive Davis’s Warhol, Hockney Paintings Head to Christie’s During Marquee New York Sales",
-      "summaryKo": "The house valued the eight works at more than $35 million.",
+      "titleKo": "클라이브 데이비스 (Clive Davis) 의 워홀, 호크니 페인팅 (Hockney Paintings) 은 마키 뉴욕 세일즈 (Marquee New York Sales)",
+      "summaryKo": "이 집은 8개의 작품을 3500만 달러 ($) 이상으로 평가했습니다.",
       "url": "https://www.artnews.com/art-news/news/clive-davis-warhol-hockney-paintings-christies-1234797524",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Sculpture",
-      "titleKo": "Former Chairman of Kennedy Center Buys Disassembled Joel Shapiro Sculpture",
-      "summaryKo": "It is reportedly headed next to the National Gallery of Art's sculpture garden.",
+      "titleKo": "전 케네디 센터 회장, 해체된 조엘 샤피로 조각상 구입",
+      "summaryKo": "국립 미술관 조각 정원 옆에 있다고 합니다.",
       "url": "https://www.artnews.com/art-news/news/joel-shapiro-sculpture-kennedy-center-buyer-1234797472",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "The Man Who Bought The Scream: Collector Leon Black’s Reckoning Is Far from Over",
-      "titleKo": "The Man Who Bought The Scream: Collector Leon Black’s Reckoning Is Far from Over",
-      "summaryKo": "Read an excerpt from William D. Cohan’s MONEY TO BURN: The Unvarnished Truth About Leon Black, Apollo, and the Rise of a New Wall Street .",
+      "titleKo": "The Man Who Bought The Scream: Collector Leon Black의 계산은 아직 끝나지 않았습니다.",
+      "summaryKo": "William D. Cohan의 MONEY TO BURN: The Unvarnished Truth About Leon Black, Apollo, and the Rise of a New Wall Street에서 발췌한 내용을 읽어보세요.",
       "url": "https://www.artnews.com/art-news/news/leon-black-money-to-burn-excerpt-william-d-cohan-1234797473",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "titleKo": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-      "summaryKo": "Artworks stolen from Renoir Museum on French Riviera in latest heist The Guardian",
+      "titleKo": "프랑스 리비에라의 르누아르 박물관에서 최근 도난당한 예술품",
+      "summaryKo": "",
       "url": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
       "source": "The Guardian",
       "sourceDomain": "theguardian.com",
