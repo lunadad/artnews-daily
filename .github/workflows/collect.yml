@@ -1,5 +1,8 @@
 name: collect
 on:
+  # Primary trigger: the local Hermes `artnews-collect-trigger` job dispatches this
+  # workflow at 07:40 KST, because scheduled runs have been starting 1.5-7.5 hours
+  # late since 2026-08-26. The schedule stays as a fallback for when the Mac is off.
   schedule: [{ cron: '40 22 * * *' }]
   workflow_dispatch:
 permissions: { contents: write }
@@ -9,13 +12,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+      # A late scheduled run must not re-collect over the morning's (already
+      # translated) data. Check origin/main rather than the checked-out SHA, which
+      # is pinned to when the run was queued.
+      - name: skip scheduled run if today's data exists
+        id: guard
+        if: github.event_name == 'schedule'
+        run: |
+          today="$(TZ=Asia/Seoul date +%F)"
+          git fetch -q origin main
+          if git cat-file -e "origin/main:data/daily/${today}.json" 2>/dev/null; then
+            echo "data/daily/${today}.json already collected; skipping" >> "$GITHUB_STEP_SUMMARY"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.guard.outputs.skip != 'true'
+        uses: actions/setup-node@v7
         with: { node-version: 24, cache: npm }
-      - run: npm ci
-      - run: npx tsx scripts/collect.ts
+      - if: steps.guard.outputs.skip != 'true'
+        run: npm ci
+      - if: steps.guard.outputs.skip != 'true'
+        run: npx tsx scripts/collect.ts
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       - name: commit
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -26,4 +46,5 @@ jobs:
       # Runs after the push so a failure never withholds data; it only turns the
       # run red (and emails the owner) when translation or a feed silently degraded.
       - name: verify
+        if: steps.guard.outputs.skip != 'true'
         run: npx tsx scripts/verify-daily.ts

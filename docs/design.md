@@ -18,7 +18,7 @@
 
 ## 1. 가정 (사용자 미확인 — 구현 시 이 전제로 진행)
 
-1. **수집 시각은 매일 07:40 KST (22:40 UTC)** — 오전 9시 카리나 브리핑보다 앞서 대시보드가 준비되도록. GitHub Actions `schedule`은 최소 5분 간격이며 수 분~수십 분 지연될 수 있으므로 정시 보장은 하지 않는다.
+1. **수집 시각은 매일 07:40 KST (22:40 UTC)** — 오전 9시 카리나 브리핑보다 앞서 대시보드가 준비되도록. GitHub Actions `schedule`이 2026-08-26 이후 1.5~7.5시간씩 지연되어, 2026-09-13부터는 로컬 헤르메스 잡이 07:40에 `workflow_dispatch`로 실행한다. `schedule`은 예비 트리거로 남기되, 당일 `data/daily/<날짜>.json`이 `origin/main`에 이미 있으면 수집을 건너뛴다(오전 데이터 덮어쓰기 방지).
 2. **썸네일은 저장소에 바이너리로 커밋하지 않는다.** 7일 보관이라도 커밋 이력에는 영구 누적되어 1년이면 수백 MB가 된다. 대신 `/api/thumb` 프록시 라우트로 원본을 서버사이드 캐싱 중계한다(§5).
 3. **번역은 수집 후 로컬 헤르메스 잡이 채운다.** 최초에는 수집기가 무인증 `translate.googleapis.com` (client=gtx)로 번역했으나 2026-08 말부터 GitHub 러너·로컬 모두 HTTP 429로 차단됐다(2026-09-12 확인). 이제 수집기는 `DEEPL_API_KEY`가 있을 때만 DeepL로 번역하고, 없으면 영문을 그대로 저장한다. 사용자 맥의 헤르메스 `artnews-translate` 잡(`~/.hermes/scripts/artnews_translate_daily.py`, 08–23시 30분 간격)이 카리나 스크립트의 `translate_to_korean()`(Google gtx → translate.google.com → MyMemory)으로 영문 필드를 번역해 push한다. `scripts/verify-daily.ts`는 당일 미번역은 경고, **전날 파일이 여전히 미번역이면 오류**로 워크플로를 실패시킨다.
 4. **대시보드는 공개·인증 없음.** 사용자 본인 1인 사용을 전제하되 접근 제한은 두지 않는다.
@@ -582,6 +582,6 @@ Orca Run → Task 생성 → `worker-start --agent codex` → `check --wait`로 
 | 2 | 무인증 번역(Google gtx·MyMemory) 차단·한도 초과, 맥 꺼짐 | fail-soft — 원문 노출, 파이프라인 중단 없음. 헤르메스가 텔레그램 경고, 다음 날 `verify` 단계가 워크플로를 실패로 표시. 필요 시 `DEEPL_API_KEY` 등록으로 수집 시점 번역 |
 | 3 | og:image 핫링크 → 원본 사이트 대역폭 사용 | `/api/thumb`가 s-maxage 7일로 엣지 캐싱, 실제 원본 요청은 하루 수 회 수준 |
 | 4 | 원본 기사 삭제 시 이미지 404 | `<img onerror>`로 플레이스홀더 대체 |
-| 5 | GitHub Actions `schedule` 지연(수 분~1시간) | 정시 보장하지 않음을 전제. 09:00 카리나 push가 별도로 재배포를 트리거 |
+| 5 | GitHub Actions `schedule` 지연(최근 1.5~7.5시간) | 헤르메스가 07:40에 `workflow_dispatch`. 예약 실행은 예비이며 당일 데이터가 있으면 건너뜀 |
 | 6 | 헤르메스 로컬 머신이 꺼져 있으면 카리나 섹션 누락 | 섹션 조건부 렌더 — 없으면 그냥 표시 안 함. 다음 수집의 `verify` 단계가 전날 카리나 누락을 경고(annotation)로 표시 |
 | 7 | 7일 보관이라 과거 데이터 영구 소실 | 사용자 확정 요구사항. git 이력에는 남으므로 필요 시 복원 가능 |

@@ -7,7 +7,7 @@
 | 구성 요소 | 위치 | 상태 |
 |---|---|---|
 | 대시보드 (Next.js) | https://artnews-daily.vercel.app — `main` push 시 Vercel 자동 배포 | ✅ 운영 중 |
-| 해외·국내 수집 | GitHub Actions `collect.yml`, 예약 07:40 KST (22:40 UTC). 2026-08-26 이후 실제 시작은 09:10~15:20 KST로 크게 지연됨 | ✅ 운영 중 |
+| 해외·국내 수집 | GitHub Actions `collect.yml`. 헤르메스 `artnews-collect-trigger` 잡이 07:40 KST에 `workflow_dispatch`로 실행(→ `~/.hermes/scripts/artnews_trigger_collect.py`). 예약 트리거(22:40 UTC)는 맥이 꺼졌을 때의 예비이며, 당일 파일이 이미 있으면 스스로 건너뛴다 | ✅ 2026-09-13부터 |
 | 수집 결과 점검 | 같은 워크플로의 `verify` 단계 (`scripts/verify-daily.ts`) | ✅ 2026-09-12 추가 |
 | 해외 top5 번역 | 로컬 헤르메스 `artnews-translate` 잡 (08–23시 30분 간격, no_agent) → `~/.hermes/scripts/artnews_translate_daily.py` | ✅ 2026-09-12 추가 |
 | 카리나 브리핑 4건 | 로컬 헤르메스 크론 09:00 KST → `data/karina/<날짜>.json` 직접 push | ✅ 운영 중 |
@@ -25,8 +25,8 @@
 
 1. **Google News 링크 해석은 비공식 RPC**(`batchexecute?rpcids=Fbv4je`)에 의존한다. 서명 방식이 바뀌면 `resolved: false` 폴백(Google 링크 유지, 썸네일 없음)으로 떨어진다. 직접 RSS 4종(ARTnews·The Art Newspaper·Hyperallergic·Artforum)은 계속 동작한다.
 2. **번역은 무인증 서비스에 의존한다.** 2026-09-12 기준 Google gtx 두 호스트는 429, 실제 번역은 MyMemory(익명 일일 한도 있음, 카리나와 공유)가 한다. 막히면 DeepL API Free 키를 `gh secret set DEEPL_API_KEY`로 등록하면 수집 시점 번역으로 전환된다(코드 준비됨).
-3. **번역과 카리나 섹션은 사용자 맥이 켜져 있어야 채워진다.**
-4. **GitHub Actions `schedule`은 정시를 보장하지 않는다** — 최근에는 1.5~7.5시간 지연되고 있다.
+3. **07:40 정시 수집, 번역, 카리나 섹션은 모두 사용자 맥이 켜져 있어야 동작한다.** 수집만은 GitHub 예약 실행이 예비로 받친다.
+4. **GitHub Actions `schedule`은 정시를 보장하지 않는다** — 2026-08-26 이후 1.5~7.5시간 지연. 그래서 헤르메스가 07:40에 직접 dispatch한다(dispatch는 수 초 내 시작). 맥이 꺼져 있으면 지연된 예약 실행으로 대체된다.
 5. **보관은 7일**이며 그 이전 데이터는 삭제된다(사용자 확정). git 이력에는 남는다.
 
 ## 장애 대응 순서
