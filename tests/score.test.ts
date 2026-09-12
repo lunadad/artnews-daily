@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { CATEGORY_LIMITS, clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, keywordPoints, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, sourceFloorPenalty, titleTokens, type ArticleCandidate } from "@/lib/score";
+import { CATEGORY_LIMITS, MAX_STORIES_PER_DOMAIN, clusterArticles, filterCandidates, isHardExcluded, jaccardSimilarity, keywordPoints, listiclePenalty, normalizeUrl, scoreCluster, selectTopFive, sourceFloorPenalty, titleTokens, type ArticleCandidate } from "@/lib/score";
 import { classifyCategory } from "@/lib/sources";
 
 const candidate = (title: string, sourceDomain = "artnews.com", category: ArticleCandidate["category"] = "general", overrides: Partial<ArticleCandidate> = {}): ArticleCandidate => ({
@@ -120,5 +120,22 @@ describe("scoring and clustering", () => {
     ].map(([score, domain, category]) => ({ representative: candidate(String(score), String(domain), category as ArticleCandidate["category"]), articles: [], coverage: 1, score: score as number }));
     const selected = selectTopFive(clusters);
     expect(new Set(selected.map((item) => item.representative.sourceDomain)).size).toBeGreaterThanOrEqual(3);
+  });
+
+  it("caps any single publisher domain at two stories when others are available", () => {
+    const clusters = [
+      [100, "artnews.com", "market"], [99, "artnews.com", "museum"], [98, "artnews.com", "artist"], [97, "artnews.com", "fair"],
+      [90, "theartnewspaper.com", "market"], [80, "frieze.com", "general"], [70, "reuters.com", "general"],
+    ].map(([score, domain, category]) => ({ representative: candidate(String(score), String(domain), category as ArticleCandidate["category"]), articles: [], coverage: 1, score: score as number }));
+    const selected = selectTopFive(clusters);
+    expect(selected).toHaveLength(5);
+    expect(selected.filter((item) => item.representative.sourceDomain === "artnews.com")).toHaveLength(MAX_STORIES_PER_DOMAIN);
+    expect(selected.map((item) => item.score)).toContain(70);
+  });
+
+  it("still fills five slots when a single publisher is all there is", () => {
+    const clusters = [100, 99, 98, 97, 96, 95]
+      .map((score, index) => ({ representative: candidate(String(score), "artnews.com", (["market", "museum", "fair", "artist", "general", "general"] as const)[index]), articles: [], coverage: 1, score }));
+    expect(selectTopFive(clusters)).toHaveLength(5);
   });
 });

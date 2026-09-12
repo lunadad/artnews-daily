@@ -1,5 +1,23 @@
 import { describe, expect, it } from "vitest";
-import { DIRECT_FEEDS, GOOGLE_QUERIES, sourceWeight } from "@/lib/sources";
+import { DIRECT_FEEDS, GOOGLE_QUERIES, isTitleEcho, sourceWeight } from "@/lib/sources";
+
+describe("isTitleEcho", () => {
+  const title = "Louisville’s Speed Art Museum Names New Director";
+
+  it("flags Google News descriptions that only repeat the headline and publisher", () => {
+    expect(isTitleEcho("Louisville’s Speed Art Museum Names New Director Artforum", title)).toBe(true);
+    expect(isTitleEcho("Louisville s Speed Art Museum Names New Director  Artforum", title)).toBe(true);
+  });
+
+  it("treats a missing or blank summary as an echo", () => {
+    expect(isTitleEcho(undefined, title)).toBe(true);
+    expect(isTitleEcho("   ", title)).toBe(true);
+  });
+
+  it("keeps a real standfirst", () => {
+    expect(isTitleEcho("The Kentucky museum has hired a curator from the Whitney to lead it.", title)).toBe(false);
+  });
+});
 
 describe("source configuration", () => {
   it("includes every verified direct feed", () => {
