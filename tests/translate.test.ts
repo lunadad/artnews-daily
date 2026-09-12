@@ -1,58 +1,105 @@
-import { execFile } from "node:child_process";
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { clearTranslationCache, translateToKorean } from "@/lib/translate";
+import { clearTranslationCache, translateManyToKorean, translateToKorean } from "@/lib/translate";
 
-vi.mock("node:child_process", () => ({ execFile: vi.fn() }));
+const deeplResponse = (...texts: string[]) => new Response(JSON.stringify({ translations: texts.map((text) => ({ detected_source_language: "EN", text })) }));
 
-describe("translateToKorean", () => {
+describe("translateManyToKorean", () => {
   afterEach(() => {
     clearTranslationCache();
-    vi.mocked(execFile).mockReset();
+    vi.restoreAllMocks();
   });
 
-  it("retries once after a failed request and returns the translated text", async () => {
+  it("sends one batched DeepL Free request with the auth header and returns translations in input order", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요", "세계"));
+
+    const result = await translateManyToKorean(["Hello", "World"], { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 });
+
+    expect(result).toEqual(["안녕하세요", "세계"]);
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+    const [url, init] = fetchMock.mock.calls[0];
+    expect(String(url)).toBe("https://api-free.deepl.com/v2/translate");
+    expect(init.method).toBe("POST");
+    expect(new Headers(init.headers).get("authorization")).toBe("DeepL-Auth-Key key:fx");
+    expect(JSON.parse(init.body)).toMatchObject({ text: ["Hello", "World"], target_lang: "KO" });
+  });
+
+  it("uses the DeepL Pro endpoint for keys without the free-tier :fx suffix", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
+
+    await translateManyToKorean(["Hello"], { apiKey: "pro-key", fetcher: fetchMock, retryDelayMs: 0 });
+
+    expect(String(fetchMock.mock.calls[0][0])).toBe("https://api.deepl.com/v2/translate");
+  });
+
+  it("keeps empty strings empty and never sends them to DeepL", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
+
+    const result = await translateManyToKorean(["", "Hello", "  "], { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 });
+
+    expect(result).toEqual(["", "안녕하세요", ""]);
+    expect(JSON.parse(fetchMock.mock.calls[0][1].body).text).toEqual(["Hello"]);
+  });
+
+  it("serves repeated texts from the cache instead of paying for them twice", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
+
+    await translateManyToKorean(["Hello"], { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 });
+    const second = await translateManyToKorean(["Hello"], { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 });
+
+    expect(second).toEqual(["안녕하세요"]);
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+
+  it("retries once on a non-OK HTTP response", async () => {
     const fetchMock = vi.fn()
-      .mockRejectedValueOnce(new Error("network error"))
-      .mockResolvedValueOnce(new Response(JSON.stringify([[["안녕하세요", "Hello", null, null, 3]]])));
+      .mockResolvedValueOnce(new Response("Too many requests", { status: 429 }))
+      .mockResolvedValueOnce(deeplResponse("안녕하세요"));
 
-    const result = await translateToKorean("Hello", fetchMock, 0);
+    const result = await translateManyToKorean(["Hello"], { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 });
 
-    expect(result).toBe("안녕하세요");
+    expect(result).toEqual(["안녕하세요"]);
     expect(fetchMock).toHaveBeenCalledTimes(2);
   });
 
-  it("falls back to the original text after both attempts fail", async () => {
-    const fetchMock = vi.fn().mockRejectedValue(new Error("offline"));
+  it("falls back to the original text after both attempts fail, without caching the failure", async () => {
+    vi.spyOn(console, "warn").mockImplementation(() => {});
+    const failing = vi.fn().mockRejectedValue(new Error("offline"));
 
-    const result = await translateToKorean("Hello", fetchMock, 0);
+    expect(await translateManyToKorean(["Hello"], { apiKey: "key:fx", fetcher: failing, retryDelayMs: 0 })).toEqual(["Hello"]);
+    expect(failing).toHaveBeenCalledTimes(2);
 
-    expect(result).toBe("Hello");
-    expect(fetchMock).toHaveBeenCalledTimes(2);
+    const recovered = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
+    expect(await translateManyToKorean(["Hello"], { apiKey: "key:fx", fetcher: recovered, retryDelayMs: 0 })).toEqual(["안녕하세요"]);
   });
 
-  it("retries on a non-OK HTTP response, not just a thrown error", async () => {
-    const fetchMock = vi.fn()
-      .mockResolvedValueOnce(new Response("rate limited", { status: 429 }))
-      .mockResolvedValueOnce(new Response(JSON.stringify([[["안녕하세요", "Hello", null, null, 3]]])));
+  it("falls back to the original text without any request when no API key is configured", async () => {
+    const warn = vi.spyOn(console, "warn").mockImplementation(() => {});
+    const fetchMock = vi.fn();
 
-    const result = await translateToKorean("Hello", fetchMock, 0);
+    const result = await translateManyToKorean(["Hello"], { apiKey: "", fetcher: fetchMock, retryDelayMs: 0 });
 
-    expect(result).toBe("안녕하세요");
-    expect(fetchMock).toHaveBeenCalledTimes(2);
+    expect(result).toEqual(["Hello"]);
+    expect(fetchMock).not.toHaveBeenCalled();
+    expect(warn).toHaveBeenCalledWith(expect.stringContaining("DEEPL_API_KEY"));
   });
 
-  it("uses curl instead of the global fetch by default, since Node's fetch is blocked by Google's bot wall for this endpoint", async () => {
-    vi.mocked(execFile).mockImplementation((...args: unknown[]) => {
-      const callback = args[args.length - 1] as (error: Error | null, stdout: string, stderr: string) => void;
-      callback(null, JSON.stringify([[["안녕하세요", "Hello", null, null, 3]]]), "");
-      return {} as ReturnType<typeof execFile>;
-    });
-    const fetchSpy = vi.spyOn(globalThis, "fetch");
+  it("reads the API key from DEEPL_API_KEY by default", async () => {
+    vi.stubEnv("DEEPL_API_KEY", "env-key:fx");
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
 
-    const result = await translateToKorean("Hello");
+    await translateManyToKorean(["Hello"], { fetcher: fetchMock, retryDelayMs: 0 });
 
-    expect(result).toBe("안녕하세요");
-    expect(fetchSpy).not.toHaveBeenCalled();
-    expect(execFile).toHaveBeenCalledWith("curl", expect.arrayContaining(["-sS"]), expect.any(Function));
+    expect(new Headers(fetchMock.mock.calls[0][1].headers).get("authorization")).toBe("DeepL-Auth-Key env-key:fx");
+    vi.unstubAllEnvs();
+  });
+});
+
+describe("translateToKorean", () => {
+  afterEach(() => clearTranslationCache());
+
+  it("translates a single text through the same DeepL path", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(deeplResponse("안녕하세요"));
+
+    expect(await translateToKorean("Hello", { apiKey: "key:fx", fetcher: fetchMock, retryDelayMs: 0 })).toBe("안녕하세요");
   });
 });

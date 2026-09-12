@@ -44,6 +44,8 @@ export const CATEGORY_LIMITS: Readonly<Record<Category, number>> = {
   artist: 2,
   general: 2,
 };
+// No publisher may take more than two of the five slots (both briefings).
+export const MAX_STORIES_PER_DOMAIN = 2;
 
 const STOP_WORDS = new Set(["a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "in", "is", "it", "of", "on", "or", "the", "to", "with"]);
 
@@ -165,30 +167,30 @@ export function selectTopFive(clusters: ScoredCluster[]): ScoredCluster[] {
   const sorted = [...clusters].sort((a, b) => b.score - a.score);
   const selected: ScoredCluster[] = [];
   const counts = new Map<Category, number>();
-  const domains = new Set<string>();
+  const domainCounts = new Map<string, number>();
+  const domainOf = (cluster: ScoredCluster) => registrableDomain(cluster.representative.sourceDomain);
+  const categoryFull = (cluster: ScoredCluster) => (counts.get(cluster.representative.category) ?? 0) >= CATEGORY_LIMITS[cluster.representative.category];
+  const domainFull = (cluster: ScoredCluster) => (domainCounts.get(domainOf(cluster)) ?? 0) >= MAX_STORIES_PER_DOMAIN;
+  const take = (cluster: ScoredCluster) => {
+    selected.push(cluster);
+    counts.set(cluster.representative.category, (counts.get(cluster.representative.category) ?? 0) + 1);
+    domainCounts.set(domainOf(cluster), (domainCounts.get(domainOf(cluster)) ?? 0) + 1);
+  };
   // Establish publisher diversity first so one prolific feed cannot dominate the
   // entire briefing. The highest-scoring eligible story from each domain wins.
   for (const cluster of sorted) {
-    const category = cluster.representative.category;
-    const domain = registrableDomain(cluster.representative.sourceDomain);
-    if (domains.has(domain) || (counts.get(category) ?? 0) >= CATEGORY_LIMITS[category]) continue;
-    selected.push(cluster);
-    domains.add(domain);
-    counts.set(category, (counts.get(category) ?? 0) + 1);
-    if (domains.size === 3 || selected.length === 5) break;
+    if (domainCounts.has(domainOf(cluster)) || categoryFull(cluster)) continue;
+    take(cluster);
+    if (domainCounts.size === 3 || selected.length === 5) break;
   }
-  for (const cluster of sorted) {
-    if (selected.includes(cluster)) continue;
-    const category = cluster.representative.category;
-    if ((counts.get(category) ?? 0) >= CATEGORY_LIMITS[category]) continue;
-    selected.push(cluster);
-    domains.add(registrableDomain(cluster.representative.sourceDomain));
-    counts.set(category, (counts.get(category) ?? 0) + 1);
-    if (selected.length === 5) return selected.sort((a, b) => b.score - a.score);
-  }
-  for (const cluster of sorted) {
-    if (!selected.includes(cluster)) selected.push(cluster);
-    if (selected.length === 5) break;
+  // Then fill by score, relaxing the category limits before the per-publisher
+  // cap, and dropping both only when nothing else can complete the five.
+  const passes = [(cluster: ScoredCluster) => categoryFull(cluster) || domainFull(cluster), domainFull, () => false];
+  for (const blocked of passes) {
+    for (const cluster of sorted) {
+      if (selected.length === 5) break;
+      if (!selected.includes(cluster) && !blocked(cluster)) take(cluster);
+    }
   }
   return selected.sort((a, b) => b.score - a.score);
 }

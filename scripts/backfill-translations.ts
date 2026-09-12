@@ -2,11 +2,12 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT } from "../lib/data";
+import { isTitleEcho } from "../lib/sources";
 import { clearTranslationCache, translateToKorean } from "../lib/translate";
 import type { NewsItem } from "../lib/types";
 
-// Detects rows the translate.googleapis.com fallback (see lib/translate.ts)
-// silently stamped with the English original instead of a Korean translation.
+// Detects rows the translation fallback (see lib/translate.ts) stamped with the
+// English original instead of a Korean translation. Needs DEEPL_API_KEY.
 const HANGUL_PATTERN = /[가-힣]/;
 
 interface StoredInternationalItem extends Partial<NewsItem> {
@@ -24,9 +25,11 @@ interface StoredDailyData {
 async function retranslateItem(item: StoredInternationalItem): Promise<boolean> {
   if (HANGUL_PATTERN.test(item.titleKo)) return false;
   const titleKo = await translateToKorean(item.titleOriginal);
-  const summaryKo = item.summaryKo && !HANGUL_PATTERN.test(item.summaryKo)
-    ? await translateToKorean(item.summaryKo)
-    : item.summaryKo;
+  // A Google News "<headline> <publisher>" echo is not a summary; drop it
+  // instead of translating the headline a second time.
+  const summaryKo = !item.summaryKo || isTitleEcho(item.summaryKo, item.titleOriginal)
+    ? ""
+    : HANGUL_PATTERN.test(item.summaryKo) ? item.summaryKo : await translateToKorean(item.summaryKo);
   if (!HANGUL_PATTERN.test(titleKo)) return false; // still untranslated; leave the file untouched
   item.titleKo = titleKo;
   item.summaryKo = summaryKo;
@@ -60,6 +63,7 @@ async function backfillDir(dirName: "daily" | "karina", root: string): Promise<n
 }
 
 export async function backfillTranslations(root = DATA_ROOT): Promise<number> {
+  if (!process.env.DEEPL_API_KEY) throw new Error("DEEPL_API_KEY is not set; nothing can be retranslated");
   clearTranslationCache(); // an earlier run through the blocked fetch path may have cached English "translations"
   const dailyCount = await backfillDir("daily", root);
   const karinaCount = await backfillDir("karina", root);

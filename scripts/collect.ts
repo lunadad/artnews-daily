@@ -7,8 +7,8 @@ import { DATA_ROOT, pruneDataFiles } from "../lib/data";
 import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, selectDomesticTopFive, type DomesticScoredCluster } from "../lib/domestic";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
-import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
-import { translateToKorean } from "../lib/translate";
+import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, isTitleEcho, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
+import { translateManyToKorean } from "../lib/translate";
 import { DailyDataSchema, type Category, type DomesticData, type DomesticItem, type NewsItem } from "../lib/types";
 
 const USER_AGENT = "Mozilla/5.0 (compatible; ArtnewsDaily/1.0; +https://github.com/lunadad/artnews-daily)";
@@ -94,10 +94,18 @@ async function enrichRepresentative(item: ArticleCandidate): Promise<ArticleCand
     const resolution = await resolveGoogleNewsUrl(item.url);
     enriched = { ...item, url: resolution.url, resolved: resolution.resolved };
   }
-  if (enriched.image?.startsWith("https://") || !enriched.resolved) return enriched;
+  const needsImage = !enriched.image?.startsWith("https://");
+  const needsSummary = isTitleEcho(enriched.summary, enriched.title);
+  if (!enriched.resolved || (!needsImage && !needsSummary)) return enriched;
   try {
-    const image = extractImageUrl(await fetchText(enriched.url, 8_000));
-    return { ...enriched, image: image?.startsWith("https://") ? image : null };
+    const html = await fetchText(enriched.url, 8_000);
+    if (needsImage) {
+      const image = extractImageUrl(html);
+      enriched = { ...enriched, image: image?.startsWith("https://") ? image : null };
+    }
+    const description = needsSummary ? extractDescription(html) : null;
+    if (description) enriched = { ...enriched, summary: cleanText(decodeEntities(description)).slice(0, 300) };
+    return enriched;
   } catch { return enriched; }
 }
 
@@ -219,10 +227,15 @@ export async function collect(): Promise<void> {
   const top = selectTopFive(finalScored);
   if (!top.length) throw new Error("No scoreable candidates; existing data was left untouched");
 
-  // Stage 6: translation is deliberately limited to the selected five stories.
-  const top5: NewsItem[] = await Promise.all(top.map(async (cluster, index) => {
+  // Stage 6: translation is deliberately limited to the selected five stories and
+  // sent as one DeepL batch. A summary that merely echoes the headline (Google
+  // News RSS) stays empty rather than showing the title twice.
+  const summaries = top.map(({ representative: item }) => isTitleEcho(item.summary, item.title) ? "" : (item.summary ?? "").slice(0, 300));
+  const translated = await translateManyToKorean([...top.map(({ representative: item }) => item.title), ...summaries]);
+  const top5: NewsItem[] = top.map((cluster, index) => {
     const item = cluster.representative;
-    const [titleKo, summaryKo] = await Promise.all([translateToKorean(item.title), translateToKorean((item.summary ?? item.title).slice(0, 300))]);
+    const titleKo = translated[index];
+    const summaryKo = translated[top.length + index];
     return {
       id: createHash("sha1").update(normalizeUrl(item.url)).digest("hex").slice(0, 12),
       rank: index + 1,
@@ -243,7 +256,7 @@ export async function collect(): Promise<void> {
       imageWidth: null,
       imageHeight: null,
     };
-  }));
+  });
 
   // Domestic coverage is an independent Korean Google News pipeline. It reuses
   // article HTML for thumbnails, has no translation, and does not influence top5.

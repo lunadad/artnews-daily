@@ -20,10 +20,17 @@ npm i
 npm run dev
 ```
 
-새 데이터를 직접 수집하려면 다음 명령을 실행합니다.
+새 데이터를 직접 수집하려면 다음 명령을 실행합니다. 해외 기사 번역에는 DeepL API 키가 필요하며, 없으면 영문 원문이 그대로 저장됩니다. GitHub Actions에는 같은 이름의 저장소 secret으로 등록합니다.
 
 ```bash
-npx tsx scripts/collect.ts
+DEEPL_API_KEY=xxxxxxxx:fx npx tsx scripts/collect.ts
+npx tsx scripts/verify-daily.ts   # 최신 데이터 점검 — 미번역 등 문제가 있으면 exit 1
+```
+
+번역이 빠진 채 저장된 날짜는 키를 설정한 뒤 다음 명령으로 다시 번역합니다.
+
+```bash
+DEEPL_API_KEY=xxxxxxxx:fx npx tsx scripts/backfill-translations.ts
 ```
 
 보관 중인 JSON에 누락된 기사 유형을 백필하려면 다음 명령을 실행합니다. 이미 분류된 파일은 다시 쓰지 않습니다.

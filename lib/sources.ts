@@ -242,3 +242,12 @@ export function extractDescription(html: string): string | null {
   return metaContent(html, "property", "og:description")
     ?? metaContent(html, "name", "description");
 }
+
+const letterDigitKey = (text: string) => text.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "");
+
+// Google News RSS descriptions are just "<headline> <publisher>", and entity
+// stripping mangles apostrophes, so compare letters and digits only.
+export function isTitleEcho(summary: string | undefined, title: string): boolean {
+  const key = letterDigitKey(summary ?? "");
+  return !key || key.startsWith(letterDigitKey(title));
+}
