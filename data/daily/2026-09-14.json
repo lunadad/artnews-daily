@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T07:41:07.527+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scotti…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Rare artworks valued at over $60 million to be auctioned at Christie’s",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 82,
+        "category": "museum",
+        "articleType": "news",
+        "title": "봄·가을에만 열리던 간송미술관, 네이버 ‘VR 투어’로 상시 관람",
+        "summary": "매년 봄과 가을 정기 전시 때만 볼 수 있었던 간송미술관 소장품을 네이버 가상현실(VR) 기술로 365일 관람할 수 있게 됐다. 네이버랩스와 간송미술문화재단은 간송미술관의 전시 공간과 주요 소장품을 언제 어디서나 가상현실로 관람할 수 있는 ‘ VR투어 ’ 서비스를 제공",
+        "url": "https://www.hani.co.kr/arti/economy/it/1277340.html",
+        "source": "한겨레",
+        "publishedAt": "2026-09-11T01:55:00.000Z",
+        "coverage": 22,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/621/357/imgdb/original/2026/0911/20260911501098.webp"
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "category": "market",
+        "articleType": "news",
+        "title": "‘환율·세금·빠진 거품’ 3대 호재에 얼어붙었던 미술시장, 돈 들어온다 - 조선비즈",
+        "summary": "환율·세금·빠진 거품 3대 호재에 얼어붙었던 미술시장, 돈 들어온다 한국 미술품 시장 작년 6% 성장 세계 자산가 40% 그림 더 살 것",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/09/14/GVQWMMBUGAYTQN3DGQ3WMM3FMY?outputType=amp",
+        "source": "Chosunbiz",
+        "publishedAt": "2026-09-13T15:32:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://biz.chosun.com/resizer/v2/MU4DSZLFMYZTGYZTMI4GMOJYMY.jpg?auth=615de03aabeb71cb43ab061d53bb645ba5d63cd490125d253bd34d503ccdde4f&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "category": "market",
+        "articleType": "news",
+        "title": "걸작은 세 번 태어난다...작업실에서, 미술시장에서, 컬렉터 손끝에서[BOOk]",
+        "summary": "세상에 순수한 미술은 없다 이지윤 지음 쌤앤파커스 우리는 흔히 미술관의 고요한 침묵 속에서 예술의 ‘순수함’을 음미한다. 고결한 천재 작가가 남긴 불멸의 유산이라는 환상은 미술을 바라보는 익숙한 문법이기도 하다. 하지만 21세기 미술계의 최전선에서 20년째 활동하며 국립현대미술관 서울관 총괄을 지낸 이지윤 아트 디렉터의 시선은 다르다. 그의 신간 『세상에 순수한 미술은 없다』는 미술을 심미적 감상의 영역에서 끌어내 자본과 권력, 시장경제가 작동하는 생태계 속에 놓는다.",
+        "url": "https://www.joongang.co.kr/article/25461076",
+        "source": "중앙일보",
+        "publishedAt": "2026-09-11T05:00:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202609/11/7bd80807-bb84-4de3-8baa-a310c7d35fd9.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "market",
+        "articleType": "news",
+        "title": "김홍도 ‘불교 회화’ 일본서 돌아와 경매…‘약탈 원흉’ 소네 통감 소장 추정",
+        "summary": "일제는 1905년 대한제국 외교권을 빼앗은 을사늑약을 체결하고 이듬해인 1906년부터 1910년 한일병합 직전까지 대한제국을 보호국으로 침탈하기 위해 무단 통치 기구를 만들었다. 조선총독부 전신인 한국통감부다. 초대 통감이 바로 안중근(1879~1910) 의사에 의해",
+        "url": "https://www.hani.co.kr/arti/culture/culture_general/1277328.html",
+        "source": "한겨레",
+        "publishedAt": "2026-09-11T02:06:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/970/1074/imgdb/original/2026/0911/20260911500962.webp"
+      },
+      {
+        "rank": 5,
+        "score": 58,
+        "category": "museum",
+        "articleType": "news",
+        "title": "佛 골목길 현대미술관, 韓 ‘힙골목’을 찾다",
+        "summary": "“평범한 골목길에 숨겨진 현대미술의 가장 비밀스럽고도 중요한 거점.” 프랑스 동부도시 디종에 있는 현대미술관 ‘콩소르시옴 뮤지엄’을 현지에서 소개한 말이다. 1977년 설립돼 창립 50주년을 앞둔 미술관이 글로벌 프로젝트의 첫 장을 한국에서 열었다. 콩소르시옴 뮤지엄…",
+        "url": "https://www.donga.com/news/Culture/article/all/20260914/134659947/2",
+        "source": "동아일보",
+        "publishedAt": "2026-09-13T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/14/134658695.5.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "7d69d669e7a2",
+      "rank": 1,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "30d410421060",
+      "rank": 2,
+      "score": 76,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
+      "titleKo": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
+      "summaryKo": "The Greek entrepreneur Dimitris Daskalopoulos has donated fifty-one artworks—mostly by Greek artists—from his personal collection to four museums in Greece and Scotland as part of an ongoing philanthropic campaign to make contemporary art accessible to wider audiences. “This initiative seeks to ensu",
+      "url": "https://www.artforum.com/news/dimitris-daskalopoulos-donates-greek-and-scottish-museums-1234759128",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-11T20:11:25.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-147144855.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b847d7c71cee",
+      "rank": 3,
+      "score": 66,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare artworks valued at over $60 million to be auctioned at Christie’s",
+      "titleKo": "Rare artworks valued at over $60 million to be auctioned at Christie’s",
+      "summaryKo": "London – Christie's auction house is preparing to offer a collection of modern and contemporary artworks, with an estimated total value of",
+      "url": "https://www.voiceofemirates.com/en/lifestyle/2026/09/13/rare-artworks-valued-at-over-60-million-to-be-auctioned-at-christies",
+      "source": "صوت الإمارات",
+      "sourceDomain": "voiceofemirates.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-12T23:40:35.000Z",
+      "coverage": 1,
+      "image": "https://www.voiceofemirates.com/wp-content/uploads/2026/09/%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%86%D9%8A%D8%A9-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-60-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D9%85%D8%B2%D8%A7%D8%AF-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D8%A8%D8%AF%D8%A7%D8%B1-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%B2-scaled.webp",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "88c12c2add80",
+      "rank": 4,
+      "score": 59,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "How Janine Antoni Simultaneously Disturbs and Delights",
+      "titleKo": "How Janine Antoni Simultaneously Disturbs and Delights",
+      "summaryKo": "The Bahamian-American sculptor is preparing for a retrospective at the Museum of Contemporary Art Chicago.",
+      "url": "https://www.artnews.com/art-in-america/features/janine-antoni-bahamian-american-icons-sculptor-lick-lather-1234797619",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-13T09:00:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/019_260715_Janine-Antoni-Art-in-America-Icons.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "0b879fb51580",
+      "rank": 5,
+      "score": 58,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Trump Demands ‘Strange Modernist’ Sculpture Be Replaced by George Washington Statue",
+      "titleKo": "Trump Demands ‘Strange Modernist’ Sculpture Be Replaced by George Washington Statue",
+      "summaryKo": "The sculpture, which stands outside a Smithsonian museum, was the first work of modern art commissioned for the National Mall by the federal government.",
+      "url": "https://www.artnews.com/art-news/news/trump-demands-sculpture-replaced-george-washington-1234798088",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-13T12:43:51.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-590678577.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
