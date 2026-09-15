@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T07:40:45.899+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Cur…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Stolen Eastman Johnson Paintings Recovered",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 0,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 81,
+        "category": "general",
+        "articleType": "news",
+        "title": "[게시판] 하나은행, 제34회 자연사랑 어린이 미술대회 시상식",
+        "summary": "지난 12일 열린 '제3...",
+        "url": "https://stock.mk.co.kr/news/view/1158520",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-09-14T01:19:59.000Z",
+        "coverage": 27,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://stock.mk.co.kr/photos/20260914/AKR20260914054500002_01_i_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 78,
+        "category": "general",
+        "articleType": "news",
+        "title": "금천 미술공간 잇는다…‘2026 금천미술벨트’ 17일 개막",
+        "summary": "금천문화재단은 17일부터 19일까지 구 일대에서 ‘2026 금천미술벨트: 공동의 지형, 이어진 시간’을 열었다. 공공·민간 6개 기관이 협력해 7개 연계 전시, 오픈스튜디오, 공공미술, 영상 상영, 아트 투어버스 등을 운영하고, 45팀의 예술가·단체가 참여했다.",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260915500292",
+        "source": "서울Pn",
+        "publishedAt": "2026-09-15T14:18:06.000Z",
+        "coverage": 11,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://imggo.seoul.co.kr/img/go_share.png"
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "category": "market",
+        "articleType": "news",
+        "title": "바나나로 미술시장 흔든 카텔란…이번엔 신용카드에 도발",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWVRVODluYXIzRGlFa2xrM3AxTlluZXNfbWhsaDlIWGJ2NVJuenhHUWhaVURLdVdzc2JObG5Fa3B6Nk1hZmk5d1VGZlFmRFBrZ0Q0RVFKcTRmU2dXejMtNDhjWHdOUUpGRy05d0YycW9xWmRhRzAtR9IBeEFVX3lxTFBnWVRVODluYXIzRGlFa2xrM3AxTlluZXNfbWhsaDlIWGJ2NVJuenhHUWhaVURLdVdzc2JObG5Fa3B6Nk1hZmk5d1VGZlFmRFBrZ0Q0RVFKcTRmU2dXejMtNDhjWHdOUUpGRy05d0YycW9xWmRhRzAtRw?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-15T09:09:53.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 62,
+        "category": "market",
+        "articleType": "news",
+        "title": "‘환율·세금·빠진 거품’ 3대 호재에 얼어붙었던 미술시장, 돈 들어온다",
+        "summary": "미술 시장이 환율 하락과 세제 혜택, 작품 가격 조정을 발판 삼아 3년 만에 반등하고 있습니다. 고액 자산가들 사이에서 주식·부동산과 다른 수익 구조를 가진 향유형 대체 자산으로 미술품 비중이 높아지고 있으며, 글로벌 시장의 성장과 함께 자산 배분 대상으로서의 매력이 커지고 있습니다.",
+        "url": "https://www.chosun.com/economy/money/2026/09/14/CDEWKE2IIBFY5PKAFZLJR3NZVA",
+        "source": "조선일보",
+        "publishedAt": "2026-09-13T15:37:01.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/GM4WCMZUGQ2TCZTCGBTDSOJVMM.jpg?auth=74821b0ba15ab5a40efc4b43a6fe747ee0951f01681bb0c32c67f79589656a59&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 5,
+        "score": 60,
+        "category": "artist",
+        "articleType": "news",
+        "title": "세계적 건축가 마리오 보타·박은선 작가 신안군 홍보대사 위촉",
+        "summary": "전남광주통합특별시 신안군은 세계적 권위의 건축가 마리오 보타(Mario Botta)와 국제적 명성의 조각가 박은선 작가를 신안군 홍보대사로 위촉했다고 14일 밝혔 …",
+        "url": "https://www.news1.kr/amp/local/gwangju-jeonnam/6289871",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-14T06:21:25.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/14/8104854/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "027be17f4bd7",
+      "rank": 1,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Curate a Sotheby’s Contemporary Art Sale with Lifestyle Mogul Jordyn Woods",
+      "titleKo": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Curate a Sotheby’s Contemporary Art Sale with Lifestyle Mogul Jordyn Woods",
+      "summaryKo": "The sale features all-stars like George Condo, Helen Frankenthaler, and Roy Lichtenstein.",
+      "url": "https://www.artnews.com/art-news/market/nba-knicks-karl-anthony-towns-jordyn-woods-sothebys-1234798353",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-15T17:28:32.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Roy-Lichtenstein-Green-Head-1979.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "04e7bd66e67f",
+      "rank": 2,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Stolen Eastman Johnson Paintings Recovered",
+      "titleKo": "Stolen Eastman Johnson Paintings Recovered",
+      "summaryKo": "A pair of oil paintings by Eastman Johnson stolen from separate New York City galleries in 1978 have been recovered, thanks to an eagle-eyed art dealer. The Long Island-based dealer Brandon Levine spotted the works in a private estate collection and contacted Sandra Germain of the Connecticut-based",
+      "url": "https://www.artforum.com/news/two-stolen-eastman-johnson-paintings-recovered-200k-1234759162",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-14T15:41:32.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Mary-Lamb.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7d69d669e7a2",
+      "rank": 3,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "2fd10648e133",
+      "rank": 4,
+      "score": 79,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Bob Mackie, legendary fashion designer, dies at 87",
+      "titleKo": "Bob Mackie, legendary fashion designer, dies at 87",
+      "summaryKo": "Bob Mackie, the fashion designer known for creating iconic looks for celebrities including Cher, Madonna and Marilyn Monroe, died Monday. He was 87.",
+      "url": "https://www.fox5atlanta.com/news/bob-mackie-legendary-fashion-designer-dies-87",
+      "source": "FOX 5 Atlanta",
+      "sourceDomain": "fox5atlanta.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-14T20:51:27.000Z",
+      "coverage": 6,
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/bob-mackie-getty-scaled.jpg?ve=1&tl=1",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "827f2f1f07f1",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Pem Lham Wins $30k Rubin Museum Himalayan Art Prize",
+      "titleKo": "Pem Lham Wins $30k Rubin Museum Himalayan Art Prize",
+      "summaryKo": "The Rubin Museum of Himalayan Art has named Bhutanese mixed-media artist Pem Lham the winner of the 2026 Rubin Museum Himalayan Art Prize. The honor is presented annually to a contemporary artist from the Himalayan region. It is attended by a $30,000 cash award, making it the largest prize of its ki",
+      "url": "https://www.artforum.com/news/pem-lham-wins-2026-rubin-museum-himalayan-art-prize-1234759210",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-15T19:25:50.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Image-1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
