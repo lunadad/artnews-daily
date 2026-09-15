@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Cur…",
+        "title": "닉스 챔피언십, NBA 올스타 칼 앤서니 타운에서 라이프스타일 모굴과 함께하는 소더비 컨템포러리 아트 세일 큐레이팅",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Stolen Eastman Johnson Paintings Recovered",
+        "title": "도난당한 이스트먼 존슨 그림 복구됨",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "title": "Swizz Beatz와 Alicia Keys, Bonhams와 함께 재판매 로열티 이니셔티브 개시",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Curate a Sotheby’s Contemporary Art Sale with Lifestyle Mogul Jordyn Woods",
-      "titleKo": "Fresh off Knicks Championship, NBA All-Star Karl-Anthony Towns to Curate a Sotheby’s Contemporary Art Sale with Lifestyle Mogul Jordyn Woods",
-      "summaryKo": "The sale features all-stars like George Condo, Helen Frankenthaler, and Roy Lichtenstein.",
+      "titleKo": "닉스 챔피언십, NBA 올스타 칼 앤서니 타운에서 라이프스타일 모굴과 함께하는 소더비 컨템포러리 아트 세일 큐레이팅",
+      "summaryKo": "이 세일에는 조지 콘도, 헬렌 프랑켄탈러, 로이 리히텐슈타인 같은 스타들이 참여합니다.",
       "url": "https://www.artnews.com/art-news/market/nba-knicks-karl-anthony-towns-jordyn-woods-sothebys-1234798353",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Stolen Eastman Johnson Paintings Recovered",
-      "titleKo": "Stolen Eastman Johnson Paintings Recovered",
-      "summaryKo": "A pair of oil paintings by Eastman Johnson stolen from separate New York City galleries in 1978 have been recovered, thanks to an eagle-eyed art dealer. The Long Island-based dealer Brandon Levine spotted the works in a private estate collection and contacted Sandra Germain of the Connecticut-based",
+      "titleKo": "도난당한 이스트먼 존슨 그림 복구됨",
+      "summaryKo": "1978년 뉴욕의 다른 갤러리에서 도난당한 이스트먼 존슨 (Eastman Johnson) 의 한 쌍의 유화가 독수리 눈의 미술품 판매상 덕분에 회수되었습니다. 롱아일랜드에 기반을 둔 딜러 Brandon Levine은 사유지 컬렉션의 작품을 발견하고 코네티컷에 기반을 둔 Sandra Germain에게 연락했습니다.",
       "url": "https://www.artforum.com/news/two-stolen-eastman-johnson-paintings-recovered-200k-1234759162",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
-      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "titleKo": "Swizz Beatz와 Alicia Keys, Bonhams와 함께 재판매 로열티 이니셔티브 개시",
+      "summaryKo": "자발적 프로그램을 통해 위탁자는 해머 가격의 일부를 예술가에게 기부할 수 있으며, Bonhams는",
       "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Bob Mackie, legendary fashion designer, dies at 87",
-      "titleKo": "Bob Mackie, legendary fashion designer, dies at 87",
-      "summaryKo": "Bob Mackie, the fashion designer known for creating iconic looks for celebrities including Cher, Madonna and Marilyn Monroe, died Monday. He was 87.",
+      "titleKo": "전설적인 패션 디자이너 밥 매키 (Bob Mackie) 가 87세의 나이로 세상을 떠납니다.",
+      "summaryKo": "셰어 (Cher), 마돈나 (Madonna), 마릴린 먼로 (Marilyn Monroe) 등 유명 인사의 상징적인 룩을 연출한 패션 디자이너 밥 매키 (Bob Mackie) 가 월요일 사망했습니다. 87세였다.",
       "url": "https://www.fox5atlanta.com/news/bob-mackie-legendary-fashion-designer-dies-87",
       "source": "FOX 5 Atlanta",
       "sourceDomain": "fox5atlanta.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Pem Lham Wins $30k Rubin Museum Himalayan Art Prize",
-      "titleKo": "Pem Lham Wins $30k Rubin Museum Himalayan Art Prize",
-      "summaryKo": "The Rubin Museum of Himalayan Art has named Bhutanese mixed-media artist Pem Lham the winner of the 2026 Rubin Museum Himalayan Art Prize. The honor is presented annually to a contemporary artist from the Himalayan region. It is attended by a $30,000 cash award, making it the largest prize of its ki",
+      "titleKo": "펨 람, $ 30k 루빈 박물관 히말라야 예술상 수상",
+      "summaryKo": "루빈 히말라야 미술관 (Rubin Museum of Himalayan Art) 은 부탄의 혼합 미디어 예술가 펨 람 (Pem Lham) 을 2026년 루빈 미술관 히말라야 미술상 수상자로 선정했습니다. 이 영예는 매년 히말라야 지역의 현대 예술가에게 수여됩니다. $ 30,000의 상금이 수여되므로 상금 중 가장 큰 상금입니다.",
       "url": "https://www.artforum.com/news/pem-lham-wins-2026-rubin-museum-himalayan-art-prize-1234759210",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
