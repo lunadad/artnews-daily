@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T07:40:34.357+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+        "why": "7개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "Monet ‘Iris’ Painting—Last of its Kind in Private Hands—Could Break F…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Monet’s ‘Iris’ could break record for most expensive painting ever so…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 74,
+        "category": "market",
+        "articleType": "news",
+        "title": "DDP서 디자인 작품 50점 팔렸다…서울 '컬렉터블 디자인 시장' 뜬다",
+        "summary": "DDP서 디자인 작품 50점 팔렸다…서울 '컬렉터블 디자인 시장' 뜬다, 7일간 1만2000명 방문 해외 갤러리 작품 완판도 내년에도 DDP서 개최",
+        "url": "https://www.hankyung.com/article/202609171811i",
+        "source": "한국경제",
+        "publishedAt": "2026-09-17T07:38:35.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/01.45728441.1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 66,
+        "category": "general",
+        "articleType": "news",
+        "title": "서울 서남권 미술 활성화 위해 뭉쳤다…6개 기관 ‘금천미술벨트’ 협약",
+        "summary": "서울 서남권의 시각예술 활성화를 위해 공공과 민간기관 6곳이 손을 맞잡았다. 서울문화재단은 금천구·금천문화재단·서울시립 서서울미술관·아트센터예술의시간·범일운수종점Tiger1과 14일 금천뮤지컬센터 금천예술극장에서 ‘2026 금천미술벨트’의 성공적인 추진과 지속적인 협력",
+        "url": "https://www.sedaily.com/article/20090984",
+        "source": "서울경제",
+        "publishedAt": "2026-09-15T01:11:47.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/15/news-p.v1.20260915.764f1719334746dca62d70fd46645640_Z1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 60,
+        "category": "market",
+        "articleType": "news",
+        "title": "바나나로 미술시장 흔든 카텔란…이번엔 신용카드에 도발",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWVRVODluYXIzRGlFa2xrM3AxTlluZXNfbWhsaDlIWGJ2NVJuenhHUWhaVURLdVdzc2JObG5Fa3B6Nk1hZmk5d1VGZlFmRFBrZ0Q0RVFKcTRmU2dXejMtNDhjWHdOUUpGRy05d0YycW9xWmRhRzAtR9IBeEFVX3lxTFBnWVRVODluYXIzRGlFa2xrM3AxTlluZXNfbWhsaDlIWGJ2NVJuenhHUWhaVURLdVdzc2JObG5Fa3B6Nk1hZmk5d1VGZlFmRFBrZ0Q0RVFKcTRmU2dXejMtNDhjWHdOUUpGRy05d0YycW9xWmRhRzAtRw?oc=5",
+        "source": "newsis.com",
+        "publishedAt": "2026-09-15T09:09:53.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 55,
+        "category": "general",
+        "articleType": "news",
+        "title": "'디자인마이애미 서울' 1만2000명 찾았다…작품 50여점 판매",
+        "summary": "7일간 1만1972명 방문…일부 갤러리 출품작 완판 내년에도 DDP서 개최…글로벌 디자인 거래 플랫폼 확대 서울에서 열린 글로벌 디자인 페어 '디자인마이애미 서울 2026'에 일주일간 약 1만2000명이 방문하고 작품 50여점이 판매된 것으로 나타났다.서울디자인재단은 …",
+        "url": "https://www.news1.kr/local/moi/6293497",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-17T02:15:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/17/8111123/high.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "museum",
+        "articleType": "news",
+        "title": "추석엔 서울서 국악·전통놀이·야외독서…박물관·궁 야간개장",
+        "summary": "(서울=연합뉴스) 김동규 기자 = 나흘간의 추석 연휴 서울 곳곳에서 국악과 전통놀이, 공연·전시, 야외독서 등을 즐길 수 있는 문화행사가 열린다...",
+        "url": "https://www.yna.co.kr/view/AKR20260917072800004",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-17T02:15:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917072800004_01_i_P4.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "b0107ae0c550",
+      "rank": 1,
+      "score": 110,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+      "titleKo": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+      "summaryKo": "Peter Max, whose trippy Day-Glo paintings came to symbolize the Flower Power era of the 1960s, died on September 18 in a hospital in New York at the age of eighty-eight. He had previously suffered from Alzheimer’s-related dementia. His death was confirmed by his son, Adam Max, and by Park West Galle",
+      "url": "https://www.artforum.com/news/peter-max-icon-of-psychedelic-art-dead-at-88-1234759311",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-17T21:27:10.000Z",
+      "coverage": 7,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Max-Painting-Lady-Liberty-at-The-White-House.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a262c3900adc",
+      "rank": 2,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet ‘Iris’ Painting—Last of its Kind in Private Hands—Could Break French Record at Sotheby’s Paris",
+      "titleKo": "Monet ‘Iris’ Painting—Last of its Kind in Private Hands—Could Break French Record at Sotheby’s Paris",
+      "summaryKo": "In October, Sotheby’s Paris is auctioning a rare trove of Impressionist and Modern art from the secretive Jeanne Schlumberger collection, estimated to be worth over $45 million.",
+      "url": "https://www.artnews.com/art-news/market/monet-iris-painting-could-break-record-sothebys-paris-1234798668",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-17T14:00:37.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Jeanne-Schlumberger-et-Katia-Granoff-Anonymous-photographe.-Courtesy-of-the-Schlumberger-Family-Archives.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "507ca54493ef",
+      "rank": 3,
+      "score": 95,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "titleKo": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "summaryKo": "Estimated between €22m-€30m, it leads a 28-lot sale at Sotheby’s Paris of the collection of Jeanne Schlumberger",
+      "url": "https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-17T09:19:28.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/151cbaf285ad8948900f43a5bf4463f0d2963209-3171x2066.jpg?rect=0,82,3171,1903&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c4ff7c4e5581",
+      "rank": 4,
+      "score": 86,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Islamic Arts Biennale Announces Curatorial Team for 2027",
+      "titleKo": "Islamic Arts Biennale Announces Curatorial Team for 2027",
+      "summaryKo": "The Diriyah Biennale Foundation has named the curators who will lead the third edition of the Islamic Arts Biennale, slated to open on November 1, 2027",
+      "url": "https://www.artforum.com/news/islamic-arts-biennale-announces-curatorial-team-2027-1234759319",
+      "source": "artforum.com",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-17T16:11:53.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/05/14-Larios-04-Diriyah-Contemporary-Art-Biennale-2026-Photo-copyright-Alessandro-Brasile-courtesy-of-the-Diriyah-Biennale-Foundation.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7d69d669e7a2",
+      "rank": 5,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
