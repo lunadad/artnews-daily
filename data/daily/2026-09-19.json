@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+        "title": "사이키델릭 예술의 아이콘 피터 맥스, 88세로 사망",
         "why": "8개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "ArtRio opens amid political uncertainty as Brazil’s art market contin…",
+        "title": "브라질 미술 시장이 지속적으로 성장함에 따라 정치적 불확실성 속에 ArtRio 개장",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Monet’s ‘Iris’ could break record for most expensive painting ever so…",
+        "title": "모네의 '아이리스', 프랑스 경매 사상 최고가 작품 기록 경신",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Peter Max, Icon of Psychedelic Art, Dies at 88",
-      "titleKo": "Peter Max, Icon of Psychedelic Art, Dies at 88",
-      "summaryKo": "whose trippy Day-Glo paintings came to symbolize the Flower Power era of the 1960s, died on September 18 in New York at the age of eighty-eight.",
+      "titleKo": "사이키델릭 예술의 아이콘 피터 맥스, 88세로 사망",
+      "summaryKo": "1960년대 플라워 파워 시대를 상징하게 된 그의 삼중적인 Day-Glo 그림은 9월 18일 뉴욕에서 88세의 나이로 사망했습니다.",
       "url": "https://www.artforum.com/news/peter-max-icon-of-psychedelic-art-dead-at-88-1234759311",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "ArtRio opens amid political uncertainty as Brazil’s art market continues to grow",
-      "titleKo": "ArtRio opens amid political uncertainty as Brazil’s art market continues to grow",
-      "summaryKo": "The Rio fair brings together 76 galleries as an upcoming presidential election and a new generation of collectors shape the market",
+      "titleKo": "브라질 미술 시장이 지속적으로 성장함에 따라 정치적 불확실성 속에 ArtRio 개장",
+      "summaryKo": "리우 박람회에는 다가오는 대통령 선거를 맞아 76개의 갤러리가 모이고 새로운 세대의 수집가들이 시장을 형성합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/18/artrio-fair-rio-de-janeiro-growing-market-presidential-election",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
-      "titleKo": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
-      "summaryKo": "Estimated between €22m-€30m, it leads a 28-lot sale at Sotheby’s Paris of the collection of Jeanne Schlumberger",
+      "titleKo": "모네의 '아이리스', 프랑스 경매 사상 최고가 작품 기록 경신",
+      "summaryKo": "2,200만~3,000만 유로로 추산되며 파리 소더비에서 Jeanne Schlumberger 컬렉션 28개 판매를 주도합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Islamic Arts Biennale Announces Curatorial Team for 2027",
-      "titleKo": "Islamic Arts Biennale Announces Curatorial Team for 2027",
-      "summaryKo": "The Diriyah Biennale Foundation has named the curators who will lead the third edition of the Islamic Arts Biennale, slated to open on November 1, 2027",
+      "titleKo": "이슬람 예술 비엔날레, 2027년 큐레이터 팀 발표",
+      "summaryKo": "디리야 비엔날레 재단은 2027년 11월 1일 개막 예정인 제3회 이슬람 예술 비엔날레를 이끌 큐레이터를 선정했습니다.",
       "url": "https://www.artforum.com/news/islamic-arts-biennale-announces-curatorial-team-2027-1234759319",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,7 +200,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Long-Hidden Monet Heads to Auction With Record Estimate",
-      "titleKo": "Long-Hidden Monet Heads to Auction With Record Estimate",
+      "titleKo": "오랫동안 숨겨져 있던 모네가 기록적인 견적으로 경매에 나섰습니다.",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/schlumberger-monet-sothebys-auction-2812462",
       "source": "news.artnet.com",
