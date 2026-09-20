@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T07:40:50.105+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Islamic Arts Biennale Announces Curatorial Team for 2027",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bon…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Monet’s ‘Iris’ could break record for most expensive painting ever so…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 97,
+        "category": "market",
+        "articleType": "news",
+        "title": "경매 나온 서울신문 삽화 컬렉션…박수근·장욱진 등 거장들의 매력",
+        "summary": "케이옥션이 1956~1959년 서울신문에 실린 박수근, 장욱진, 김기창, 박래현 등 61명 거장의 삽화 207점을 모은 화첩을 9월 경매에 내놨다. 추정가는 2억6000만~4억원이며, 제작 연도가 뚜렷한 작품이 많아 사료 가치도 높다고 했다.",
+        "url": "https://www.seoul.co.kr/news/life/exhibition/2026/09/21/20260921023001",
+        "source": "서울신문",
+        "publishedAt": "2026-09-20T11:43:04.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/09/20/SSC_20260920204303_O2.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 91,
+        "category": "museum",
+        "articleType": "news",
+        "title": "제네시스, 뉴욕 메트로폴리탄 미술관서 리우 웨이 신작 공개",
+        "summary": "제네시스와 미국 뉴욕 메트로폴리탄 미술관의 파트너십 전시인 ‘더 제네시스 파사드 커미션: 리우 웨이, Speculation’ 전이 17일(현지 시간) 개막했다. 제네시스는 2024년부터 ‘더 제네시스 파사드 커미션’을 통해 매해 새로운 작가를 선정해 미술관의 상징적인",
+        "url": "https://www.sedaily.com/article/20092688",
+        "source": "서울경제",
+        "publishedAt": "2026-09-18T06:07:25.000Z",
+        "coverage": 32,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/18/news-p.v1.20260918.9d3f1c1e6c6943429b69104ff846d219_Z1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 72,
+        "category": "market",
+        "articleType": "news",
+        "title": "미술 거장 61명 희귀 화첩 경매",
+        "summary": "장욱진·천경자·박서보·김기창 등K옥션 삽화 207점 화첩 30일 경매",
+        "url": "https://www.mk.co.kr/news/culture/12157468",
+        "source": "매일경제",
+        "publishedAt": "2026-09-20T07:22:39.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202609/21/20260921_01110128000002_M00.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "market",
+        "articleType": "news",
+        "title": "[해외 미술시장 칼럼] 필립스 옥션이 호크니 에디션을 주목하는 이유",
+        "summary": "데이비드 호크니의 이름은 이미 현대미술 시장에서 하나의 브랜드가 되었다. 그러나 이번 필립스 옥션의 호크니 에디션 경매가 흥미로운 이유는 단순히 유명 작가의 작품이 경매에 나온다는 데 있지 않다. 원화 중심의 고가 시장과 달리, 에디션 작품은 현대미술 컬렉팅의 진입 방식과 시장의 확장",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104586",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-18T05:39:08.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104586_334273_382_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 54,
+        "category": "museum",
+        "articleType": "pr",
+        "title": "“손끝으로 보는 전시회”…볼보코리아 ‘나란히 보는 미술관’, 국제상 수상",
+        "summary": "볼보자동차코리아는 자사가 후원하고 푸르메재단과 서울시립미술관이 함께 운영하는 문화 접근성 프로그램 ‘나란히 보는 미술관’이 국제미술관위원회(CIMAM)의 ‘2026 최우수 실천상’을 수상했다고 18일 밝혔다. 국내 미술관의 CIMAM 최우수 실천상 수상은 이번이 처음이다. ‘나란히 보는 미술관’은 시각장애인과 비장애인이 서로 다른 감각을 활용해 함께 전시를",
+        "url": "https://www.mk.co.kr/news/business/12156200",
+        "source": "매일경제",
+        "publishedAt": "2026-09-18T01:04:42.000Z",
+        "coverage": 26,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202609/18/news-p.v1.20260918.ffd9cc2f4502417abe657bdec4e2073c_R.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "c4ff7c4e5581",
+      "rank": 1,
+      "score": 113,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Islamic Arts Biennale Announces Curatorial Team for 2027",
+      "titleKo": "Islamic Arts Biennale Announces Curatorial Team for 2027",
+      "summaryKo": "The Diriyah Biennale Foundation has named the four curators who will lead the third edition of the Islamic Arts Biennale, slated to open on November 1, 2027. The team will be helmed by Nada Raza, director of the Alserkal Arts Foundation; William Robinson, former head of Christie’s Islamic Art depart",
+      "url": "https://www.artforum.com/news/islamic-arts-biennale-announces-curatorial-team-2027-1234759319",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-17T16:11:53.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/05/14-Larios-04-Diriyah-Contemporary-Art-Biennale-2026-Photo-copyright-Alessandro-Brasile-courtesy-of-the-Diriyah-Biennale-Foundation.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7d69d669e7a2",
+      "rank": 2,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "titleKo": "Swizz Beatz and Alicia Keys launch resale royalty initiative with Bonhams",
+      "summaryKo": "The voluntary programme will allow consignors to contribute a portion of the hammer price to artists, which Bonhams will match",
+      "url": "https://www.theartnewspaper.com/2026/09/09/swizz-beatz-alicia-keys-bonhams-resale-royalties-artists",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d2fda0b00ce3a5bee3da40376a0e6587b70ed18b-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "507ca54493ef",
+      "rank": 3,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "titleKo": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "summaryKo": "Estimated between €22m-€30m, it leads a 28-lot sale at Sotheby’s Paris of the collection of Jeanne Schlumberger",
+      "url": "https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-17T09:17:13.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/151cbaf285ad8948900f43a5bf4463f0d2963209-3171x2066.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8923b47e9588",
+      "rank": 4,
+      "score": 62,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Visitors Arrested at Louvre After Posting Their Artworks Near Mona Lisa",
+      "titleKo": "Visitors Arrested at Louvre After Posting Their Artworks Near Mona Lisa",
+      "summaryKo": "The famed painting was not damaged, police said.",
+      "url": "https://www.artnews.com/art-news/news/arrest-louvre-museum-mona-lisa-1234798940",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-20T17:01:23.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-2286546269.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3f94c7f1a398",
+      "rank": 5,
+      "score": 50,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "New Lawsuits in Ongoing Battle Around Return of Nazi-Looted Art",
+      "titleKo": "New Lawsuits in Ongoing Battle Around Return of Nazi-Looted Art",
+      "summaryKo": "Two new lawsuits, filed in Los Angeles Superior Court on Monday, by Jewish heirs or their representatives seek the return of artwork taken by the Nazis during World War II and now held by prominent museums. The suits are prompted by two new laws, one passed by California lawmakers in 2024 and the ot",
+      "url": "https://www.artforum.com/news/new-lawsuits-in-ongoing-battle-return-of-nazi-looted-art-1234759358",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-18T16:05:59.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
