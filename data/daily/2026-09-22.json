@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T07:41:10.106+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Independent 20th Century brings blue-chip deep cuts to the Breuer",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Monet’s ‘Iris’ could break record for most expensive painting ever so…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Never-Before-Seen Sargent Portrait Doubles Estimate at Auction",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 105,
+        "category": "market",
+        "articleType": "news",
+        "title": "경매 나온 서울신문 삽화 컬렉션…박수근·장욱진 등 거장들의 매력",
+        "summary": "케이옥션이 1956~1959년 서울신문에 실린 박수근, 장욱진, 김기창, 박래현 등 61명 거장의 삽화 207점을 모은 화첩을 9월 경매에 내놨다. 추정가는 2억6000만~4억원이며, 제작 연도가 뚜렷한 작품이 많아 사료 가치도 높다고 했다.",
+        "url": "https://www.seoul.co.kr/news/life/exhibition/2026/09/21/20260921023001",
+        "source": "서울신문",
+        "publishedAt": "2026-09-20T11:43:04.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/09/20/SSC_20260920204303_O2.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "category": "museum",
+        "articleType": "news",
+        "title": "이건희 컬렉션, 英박물관서 마지막 해외전시",
+        "summary": "고 이건희 삼성 선대 회장의 기증품 국외순회전이 미국 워싱턴과 시카고를 거쳐 다음 달 영국 런던 영국박물관에서 개최된다. 국립중앙박물관과 국립현대미술관은 21일 영국박물관에서 다음 달 1일(현지 시간)부터 내년 1월 31일까지 한국(Korea): 2000년 …",
+        "url": "https://www.donga.com/news/amp/all/20260922/134714804/2",
+        "source": "동아일보",
+        "publishedAt": "2026-09-21T19:30:00.000Z",
+        "coverage": 10,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/22/134711951.4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "호암미술관서 서로 다른 주파수로 공명하는 아시아 예술",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 서로 다른 주파수에 맞춰진 라디오들이 한 방에서 동시에 울린다면 어떤 풍경이 만들어질까.",
+        "url": "https://www.yna.co.kr/view/AKR20260921052900005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-09-21T02:22:32.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img7.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921052900005_05_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "박미정 개인전 “내가 찾던 것은 무엇이었을까? 대구 보나갤러리에서 개최",
+        "summary": "대구 보나갤러리에서 오는 10월 1일부터 5일 까지 “내가 찾던 것은 무엇이었을까? 박미정 작가의 개인전이 개최 된다박미정(Mijeong Field) 작가는 ​",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5817",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-09-21T21:22:44.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202609/5817_131533_1918_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "general",
+        "articleType": "news",
+        "title": "작품 이름도 설명도 없다…성수동서 열린 현대미술 파티",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVOVpwcEkyTzRESWRvXzlkM1Jac2FlSTVNY1FpZE9YOEVzNWVyWE5zZ0RSNmphYmlMWDhtcmlmQ0VZbGo5M2kwOFlPUHo0THdLTTAyTGNqMWpUQQ?oc=5",
+        "source": "한국경제",
+        "publishedAt": "2026-09-20T08:09:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "2c085e5bdea9",
+      "rank": 1,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Independent 20th Century brings blue-chip deep cuts to the Breuer",
+      "titleKo": "Independent 20th Century brings blue-chip deep cuts to the Breuer",
+      "summaryKo": "The fair’s autumnal edition, devoted to overlooked or under-recognised bodies of work from the previous century, is taking over Sotheby’s headquarters",
+      "url": "https://www.theartnewspaper.com/2026/09/21/independent-20th-century-2026-preview-breuer-building-sothebys",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-21T19:52:51.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/c795832551a54f23bce23a94bd943ce131e86693-1921x1281.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "507ca54493ef",
+      "rank": 2,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "titleKo": "Monet’s ‘Iris’ could break record for most expensive painting ever sold at auction in France",
+      "summaryKo": "Estimated between €22m-€30m, it leads a 28-lot sale at Sotheby’s Paris of the collection of Jeanne Schlumberger",
+      "url": "https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-17T09:17:13.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/151cbaf285ad8948900f43a5bf4463f0d2963209-3171x2066.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "129a001cfe7c",
+      "rank": 3,
+      "score": 81,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Never-Before-Seen Sargent Portrait Doubles Estimate at Auction",
+      "titleKo": "Never-Before-Seen Sargent Portrait Doubles Estimate at Auction",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/sargent-portrait-drouot-2812570",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-21T17:31:04.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e96f4b319c48",
+      "rank": 4,
+      "score": 76,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Moderna Museet Appoints Cédric Fauq Curator of Contemporary International Art",
+      "titleKo": "Moderna Museet Appoints Cédric Fauq Curator of Contemporary International Art",
+      "summaryKo": "The Moderna Museet has named closely watched curator Cédric Fauq as its new curator of contemporary international art. Fauq arrives to the Stockholm institution from CAPC Musée d’Art Contemporain de Bordeaux, in France, where he is currently chief curator and head of programs and collections. “It is",
+      "url": "https://www.artforum.com/news/moderna-museet-names-cedric-fauq-curator-contemporary-art-1234759366",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-18T17:20:16.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Capc_042026_photo_Arthur_Pequin_DSF6324_UHD-2400x3483-1.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "32e4c965f4f2",
+      "rank": 5,
+      "score": 61,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Naomi Beckwith Says She's \"Not Afraid\" of Pro-Palestine Protest at Documenta 16",
+      "titleKo": "Naomi Beckwith Says She's \"Not Afraid\" of Pro-Palestine Protest at Documenta 16",
+      "summaryKo": "“People have a right to protest and express their opinions,” the curator told Die Zeit, revealing that some artists have declined to participate in the exhibition over “Germany's position on the Gaza war.”",
+      "url": "https://hyperallergic.com/naomi-beckwith-says-shes-not-afraid-of-pro-palestine-protest-at-documenta-16",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-21T18:47:07.000Z",
+      "coverage": 1,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2218445286.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
