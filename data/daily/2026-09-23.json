@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T07:40:40.474+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirate…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Christie’s will stage second anime and manga auction after debut sale…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 62,
+        "category": "general",
+        "articleType": "news",
+        "title": "이건희컬렉션, 미국 이어 영국 간다... 2000년 한국미술 한자리에",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jcm1WRmNMUHh2MnhmLUpWYjVLRC1rVHAxT3g5Q0dFLTZ5dnQ5T0poRjg2bHN4SnNnUHlPZGQ5d3oyQmVsUWJjUmZENWMyRktCV3BMVi1xQlV5R3ozUW1oU1h0TWZDUjdhczNrVWJn0gFuQVVfeXFMTWNybVZGY0xQeHYyeGYtSlZiNUtELWtUcDFPeDlDR0UtNnl2dDlPSmhGODZsc3hKc2dQeU9kZDl3ejJCZWxRYmNSZkQ1YzJGS0JXcExWLXFCVXlHejNRbWhTWHRNZkNSN2FzM2tVYmc?oc=5",
+        "source": "woman.chosun.com",
+        "publishedAt": "2026-09-22T03:17:53.000Z",
+        "coverage": 8,
+        "qualityCoverage": 2,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 62,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“1700년대 숙종의 기로연 잔칫상 재현”…한식문화공간 이음, ‘왕의 잔칫상’ 무료 전시",
+        "summary": "한식진흥원과 궁중음식문화재단은 9월 22일 서울 종로구 한식문화공간 이음 한식갤러리에서 조선왕조 궁중음식의 역사와 가치를 소개하는 협업 전시 ‘왕의 잔칫상, 오늘로 이어지다’를 개최했다. 이번 전시는 조선시대 왕실의 잔칫상을 재현해 궁중음식의 구성과 전승 과정을 조명하며, 관람객들이 전통음식의 지속 가능한 가치를 느낄 수 있도록 기획되었다. 전시는 11월 22일까지 무료로 관람할 수 있으며, 자세한 내용은 한식진흥원 공식 웹사이트와 SNS에서 확인할 수 있다.",
+        "url": "https://www.mk.co.kr/news/pick/12158995",
+        "source": "매일경제",
+        "publishedAt": "2026-09-22T01:09:38.000Z",
+        "coverage": 6,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202609/22/news-p.v1.20260922.bbdc159b11c34bfc9576cefdc8736a37_R.png"
+      },
+      {
+        "rank": 3,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[AD]현대차, '트랜스로컬 시리즈: 호 추 니엔' 전시 개막",
+        "summary": "[울산=뉴시스]현대자동차는 '현대 트랜스로컬 시리즈'의 두번째 전시인 '현대 트랜스로컬 시리즈: 호 추 니엔(Hyundai Translocal Series: Ho Tzu Nyen)' 展이 오는 24일(현지시간)부터 2027년 1월 24일까지 미국 뉴욕 뉴 뮤지엄(New Museum)에서, 10월 22일부터 2027년 2월 21일까지 울산시립미술관에서 순차적..",
+        "url": "https://www.newsis.com/view/NISX20260922_0003800960",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-22T10:23:11.000Z",
+        "coverage": 15,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/22/NISI20260922_0002247017_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "작품 이름도 설명도 없다…성수동서 열린 현대미술 파티",
+        "summary": "작품 이름도 설명도 없다…성수동서 열린 현대미술 파티, '업 어게인스트 '展 佛 콩소르시움 50주년 기념 더페이지갤러리서 내달 10일까지",
+        "url": "https://www.hankyung.com/article/2026092062331",
+        "source": "한국경제",
+        "publishedAt": "2026-09-20T08:09:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/AA.45761320.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "제주특별자치도 · (사)한국미술협회 제주특별자치도지회가 주관하는 전기숙 정은혜작가의 《날개가 한 번 펄럭일 때》 인사동 제주갤러리에서 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN29XLW9OdkxHNTZyMVR5TkJEbjhxMnhPQmJsdnppY3U1TVBqcmdWNWpVeGpUTWpUS09ZajIzUm02WkxrTFZsVDh0cU5USmQ4N2JLdXlzSWZUbEgtQnYtX09mZXdPQ0dKVFJrZVNEUDc?oc=5",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-09-22T21:43:22.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "094276c05c3c",
+      "rank": 1,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirates, as Country’s Market Grows",
+      "titleKo": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirates, as Country’s Market Grows",
+      "summaryKo": "The house’s first fine art auction in Abu Dhabi comes as Sotheby’s expands in the city, Frieze Abu Dhabi prepares to launch, and the Guggenheim nears its opening.",
+      "url": "https://www.artnews.com/art-news/market/christies-abu-dhabi-first-fine-art-auction-middle-east-1234799062",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-22T21:31:33.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Mohamed-Melehi-A30-1962.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a96ddbdbe7a7",
+      "rank": 2,
+      "score": 86,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+      "titleKo": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+      "summaryKo": "While the swooping building is impressive and easy to navigate, the collection is patchy and the displays are at times “bizarre”",
+      "url": "https://www.theartnewspaper.com/2026/09/21/lucas-museum-narrative-art-los-angeles-big-review",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-21T17:56:07.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/876995bbc69798d8868dcbc47cf9758711ba5a24-3071x2047.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "794c970db70c",
+      "rank": 3,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s will stage second anime and manga auction after debut sale outperformed expectations",
+      "titleKo": "Christie’s will stage second anime and manga auction after debut sale outperformed expectations",
+      "summaryKo": "In October, the auction house will once again tap into the US boom of Japanese popular culture with a sale centred on Dragon Ball, Pokémon, Sailor Moon and Studio Ghibli",
+      "url": "https://www.theartnewspaper.com/2026/09/22/christies-returns-with-second-anime-and-manga-sale-after-blockbuster-14m-debut",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-22T14:08:31.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8796186060012acbcbee1bc20b2d4fb83889fb56-4000x3476.jpg?rect=0,521,4000,2400&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "513dfd34130d",
+      "rank": 4,
+      "score": 80,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Tyler Mitchell Wins $250,000 Don Tyson Prize from Crystal Bridges Museum",
+      "titleKo": "Tyler Mitchell Wins $250,000 Don Tyson Prize from Crystal Bridges Museum",
+      "summaryKo": "The photographer and video artist is known for his tender, joyful images and installations of African American subjects.",
+      "url": "https://www.artnews.com/art-news/news/tyler-mitchell-wins-don-tyson-prize-crystal-bridges-museum-1234799079",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-22T20:47:32.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Tyler-Mitchell.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e5928711f21d",
+      "rank": 5,
+      "score": 78,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Herbert Lust’s Prized Collection Lands at Christie’s, Led by $30M Giacometti",
+      "titleKo": "Herbert Lust’s Prized Collection Lands at Christie’s, Led by $30M Giacometti",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/herbert-lust-christies-giacometti-2814456",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-22T13:00:01.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
