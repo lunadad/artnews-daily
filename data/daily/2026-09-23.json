@@ -16,11 +16,11 @@
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+        "title": "빅 리뷰: 루카스 내러티브 아트 박물관 ★★★½",
         "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Christie’s will stage second anime and manga auction after debut sale…",
+        "title": "데뷔 후 두 번째 애니메이션 및 만화 경매 무대에서 크리스티의 의지는 기대치를 능가했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -121,7 +121,7 @@
       "articleType": "news",
       "titleOriginal": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirates, as Country’s Market Grows",
       "titleKo": "Christie’s Heads to Abu Dhabi to Mark 20 Years in United Arab Emirates, as Country’s Market Grows",
-      "summaryKo": "The house’s first fine art auction in Abu Dhabi comes as Sotheby’s expands in the city, Frieze Abu Dhabi prepares to launch, and the Guggenheim nears its opening.",
+      "summaryKo": "아부다비에서 Sotheby 's가 확장되고, Frieze Abu Dhabi가 출시를 준비하고, Guggenheim이 개장에 가까워짐에 따라 아부다비 최초의 미술 경매가 열립니다.",
       "url": "https://www.artnews.com/art-news/market/christies-abu-dhabi-first-fine-art-auction-middle-east-1234799062",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "The Big Review: Lucas Museum of Narrative Art ★★★½",
-      "titleKo": "The Big Review: Lucas Museum of Narrative Art ★★★½",
-      "summaryKo": "While the swooping building is impressive and easy to navigate, the collection is patchy and the displays are at times “bizarre”",
+      "titleKo": "빅 리뷰: 루카스 내러티브 아트 박물관 ★★★½",
+      "summaryKo": "급습하는 건물은 인상적이고 탐색하기 쉽지만 컬렉션은 패치가 있으며 디스플레이는 때때로 \"기괴한\" 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/09/21/lucas-museum-narrative-art-los-angeles-big-review",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s will stage second anime and manga auction after debut sale outperformed expectations",
-      "titleKo": "Christie’s will stage second anime and manga auction after debut sale outperformed expectations",
-      "summaryKo": "In October, the auction house will once again tap into the US boom of Japanese popular culture with a sale centred on Dragon Ball, Pokémon, Sailor Moon and Studio Ghibli",
+      "titleKo": "데뷔 후 두 번째 애니메이션 및 만화 경매 무대에서 크리스티의 의지는 기대치를 능가했습니다.",
+      "summaryKo": "10월에 이 경매장은 드래곤볼, 포켓몬, 세일러문, 스튜디오 지브리 등을 중심으로 한 세일을 통해 일본 대중 문화의 미국 붐을 다시 한 번 일으킬 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/09/22/christies-returns-with-second-anime-and-manga-sale-after-blockbuster-14m-debut",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Tyler Mitchell Wins $250,000 Don Tyson Prize from Crystal Bridges Museum",
-      "titleKo": "Tyler Mitchell Wins $250,000 Don Tyson Prize from Crystal Bridges Museum",
-      "summaryKo": "The photographer and video artist is known for his tender, joyful images and installations of African American subjects.",
+      "titleKo": "Tyler Mitchell, Crystal Bridges Museum에서 $ 250,000 Don Tyson Prize 수상",
+      "summaryKo": "사진작가이자 비디오 아티스트인 그는 부드럽고 즐거운 이미지와 아프리카계 미국인 피사체를 설치한 것으로 유명합니다.",
       "url": "https://www.artnews.com/art-news/news/tyler-mitchell-wins-don-tyson-prize-crystal-bridges-museum-1234799079",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,7 +200,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Herbert Lust’s Prized Collection Lands at Christie’s, Led by $30M Giacometti",
-      "titleKo": "Herbert Lust’s Prized Collection Lands at Christie’s, Led by $30M Giacometti",
+      "titleKo": "$ 30M Giacometti가 이끄는 Christie 's의 Herbert Lust's Prized Collection",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/herbert-lust-christies-giacometti-2814456",
       "source": "Artnet News",
