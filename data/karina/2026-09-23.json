@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T09:00:47+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "BBC 미술품 거래 게임쇼, 갤러리가 직면한 '상품화의 위기' 폭로",
+      "titleOriginal": "BBC art dealing game show reveals 'crisis of commodification' facing galleries",
+      "summaryKo": "금전적 가치가 미학적 가치를 능가하는 시대, 미술시장의 미래는 어떻게 될까요? Steph McGovern과 함께하는 BBC 쇼 The Big Deal을 통해 아마추어 팀은 예술 ​​작품을 판매하여 수익을 올릴 수 있습니다. BBC/Stellify “돈을 벌자!” BBC TV의 새로운 현실 스타일 게임 쇼인 The Big Deal의 진행자인 Steph McGovern은 그녀의 7쌍의 초보 참가자들에게 \"성공적인 미술상\"이 되라고 권유하며 소리쳤습니다.",
+      "url": "https://www.theartnewspaper.com/2026/09/22/bbc-art-dealing-game-show-reveals-crisis-of-commodification-facing-galleries",
+      "source": "The Art Newspaper",
+      "category": "market",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/c97745585342c096814d972b2713e759f1a8f09b-2048x1536.jpg?rect=0,154,2048,1229&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+      "rank": 2,
+      "titleKo": "메리다, 유카탄 비엔날레(Bienale de Yucatán) 초회 개최",
+      "titleOriginal": "Mérida to Host First Edition of Bienale de Yucatán",
+      "summaryKo": "멕시코 최초의 대규모 국제 현대미술 비엔날레인 유카탄 비엔날레(Bienale de Yucatán)가 올 11월 유카탄 주의 주도인 메리다에서 개막할 예정이다. 예술 감독 아브라함 크루즈빌레가스(Abraham Cruzvillegas)는 언어와 모든 형태의 의사소통을 이번 초판의 초점으로 삼았습니다. \"Vocal\"이라는 제목으로 열리는 이 행사에는 76명의 아티스트가 한 자리에 모일 예정이며, 활기 넘치는 현대 미술계의 본고장인 메리다(Mérida)에서 첫 번째 비엔날레 데 유카탄(Bienale de Yucatán)이 개최됩니다.",
+      "url": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650"
+    },
+    {
+      "rank": 3,
+      "titleKo": "미술 문제: 만약 내가 본업을 가지고 있다면, 나는 진짜 예술가인가?",
+      "titleOriginal": "Art Problems: If I Have a Day Job, Am I a Real Artist?",
+      "summaryKo": "예술가로서 9시부터 5시까지 일하는 것에 대해 부끄러움을 느낀 적이 있습니까? 패디 존슨은 공감할 수 있습니다. \"저는 본업을 하고 있습니다.",
+      "url": "https://hyperallergic.com/art-problems-if-i-have-a-day-job-am-i-a-real-artist/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/When-the-gallery-says-they-don---t-work-with-artists-who-have-a-9---5-job.jpg"
+    },
+    {
+      "rank": 4,
+      "titleKo": "Met Museum Brokers가 세 작품을 나이지리아로 반환",
+      "titleOriginal": "Met Museum Brokers Return of Three Artworks to Nigeria",
+      "summaryKo": "수집가인 Ceil Pulitzer는 작품의 출처를 자세히 설명했지만 박물관은 다른 경로를 선호했습니다. 메트로폴리탄 미술관(Metropolitan Museum of Art)은 뉴욕 전시를 위해 장기 대여 계약을 통해 조각품 3점을 나이지리아로 반환하는 것을 중개했습니다. 이 작품은 이달 말 Rockefeller Wing의 아프리카 예술 갤러리에서 전시될 예정이며 추가 장학금을 받을 수 있습니다.",
+      "url": "https://hyperallergic.com/met-museum-brokers-return-of-three-artworks-to-nigeria/",
+      "source": "Hyperallergic",
+      "category": "museum",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/09/Horse-head_Yoruba-1.jpg"
+    }
+  ]
+}
