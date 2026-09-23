@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T07:41:05.428+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Art Institute of Chicago Returns Metzinger Painting to Family of Jewi…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "After a $105 M. Memorabilia Blockbuster, Christie’s Launches a Pop Cu…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "한가위 달빛처럼 달뜬 감흥…잠시 가라앉히고, 시선 돌려볼까[추석 가볼 만한 전시]",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ZW9iNVJpd2huWFFNakZiWngzZ3ZhMnlCVUxBRVl1NzJhY1ZkclhrT0ZLV0RnZnU2dHBtXzhuWnVnTHRBSTBNTy14eFFYNVVMMjIwRjZ0amZCd9IBX0FVX3lxTE1ucjdRQlhXMHpRd0pWOFRJRi1FdW93eE1WcFZ2QnNBRmhNRXdEZkFZNmJCUkZKQjh5WmtOTzNrN3R0Q2lCRnVPV04xcktVSmVOTjlxZ2xRQ2h5cFRJc1NV?oc=5",
+        "source": "경향신문",
+        "publishedAt": "2026-09-23T10:23:00.000Z",
+        "coverage": 10,
+        "qualityCoverage": 5,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "category": "market",
+        "articleType": "news",
+        "title": "민갤러리, ‘2026 공주 그림상점로’ 참여…지역 미술시장 활성화에 힘 보탠다",
+        "summary": "민갤러리가 9월 22일부터 27일까지 열리는 ‘2026 공주 그림상점로’에 참여해 다양한 작품을 선보이며 관람객과 만난다.올해 3회를 맞은 ‘공주 그림상점로’는 지역의 갤러리와 미술관을 중심으로 진행되는 지역 미술품 장터다. 시민들이 미술 작품을 보다 가까운 공간에서 감상하고 작품 소",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104646",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-23T13:23:32.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104646_334513_4715_v150.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 65,
+        "category": "museum",
+        "articleType": "news",
+        "title": "\"韓 추상미술의 힘 美 대륙에 각인\"…'하종현: 회고전' 북미 기관 첫 전시",
+        "summary": "60여 년 화업을 총망라 회고전…총 50점 한자리에 샌프란시스코 아시아 미술관 25일~2027년 1월 25일 아흔을 넘긴 한국 추상미술 대가 하종현의 손끝에서 피어난 현대미술의 진수가 북미 대륙을 찾는다.23일 국제갤러리에 따르면, 미국 샌프란시스코 아시아 미술관(Asi …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6300769",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-23T07:56:11.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/23/8124177/high.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "곽훈, 피앤씨갤러리서 ‘근작’전… ‘할라잇’ 연작 마무리하고 종이 신작 공개 - 조선비즈",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkR5UHd1TW84MGdKUGlYQkVWdk12VjJTcUIyRmJlSG5hY1dPeGpRdEJsd1RyWVdwMG12MTUxMmF5V19kdEswcTJVU0p6emtVekJxVjJMSERhY3dFaG16M19oeFJqTjlDRkQ1bXYtUzZLalZkU0tZSmd1U2JsZ2FSNEN5VmdJWnkzbWRsZ1NB0gGiAUFVX3lxTE1vaVc3Z0kxSWc1SXh3bERsT3JJLXJ0VDdISjIydXBtTEFFR3JaQWhUOWlMR0lvZmtrTGJFMFp5WElyYVhqMGVfakxvcWlYVWFoR1AzU0h2ZDFWMTdnY3lxbDVnUm9RLXR2eE5ieWtRWi1IYi0wd2doYUhUWkxxQ0FRZTFZSlEtMndOVUVLcXlvSUtCeXFQTXJmYWRTakNyUzl5QQ?oc=5",
+        "source": "Chosunbiz",
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "fair",
+        "articleType": "news",
+        "title": "김미성 작가, 옴니보어 갤러리로 '2026 뱅크아트페어 Plus' 참가",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhOWx3UXM3anhHMTBiMzl3ZGZJdEdCeFZsalYwa3dKbm01ZEQ2OTA0UVpqbDZ1MjVqTnRWLVNhWXJxVWY5RlJ0OVZKTENkVXJwc3BFeTFsU3JSQ2lfRFc0VVk2ZlZKRXBRczRhN1B3?oc=5",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-23T18:05:17.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "72165e07e7ac",
+      "rank": 1,
+      "score": 96,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Art Institute of Chicago Returns Metzinger Painting to Family of Jewish Collector",
+      "titleKo": "Art Institute of Chicago Returns Metzinger Painting to Family of Jewish Collector",
+      "summaryKo": "The Art Institute of Chicago has announced that it will return Jean Metzinger’s painting Woman with a Fan (1913) to the family of Jewish art collector Emanuel Lewenstein. The museum acquired the painting from New York’s Sidney Janis Gallery in 1959, but provenance research by the Mondex Corporation—",
+      "url": "https://www.artforum.com/news/aic-returns-metzinger-painting-to-family-of-collector-1234759579",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-23T17:09:50.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/default.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a96ddbdbe7a7",
+      "rank": 2,
+      "score": 94,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+      "titleKo": "The Big Review: Lucas Museum of Narrative Art ★★★½",
+      "summaryKo": "While the swooping building is impressive and easy to navigate, the collection is patchy and the displays are at times “bizarre”",
+      "url": "https://www.theartnewspaper.com/2026/09/21/lucas-museum-narrative-art-los-angeles-big-review",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-21T17:56:07.000Z",
+      "coverage": 4,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/876995bbc69798d8868dcbc47cf9758711ba5a24-3071x2047.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "26342620360c",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "After a $105 M. Memorabilia Blockbuster, Christie’s Launches a Pop Culture Division",
+      "titleKo": "After a $105 M. Memorabilia Blockbuster, Christie’s Launches a Pop Culture Division",
+      "summaryKo": "“I sat in the Jim Irsay sale room, and that was an experience like I’ve never seen,” Christie's Bonnie Brennan said.",
+      "url": "https://www.artnews.com/art-news/news/christies-pop-culture-division-josh-benesh-jim-irsay-1234799208",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-23T21:23:54.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/03/24628-Jim-Irsay-Collection-Lot-201-Hammer-1.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "82ab29c14aba",
+      "rank": 4,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Sotheby’s to Sell a $37 M. Cache of Works Once Owned by Armand Hammer, National Gallery of Art Names New Head of Art of Americas Department, and More: Industry Moves for September 23, 2026",
+      "titleKo": "Sotheby’s to Sell a $37 M. Cache of Works Once Owned by Armand Hammer, National Gallery of Art Names New Head of Art of Americas Department, and More: Industry Moves for September 23, 2026",
+      "summaryKo": "Plus, Julia Phillips wins the €100,000 K21 Global Art Award.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-armand-hammer-auction-industry-moves-september-23-2026-1234799166",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-23T18:30:23.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Mary-Cassatt-Summertime-1894-95_Handler-2.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "cdef6a6fae44",
+      "rank": 5,
+      "score": 76,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Yves Goldstein to depart as director-general of Brussel's upcoming Kanal museum immediately following opening weekend",
+      "titleKo": "Yves Goldstein to depart as director-general of Brussel's upcoming Kanal museum immediately following opening weekend",
+      "summaryKo": "“The parties acknowledge a difference of opinion regarding the future of Kanal,” says a statement from the cabinet of Boris Dilliès, the recently-appointed leader of the regional government",
+      "url": "https://www.theartnewspaper.com/2026/09/23/yves-goldstein-to-depart-as-director-general-of-brussels-upcoming-kanal-museum-immediately-following-opening-weekend",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-23T12:50:01.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/7a73f2f46ea4b887fe70afc57fea803b5a1b4f97-3000x1691.jpg?rect=91,0,2818,1691&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
