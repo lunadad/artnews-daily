@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T07:40:37.701+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis?…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Art Collector and Publisher Benedikt Taschen Lists Mid-Century Modern…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "추석 연휴, 예술로 채우다… 서울부터 제주까지 가볼 만한 전시들",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41a2VNbk52WE9CbWFIem9ydDVHSWUtSGNXMUJXYThocm5DRGZDckwzcUozNU1FbnM4NWV5NzNzUmJPZmhxXzV1cDZweFFhVlhiZFZ5b3RBMjIwdkRyOE5QeWpXQlpRTmQ4UnJHZHlLaXJVWURjeGloZ2tn?oc=5",
+        "source": "서울신문",
+        "publishedAt": "2026-09-24T01:00:00.000Z",
+        "coverage": 16,
+        "qualityCoverage": 6,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 80,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 청주 수장고 개편…크레이트도 작품과 함께 보여준다",
+        "summary": "국립현대미술관은 청주관 1층 개방 수장고를 개편해 소장품 32점을 새롭게 선보인다고 23일 밝혔다. 한국 현대조각 1세대를 대표하는 김세중의 ‘김 골룸바와 아녜스 자매’(1954, 1974년경 주조), 추상회화로 잘 알려진 최욱경의 드문 조각 작품 ‘호기심’(1972), 추상조각가 전국광의 국전 대상작 ‘매스의 비(碑)’(1981), 세계적 설치미술가...",
+        "url": "https://www.khan.co.kr/article/202609231252001",
+        "source": "경향신문",
+        "publishedAt": "2026-09-23T03:52:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/09/23/news-p.v1.20260923.cf03f91a59fd4c71b623e99d6150efeb_P1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 74,
+        "category": "market",
+        "articleType": "news",
+        "title": "박수근·장욱진·김기창·박서보·천경자 드로잉 담은 화첩 등 9월 경매…110억 규모",
+        "summary": "6·25 전쟁 직후 잿더미 속에서도 예술혼을 불태웠던 거장들의 숨결이 담긴 귀한 신문 삽화 화첩이 경매 시장에 전격 등장한다.미술품 경매사 케이옥션은 30일 오후 …",
+        "url": "https://www.news1.kr/amp/life-culture/performance-exhibition/6300734",
+        "source": "뉴스1",
+        "publishedAt": "2026-09-23T07:54:51.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/9/23/8124112/high.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "market",
+        "articleType": "news",
+        "title": "민갤러리, ‘2026 공주 그림상점로’ 참여…지역 미술시장 활성화에 힘 보탠다",
+        "summary": "민갤러리가 9월 22일부터 27일까지 열리는 ‘2026 공주 그림상점로’에 참여해 다양한 작품을 선보이며 관람객과 만난다.올해 3회를 맞은 ‘공주 그림상점로’는 지역의 갤러리와 미술관을 중심으로 진행되는 지역 미술품 장터다. 시민들이 미술 작품을 보다 가까운 공간에서 감상하고 작품 소",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104646",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-23T13:23:32.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202609/104646_334513_4715_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "general",
+        "articleType": "news",
+        "title": "곽훈, 피앤씨갤러리서 ‘근작’전… ‘할라잇’ 연작 마무리하고 종이 신작 공개 - 조선비즈",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkR5UHd1TW84MGdKUGlYQkVWdk12VjJTcUIyRmJlSG5hY1dPeGpRdEJsd1RyWVdwMG12MTUxMmF5V19kdEswcTJVU0p6emtVekJxVjJMSERhY3dFaG16M19oeFJqTjlDRkQ1bXYtUzZLalZkU0tZSmd1U2JsZ2FSNEN5VmdJWnkzbWRsZ1NB0gGiAUFVX3lxTE1vaVc3Z0kxSWc1SXh3bERsT3JJLXJ0VDdISjIydXBtTEFFR3JaQWhUOWlMR0lvZmtrTGJFMFp5WElyYVhqMGVfakxvcWlYVWFoR1AzU0h2ZDFWMTdnY3lxbDVnUm9RLXR2eE5ieWtRWi1IYi0wd2doYUhUWkxxQ0FRZTFZSlEtMndOVUVLcXlvSUtCeXFQTXJmYWRTakNyUzl5QQ?oc=5",
+        "source": "Chosunbiz",
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "9f6e6fc56968",
+      "rank": 1,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
+      "titleKo": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
+      "summaryKo": "Heirs to Jewish banker Salomon Flavian claim they were not consulted before the sale, meanwhile Sotheby's argues the work may have not been forcibly taken at all",
+      "url": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-24T22:20:36.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b22c3532699f07a4fef92ed96632afa9d9fbd61-1876x1476.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3169ae5f21e0",
+      "rank": 2,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
+      "titleKo": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
+      "summaryKo": "Blue-chip auction house Christie’s on September 23 revealed the launch of a new division focused on sales of pop culture memorabilia.",
+      "url": "https://www.artforum.com/news/christies-inaugurates-pop-culture-division-1234759670",
+      "source": "artforum.com",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-24T16:19:46.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/2026_NYR_24627_0031_000kurt_cobain_the_fender_mustang_guitar_used_in_the_music_video_for_nirv102734.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "53e75a61f1ee",
+      "rank": 3,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Art Collector and Publisher Benedikt Taschen Lists Mid-Century Modern Beverly Hills Home for $25 M.",
+      "titleKo": "Art Collector and Publisher Benedikt Taschen Lists Mid-Century Modern Beverly Hills Home for $25 M.",
+      "summaryKo": "The Taschens purchased the home in 2018 and have spent the past eight years meticulously restoring every detail.",
+      "url": "https://www.artnews.com/art-news/news/benedikt-taschen-collector-publisher-mid-century-modern-beverly-hills-home-25-million-1234799325",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-24T19:27:35.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/small-1035-Summit_@NilsTimm_FullRes_30.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e76d659f3f70",
+      "rank": 4,
+      "score": 74,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Painting believed to be a newly discovered Goya to go on show at Museo del Prado in 2028",
+      "titleKo": "Painting believed to be a newly discovered Goya to go on show at Museo del Prado in 2028",
+      "summaryKo": "Spain’s culture ministry says “everything seems to indicate” that a painting owned by the gallerist Artur Ramon is an unknown work by the Spanish master",
+      "url": "https://www.theartnewspaper.com/2026/09/24/painting-believed-to-be-a-newly-discovered-goya-to-go-on-show-at-museo-del-prado-in-2028",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-24T12:00:24.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/5842a632b53da9d4b296bb3058d0b7d2f3a4baf0-4450x5910.jpg?rect=0,1620,4450,2670&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ea1300a5a6b0",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "MOCA LA Names Former Public Media Executive as New Director",
+      "titleKo": "MOCA LA Names Former Public Media Executive as New Director",
+      "summaryKo": "He is the seventh person to lead MOCA since 2008.",
+      "url": "https://www.artnews.com/art-news/news/moca-los-angeles-jonathan-abbott-director-1234799323",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-24T19:07:48.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/03_Jonathan-Abbott_MOCA.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
