@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "New York Returns 36 Antiquities Worth $5 Million to Syria",
+        "title": "뉴욕, 500만 달러 상당 유물 36점 시리아에 반환",
         "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Pain…",
+        "title": "나치에 의해 약탈되었을 가능성이 있는 피사로 그림의 소더비 경매 판매",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation o…",
+        "title": "나치 박해를 받은 유대인 수집가의 후손, 소더비 피사로 그림 판매 취소 요구, 예술가 이멜다 카지페 엔다야(Imelda Ca…",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "New York Returns 36 Antiquities Worth $5 Million to Syria",
-      "titleKo": "New York Returns 36 Antiquities Worth $5 Million to Syria",
-      "summaryKo": "On September 23, the office of Manhattan District Attorney Alvin Bragg announced that 36 trafficked or looted antiquities—collectively valued at over $5 million—would be returned to the people of Syria. The repatriation ceremony coincided with the visit of Syrian President Ahmad Al-Sharaa to address",
+      "titleKo": "뉴욕, 500만 달러 상당 유물 36점 시리아에 반환",
+      "summaryKo": "9월 23일, 맨해튼 지방 검사 앨빈 브래그(Alvin Bragg)는 인신매매되거나 약탈된 유물 36점(총 가치가 500만 달러 이상)이 시리아 국민에게 반환될 것이라고 발표했습니다. 송환식은 아마드 알샤라 시리아 대통령의 방문과 동시에 이뤄졌다.",
       "url": "https://www.artforum.com/news/new-york-returns-antiquities-worth-5-million-to-syria-1234759790",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
-      "titleKo": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
-      "summaryKo": "Some heirs to Jewish banker Salomon Flavian say they were left out of an agreement to sell the $1.5 million canvas.",
+      "titleKo": "나치에 의해 약탈되었을 가능성이 있는 피사로 그림의 소더비 경매 판매",
+      "summaryKo": "유대인 은행가인 살로몬 플라비안의 상속인 중 일부는 150만 달러 규모의 캔버스 판매 계약에서 제외됐다고 말했습니다.",
       "url": "https://www.artnews.com/art-news/news/heirs-jewish-collector-sothebys-sale-pissarro-nazi-looted-1234799464",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation of Sotheby’s Pissarro Painting Sale, Artist Imelda Cajipe Endaya is First Woman to Receive Top Philippine Honor, and More: Morning Links for September 25, 2026",
-      "titleKo": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation of Sotheby’s Pissarro Painting Sale, Artist Imelda Cajipe Endaya is First Woman to Receive Top Philippine Honor, and More: Morning Links for September 25, 2026",
-      "summaryKo": "Here's what we're reading this morning.",
+      "titleKo": "나치 박해를 받은 유대인 수집가의 후손, 소더비 피사로 그림 판매 취소 요구, 예술가 이멜다 카지페 엔다야(Imelda Cajipe Endaya)가 필리핀 최고의 영예를 안은 최초의 여성 등: 2026년 9월 25일 모닝 링크",
+      "summaryKo": "오늘 아침에 우리가 읽은 내용은 다음과 같습니다.",
       "url": "https://www.artnews.com/art-news/news/morning-links-september-25-2026-1234799392",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
-      "titleKo": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
-      "summaryKo": "Heirs to Jewish banker Salomon Flavian claim they were not consulted before the sale, meanwhile Sotheby's argues the work may have not been forcibly taken at all",
+      "titleKo": "2024년 소더비에서 팔린 이 피사로의 그림이 나치에 의해 약탈됐나요? 파리 법원의 심의",
+      "summaryKo": "유대인 은행가 Salomon Flavian의 상속인은 판매 전에 협의를 거치지 않았다고 주장하는 반면, Sotheby는 작업이 전혀 강제로 수행되지 않았을 수 있다고 주장합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,7 +200,7 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
-      "titleKo": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+      "titleKo": "제5회 태국 비엔날레 주제 발표 예술감독",
       "summaryKo": "",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTNpc3BGZjBrTndXVEgzRERRek5UTzRMQjBPWGp0Sm45VmNiRXlEdEJTS1RESU9wRm56SVlaT3A5S3kteUNMOXBHUllaOFJKRTVSX3hTUmxPSDlsVWcwZzdGN20yUW9EM2E3N2tXS1pZU3VmdXdRX01nMVA2YUs3dV9YTVNPdlJwNWdYRXZtLXNKbjIyZkdPYQ?oc=5",
       "source": "Artforum",
