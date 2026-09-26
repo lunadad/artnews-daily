@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T07:41:12.025+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "New York Returns 36 Antiquities Worth $5 Million to Syria",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Pain…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation o…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 93,
+        "category": "general",
+        "articleType": "news",
+        "title": "고궁 문 활짝 열리는 추석 연휴, 9월 '아트먼스'도 계속됩니다",
+        "summary": "① 국가유산청은 24일부터 27일까지 4대 궁과 종묘와 조선왕릉을 휴무 없이 무료 개방하겠습니다. ② 국립중앙박물관과 국립민속박물관은 추석 당일을 제외하고 공연과 민속놀이 체험 행사를 이어가겠습니다. ③ 국공립 미술관과 각지 비엔날레는 연휴에도 전시를 운영하며 9월 아트먼스 관람 기회를 넓히겠습니다.",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026092210200001247",
+        "source": "한국일보",
+        "publishedAt": "2026-09-24T05:00:00.000Z",
+        "coverage": 12,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/09/22/58549d31-b0c7-4e52-892a-a6ac59e60bed.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "3000만원 그림이 1억원으로…부자도 투자하는 '아트테크' 뭐길래 - 머니투데이",
+        "summary": "\"가장 큰 장점은 수익성입니다. 많게는 10배까지 치솟는 작품들도 있죠. 하지만 위작이나 사기의 우려도 있어요. \"(A갤러리 대표) 미술품을 구입해 가치 상승을 노리는 투자 방식인 '아트테크'(아트 + 재테크)의 인기가 치솟는다.",
+        "url": "https://www.mt.co.kr/amp/culture/2026/09/26/2026092314124481720",
+        "source": "머니투데이",
+        "publishedAt": "2026-09-26T00:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092314124481720_2.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 52,
+        "category": "museum",
+        "articleType": "news",
+        "title": "이불, 하우저앤워스와 첫 전시…뉴욕에 17m 은빛 비행선",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 설치미술가 이불이 하우저앤워스와 함께하는 첫 전시를 뉴욕에서 열고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260926_0003803900",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-26T15:01:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/26/NISI20260926_0002248843_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "「K민화 인사동 페스티벌」 10월 14일 개막 인사동 인아트프라자 갤러리 4층에서 개최",
+        "summary": "「K민화 인사동 페스티벌」 10월 14일 개막전시·시연·강연·북토크 등 다채로운 프로그램으로 민화의 새로운 매력 선보여한국 전통민화의 아름다움과 현대적 가능성을",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5833",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-09-26T21:15:19.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202609/5833_131918_1456_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 45,
+        "category": "fair",
+        "articleType": "news",
+        "title": "중국 철수로 빛바랜 광주비엔날레, 그럼에도…",
+        "summary": "[우리동네뉴스] 윤범모 이사장, 양안 갈등에 ‘오락가락’… 2014년 ‘세월오월’ 전시 외압 이어 2026년에는 특별관 명칭 논란 구설수",
+        "url": "https://h21.hani.co.kr/arti/society/society_general/59947.html",
+        "source": "한겨레21",
+        "publishedAt": "2026-09-24T21:36:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/640/296/imgdb/original/2026/0924/20260924500897.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "74c1b8c27807",
+      "rank": 1,
+      "score": 98,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "New York Returns 36 Antiquities Worth $5 Million to Syria",
+      "titleKo": "New York Returns 36 Antiquities Worth $5 Million to Syria",
+      "summaryKo": "On September 23, the office of Manhattan District Attorney Alvin Bragg announced that 36 trafficked or looted antiquities—collectively valued at over $5 million—would be returned to the people of Syria. The repatriation ceremony coincided with the visit of Syrian President Ahmad Al-Sharaa to address",
+      "url": "https://www.artforum.com/news/new-york-returns-antiquities-worth-5-million-to-syria-1234759790",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-25T16:56:17.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/mosaic.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "69892d6438e1",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
+      "titleKo": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
+      "summaryKo": "Some heirs to Jewish banker Salomon Flavian say they were left out of an agreement to sell the $1.5 million canvas.",
+      "url": "https://www.artnews.com/art-news/news/heirs-jewish-collector-sothebys-sale-pissarro-nazi-looted-1234799464",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-25T16:53:18.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Claude-Pissarro-Duquesne-Sothebys.jpeg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b3a851163e4e",
+      "rank": 3,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation of Sotheby’s Pissarro Painting Sale, Artist Imelda Cajipe Endaya is First Woman to Receive Top Philippine Honor, and More: Morning Links for September 25, 2026",
+      "titleKo": "Descendants of Nazi-Persecuted Jewish Collector Demand Cancellation of Sotheby’s Pissarro Painting Sale, Artist Imelda Cajipe Endaya is First Woman to Receive Top Philippine Honor, and More: Morning Links for September 25, 2026",
+      "summaryKo": "Here's what we're reading this morning.",
+      "url": "https://www.artnews.com/art-news/news/morning-links-september-25-2026-1234799392",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-25T13:09:43.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/07/GettyImages-2226857752.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9f6e6fc56968",
+      "rank": 4,
+      "score": 74,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
+      "titleKo": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
+      "summaryKo": "Heirs to Jewish banker Salomon Flavian claim they were not consulted before the sale, meanwhile Sotheby's argues the work may have not been forcibly taken at all",
+      "url": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-24T22:20:36.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b22c3532699f07a4fef92ed96632afa9d9fbd61-1876x1476.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "6eeb2eb27ec1",
+      "rank": 5,
+      "score": 61,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+      "titleKo": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTNpc3BGZjBrTndXVEgzRERRek5UTzRMQjBPWGp0Sm45VmNiRXlEdEJTS1RESU9wRm56SVlaT3A5S3kteUNMOXBHUllaOFJKRTVSX3hTUmxPSDlsVWcwZzdGN20yUW9EM2E3N2tXS1pZU3VmdXdRX01nMVA2YUs3dV9YTVNPdlJwNWdYRXZtLXNKbjIyZkdPYQ?oc=5",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-09-25T20:02:39.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
