@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Pain…",
+        "title": "나치에 의해 약탈되었을 가능성이 있는 피사로 그림의 소더비 경매 판매",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis?…",
+        "title": "2024년 소더비에서 팔린 이 피사로의 그림이 나치에 의해 약탈됐나요? 파리 법원의 심의",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
+        "title": "1억 500만 달러 판매에 힘입어 크리스티, 대중문화 사업부 출범",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
-      "titleKo": "Heirs of a Jewish Collector Contest Sotheby’s Sale of a Pissarro Painting Possibly Looted by Nazis",
-      "summaryKo": "Some heirs to Jewish banker Salomon Flavian say they were left out of an agreement to sell the $1.5 million canvas.",
+      "titleKo": "나치에 의해 약탈되었을 가능성이 있는 피사로 그림의 소더비 경매 판매",
+      "summaryKo": "유대인 은행가인 살로몬 플라비안의 상속인 중 일부는 150만 달러 규모의 캔버스 판매 계약에서 제외됐다고 말했습니다.",
       "url": "https://www.artnews.com/art-news/news/heirs-jewish-collector-sothebys-sale-pissarro-nazi-looted-1234799464",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
-      "titleKo": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
-      "summaryKo": "Heirs to Jewish banker Salomon Flavian claim they were not consulted before the sale, meanwhile Sotheby's argues the work may have not been forcibly taken at all",
+      "titleKo": "2024년 소더비에서 팔린 이 피사로의 그림이 나치에 의해 약탈됐나요? 파리 법원의 심의",
+      "summaryKo": "유대인 은행가 Salomon Flavian의 상속인은 판매 전에 협의를 거치지 않았다고 주장하는 반면, Sotheby는 작업이 전혀 강제로 수행되지 않았을 수 있다고 주장합니다.",
       "url": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
-      "titleKo": "Buoyed by $105 Million Sale, Christie’s Inaugurates Pop Culture Division",
-      "summaryKo": "Blue-chip auction house Christie’s on September 23 revealed the launch of a new division focused on sales of pop culture memorabilia, Artnews reports. The announcement comes on the heels of a sale of sports, music, and historical memorabilia from the collection of Indianapolis Colts owner Jim Irsay",
+      "titleKo": "1억 500만 달러 판매에 힘입어 크리스티, 대중문화 사업부 출범",
+      "summaryKo": "우량 경매업체 크리스티(Christie's)는 9월 23일 대중문화 기념품 판매에 초점을 맞춘 새로운 부서를 출범했다고 아트뉴스(Artnews)가 보도했다. 이번 발표는 인디애나폴리스 콜츠 구단주 짐 이르세이(Jim Irsay)가 수집한 스포츠, 음악, 역사적 기념품 판매에 이어 나온 것입니다.",
       "url": "https://www.artforum.com/news/christies-inaugurates-pop-culture-division-1234759670",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,7 +180,7 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Es Devlin, Master of the Extravaganza, Highlights the Art of Craft",
-      "titleKo": "Es Devlin, Master of the Extravaganza, Highlights the Art of Craft",
+      "titleKo": "엑스트라바간자(Extravaganza)의 대가인 에스 데블린(Es Devlin)이 공예 예술을 강조합니다",
       "summaryKo": "",
       "url": "https://www.nytimes.com/2026/09/25/arts/design/es-devlin-homo-faber-biennial-venice.html",
       "source": "nytimes.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
-      "titleKo": "“From Monet and Manet to Money”: A Berlin Museum Spotlights the Dealer Who Made Impressionism an International Sensation",
-      "summaryKo": "“Cassirer: Breakthrough of Impressionism” is on view at Berlin’s Alte Nationalgalerie.",
+      "titleKo": "“모네와 마네에서 돈까지”: 베를린 박물관에서 인상주의를 국제적인 센세이션으로 만든 상인을 조명하다",
+      "summaryKo": "'카시러: 인상주의의 돌파구'가 베를린 국립미술관에서 전시되고 있습니다.",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/paul-cassirer-berlin-alte-nationalgalerie-impressionism-1234799643",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
