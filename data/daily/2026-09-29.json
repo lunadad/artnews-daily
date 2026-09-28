@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T07:40:29.324+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Thomas Kaplan’s 18th Rembrandt is St John on Patmos",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Whitney Union Times Strike Date Ahead of Major Lichtenstein Retrospec…",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 0,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": []
+  },
+  "top5": [
+    {
+      "id": "221c3bd09750",
+      "rank": 1,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Thomas Kaplan’s 18th Rembrandt is St John on Patmos",
+      "titleKo": "Thomas Kaplan’s 18th Rembrandt is St John on Patmos",
+      "summaryKo": "The owner of the Leiden Collection is revealed to have bought the painting for $18 million at auction at Sotheby’s in December 2025.",
+      "url": "https://www.artnews.com/art-news/news/thomas-kaplan-bought-st-john-on-patmos-rembrandt-1234799707",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-28T17:04:52.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/GettyImages-1039496574.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f021dc3aa536",
+      "rank": 2,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
+      "titleKo": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
+      "summaryKo": "The buyer of a formerly misattributed Rembrandt that hammered for $9 million at a Sotheby’s London sale in December 2025 has been revealed to be the world’s largest collector of the artist, the Art Newspaper reports. Thomas Kaplan, an American businessman and philanthropist, purchased Rembrandt’s ca",
+      "url": "https://www.artforum.com/news/mystery-buyer-of-9-million-rembrandt-unmasked-1234760090",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-28T22:05:04.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/RR-129_publication-1-1.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ec535698c4ba",
+      "rank": 3,
+      "score": 91,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Whitney Union Times Strike Date Ahead of Major Lichtenstein Retrospective",
+      "titleKo": "Whitney Union Times Strike Date Ahead of Major Lichtenstein Retrospective",
+      "summaryKo": "Unionized workers at the Whitney Museum of American Art in New York will carry out a strike action on October 5 if they do not receive a fair contract offer, Local 2110 announced today. The date is perilously close to that of the opening of a blockbuster Roy Lichtenstein exhibition, slated to open t",
+      "url": "https://www.artforum.com/news/whitney-union-strike-date-ahead-of-lichtenstein-show-1234760108",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-28T21:35:56.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/12/GettyImages-2247841407.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c5f131f49cd8",
+      "rank": 4,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Buyer of mysterious $9m Rembrandt painting revealed",
+      "titleKo": "Buyer of mysterious $9m Rembrandt painting revealed",
+      "summaryKo": "Thomas Kaplan’s Leiden Collection acquired St John on Patmos at Sotheby’s, the 18th work by the Dutch master to enter the collection",
+      "url": "https://www.theartnewspaper.com/2026/09/28/rembrandt-painting-buyer-revealed-leiden-collection-thomas-kaplan",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-28T13:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/d1832545d3e4eae947932efbe225541948730c9c-1183x1517.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9868acabc3f5",
+      "rank": 5,
+      "score": 62,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "At Amant, ‘Sentient Earth’ Redirects the Corporate Gaze to Climate Change",
+      "titleKo": "At Amant, ‘Sentient Earth’ Redirects the Corporate Gaze to Climate Change",
+      "summaryKo": "“I think we all can feel it, we’re a bit over the Anthropocene discussion,” said Tobi Maier, head curator at Amant and lead on its newest show.",
+      "url": "https://www.artnews.com/art-news/reviews/at-amant-sentient-earth-group-show-1234799728",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-28T17:26:50.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Sentient-Earth-ADV-09.14.26-01.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null,
+  "partial": true
+}
