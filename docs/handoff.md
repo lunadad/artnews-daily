@@ -33,4 +33,5 @@
 
 1. Actions의 `collect` run이 빨간색이면 `verify` 단계 로그의 `::error::` 줄을 본다.
 2. "still untranslated"면 맥·헤르메스 상태(`hermes cron list`)와 `python3 ~/.hermes/scripts/artnews_translate_daily.py`의 stderr를 확인한다.
-3. Google 경유 기사가 사라지거나 특정 매체로 쏠리면 코드보다 먼저 위 1번(Google RPC)을 의심한다.
+3. "0/5 domestic stories collected"면 '오늘의 브리핑'이 화면에서 사라진 상태다. 수집 로그의 `[domestic stage 1] ... failed` 줄(주로 Google News `HTTP 503`)을 확인하고, Google이 복구된 뒤 `collectDomestic`만 다시 돌려 당일 파일의 `domestic`을 교체한다(전체 재수집은 번역된 top5를 덮어쓴다). 2026-09-29 사례 참고.
+4. Google 경유 기사가 사라지거나 특정 매체로 쏠리면 코드보다 먼저 위 1번(Google RPC)을 의심한다.

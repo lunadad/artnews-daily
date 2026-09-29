@@ -50,6 +50,17 @@ describe("checkDailyHealth", () => {
     expect(report.warnings).toHaveLength(2);
   });
 
+  it("fails when no domestic stories were collected, because the briefing section disappears", () => {
+    const report = checkDailyHealth(daily(translatedTop5, 0), healthy);
+    expect(report.errors).toEqual([expect.stringContaining("0/5 domestic")]);
+    expect(report.warnings).toEqual([]);
+  });
+
+  it("fails when the domestic section is missing entirely", () => {
+    const report = checkDailyHealth({ ...daily(translatedTop5), domestic: undefined }, healthy);
+    expect(report.errors).toEqual([expect.stringContaining("0/5 domestic")]);
+  });
+
   it("warns when the previous day's Karina briefing never arrived", () => {
     const report = checkDailyHealth(daily(translatedTop5), { ...healthy, previousKarinaPresent: false });
     expect(report.errors).toEqual([]);

@@ -34,7 +34,9 @@ export function checkDailyHealth(daily: Pick<DailyData, "top5" | "domestic">, co
   if (untranslated) warnings.push(`${untranslated}/${daily.top5.length} international titles are untranslated at collect time; the Hermes artnews-translate job should fill them in`);
   if (daily.top5.length < 5) warnings.push(`only ${daily.top5.length}/5 international stories collected`);
   const domesticCount = daily.domestic?.items.length ?? 0;
-  if (domesticCount < 5) warnings.push(`only ${domesticCount}/5 domestic stories collected`);
+  // With zero items the dashboard hides the whole "오늘의 브리핑" section, so that is an error.
+  if (domesticCount === 0) errors.push("0/5 domestic stories collected — the 오늘의 브리핑 section is hidden; were the Google News KR feeds failing?");
+  else if (domesticCount < 5) warnings.push(`only ${domesticCount}/5 domestic stories collected`);
   if (!context.previousKarinaPresent) warnings.push("previous day's Karina briefing is missing — is the Hermes 09:00 cron (and the Mac) running?");
 
   return { errors, warnings };
