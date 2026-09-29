@@ -5,6 +5,7 @@ import { classifyArticleType } from "../lib/article-type";
 import { createBriefing } from "../lib/briefing";
 import { DATA_ROOT, pruneDataFiles } from "../lib/data";
 import { classifyDomesticCategory, clusterDomesticArticles, createDomesticHeadline, domesticGoogleFeedUrl, DOMESTIC_GOOGLE_QUERIES, filterDomesticCandidates, isDomesticHardExcluded, scoreDomesticCluster, selectDomesticTopFive, type DomesticScoredCluster } from "../lib/domestic";
+import { fetchWithRetry } from "../lib/fetch-retry";
 import { resolveGoogleNewsUrl } from "../lib/google-news";
 import { clusterArticles, filterCandidates, isHardExcluded, normalizeUrl, scoreCluster, selectTopFive, type ArticleCandidate, type ScoredCluster } from "../lib/score";
 import { classifyCategory, decodeEntities, DIRECT_FEEDS, extractDescription, extractImageUrl, GOOGLE_QUERIES, googleFeedUrl, isTitleEcho, parseRss, registrableDomain, sourceWeight } from "../lib/sources";
@@ -33,15 +34,15 @@ function extractArticleText(html: string): string {
   return cleanText(decodeEntities(withoutNonContent));
 }
 
-async function fetchText(url: string, timeoutMs = 12_000): Promise<string> {
-  const response = await fetch(url, { signal: AbortSignal.timeout(timeoutMs), redirect: "follow", headers: { "user-agent": USER_AGENT, accept: "text/html,application/rss+xml,application/xml;q=0.9,*/*;q=0.8" } });
+async function fetchText(url: string, timeoutMs = 12_000, retry = false): Promise<string> {
+  const response = await fetchWithRetry(url, { redirect: "follow", headers: { "user-agent": USER_AGENT, accept: "text/html,application/rss+xml,application/xml;q=0.9,*/*;q=0.8" } }, { timeoutMs, delaysMs: retry ? undefined : [] });
   if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
   return response.text();
 }
 
 async function collectFeed(name: string, url: string, discovery: "direct" | "google"): Promise<ArticleCandidate[]> {
   try {
-    const items = parseRss(await fetchText(url), name).slice(0, discovery === "google" ? 40 : 60);
+    const items = parseRss(await fetchText(url, 12_000, true), name).slice(0, discovery === "google" ? 40 : 60);
     const candidates = items.map((item): ArticleCandidate => {
       const summary = cleanText(item.description).slice(0, 300);
       return {
@@ -68,7 +69,7 @@ async function collectFeed(name: string, url: string, discovery: "direct" | "goo
 async function collectDomesticFeed(query: string): Promise<ArticleCandidate[]> {
   const name = `Google KR: ${query}`;
   try {
-    const items = parseRss(await fetchText(domesticGoogleFeedUrl(query)), name).slice(0, 40);
+    const items = parseRss(await fetchText(domesticGoogleFeedUrl(query), 12_000, true), name).slice(0, 40);
     const candidates = items.map((item): ArticleCandidate => ({
       title: item.title,
       url: item.link,
@@ -153,8 +154,17 @@ function domesticDistribution(items: DomesticItem[]): Record<Category, number> {
   return distribution;
 }
 
-async function collectDomestic(now: Date): Promise<DomesticData> {
-  const candidates = (await Promise.all(DOMESTIC_GOOGLE_QUERIES.map((query) => collectDomesticFeed(query)))).flat();
+const collectDomesticCandidates = async () => (await Promise.all(DOMESTIC_GOOGLE_QUERIES.map((query) => collectDomesticFeed(query)))).flat();
+
+export async function collectDomestic(now: Date): Promise<DomesticData> {
+  let candidates = await collectDomesticCandidates();
+  if (!candidates.length) {
+    // Every domestic story comes from Google News; an outage longer than the
+    // per-feed retries would otherwise leave the briefing empty for the day.
+    console.warn("[domestic stage 1] no candidates from any feed; retrying once in 60s");
+    await pause(60_000);
+    candidates = await collectDomesticCandidates();
+  }
   const filtered = filterDomesticCandidates(candidates);
   const preliminary = clusterDomesticArticles(filtered)
     .map((articles) => scoreDomesticCluster(articles, now))
