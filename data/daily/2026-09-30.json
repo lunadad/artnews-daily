@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T07:40:48.814+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporar…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 85,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관, 가을밤 음악과 만난다...루시드폴 콰르텟·셋셋셋 공연",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94OHNJeUc0czhCOXBxRnh6eS0tZkhycjlNV0dqZ2FaUmhIVkl0U2ZtSHhHMGE5aDdnR28xeUZSSm9TUExHSW81SWdpSF9kWVh2MXBBM1I0NkNUVTZIRHZjdzlZRk8wYXVIZU1YdEFn0gFuQVVfeXFMT3g4c0l5RzRzOEI5cHFGeHp5LS1mSHJyOU1XR2pnYVpSaEhWSXRTZm1IeEcwYTloN2dHbzF5RlJKb1NQTEdJbzVJZ2lIX2RZWHYxcEEzUjQ2Q1RVNkhEdmN3OVlGTzBhdUhlTVh0QWc?oc=5",
+        "source": "여성조선",
+        "publishedAt": "2026-09-28T02:23:13.000Z",
+        "coverage": 25,
+        "qualityCoverage": 3,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 52,
+        "category": "artist",
+        "articleType": "news",
+        "title": "진짜인가, 그림인가…‘벽돌 작가’ 김강용의 변신",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = ‘벽돌 작가’ 김강용의 화면에 여백이 생겼다.수십 년간 화면을 빼곡히 채웠던 벽돌은 점점 줄어들고 있다. 그 사이가 넓어지며 입방체와 빛, 그림자가 떠올랐다.진짜인가, 그림인가. 김강용의 작품은 여전히 보는 것을 의심하게 한다. 가까이 다가가면 모래와 물감으로 만든 거친 평면이다. 몇 걸음 물러서면 입방체가 화면 밖..",
+        "url": "https://www.newsis.com/view/NISX20260929_0003807767",
+        "source": "뉴시스",
+        "publishedAt": "2026-09-29T15:01:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/09/29/NISI20260929_0002251316_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 51,
+        "category": "museum",
+        "articleType": "news",
+        "title": "바다·한라산 대신 미술관으로…제주비엔날레에 관객 몰린다",
+        "summary": "바다·한라산 대신 미술관으로…제주비엔날레에 관객 몰린다, 격년제 국제미술제 제주비엔날레 11월 15일까지 옛 극장 옛 호텔 돌문화공원 등 5곳서 20개국 69팀 전시",
+        "url": "https://www.hankyung.com/article/202609277432i",
+        "source": "hankyung.com",
+        "publishedAt": "2026-09-28T04:56:47.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/01.45854317.1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "유명 갤러리들 한남동으로 대이동… 밀려나는 강남·청담",
+        "summary": "유명 갤러리들 한남동으로 대이동… 밀려나는 강남·청담, 글래드스톤 이어 탕컨템포러리도 한남동행 미술관 화랑 몰린 한남, 걸어서 도는 '갤러리 호핑' 쉬워 불황 속 몸집 키우는 화랑들 '될 곳만 된다'",
+        "url": "https://www.hankyung.com/article/202609289637i",
+        "source": "hankyung.com",
+        "publishedAt": "2026-09-29T01:43:25.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202609/01.45866159.1.png"
+      },
+      {
+        "rank": 5,
+        "score": 46,
+        "category": "general",
+        "articleType": "news",
+        "title": "AN갤러리, 예형회와 함께하는 ‘K-heritage art festa’ 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSnJ4X2VzZjVUalpqdU1ySk1yamhKcVVmbnoyY3BXMnEwT0FVWjhpQkYzNi1FbWw2V2tmMkpNVWkyRnM5UXpXNFlSbXZNNnBhUnNWMkVqXzh2M2NhczJRazV3bE5fWmtWWTBEZnRR?oc=5",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-09-29T15:20:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "c300fad3d409",
+      "rank": 1,
+      "score": 105,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporary South Asian Art at $26.2 M., Setting Nine Artist Records",
+      "titleKo": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporary South Asian Art at $26.2 M., Setting Nine Artist Records",
+      "summaryKo": "Leading the sale was a painting by Syed Haider (S.H.) Raza that sold for 10 times its high estimate.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-london-record-sale-modern-contemporary-south-asian-art-1234800017",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-29T21:25:11.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Sothebys-Bhupen-Khakhar-Old-Men-Playing-Chess.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "487c532bea19",
+      "rank": 2,
+      "score": 101,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-29T15:40:26.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/25779f3da72c7b87202dda0a67c6a91b0e5168ef-5142x3778.jpg?rect=0,347,5142,3085&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f01f01c314ee",
+      "rank": 3,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
+      "titleKo": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
+      "summaryKo": "JMW Turner’s 1835 canvas Rome, from Mount Aventine will be auctioned at Sotheby’s Old Master Evening Sale in London on December 9, with an estimate of £50 million ($66.2 million). Ahead of the auction, it is on public view at Rome’s Palazzo Rondinini from September 29 to October 1. According to Juli",
+      "url": "https://www.artforum.com/news/jmw-turner-roman-landscape-unveiled-at-sothebys-1234760119",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-29T15:13:59.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-459679794.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "aab3a092fb14",
+      "rank": 4,
+      "score": 96,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Chng Hak-Peng Appointed New CEO of National Gallery Singapore",
+      "titleKo": "Chng Hak-Peng Appointed New CEO of National Gallery Singapore",
+      "summaryKo": "The appointment follows the previous leadership of Eugene Tan.",
+      "url": "https://www.artforum.com/news/chng-hak-peng-new-ceo-of-national-gallery-singapore-1234760094",
+      "source": "artforum.com",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-28T20:25:59.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/09/singapore.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "77729d29978a",
+      "rank": 5,
+      "score": 75,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Two Nazi loot claims test California statute intended to remove roadblocks to restitution",
+      "titleKo": "Two Nazi loot claims test California statute intended to remove roadblocks to restitution",
+      "summaryKo": "Lawsuits related to a Cranach diptych at the Norton Simon Museum of Art and a group of watercolours at the Auschwitz-Birkenau State Museum were filed two days before a 2024 California statute expired",
+      "url": "https://www.theartnewspaper.com/2026/09/29/nazi-loot-lawsuits-test-california-statute-restitution-norton-simon-museum-auschwitz-birkenau-state-museum",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-09-29T17:06:19.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/886a324bdb652ccd5f1d2c2979713e6f68b3c2ca-1100x1451.jpg?rect=0,133,1100,660&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
