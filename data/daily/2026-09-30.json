@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporar…",
+        "title": "소더비 런던, 남아시아 근현대 미술품 역대 최고 판매액 2,620만 달러로 9개 아티스트 기록 경신",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "title": "터너 그림, 5000만 파운드 경매 최고 기록 로마서 공개",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
+        "title": "소더비에서 공개된 희귀한 터너 로마 풍경",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporary South Asian Art at $26.2 M., Setting Nine Artist Records",
-      "titleKo": "Sotheby’s London Racks Up Highest-Ever Sale of Modern and Contemporary South Asian Art at $26.2 M., Setting Nine Artist Records",
-      "summaryKo": "Leading the sale was a painting by Syed Haider (S.H.) Raza that sold for 10 times its high estimate.",
+      "titleKo": "소더비 런던, 남아시아 근현대 미술품 역대 최고 판매액 2,620만 달러로 9개 아티스트 기록 경신",
+      "summaryKo": "판매를 주도한 것은 Syed Haider(S.H.) Raza의 그림으로 예상가의 10배에 달하는 가격에 판매되었습니다.",
       "url": "https://www.artnews.com/art-news/market/sothebys-london-record-sale-modern-contemporary-south-asian-art-1234800017",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "titleKo": "터너 그림, 5000만 파운드 경매 최고 기록 로마서 공개",
+      "summaryKo": "2014년 영국 화가의 경매 최고 기록을 보유한 19세기 작품 '아벤틴 산에서 온 로마'가 론디니니 궁전에 전시된 뒤 12월 런던 소더비 경매에 출품된다.",
       "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
-      "titleKo": "Rare Turner Roman Landscape Unveiled at Sotheby’s",
-      "summaryKo": "JMW Turner’s 1835 canvas Rome, from Mount Aventine will be auctioned at Sotheby’s Old Master Evening Sale in London on December 9, with an estimate of £50 million ($66.2 million). Ahead of the auction, it is on public view at Rome’s Palazzo Rondinini from September 29 to October 1. According to Juli",
+      "titleKo": "소더비에서 공개된 희귀한 터너 로마 풍경",
+      "summaryKo": "Mount Aventine에서 온 JMW Turner의 1835년 캔버스 Rome은 12월 9일 런던에서 열리는 Sotheby's Old Master Evening Sale에서 경매될 예정이며 예상 가격은 5,000만 파운드(6,620만 달러)입니다. 경매에 앞서 이 작품은 9월 29일부터 10월 1일까지 로마의 Palazzo Rondinini에서 일반에 공개됩니다. Juli에 따르면",
       "url": "https://www.artforum.com/news/jmw-turner-roman-landscape-unveiled-at-sothebys-1234760119",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Chng Hak-Peng Appointed New CEO of National Gallery Singapore",
-      "titleKo": "Chng Hak-Peng Appointed New CEO of National Gallery Singapore",
-      "summaryKo": "The appointment follows the previous leadership of Eugene Tan.",
+      "titleKo": "Chng Hak Peng, 내셔널 갤러리 싱가포르의 새 CEO로 임명",
+      "summaryKo": "이번 임명은 유진 탄(Eugene Tan)의 이전 리더십을 따른다.",
       "url": "https://www.artforum.com/news/chng-hak-peng-new-ceo-of-national-gallery-singapore-1234760094",
       "source": "artforum.com",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Two Nazi loot claims test California statute intended to remove roadblocks to restitution",
-      "titleKo": "Two Nazi loot claims test California statute intended to remove roadblocks to restitution",
-      "summaryKo": "Lawsuits related to a Cranach diptych at the Norton Simon Museum of Art and a group of watercolours at the Auschwitz-Birkenau State Museum were filed two days before a 2024 California statute expired",
+      "titleKo": "두 건의 나치 전리품 청구로 배상에 대한 장애물을 제거하기 위한 캘리포니아 법령 테스트",
+      "summaryKo": "노턴 사이먼 미술관의 크라나흐 양면화와 아우슈비츠-비르케나우 주립 박물관의 수채화 그룹과 관련된 소송은 2024년 캘리포니아 법령이 만료되기 이틀 전에 제기되었습니다.",
       "url": "https://www.theartnewspaper.com/2026/09/29/nazi-loot-lawsuits-test-california-statute-restitution-norton-simon-museum-auschwitz-birkenau-state-museum",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
