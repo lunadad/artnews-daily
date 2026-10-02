@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T07:40:53.847+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Flea market picker strikes gold as $30 Gertrude Abercrombie painting …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "The story behind the record-price Van Gogh up for auction in November",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 107,
+        "category": "museum",
+        "articleType": "news",
+        "title": "직접 글 쓰고, 음악 골라… 큐레이터 된 RM \"이번 전시는 아주 긴 내 소개\"",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2JqYzdJUUZNSDZFRWdxTm15NlBmSFJkSHpQZVlTck5BeUJCLXY2RkR2a0l4SEhvN3RSU0NBQS12SG5veUV2aEJMTG95NXhYd2hkOU1xNXRtTm9fOE1DXzlXMTV0eTlyVjZoSWdUdE50eWJxendub1NLNEF3NENsSHFDdWNpaGlfSXZtMHo1SVpabUxX?oc=5",
+        "source": "조선일보",
+        "publishedAt": "2026-09-30T15:43:51.000Z",
+        "coverage": 13,
+        "qualityCoverage": 6,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 91,
+        "category": "museum",
+        "articleType": "news",
+        "title": "이중섭 대표작 첫 울산 나들이…울산시립미술관 이중섭 회고전",
+        "summary": "15일부터 내년 1월17일까지 ‘황소’ 등 대표작 140점 전시",
+        "url": "https://m.mk.co.kr/amp/12166925",
+        "source": "mk.co.kr",
+        "publishedAt": "2026-10-02T01:26:16.000Z",
+        "coverage": 16,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "바스키아 133억·박서보 13억…크리스티홍콩 경매 1642억치 낙찰",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 장 미셸 바스키아의 작품이 133억원에 팔리며 올가을 아시아 경매 최고가를 기록했다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261002_0003811895",
+        "source": "newsis.com",
+        "publishedAt": "2026-10-01T23:59:55.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/02/NISI20261002_0002253914_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 62,
+        "category": "artist",
+        "articleType": "news",
+        "title": "구순의 전기톱 조각가 김윤신, 영화 주인공으로 부국제 레드카펫",
+        "summary": "① 여성 조각가 김윤신의 삶과 작업을 다룬 다큐멘터리가 10월 6일 부산국제영화제에서 처음 공개됩니다. ② 영화는 49세에 아르헨티나로 떠났다가 90대에 한국으로 돌아온 김윤신의 작업 일상을 담았습니다. ③ 제작사는 원로 여성 작가 4명을 다루는 다큐 시리즈를 추진하며 전시와 방송 등으로 확장하겠다고 했습니다.",
+        "url": "https://www.hankookilbo.com/news/article/A2026100217130003504",
+        "source": "한국일보",
+        "publishedAt": "2026-10-02T09:00:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/10/02/62e20fb8-645e-4d14-b697-6f88bc7bee06.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "예술가의 작업실, 창작의 현장에서 추억의 공간으로",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90ejREUlNpQ1FjNVYwME11UWJDcC1qT0d0UkVPTkFNVkEzY3poR3RtTHpyZ21VZWliNnNaQVJqYVZwSVhXVGhXN29maTFORjJLSHN6VDdOd0tNQQ?oc=5",
+        "source": "한국경제",
+        "publishedAt": "2026-10-01T08:28:01.000Z",
+        "coverage": 14,
+        "qualityCoverage": 2,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e66b118603a1",
+      "rank": 1,
+      "score": 105,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
+      "titleKo": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
+      "summaryKo": "The painting “Alderman Merriam’s Shells” (1951) by Gertrude Abercrombie was bought for thirty dollars at a Michigan estate sale in June by a person who wishes to remain anonymous. On Thursday, the painting went up for auction at Freeman’s in New York with a high estimate of $200,000, but when the ha",
+      "url": "https://www.artforum.com/news/abercrombie-painting-estate-sale-auctions-for-1-35-million-1234760716",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-02T17:31:37.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Post-Conservation_Alderman-Merriams-Shells-1951.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ccf9c76fe5c8",
+      "rank": 2,
+      "score": 92,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Flea market picker strikes gold as $30 Gertrude Abercrombie painting brings record $1.3m at auction",
+      "titleKo": "Flea market picker strikes gold as $30 Gertrude Abercrombie painting brings record $1.3m at auction",
+      "summaryKo": "The painting, discovered in an estate sale in Michigan this summer, set a new auction record for Abercrombie at a Freeman’s sale in New York",
+      "url": "https://www.theartnewspaper.com/2026/10/02/gertrude-abercrombie-painting-estate-sale-freemans-auction-record",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-02T13:07:44.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1644e9df1e396c3906708a77170f58d16dbb2abe-2000x2000.jpg?rect=0,383,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "be710eaa6848",
+      "rank": 3,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The story behind the record-price Van Gogh up for auction in November",
+      "titleKo": "The story behind the record-price Van Gogh up for auction in November",
+      "summaryKo": "“Blossoming Chestnut Trees”, which has been hidden away for over 60 years, is being sold by Sotheby's for the Blaquier-Arrieta family of Argentina",
+      "url": "https://www.theartnewspaper.com/2026/10/02/the-story-behind-the-180m-van-gogh-up-for-auction-this-november",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-02T11:37:01.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/19566daa94c95a3f518caac32fd9154dd3e7f3a7-2500x3035.jpg?rect=0,768,2500,1500&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4705460c2527",
+      "rank": 4,
+      "score": 88,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Gertrude Abercrombie Painting Bought for $30 Sells for Record $1.3 Million",
+      "titleKo": "Gertrude Abercrombie Painting Bought for $30 Sells for Record $1.3 Million",
+      "summaryKo": "A small painting purchased for $30 at a Michigan estate sale last summer sold for $1.3 million at Freeman’s in... Read More",
+      "url": "https://www.citybiz.co/article/913423/gertrude-abercrombie-painting-bought-for-30-sells-for-record-1-3-million",
+      "source": "citybiz",
+      "sourceDomain": "citybiz.co",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-02T16:50:10.000Z",
+      "coverage": 3,
+      "image": "https://www.citybiz.co/wp-content/uploads/2026/10/Abercrombie.png",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7648ab116ba2",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Guggenheim and Brooklyn Museum Unions Ratify New Contracts, Averting Strikes",
+      "titleKo": "Guggenheim and Brooklyn Museum Unions Ratify New Contracts, Averting Strikes",
+      "summaryKo": "Meanwhile, the American Folk Art Museum union ratified its inaugural contract after nearly two years of bargaining. The Whitney Museum union, however, faces a looming strike date of October 5.",
+      "url": "https://www.artnews.com/art-news/news/union-contracts-ratified-guggenheim-brooklyn-museum-1234800301",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-02T19:48:18.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/bk-gugg.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
