@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "title": "로마에서 £ 50M 경매 기록을 남길 것으로 추정되는 터너 페인팅",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35…",
+        "title": "부동산 경매에서 135만 달러에 발견된 거트루드 아베크롬비 그림",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "From $30 Estate Sale Discovery to $1.35 Million: Abercrombie’s Shells…",
+        "title": "$ 30 에스테이트 세일 디스커버리에서 $ 1.35 백만으로: Abercrombie's Shells, 새로운 경매 기록 수립",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "titleKo": "로마에서 £ 50M 경매 기록을 남길 것으로 추정되는 터너 페인팅",
+      "summaryKo": "2014년부터 영국 화가 경매 기록을 보유하고 있는 19세기 작품 ‘아벤틴 산의 로마' 가 론디니 궁전에 전시되어 있다가 12월 소더비 런던에서 망치 아래로 들어가고 있다.",
       "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
-      "titleKo": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
-      "summaryKo": "Abercrombie's 1951 painting “Alderman Merriam’s Shells, bought for $30 at a Michigan estate sale, was just sold at auction for $1.3 million.",
+      "titleKo": "부동산 경매에서 135만 달러에 발견된 거트루드 아베크롬비 그림",
+      "summaryKo": "Abercrombie의 1951년 작품 “Alderman Merriam's Shells, 미시간 부동산 매매에서 $ 30에 구입, 경매에서 $ 130만에 판매되었습니다.",
       "url": "https://www.artforum.com/news/abercrombie-painting-estate-sale-auctions-for-1-35-million-1234760716",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,7 +160,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "From $30 Estate Sale Discovery to $1.35 Million: Abercrombie’s Shells Sets New Auction Record",
-      "titleKo": "From $30 Estate Sale Discovery to $1.35 Million: Abercrombie’s Shells Sets New Auction Record",
+      "titleKo": "$ 30 에스테이트 세일 디스커버리에서 $ 1.35 백만으로: Abercrombie's Shells, 새로운 경매 기록 수립",
       "summaryKo": "",
       "url": "https://artdependence.com/articles/from-30-estate-sale-discovery-to-135-million-abercrombie-s-shells-sets-new-auction-record",
       "source": "ArtDependence",
@@ -180,8 +180,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Guggenheim and Brooklyn Museum Unions Ratify New Contracts, Averting Strikes",
-      "titleKo": "Guggenheim and Brooklyn Museum Unions Ratify New Contracts, Averting Strikes",
-      "summaryKo": "Meanwhile, the American Folk Art Museum union ratified its inaugural contract after nearly two years of bargaining. The Whitney Museum union, however, faces a looming strike date of October 5.",
+      "titleKo": "구겐하임 및 브루클린 박물관 노조, 신규 계약 비준, 파업 철회",
+      "summaryKo": "한편, 미국 민속 미술관 노조는 거의 2년간의 교섭 끝에 취임 계약을 비준했습니다. 그러나 휘트니 박물관 노조는 10월 5일 파업 날짜가 다가오고 있습니다.",
       "url": "https://www.artnews.com/art-news/news/union-contracts-ratified-guggenheim-brooklyn-museum-1234800301",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Independent Acquired by Global Conglomerate Informa",
-      "titleKo": "Independent Acquired by Global Conglomerate Informa",
-      "summaryKo": "The London-based company reported $2.7 billion in revenue for the first half of 2026.",
+      "titleKo": "Global Conglomerate Informa가 독립 인수",
+      "summaryKo": "런던에 본사를 둔 이 회사는 2026년 상반기에 $ 27억의 매출을 올렸다고 보고했습니다.",
       "url": "https://www.artnews.com/art-news/market/independent-informa-acquisition-art-fairs-1234800312",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
