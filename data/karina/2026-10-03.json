@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T09:00:38+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "Luhring Augustine, TriBeCa 전초기지 폐쇄 보도",
+      "titleOriginal": "Luhring Augustine Reportedly Shuttering TriBeCa Outpost",
+      "summaryKo": "뉴욕 갤러리 Luhring Augustine이 TriBeCa 지점을 폐쇄한다고 Artnet News가 보도했습니다. 17 White Street에 있는 이 공간에서는 화가 Salman Toor와 Doron Langberg가 기획한 그룹 전시회 “In a Free State”가 마지막으로 개최되었습니다. 해당 쇼는 7월 31일에 종료되었으며 갤러리에서는 추가 프로그램을 발표하지 않았습니다.",
+      "url": "https://www.artforum.com/news/luhring-augustine-reportedly-closing-tribeca-outpost-1234760803/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/luhring-2.jpg?w=441"
+    },
+    {
+      "rank": 2,
+      "titleKo": "'투쟁은 천재를 만든다': 애틀랜타 아트페어는 성장하고 성숙해지면서 도시의 열심히 일하는 예술가들을 조명합니다.",
+      "titleOriginal": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
+      "summaryKo": "역대 최대 규모인 박람회의 세 번째 에디션은 10월 4일까지 2026년 애틀랜타 아트페어를 찾은 방문객을 중심으로 개장 시간 동안 엄청난 매출을 기록했습니다. 사진: Vi Dao @viavividmess 지금까지 목요일(10월 1일) Pullman Yards에서 VIP 프리뷰를 개최한 애틀랜타 아트페어의 가장 큰 에디션에서 볼 수 있는 예술 범위와 비교할 수 있는 주요 박람회는 거의 없습니다. 그곳에서는 애틀랜타 출신 예술가이자 디자이너인 Amy Rader의 혼합 매체 마노 조각, College Park 기반 예술가 Jeffrey Wilcox Paclipan이 그린 퍼즐, 애틀랜타 태생 로스앤젤레스 출신 예술가 Michael Kalish가 필름 스트립으로 만든 대중 문화 아이콘 등 83개 전시업체가 선보이는 제품이 전시됩니다.",
+      "url": "https://www.theartnewspaper.com/2026/10/02/atlanta-art-fair-matures-third-edition-local-artists-spotlight",
+      "source": "The Art Newspaper",
+      "category": "market",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?rect=0,67,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+      "rank": 3,
+      "titleKo": "Maia Ruth Lee가 간격을 구현하도록 초대합니다.",
+      "titleOriginal": "Maia Ruth Lee Invites Us to Embody the Interval",
+      "summaryKo": "작품은 이주를 모티브로 삼지만, 그 모티브 자체는 갤러리를 가로질러 이동한다. Tina Kim 갤러리, Double Vision에서 열린 Maia Ruth Lee의 개인전에는 번역이 전혀 도착하지 않습니다. 대신에 구체화되고 탐구되어야 할 조건이다.",
+      "url": "https://hyperallergic.com/maia-ruth-lee-invites-us-to-embody-the-interval/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/Mlee.jpg"
+    },
+    {
+      "rank": 4,
+      "titleKo": "Untitled Art, 휴스턴은 예술가들이 번성할 수 있는 도시를 활용합니다",
+      "titleOriginal": "Untitled Art, Houston taps into a city where artists can thrive",
+      "summaryKo": "박람회의 두 번째 판에서는 휴스턴의 갤러리, 수집가 및 기관을 강조하고 예술가들은 저렴한 가격, 강력한 연결 및 실험 정신을 지적합니다. 목요일(10월 1일) 휴스턴 박람회에서 열리는 Untitled Art에 대한 견해입니다. Courtesy Untitled Art 휴스턴에서 개최되는 Untitled Art의 두 번째 에디션(10월 4일까지)은 휴스턴의 거대한 조지 R.",
+      "url": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+      "source": "The Art Newspaper",
+      "category": "fair",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?rect=0,239,7140,4284&w=1200&h=720&q=85&fit=crop&auto=format"
+    }
+  ]
+}
