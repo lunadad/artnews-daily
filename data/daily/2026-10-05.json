@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "title": "터너 그림, 5000만 파운드 경매 최고 기록 로마서 공개",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "A Michigan collector paid $30 for a seashell painting at an estate sa…",
+        "title": "미시간의 한 수집가는 부동산 매매에서 조개껍데기 그림을 구입하기 위해 30달러를 지불했습니다. 나중에 195로 확인되었습니다.",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35…",
+        "title": "거트루드 아베크롬비 그림, 부동산 경매에서 135만 달러에 발견",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
-      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "titleKo": "터너 그림, 5000만 파운드 경매 최고 기록 로마서 공개",
+      "summaryKo": "2014년 영국 화가의 경매 최고 기록을 보유한 19세기 작품 '아벤틴 산에서 온 로마'가 론디니니 궁전에 전시된 뒤 12월 런던 소더비 경매에 출품된다.",
       "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "A Michigan collector paid $30 for a seashell painting at an estate sale; it was later identified as a 195",
-      "titleKo": "A Michigan collector paid $30 for a seashell painting at an estate sale; it was later identified as a 195",
-      "summaryKo": "Abercrombie. He knew it was valuable.",
+      "titleKo": "미시간의 한 수집가는 부동산 매매에서 조개껍데기 그림을 구입하기 위해 30달러를 지불했습니다. 나중에 195로 확인되었습니다.",
+      "summaryKo": "아베크롬비. 그는 그것이 귀중한 것임을 알았습니다.",
       "url": "https://timesofindia.indiatimes.com/world/us/a-michigan-collector-paid-30-for-a-seashell-painting-at-an-estate-sale-it-was-later-identified-as-a-1951-gertrude-abercrombie-work-now-it-has-sold-in-new-york-for-a-record-1352600/articleshow/134676403.cms",
       "source": "The Times of India",
       "sourceDomain": "indiatimes.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
-      "titleKo": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
-      "summaryKo": "The painting “Alderman Merriam’s Shells” (1951) by Gertrude Abercrombie was bought for thirty dollars at a Michigan estate sale in June by a person who wishes to remain anonymous. On Thursday, the painting went up for auction at Freeman’s in New York with a high estimate of $200,000, but when the ha",
+      "titleKo": "거트루드 아베크롬비 그림, 부동산 경매에서 135만 달러에 발견",
+      "summaryKo": "거트루드 애버크롬비(Gertrude Abercrombie)의 그림 \"Alderman Merriam's Shells\"(1951)는 익명을 요구한 한 사람이 지난 6월 미시간 부동산 매각에서 30달러에 구입했습니다. 목요일, 이 그림은 뉴욕 프리먼스 경매에 최고가 20만 달러에 올라갔습니다.",
       "url": "https://www.artforum.com/news/abercrombie-painting-estate-sale-auctions-for-1-35-million-1234760716",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,7 +180,7 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "A Show Gives a Taste of What a U.S. Pavilion in Venice Might Have Been",
-      "titleKo": "A Show Gives a Taste of What a U.S. Pavilion in Venice Might Have Been",
+      "titleKo": "베니스의 미국관이 어땠을지 엿볼 수 있는 쇼",
       "summaryKo": "",
       "url": "https://www.nytimes.com/2026/10/02/arts/design/robert-lazzarini-us-pavilion-venice-boston-exhibition.html",
       "source": "The New York Times",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Two Nazi loot claims may test California statute intended to remove roadblocks to restitution",
-      "titleKo": "Two Nazi loot claims may test California statute intended to remove roadblocks to restitution",
-      "summaryKo": "Lawsuits related to a Cranach diptych at the Norton Simon Museum of Art and a group of watercolours at the Auschwitz-Birkenau State Museum were filed two days before a 2024 California statute expired",
+      "titleKo": "두 건의 나치 전리품 주장으로 배상에 대한 장애물을 제거하려는 캘리포니아 법령이 시험될 수 있습니다.",
+      "summaryKo": "노턴 사이먼 미술관의 크라나흐 양면화와 아우슈비츠-비르케나우 주립 박물관의 수채화 그룹과 관련된 소송은 2024년 캘리포니아 법령이 만료되기 이틀 전에 제기되었습니다.",
       "url": "https://www.theartnewspaper.com/2026/09/29/nazi-loot-lawsuits-test-california-statute-restitution-norton-simon-museum-auschwitz-birkenau-state-museum",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
