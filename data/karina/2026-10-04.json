@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T09:00:36+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "세계 사이",
+      "titleOriginal": "Between Worlds",
+      "summaryKo": "뉴 뮤지엄의 아서 자파(Arthur Jafa), MoMA PS1의 테레사 마골레스(Teresa Margolles), 이름 없는 흑인 건축가의 이야기, 그리고 가을 예술 타로스코프. 나는 오전 6시에 참새와 함께 일어나고, 샤워를 하고 최대 속도로 옷을 입고, 이메일 몇 개를 확인하고, 에스프레소를 빠르게 마시고, 오전 7시 15분쯤에는 아들 르네를 유치원에 데려다 줄 준비가 됩니다. 하루를 정복할 준비를 하고 차에 시동을 걸 때, 그가 뒷좌석 부스터 시트에서 한숨을 쉬며 “이게 다 무슨 의미가 있나요?”라고 묻는 소리가 들렸습니다.",
+      "url": "https://hyperallergic.com/between-worlds/",
+      "source": "Hyperallergic",
+      "category": "museum",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/IMG_5591.jpg"
+    },
+    {
+      "rank": 2,
+      "titleKo": "뉴욕시 박물관 4곳의 노조 노동자들이 계약을 비준하고 파업 공포를 진압했습니다.",
+      "titleOriginal": "Unionized Workers at 4 NYC Museums Ratify Contracts, Quelling Strike Fears",
+      "summaryKo": "뉴욕에 있는 미국민속미술관(AFAM), 브루클린 박물관, 유대인 박물관, 솔로몬 R. 구겐하임 박물관의 노조 직원들이 각자의 경영진과 4년 계약을 비준했다고 아트뉴스가 보도했습니다. AFAM 노조는 첫 번째 계약에 합의했으며, 브루클린 박물관, 구겐하임 미술관, 미국 민속 미술관, 브루클린 박물관, 유대인 박물관, 솔로몬 R.",
+      "url": "https://www.artforum.com/news/unionized-workers-at-4-nyc-museums-ratify-contracts-1234760797/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-526751932.jpg?w=650"
+    },
+    {
+      "rank": 3,
+      "titleKo": "글로벌 대기업 Informa에 독립 인수",
+      "titleOriginal": "Independent Acquired by Global Conglomerate Informa",
+      "summaryKo": "런던에 본사를 둔 이 회사는 2026년 상반기에 27억 달러의 매출을 기록했다고 보고했습니다. 뉴욕에서 두 개의 아트 박람회를 조직하는 Independent는 런던에 본사를 둔 대기업 Informa에 인수되었습니다. 작성자: Brian Boucher, Maximilíano Durón, 2026년 10월 2일 오후 5시 21분 뉴욕에서 매년 두 개의 아트 박람회(봄에는 현대 미술, 가을에는 20세기 미술을 중심으로)를 개최하는 Independent가 런던에 본사를 둔 대기업 Informa에 인수되었습니다.",
+      "url": "https://www.artnews.com/art-news/market/independent-informa-acquisition-art-fairs-1234800312/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Atmosphere_IND_2026_652.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "Mamdani는 NYC 예술가를 위한 보조금을 두 배로 늘렸습니다.",
+      "titleOriginal": "Mamdani Doubles Grants for NYC Artists",
+      "summaryKo": "지난 20년 동안 개인 예술가에 대한 시 지원 보조금은 5,000달러로 유지되었습니다. 개별 예술가는 이제 이전 예산의 두 배인 최대 10,000달러의 시 지원 보조금을 받을 수 있다고 Zohran Mamdani 시장과 뉴욕시 문화부(DCLA)가 10월 2일 발표했습니다. DCLA는 매년 이러한 보조금을 도시 전역의 지역 파트너에게 분산시킨 후 문화 단체, 예술 비영리 단체 및 예술가에게 기금을 관리합니다.",
+      "url": "https://hyperallergic.com/mamdani-doubles-grants-for-nyc-artists/",
+      "source": "Hyperallergic",
+      "category": "artist",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/IMG_5608.jpg"
+    }
+  ]
+}
