@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T07:41:02.079+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "A Michigan collector paid $30 for a seashell painting at an estate sa…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "museum",
+        "articleType": "news",
+        "title": "전기톱을 든 91세 조각가…다큐멘터리 영화 ‘김윤신은 미술관에 없다’",
+        "summary": "전기톱을 들고 커다란 나무를 조각하는 91세 김윤신 작가. 그의 이야기를 담은 다큐멘터리 영화 김윤신은 미술관에 없다 가 6일 개막하는 부산국제영화제(BIFF) 레드카펫을 밟는다. 김 작가를 스크린의 주인공으로 세운 이는 백지숙 전 서울시립미술관장. 2일 서울의…",
+        "url": "https://www.donga.com/news/amp/all/20261004/134781774/1",
+        "source": "동아일보",
+        "publishedAt": "2026-10-04T12:09:45.000Z",
+        "coverage": 9,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/04/134781735.1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "category": "museum",
+        "articleType": "news",
+        "title": "이중섭 대표작 첫 울산 나들이…울산시립미술관 이중섭 회고전",
+        "summary": "15일부터 내년 1월17일까지 ‘황소’ 등 대표작 140점 전시",
+        "url": "https://m.mk.co.kr/amp/12166925",
+        "source": "매일경제",
+        "publishedAt": "2026-10-02T01:26:16.000Z",
+        "coverage": 6,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "general",
+        "articleType": "news",
+        "title": "샤갈부터 호크니까지...'현대미술 총아' 한자리에",
+        "summary": "샤갈부터 호크니까지...'현대미술 총아' 한자리에, 글로벌세아 '시대의 초상' 展 샤갈 드 쿠닝 호크니 쿠사마 등 현대미술 거장 총아 14인 20점 델보 3점 지난해 경매서 230억 절반 이상이 그룹 소장품",
+        "url": "https://www.hankyung.com/article/202610042244i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-04T08:40:39.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.45934682.1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "[AK WEEKLY] 아트코리아방송, 이번 주 무엇을 봐야 하는가?-‘2026년 9월 27일~10월 3일’",
+        "summary": "가을이 깊어지는 9월 마지막 주와 10월 첫 주, 문화예술계는 전통을 오늘의 언어로 다시 바라보는 움직임과 인간의 기억과 삶, 예술가의 지속 가능성을 묻는 다양한 시선으로 채워졌다. 아트코리아방송은 9월 27일부터 10월 3일까지 현장 영상과 전시, 공연, 미술비평, 해외미술, 디자인",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104846",
+        "source": "artkoreatv.com",
+        "publishedAt": "2026-10-04T17:34:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202610/104846_335359_220_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 36,
+        "category": "artist",
+        "articleType": "news",
+        "title": "‘한지로 풀어낸 시간의 흔적’…배진석 작가, 청주서 개인전",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJNVBxNzZxYXF0Vjc4bl85cTlMLWVsTHEzLVpBTnJqZFZkVVc3d095LUFKTjZmTm5ldU1OWUJIN0hZNUd0SExQOEt6VWN0RkFZblB4OU9jeVBiQkVlQVdEczFDZHlOVnRaa293S2ZKc29TalhJTnpOc9IBeEFVX3lxTFBJNVBxNzZxYXF0Vjc4bl85cTlMLWVsTHEzLVpBTnJqZFZkVVc3d095LUFKTjZmTm5ldU1OWUJIN0hZNUd0SExQOEt6VWN0RkFZblB4OU9jeVBiQkVlQVdEczFDZHlOVnRaa293S2ZKc29TalhJTnpOcw?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-02T07:09:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "487c532bea19",
+      "rank": 1,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-29T15:38:25.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/25779f3da72c7b87202dda0a67c6a91b0e5168ef-5142x3778.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "650c53b60be3",
+      "rank": 2,
+      "score": 75,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A Michigan collector paid $30 for a seashell painting at an estate sale; it was later identified as a 195",
+      "titleKo": "A Michigan collector paid $30 for a seashell painting at an estate sale; it was later identified as a 195",
+      "summaryKo": "Abercrombie. He knew it was valuable.",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-michigan-collector-paid-30-for-a-seashell-painting-at-an-estate-sale-it-was-later-identified-as-a-1951-gertrude-abercrombie-work-now-it-has-sold-in-new-york-for-a-record-1352600/articleshow/134676403.cms",
+      "source": "The Times of India",
+      "sourceDomain": "indiatimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-04T14:15:00.000Z",
+      "coverage": 2,
+      "image": "https://static.toiimg.com/thumb/msid-134676496,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e66b118603a1",
+      "rank": 3,
+      "score": 73,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
+      "titleKo": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
+      "summaryKo": "The painting “Alderman Merriam’s Shells” (1951) by Gertrude Abercrombie was bought for thirty dollars at a Michigan estate sale in June by a person who wishes to remain anonymous. On Thursday, the painting went up for auction at Freeman’s in New York with a high estimate of $200,000, but when the ha",
+      "url": "https://www.artforum.com/news/abercrombie-painting-estate-sale-auctions-for-1-35-million-1234760716",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-02T17:31:37.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Post-Conservation_Alderman-Merriams-Shells-1951.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d55cfe1210bf",
+      "rank": 4,
+      "score": 60,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "A Show Gives a Taste of What a U.S. Pavilion in Venice Might Have Been",
+      "titleKo": "A Show Gives a Taste of What a U.S. Pavilion in Venice Might Have Been",
+      "summaryKo": "",
+      "url": "https://www.nytimes.com/2026/10/02/arts/design/robert-lazzarini-us-pavilion-venice-boston-exhibition.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-04T22:24:21.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "77729d29978a",
+      "rank": 5,
+      "score": 55,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Two Nazi loot claims may test California statute intended to remove roadblocks to restitution",
+      "titleKo": "Two Nazi loot claims may test California statute intended to remove roadblocks to restitution",
+      "summaryKo": "Lawsuits related to a Cranach diptych at the Norton Simon Museum of Art and a group of watercolours at the Auschwitz-Birkenau State Museum were filed two days before a 2024 California statute expired",
+      "url": "https://www.theartnewspaper.com/2026/09/29/nazi-loot-lawsuits-test-california-statute-restitution-norton-simon-museum-auschwitz-birkenau-state-museum",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-29T17:03:01.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/886a324bdb652ccd5f1d2c2979713e6f68b3c2ca-1100x1451.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
