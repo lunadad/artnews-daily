@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T07:41:01.429+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Painting by an American artist bought at a sale for $30, then sold fo…",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Jeff Koons Appears to Be the ‘Distinguished Collector’ Offering $100 …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Jeff Koons to Auction $100 Million of Personal Art Collection",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 작가 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 1,
+      "fair": 0,
+      "artist": 2,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 83,
+        "category": "artist",
+        "articleType": "news",
+        "title": "'국민화가' 이중섭, 울산서 만난다… 작품 140여 점 한자리에",
+        "summary": "① 울산시립미술관이 10월 15일부터 2027년 1월 17일까지 이중섭 회고전을 개최했습니다. ② 국내 미술관과 유족 소장 작품 140여 점이 모이면서 대표 원화들을 한자리에서 볼 수 있게 됐습니다. ③ 전시는 작가가 머문 지역과 시기를 따라 구성했으며 일부 작품은 영상으로 보여주도록 했습니다.",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026100512580002737",
+        "source": "한국일보",
+        "publishedAt": "2026-10-05T04:10:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/10/05/123d39f3-0be6-4358-b145-53ffa2445c1f.png"
+      },
+      {
+        "rank": 2,
+        "score": 73,
+        "category": "general",
+        "articleType": "news",
+        "title": "샤갈부터 호크니까지...'현대미술 총아' 한자리에",
+        "summary": "샤갈부터 호크니까지...'현대미술 총아' 한자리에, 글로벌세아 '시대의 초상' 展 샤갈 드 쿠닝 호크니 쿠사마 등 현대미술 거장 총아 14인 20점 델보 3점 지난해 경매서 230억 절반 이상이 그룹 소장품",
+        "url": "https://www.hankyung.com/article/202610042244i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-04T08:40:39.000Z",
+        "coverage": 6,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.45934682.1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 59,
+        "category": "museum",
+        "articleType": "news",
+        "title": "설치·조각 등에 담아낸 칠곡…예태미술관서 작가 14인 전시회",
+        "summary": "(칠곡=연합뉴스) 김현태 기자 = 경북 칠곡군은 오는 25일까지 석적읍 예태미술관에서 'Re;칠곡' 전시회를 개최한다고 5일 밝혔다.",
+        "url": "https://www.yna.co.kr/view/AKR20261005037400053",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-05T05:56:05.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img2.yna.co.kr/etc/inner/KR/2026/10/05/AKR20261005037400053_01_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 59,
+        "category": "general",
+        "articleType": "news",
+        "title": "청담동 떠나 한남동으로…리움, 글로벌 화랑들 끌어모은다",
+        "summary": "청담동 떠나 한남동으로…리움, 글로벌 화랑들 끌어모은다, 국내 미술계 무게중심 이동 글래드스톤 갤러리바톤 한남행 탕컨템포러리 내년 11월 이전 \"갤러리 밀집해 컬렉터들 선호\"",
+        "url": "https://www.hankyung.com/article/2026100536371",
+        "source": "한국경제",
+        "publishedAt": "2026-10-05T08:24:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/AA.45945055.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "자연의 생명력으로 현대인의 마음을 어루만지는 안말환 작가의 DREMING전 서울아산병원 갤러리에서 개최",
+        "summary": "나무를 통해 인간의 삶과 내면을 바라보며 30여 년간 독창적인 작품세계를 구축해온 안말환 작가의 개인전 ‘DREAMING’이 10월 2일부터 15일까지 서울아산병",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5879",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-10-05T20:35:45.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202610/5879_133190_1031_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "a4b011fce432",
+      "rank": 1,
+      "score": 98,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Painting by an American artist bought at a sale for $30, then sold for $1.35 million",
+      "titleKo": "Painting by an American artist bought at a sale for $30, then sold for $1.35 million",
+      "summaryKo": "",
+      "url": "https://nashaniva.com/amp/en/406134",
+      "source": "Наша Ніва",
+      "sourceDomain": "nashaniva.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-05T18:39:09.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4e68325a1310",
+      "rank": 2,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Jeff Koons Appears to Be the ‘Distinguished Collector’ Offering $100 M. in Old and Modern Masters at Christie’s",
+      "titleKo": "Jeff Koons Appears to Be the ‘Distinguished Collector’ Offering $100 M. in Old and Modern Masters at Christie’s",
+      "summaryKo": "The auction house did not confirm the collector's identity, but two unnamed industry sources tell the New York Times that Koons is the seller.",
+      "url": "https://www.artnews.com/art-news/market/christies-100-million-auction-jeff-koons-collection-1234801007",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-05T17:13:35.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/PABLO-PICASSO-Le-Baiser-Christies.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d1c1dff047e3",
+      "rank": 3,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Jeff Koons to Auction $100 Million of Personal Art Collection",
+      "titleKo": "Jeff Koons to Auction $100 Million of Personal Art Collection",
+      "summaryKo": "Jeff Koons is set to sell eight paintings and a sculpture from his personal collection worth a collective $100 million at auction, the New York Times reports. The sale is being handled by Christie’s and will take place in New York on November 17 at the house’s evening twentieth-century sale. Titled",
+      "url": "https://www.artforum.com/news/jeff-koons-to-auction-personal-art-collection-1234760843",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-05T17:11:51.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/02/GettyImages-1354564923.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "15c27d0dd7e8",
+      "rank": 4,
+      "score": 70,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Mayor Mamdani Doubles Grants for New York Artists",
+      "titleKo": "Mayor Mamdani Doubles Grants for New York Artists",
+      "summaryKo": "New York City Mayor Zohran Mamdani and the New York City Department of Cultural Affairs (DCLA) have announced an increase in city-funded grants for individual artists and small nonprofits, from five thousand dollars to ten thousand. This is the first increase in grant awards in nearly twenty years.",
+      "url": "https://www.artforum.com/news/mayor-mamdani-doubles-grants-new-york-artists-1234760816",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-05T14:43:42.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/City_Hall_Station_32092a.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d7face93c3ea",
+      "rank": 5,
+      "score": 68,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Philip Tinari Appointed Director of Tai Kwun Arts in Hong Kong",
+      "titleKo": "Philip Tinari Appointed Director of Tai Kwun Arts in Hong Kong",
+      "summaryKo": "His appointment is among two others, with Chin Chin Teoh as Managing Director of Tai Kwun and Timothy Calnin as Director of Tai Kwun Arts Special Projects.",
+      "url": "https://www.artnews.com/art-news/news/philip-tinari-director-tai-kwun-arts-hong-kong-1234801024",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-05T18:12:52.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Outlook-3cmjtweo.jpg?w=1001",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
