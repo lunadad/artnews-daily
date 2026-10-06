@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T07:40:55.237+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "‘Jodi,’ Sotheby’s Newly-Minted Nanotyrannus, Hits the Auction Block W…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Turner painting estimated to make £50m auction record goes on view in…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Painting by an American artist bought at a sale for $30, then sold fo…",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 107,
+        "category": "museum",
+        "articleType": "news",
+        "title": "수도권 치우친 국립현대미술관… “남부권에도”",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUbERwRnd0VnZGaExvcGtaVjU4cUN5d2dBb3JPMWJ4TjM4UVhIN2daNGl6ZGUycFhiXzdCWl9sZk5KREFUYXJiM0E0T1dhZFZiRHBTNkQ2ZmF6MHZyZUNzckVfSEQ0Mlc3RXc?oc=5",
+        "source": "서울Pn",
+        "publishedAt": "2026-10-05T10:36:14.000Z",
+        "coverage": 13,
+        "qualityCoverage": 5,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 74,
+        "category": "museum",
+        "articleType": "news",
+        "title": "간송미술관, ‘상서’ 통해 조선 서화와 문화유산의 내력 재조명 전시 개최",
+        "summary": "한 신선과 사슴 한 마리가 보름달을 구경하고 있다. 세밀한 필치로 그려진 신선의 얼굴에선 운치를 즐기는 이의 여유가 느껴진다. 달을 향해 고개를 든 사슴은 짧고 조밀한 필선으로 묘사돼 생동감이 넘친다.이 그림은 서울 성북구 간송미술관에 전시된 조선 중기 사대부화가인 양송당 김시(152…",
+        "url": "https://www.donga.com/news/amp/all/20261006/134794098/1",
+        "source": "동아일보",
+        "publishedAt": "2026-10-06T06:58:22.000Z",
+        "coverage": 5,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134793574.1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "'미술 작가 데뷔' 한미반도체 회장, 네팔 홍수에 1억·작품 내놨다",
+        "summary": "'미술 작가 데뷔' 한미반도체 회장, 네팔 홍수에 1억·작품 내놨다, 안옥희 기자, 한경BUSINESS",
+        "url": "https://magazine.hankyung.com/business/amp/202610066091b",
+        "source": "한경매거진&북",
+        "publishedAt": "2026-10-06T07:44:37.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/AD.45955601.1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "갤러리 벨라 \"4개의 방\" 전 개최",
+        "summary": "갤러리벨라(인천 제물포구 신포로23번길 66)는 10월6일부터 12일까지 \"4개의 방\"전을 개최 한다.4개의 방은 한 작업실에서 10여년을 함께 작업하며 세월을",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=5885",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-10-06T22:16:13.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202610/5885_133291_166_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "진민욱 Palimpsest(겹쳐쓰기) 대구광역시 동구 021갤러리에서 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBybGdTd2xsckRrandNSENzVFZJb2FvaWNGZFhPcjc5RGpFd2RCS1FHbjIyai0xb1ltOVJYSS12UzNRRU41ejc4b2NDWmVWZ2I4WU9mVnNZTkE3cDI5TkgxR0xLTkR3d2RMRVVSX0lIRGY?oc=5",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-10-06T21:46:26.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "bf89545ef446",
+      "rank": 1,
+      "score": 96,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "‘Jodi,’ Sotheby’s Newly-Minted Nanotyrannus, Hits the Auction Block With $9 M. Estimate",
+      "titleKo": "‘Jodi,’ Sotheby’s Newly-Minted Nanotyrannus, Hits the Auction Block With $9 M. Estimate",
+      "summaryKo": "According to a statement from Sotheby’s, “Jodi” is one of only three known Nanotyrannus specimens.",
+      "url": "https://www.artnews.com/art-news/news/jodi-sothebys-dinosaur-skeleton-nanotyrannus-auction-1234801271",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-06T20:39:01.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/jodi-nanotyrannus-sothebys-auction.webp?w=1000",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "487c532bea19",
+      "rank": 2,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "titleKo": "Turner painting estimated to make £50m auction record goes on view in Rome",
+      "summaryKo": "The 19th century work ‘Rome, from Mount Aventine’, which holds the British painter's auction record from 2014, is on display at the Palazzo Rondinini before going under the hammer at Sotheby's London in December",
+      "url": "https://www.theartnewspaper.com/2026/09/29/turner-painting-valued-at-%C2%A350m-goes-on-view-in-rome",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-09-29T15:38:25.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/25779f3da72c7b87202dda0a67c6a91b0e5168ef-5142x3778.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a4b011fce432",
+      "rank": 3,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Painting by an American artist bought at a sale for $30, then sold for $1.35 million",
+      "titleKo": "Painting by an American artist bought at a sale for $30, then sold for $1.35 million",
+      "summaryKo": "",
+      "url": "https://nashaniva.com/amp/en/406134",
+      "source": "Наша Ніва",
+      "sourceDomain": "nashaniva.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-05T18:39:09.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "98380bc96644",
+      "rank": 4,
+      "score": 81,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Foster + Partners Completes Addition to Bilbao Fine Arts Museum",
+      "titleKo": "Foster + Partners Completes Addition to Bilbao Fine Arts Museum",
+      "summaryKo": "The British design studio Foster + Partners and Bilbao architect Luis María Uriarte have expanded the Bilbao Fine Arts Museum in Spain, with an 180-foot-long elevated gallery. The €45 million ($50 million) project will double the current exhibition space and remodel existing galleries. This new exte",
+      "url": "https://www.artforum.com/news/foster-partners-completes-addition-to-bilbao-fine-arts-1234760931",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-06T22:04:45.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-artforum-02.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "696f77abeade",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Phoenix Art Museum Receives $5 M. Donation to Expand Sri Lankan and South Asian Art Galleries",
+      "titleKo": "Phoenix Art Museum Receives $5 M. Donation to Expand Sri Lankan and South Asian Art Galleries",
+      "summaryKo": "Philanthropist Sukumar Nagendran's gift will also support acquisitions, scholarly research, and public programs on Sri Lankan art.",
+      "url": "https://www.artnews.com/art-news/news/phoenix-art-museum-sukumar-nagendran-donation-1234801217",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-06T18:37:04.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2020/03/phoenix-museum.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
