@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T09:00:37+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "Foster + Partners, 빌바오 미술관 증축 완료",
+      "titleOriginal": "Foster + Partners Completes Addition to Bilbao Fine Arts Museum",
+      "summaryKo": "영국 디자인 스튜디오 Foster + Partners와 빌바오 건축가 Luis María Uriarte는 스페인 빌바오 미술관을 180피트 길이의 고가 갤러리로 확장했습니다. 4,500만 유로(5,000만 달러) 규모의 이 프로젝트는 현재 전시 공간을 두 배로 늘리고 기존 갤러리를 리모델링할 것입니다. Agravitas라고 불리는 이 새로운 확장은 \"떠다니는 파빌리온\"으로 묘사되었습니다.",
+      "url": "https://www.artforum.com/news/foster-partners-completes-addition-to-bilbao-fine-arts-1234760931/",
+      "source": "Artforum",
+      "category": "museum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/foster-partners-bilbao-fine-arts-museum-completes-artforum-02.jpg?w=650"
+    },
+    {
+      "rank": 2,
+      "titleKo": "자하 하디드 재단(Zaha Hadid Foundation)은 고(故) 건축가의 이전 본부를 공공 예술 공간으로 재개관합니다.",
+      "titleOriginal": "The Zaha Hadid Foundation Is Reopening the Late Architect’s Former HQ as a Public Arts Space",
+      "summaryKo": "10 Bowling Green Lane은 \"자하 하디드: 퍼포먼스의 건축\" 전시회를 통해 재개장합니다. Clerkenwell의 10 Bowling Green Lane에서는 \"Zaha Hadid: Architecture of Performance\"라는 제목의 전시회도 열릴 예정입니다. 자하 하디드 사망 10주년을 기념하기 위해 자하 하디드 재단은 건축가의 이전 본사를 10월 29일에 재개관합니다.",
+      "url": "https://www.artnews.com/art-news/news/zaha-hadid-foundation-reopening-headquarters-exhibition-1234801315/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Portrait-of-Dame-Zaha-Hadid.-Image-courtesy-of-Mary-McCartney.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "취리히 기반 딜러 Eva Presenhuber, '센티멘탈' 비엔나 갤러리 공간 폐쇄",
+      "titleOriginal": "Zurich-Based Dealer Eva Presenhuber to Close ‘Sentimental’ Vienna Gallery Space",
+      "summaryKo": "존경받는 딜러는 취리히에 있는 자신의 매장이 \"잘 지내고 있다\"고 말했지만 그녀가 변덕스럽게 오픈한 비엔나 갤러리는 유지 관리 비용이 너무 많이 들었습니다. 취리히에 본사를 둔 딜러 Eva Presenhuber는 비엔나에서 자신의 갤러리를 폐쇄합니다. 딜러인 Eva Presenhuber는 ARTnews에 12월 초 비엔나에 있는 자신의 공간을 폐쇄한다고 말했습니다.",
+      "url": "https://www.artnews.com/art-news/market/eva-presenhuber-vienna-gallery-closing-1234801295/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/eva.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "금지 도서 주간을 위한 예술 읽기",
+      "titleOriginal": "Art Reads for Banned Books Week",
+      "summaryKo": "노예 무역에서 J. 터너의 역할, 뉴욕 아트북페어의 진과 리소 판화, 그리고 지금 우리가 읽고 있는 책들. 며칠 전, 나는 고인이 된 할머니가 텍사스에서 공립학교 사서로 40년 동안 근무하면서 남긴 메모, 독서 목록, 하루살이 기록을 꼼꼼히 살펴보고 있었습니다.",
+      "url": "https://hyperallergic.com/art-reads-for-banned-books-week/",
+      "source": "Hyperallergic",
+      "category": "fair",
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/10/IMG_7090.jpg"
+    }
+  ]
+}
