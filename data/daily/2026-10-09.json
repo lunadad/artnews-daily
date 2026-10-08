@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "title": "부유한 Z 세대 수집가가 미술 시장의 가장 큰 지출자라는 조사 결과가 나왔습니다.",
         "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+        "title": "루브르 아부다비, 새 관장에 소우라야 누자임 임명",
         "why": "10개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Doro…",
+        "title": "추모: 아그네스 군드(Agnes Gund)에서 도로시 보겔(Dorothy Vogel)까지, 잃어버린 예술 수집가들을 기억하며",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "titleKo": "부유한 Z 세대 수집가가 미술 시장의 가장 큰 지출자라는 조사 결과가 나왔습니다.",
+      "summaryKo": "아트바젤과 UBS가 최근 진행한 '글로벌 컬렉팅 조사'에서도 딜러와 경매장을 거치지 않고 아티스트로부터 직접 구매하는 바이어가 늘어나고 있는 것으로 나타났다.",
       "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
-      "titleKo": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
-      "summaryKo": "Noujaim previously served as the United Arab Emirates-based museum’s scientific, curatorial and collections management director",
+      "titleKo": "루브르 아부다비, 새 관장에 소우라야 누자임 임명",
+      "summaryKo": "Noujaim은 이전에 아랍에미리트에 소재한 박물관의 과학, 큐레이터 및 컬렉션 관리 이사를 역임했습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/07/louvre-abu-dhabi-appoints-souraya-noujaim-as-new-director",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Dorothy Vogel",
-      "titleKo": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Dorothy Vogel",
-      "summaryKo": "Curators and collectors bid farewell to their friends.",
+      "titleKo": "추모: 아그네스 군드(Agnes Gund)에서 도로시 보겔(Dorothy Vogel)까지, 잃어버린 예술 수집가들을 기억하며",
+      "summaryKo": "큐레이터와 수집가들이 친구들과 작별을 고합니다.",
       "url": "https://www.artnews.com/list/art-news/news/in-memoriam-top-art-collectors-remembrances-agnes-gund-1234800494",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "analysis",
       "titleOriginal": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South",
-      "titleKo": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South",
-      "summaryKo": "/PRNewswire/ -- Ahead of the openings of Frieze London and Art Basel Paris, Artprice announces the publication of its 33rd annual Contemporary Art Market...",
+      "titleKo": "Artprice, 2026년 제33차 연례 현대 미술 시장 보고서 발표: 기록적인 거래, 가격 동향, 시장 지배력의 균형, 남반구의 예술가",
+      "summaryKo": "/PRNewswire/ -- Frieze London과 Art Basel Paris 개장을 앞두고 Artprice는 제33회 연례 현대 미술 마켓을 개최한다고 발표했습니다.",
       "url": "https://www.prnewswire.com/news-releases/artprice-releases-its-33rd-annual-contemporary-art-market-report-for-2026-record-transactions-price-trends-the-balance-of-market-power-and-artists-from-the-global-south-302901559.html",
       "source": "PR Newswire",
       "sourceDomain": "prnewswire.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Gochman Family Collection to Open Hudson Valley Art Space",
-      "titleKo": "Gochman Family Collection to Open Hudson Valley Art Space",
-      "summaryKo": "The Gochman Family Collection (GFC) has announced that it will open Branchline, a permanent home for its collection of contemporary Indigenous and American art, on November 6 in Katonah, NY. Three historic buildings make up the ten-thousand square-foot new space, which features a main gallery, studi",
+      "titleKo": "Gochman Family Collection, Hudson Valley Art Space 개장",
+      "summaryKo": "Gochman Family Collection(GFC)은 11월 6일 뉴욕 주 카토나에서 현대 원주민 및 미국 예술 컬렉션을 위한 영구 장소인 Branchline을 개장할 것이라고 발표했습니다. 3개의 유서 깊은 건물이 메인 갤러리, 스튜디오, 스튜디오를 갖춘 1만 평방피트 규모의 새로운 공간을 구성합니다.",
       "url": "https://www.artforum.com/news/gochman-family-collection-to-open-hudson-valley-space-1234761016",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
