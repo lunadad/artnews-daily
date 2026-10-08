@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T07:40:50.373+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+        "why": "10개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Doro…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 101,
+        "category": "museum",
+        "articleType": "news",
+        "title": "공공미술관으로 간 미술은행 소장품…서울·김해서 연계 전시",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 국립현대미술관 미술은행과 정부미술은행 소장품이 공공미술관의 기획전시를 통해 관람객과 만난다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261008040700005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-08T00:15:18.000Z",
+        "coverage": 29,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img4.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008040700005_01_i_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 80,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 4년 만에 부산 경매…김종식·백남준 등 출품",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 서울옥션이 4년 만에 부산에서 미술품 경매를 연다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261008059400005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-08T01:09:24.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008059400005_02_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 67,
+        "category": "fair",
+        "articleType": "news",
+        "title": "국제갤러리, 프리즈 런던 출격…유영국·김윤신·김세은 등 출품",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 국제갤러리가 오는 14~18일 영국 런던 리젠트 파크에서 열리는 ‘프리즈 런던(Frieze London) 2026’에 참가한다. 국제갤러리는 부스 B24에서 박서보, 유영국, 하종현 등 한국 근현대미술 거장부터 김윤신, 양혜규, 강서경, 김세은 등 동시대 작가와 아니쉬 카푸어, 줄리안 오피 등 해외 작가까지 세대를 ..",
+        "url": "https://www.newsis.com/view/NISX20261008_0003818499",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-08T00:18:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/08/NISI20261008_0002258276_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "인천공예명장 8인 작품, 서울 인사동서 12일까지 전시",
+        "summary": "[인천=뉴시스] 이루비 기자 = 인천시가 지정한 공예명장 8명의 작품을 서울 종로구 인사동에서 만나볼 수 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261008_0003818767",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-08T01:34:36.000Z",
+        "coverage": 6,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/08/NISI20261008_0002258462_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 58,
+        "category": "general",
+        "articleType": "news",
+        "title": "과학의 땅 중심에 선 금속 추상 조각… '낯선 자'와 마주하라",
+        "summary": "① 대전 카이스트미술관 앞 잔디밭에는 엄태정의 35m 알루미늄 기둥 조각 3점이 설치됐습니다. ② 엄태정은 조각 제작이 낯선 존재와 마주하는 과정이며 과학과 예술의 목표가 닮았다고 설명했습니다. ③ 카이스트미술관은 기증 작품을 중심으로 전시를 이어가며 엄태정 전시는 2027년 6월 30일까지 진행됩니다.",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026100802520000805",
+        "source": "한국일보",
+        "publishedAt": "2026-10-08T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/10/08/d47b7b38-7704-4a1b-bef2-ad19461247b6.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "1b53cde2b055",
+      "rank": 1,
+      "score": 139,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-08T04:04:38.000Z",
+      "coverage": 4,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1cb7c53db7b753f12a21258eb0025e4f9fa1ad1c-2480x1653.jpg?rect=0,83,2480,1488&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "840e95909499",
+      "rank": 2,
+      "score": 108,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+      "titleKo": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+      "summaryKo": "Noujaim previously served as the United Arab Emirates-based museum’s scientific, curatorial and collections management director",
+      "url": "https://www.theartnewspaper.com/2026/10/07/louvre-abu-dhabi-appoints-souraya-noujaim-as-new-director",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-07T12:04:14.000Z",
+      "coverage": 10,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/156322137460270fb3ca567916f84bfb08d2aeb4-667x664.png?rect=0,132,667,400&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "05a8c0c86aac",
+      "rank": 3,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Dorothy Vogel",
+      "titleKo": "In Memoriam: Remembering Art Collectors Lost, From Agnes Gund to Dorothy Vogel",
+      "summaryKo": "Curators and collectors bid farewell to their friends.",
+      "url": "https://www.artnews.com/list/art-news/news/in-memoriam-top-art-collectors-remembrances-agnes-gund-1234800494",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-08T21:00:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/In-Memoriam.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5c97b0b8d613",
+      "rank": 4,
+      "score": 84,
+      "category": "market",
+      "articleType": "analysis",
+      "titleOriginal": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South",
+      "titleKo": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South",
+      "summaryKo": "/PRNewswire/ -- Ahead of the openings of Frieze London and Art Basel Paris, Artprice announces the publication of its 33rd annual Contemporary Art Market...",
+      "url": "https://www.prnewswire.com/news-releases/artprice-releases-its-33rd-annual-contemporary-art-market-report-for-2026-record-transactions-price-trends-the-balance-of-market-power-and-artists-from-the-global-south-302901559.html",
+      "source": "PR Newswire",
+      "sourceDomain": "prnewswire.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "coverage": 2,
+      "image": "https://mmx.prnewswire.com/media/MS2004469/img1-artprices-2026-contemporary-art-market-report-cover-featuring-i-see-gen.jpg?id=OA2992975&p=facebook",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d78fbee2d4be",
+      "rank": 5,
+      "score": 70,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Gochman Family Collection to Open Hudson Valley Art Space",
+      "titleKo": "Gochman Family Collection to Open Hudson Valley Art Space",
+      "summaryKo": "The Gochman Family Collection (GFC) has announced that it will open Branchline, a permanent home for its collection of contemporary Indigenous and American art, on November 6 in Katonah, NY. Three historic buildings make up the ten-thousand square-foot new space, which features a main gallery, studi",
+      "url": "https://www.artforum.com/news/gochman-family-collection-to-open-hudson-valley-space-1234761016",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-08T16:24:57.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Unknown.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
