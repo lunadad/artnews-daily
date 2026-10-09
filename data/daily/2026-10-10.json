@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T07:40:58.761+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술계 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 80,
+        "category": "general",
+        "articleType": "news",
+        "title": "“미술도 증발한다”…백남준부터 디지털·AI 시대까지 37점",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 캔버스와 조각처럼 손으로 만질 수 있는 물질에서 사진과 영상, 사운드와 디지털 정보로. 기술이 달라질 때마다 미술의 형태도 바뀌었다.백남준과 박현기에서 출발해 동시대 복합매체 미술의 변화를 살펴보는 ‘증발 시대의 예술: Art in the Age of Vaporization’이 8일 성남큐브미술관에서 개막했다.국립현..",
+        "url": "https://www.newsis.com/view/NISX20261008_0003819200",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-09T22:31:00.000Z",
+        "coverage": 31,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/08/NISI20261008_0002258725_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 74,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 4년 만에 부산 경매…김종식·백남준 등 출품",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 서울옥션이 4년 만에 부산에서 미술품 경매를 연다.",
+        "url": "https://www.yna.co.kr/view/AKR20261008059400005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-08T01:09:24.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008059400005_02_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "general",
+        "articleType": "news",
+        "title": "'세계 200대 미술품 수집가'에 이서현·김웅기·서경배",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 미국의 미술전문지 아트뉴스(ARTnews)가 선정한 세계 200대 미술품 수집가(컬렉터)에 이서현 삼성물산 사...",
+        "url": "https://www.yna.co.kr/view/AKR20261007154700005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-07T07:20:04.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/10/07/AKR20261007154700005_02_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 54,
+        "category": "museum",
+        "articleType": "news",
+        "title": "리얼리즘 대가 오윤 작고 40주기 기리는 깊고 넓은 전시들",
+        "summary": "1970년대 초중반 유신시대는 현실을 담은 그림은 모조리 배척하고 질식시켰다. 한국 리얼리즘의 수난기였던 이 험악한 시절, 소설가 오영수의 아들로 서울대 조각과를 갓 졸업한 청년 작가 오윤(1945~1986)은 현실 한가운데로 뛰어들어 눈과 손의 기운을 벼렸다. 경주에",
+        "url": "https://www.hani.co.kr/arti/culture/music/1281664.html",
+        "source": "한겨레",
+        "publishedAt": "2026-10-09T16:12:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/1050/765/imgdb/original/2026/1009/20261009501110.webp"
+      },
+      {
+        "rank": 5,
+        "score": 54,
+        "category": "museum",
+        "articleType": "news",
+        "title": "인천공예명장 8인 작품, 서울 인사동서 12일까지 전시",
+        "summary": "[인천=뉴시스] 이루비 기자 = 인천시가 지정한 공예명장 8명의 작품을 서울 종로구 인사동에서 만나볼 수 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261008_0003818767",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-08T01:34:36.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/08/NISI20261008_0002258462_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "1b53cde2b055",
+      "rank": 1,
+      "score": 113,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-08T04:04:38.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1cb7c53db7b753f12a21258eb0025e4f9fa1ad1c-2480x1653.jpg?rect=0,83,2480,1488&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "01f46e8c0ece",
+      "rank": 2,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
+      "titleKo": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
+      "summaryKo": "The estimate for the sale in November is $12-$18 million.",
+      "url": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T15:58:35.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/The_Bulgari_Pink_a_24_carat_Fancy_Intense_Pink_diamond.jpg?w=800",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "866fc174f752",
+      "rank": 3,
+      "score": 84,
+      "category": "market",
+      "articleType": "pr",
+      "titleOriginal": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+      "titleKo": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+      "summaryKo": "The inaugural iteration of Santa Fe Invitational will take place April 8–11, 2027 at the Santa Fe Convention Center, hosting some forty-five international galleries as well as artists, collectors, and various local and international institutions. A press release describes SFI as a “cultural summit b",
+      "url": "https://www.artforum.com/news/santa-fe-invitational-unveils-plans-inaugural-edition-1234761156",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T19:17:46.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-489052091.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "840e95909499",
+      "rank": 4,
+      "score": 78,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+      "titleKo": "Louvre Abu Dhabi appoints Souraya Noujaim as new director",
+      "summaryKo": "Noujaim previously served as the United Arab Emirates-based museum’s scientific, curatorial and collections management director",
+      "url": "https://www.theartnewspaper.com/2026/10/07/louvre-abu-dhabi-appoints-souraya-noujaim-as-new-director",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-07T11:59:33.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/156322137460270fb3ca567916f84bfb08d2aeb4-667x664.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "dedcd532778d",
+      "rank": 5,
+      "score": 65,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Belinda Tate to Step Down as Executive Director of Indianapolis Museum of Art",
+      "titleKo": "Belinda Tate to Step Down as Executive Director of Indianapolis Museum of Art",
+      "summaryKo": "Belinda Tate is leaving the Indianapolis Museum of Art (IMA) at Newfields after three years as executive director, local news outlet Mirror Indy reports. Today is her last day in the role. Tate was hired in 2023 by Colette Pierce Burnette, then CEO and president of Newfields, following a years-long",
+      "url": "https://www.artforum.com/news/belinda-tate-executive-director-of-ima-newfields-leaving-1234761138",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T15:05:44.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
