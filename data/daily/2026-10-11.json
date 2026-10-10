@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring …",
+        "title": "$ 18M 가격표가 부착된 24캐럿 ‘팬시 인텐스 핑크’ 다이아몬드 링이 크리스티 제네바 경매장으로 향합니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "title": "부유한 Z세대 수집가들은 미술 시장에서 가장 큰 지출자입니다, 설문 조사 결과",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Police recover Renoir paintings stolen from French museum",
+        "title": "프랑스 박물관에서 도난당한 르누아르의 그림을 복구하는 경찰",
         "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
-      "titleKo": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
-      "summaryKo": "The estimate for the sale in November is $12-$18 million.",
+      "titleKo": "$ 18M 가격표가 부착된 24캐럿 ‘팬시 인텐스 핑크’ 다이아몬드 링이 크리스티 제네바 경매장으로 향합니다.",
+      "summaryKo": "11월 판매 예상액은 $ 12 ~ $ 1,800만입니다.",
       "url": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "titleKo": "부유한 Z세대 수집가들은 미술 시장에서 가장 큰 지출자입니다, 설문 조사 결과",
+      "summaryKo": "아트 바젤 (Art Basel) 과 UBS의 최신 \"글로벌 수집 설문 조사 (Survey of Global Collecting)\" 에 따르면 딜러와 경매장을 우회하여 아티스트로부터 직접 구매하는 구매자가 증가하고 있는 것으로 나타났습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Police recover Renoir paintings stolen from French museum",
-      "titleKo": "Police recover Renoir paintings stolen from French museum",
-      "summaryKo": "Six suspects have also been arrested in connection to last month's burglary at the Renoir Museum in Cagnes-sur-Mer",
+      "titleKo": "프랑스 박물관에서 도난당한 르누아르의 그림을 복구하는 경찰",
+      "summaryKo": "지난달 카뉴쉬르메르 르누아르 박물관 강도 사건과 관련해 용의자 6명도 체포됐다.",
       "url": "https://www.theartnewspaper.com/2026/10/09/stolen-renoir-paintings-recovered-france",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "pr",
       "titleOriginal": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
-      "titleKo": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
-      "summaryKo": "The inaugural iteration of Santa Fe Invitational will take place April 8–11, 2027 at the Santa Fe Convention Center, hosting some forty-five international galleries as well as artists, collectors, and various local and international institutions. A press release describes SFI as a “cultural summit b",
+      "titleKo": "산타페 인비테이셔널, 취임식 개최 계획 공개",
+      "summaryKo": "산타페 인비테이셔널 (Santa Fe Invitational) 의 첫 번째 행사는 2027년 4월 8일부터 11일까지 산타페 컨벤션 센터에서 열리며, 45개의 국제 갤러리와 예술가, 수집가, 다양한 지역 및 국제 기관이 참여합니다. 보도 자료는 SFI를 \"문화적 정상 회담\" 이라고 설명합니다.",
       "url": "https://www.artforum.com/news/santa-fe-invitational-unveils-plans-inaugural-edition-1234761156",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "A New AI Tool Shows Galleries’ Gender Balance",
-      "titleKo": "A New AI Tool Shows Galleries’ Gender Balance",
-      "summaryKo": "Art historian Hall W. Rockefeller has designed an AI tool that shows the gender balance of any gallery’s roster of artists. Rockefeller designed the tool to advance the mission of “Less Than Half,” an artist network she founded to advocate for the recognition of women artists. The program allows use",
+      "titleKo": "갤러리의 성별 균형을 보여주는 새로운 AI 도구",
+      "summaryKo": "미술사학자 홀 더블유 록펠러 (Hall W. Rockefeller) 는 모든 갤러리의 예술가 명단의 성별 균형을 보여주는 인공지능 도구를 설계했습니다. 록펠러는 여성 예술가의 인정을 옹호하기 위해 설립한 예술가 네트워크인 \"Less Than Half\" 의 사명을 진전시키기 위해 이 도구를 설계했습니다. 이 프로그램은 사용을 허용합니다",
       "url": "https://www.artforum.com/news/new-ai-tool-shows-galleries-gender-balance-1234761151",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
