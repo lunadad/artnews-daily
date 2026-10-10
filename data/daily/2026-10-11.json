@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T07:41:01.838+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Police recover Renoir paintings stolen from French museum",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 76,
+        "category": "museum",
+        "articleType": "news",
+        "title": "김해시립김영원미술관, 예술영화 야외상영 문화행사",
+        "summary": "[김해=뉴시스] 김상우 기자 = 경남 김해시립김영원미술관은 예술영화 야외상영 특별한 문화행사를 진행한다고 9일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261009_0003820041",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-08T23:25:55.000Z",
+        "coverage": 24,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/09/NISI20261009_0002259320_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 68,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 4년 만에 부산 경매…김종식·백남준 등 출품",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 서울옥션이 4년 만에 부산에서 미술품 경매를 연다.",
+        "url": "https://www.yna.co.kr/view/AKR20261008059400005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-08T01:09:24.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/08/AKR20261008059400005_02_i_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 44,
+        "category": "museum",
+        "articleType": "news",
+        "title": "리얼리즘 대가 오윤 작고 40주기 기리는 깊고 넓은 전시들",
+        "summary": "1970년대 초중반 유신시대는 현실을 담은 그림은 모조리 배척하고 질식시켰다. 한국 리얼리즘의 수난기였던 이 험악한 시절, 소설가 오영수의 아들로 서울대 조각과를 갓 졸업한 청년 작가 오윤(1945~1986)은 현실 한가운데로 뛰어들어 눈과 손의 기운을 벼렸다. 경주에",
+        "url": "https://www.hani.co.kr/arti/culture/music/1281664.html",
+        "source": "한겨레",
+        "publishedAt": "2026-10-09T16:12:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/1050/765/imgdb/original/2026/1009/20261009501110.webp"
+      },
+      {
+        "rank": 4,
+        "score": 42,
+        "category": "general",
+        "articleType": "news",
+        "title": "“미술도 증발한다”…백남준부터 디지털·AI 시대까지 37점",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 캔버스와 조각처럼 손으로 만질 수 있는 물질에서 사진과 영상, 사운드와 디지털 정보로",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261008_0003819200",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-09T22:31:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/08/NISI20261008_0002258725_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 42,
+        "category": "artist",
+        "articleType": "news",
+        "title": "떼아트갤러리, 장영은 개인전 ‘영원의 시간 아카이브’",
+        "summary": "서울 종로구 평동 떼아트갤러리가 오는 10월 17일부터 27일까지 장영은 작가의 개인전 ‘영원의 시간 아카이브(An Archive of Eternal Time)’를 개최한다.숙명여자대학교 독일언어문화학과에서 30여 년간 재직한 뒤 지난해 정년퇴직한 장영은은 문학과 미술, 언어와 기억을",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=104958",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-10-10T01:10:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202610/104958_335888_659_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "01f46e8c0ece",
+      "rank": 1,
+      "score": 89,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
+      "titleKo": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
+      "summaryKo": "The estimate for the sale in November is $12-$18 million.",
+      "url": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T15:58:35.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/The_Bulgari_Pink_a_24_carat_Fancy_Intense_Pink_diamond.jpg?w=800",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1b53cde2b055",
+      "rank": 2,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
+      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-08T04:01:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/1cb7c53db7b753f12a21258eb0025e4f9fa1ad1c-2480x1653.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "901b91be207f",
+      "rank": 3,
+      "score": 72,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Police recover Renoir paintings stolen from French museum",
+      "titleKo": "Police recover Renoir paintings stolen from French museum",
+      "summaryKo": "Six suspects have also been arrested in connection to last month's burglary at the Renoir Museum in Cagnes-sur-Mer",
+      "url": "https://www.theartnewspaper.com/2026/10/09/stolen-renoir-paintings-recovered-france",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T12:27:47.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/354d5856829c86da83e0aca8cd3c7526f25e06f3-3000x2000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "866fc174f752",
+      "rank": 4,
+      "score": 70,
+      "category": "market",
+      "articleType": "pr",
+      "titleOriginal": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+      "titleKo": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+      "summaryKo": "The inaugural iteration of Santa Fe Invitational will take place April 8–11, 2027 at the Santa Fe Convention Center, hosting some forty-five international galleries as well as artists, collectors, and various local and international institutions. A press release describes SFI as a “cultural summit b",
+      "url": "https://www.artforum.com/news/santa-fe-invitational-unveils-plans-inaugural-edition-1234761156",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T19:17:46.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-489052091.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "0993a5a65173",
+      "rank": 5,
+      "score": 55,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "A New AI Tool Shows Galleries’ Gender Balance",
+      "titleKo": "A New AI Tool Shows Galleries’ Gender Balance",
+      "summaryKo": "Art historian Hall W. Rockefeller has designed an AI tool that shows the gender balance of any gallery’s roster of artists. Rockefeller designed the tool to advance the mission of “Less Than Half,” an artist network she founded to advocate for the recognition of women artists. The program allows use",
+      "url": "https://www.artforum.com/news/new-ai-tool-shows-galleries-gender-balance-1234761151",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-09T16:41:20.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
