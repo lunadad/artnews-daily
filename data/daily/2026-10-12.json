@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring …",
+        "title": "$ 18M 가격표가 부착된 24캐럿 ‘팬시 인텐스 핑크’ 다이아몬드 링이 크리스티 제네바 경매장으로 향합니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Wealthy Gen Z collectors are the art market’s biggest spenders, surve…",
+        "title": "부유한 Z세대 수집가들은 미술 시장에서 가장 큰 지출자입니다, 설문 조사 결과",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Simon de Pury: ‘The art market is ripe for disruption’",
+        "title": "시몬 드 퓨리: ‘미술 시장이 혼란에 휩싸였다’",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
-      "titleKo": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
-      "summaryKo": "The estimate for the sale in November is $12-$18 million.",
+      "titleKo": "$ 18M 가격표가 부착된 24캐럿 ‘팬시 인텐스 핑크’ 다이아몬드 링이 크리스티 제네바 경매장으로 향합니다.",
+      "summaryKo": "11월 판매 예상액은 $ 12 ~ $ 1,800만입니다.",
       "url": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "titleKo": "부유한 Z세대 수집가들은 미술 시장에서 가장 큰 지출자입니다, 설문 조사 결과",
+      "summaryKo": "아트 바젤 (Art Basel) 과 UBS의 최신 \"글로벌 수집 설문 조사 (Survey of Global Collecting)\" 에 따르면 딜러와 경매장을 우회하여 아티스트로부터 직접 구매하는 구매자가 증가하고 있는 것으로 나타났습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Simon de Pury: ‘The art market is ripe for disruption’",
-      "titleKo": "Simon de Pury: ‘The art market is ripe for disruption’",
-      "summaryKo": "The star auctioneer tells Swissinfo that the art market's future depends on technology and tearing down its walls of exclusivity.",
+      "titleKo": "시몬 드 퓨리: ‘미술 시장이 혼란에 휩싸였다’",
+      "summaryKo": "스타 경매인은 Swissinfo에 예술 시장의 미래는 기술과 독점의 벽을 허물어 버리는 데 달려 있다고 말합니다.",
       "url": "https://www.swissinfo.ch/eng/culture/simon-de-pury-the-art-market-is-ripe-for-disruption/92179566",
       "source": "SWI swissinfo.ch",
       "sourceDomain": "swissinfo.ch",
@@ -180,7 +180,7 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "‘What could be discovered? What is new there?’: blockbuster exhibition celebrates Roy Lichtenstein",
-      "titleKo": "‘What could be discovered? What is new there?’: blockbuster exhibition celebrates Roy Lichtenstein",
+      "titleKo": "‘무엇을 발견할 수 있을까? What is new there?’: Roy Lichtenstein을 기념하는 블록버스터 전시회",
       "summaryKo": "",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPel90WHh6cnkwTWtGcDNWcmZWVzc3enpUcWxoQlZueFlvY1BJV096cjUtb0l1QThMYTk1ZWxHMFFHbmx5WGlBQXZfbzlHUkYwa3FPSDZXQWlqNVdMS0M4dDh0dkJEQnJrWjlQYnlTU3RMdU5hU3pxUXBJYVhpbDg1U0NGcGd1TTRCMFItS3BDTUFVUS1raVFpc0h5SQ?oc=5",
       "source": "The Guardian",
@@ -200,7 +200,7 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Hamra Abbas and Imran Qureshi bring Pakistani art to inaugural Frieze Abu Dhabi",
-      "titleKo": "Hamra Abbas and Imran Qureshi bring Pakistani art to inaugural Frieze Abu Dhabi",
+      "titleKo": "함라 압바스 (Hamra Abbas) 와 이므란 쿠레시 (Imran Qureshi) 가 파키스탄 예술을 선보여 프리즈 아부다비 (Frieze Abu Dhabi)",
       "summaryKo": "",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc05UUWZiY0QtdU5SZlNRdWtzOUYzaWhmV2xOQWgyNkhlMjc0MEhrbEh5TDJlSUhJMU1laXhZX1A5ZFVrU0tlUk0zcXZ5MzBJdUV0a3d6WFVHQ3hVTXRMWXdJaFdUS0RhUnNYRDAtRUtxNG43MkNXejRIWlU4b05IcC04UWVCeU9OVFdTZXNXUjltOENRVGEtTHV1UXIwckE1MGs4enFR?oc=5",
       "source": "PakTribune",
