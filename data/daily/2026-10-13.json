@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Tyeb Mehta's 'Rickshaw Puller' fetches record 69 crore",
+        "title": "Tyeb Mehta의 'Rickshaw Puller'는 69억 달러의 기록을 세웠습니다.",
         "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "Christie’s to Sell Barbara Hepworth Sculpture Featured in Vogue Portr…",
+        "title": "크리스티, 리 밀러(Lee Miller)의 보그 초상화에 등장한 바바라 헵워스(Barbara Hepworth) 조각품 판매",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Rare Barbara Hepworth sculpture could fetch up to £8m at auction",
+        "title": "바바라 헵워스(Barbara Hepworth)의 희귀 조각품이 경매에서 최대 800만 파운드에 낙찰될 수 있습니다.",
         "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Tyeb Mehta's 'Rickshaw Puller' fetches record 69 crore",
-      "titleKo": "Tyeb Mehta's 'Rickshaw Puller' fetches record 69 crore",
-      "summaryKo": "In 2002, a Tyeb Mehta triptych aptly titled Celebration, from The Times of India collection, set off quite a party in the Indian art market when it became the first Indian painting to cross the crore mark at auction. Though it came in the winter of his life, it was a remarkable milestone for an arti",
+      "titleKo": "Tyeb Mehta의 'Rickshaw Puller'는 69억 달러의 기록을 세웠습니다.",
+      "summaryKo": "2002년 The Times of India 컬렉션의 Celebration이라는 적절한 제목의 Tyeb Mehta 삼부작이 경매에서 10억 마크를 넘은 최초의 인도 그림이 되면서 인도 미술 시장에서 큰 반향을 불러일으켰습니다. 인생의 겨울에 찾아온 일이지만, 이는 예술인으로서는 놀라운 이정표였습니다.",
       "url": "https://timesofindia.indiatimes.com/india/tyeb-mehtas-rickshaw-puller-fetches-record-69-crore/articleshow/134902399.cms",
       "source": "The Times of India",
       "sourceDomain": "indiatimes.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s to Sell Barbara Hepworth Sculpture Featured in Vogue Portrait by Lee Miller",
-      "titleKo": "Christie’s to Sell Barbara Hepworth Sculpture Featured in Vogue Portrait by Lee Miller",
-      "summaryKo": "Sculpture with Colour (Eos) has a $10.5 million high estimate.",
+      "titleKo": "크리스티, 리 밀러(Lee Miller)의 보그 초상화에 등장한 바바라 헵워스(Barbara Hepworth) 조각품 판매",
+      "summaryKo": "컬러 조각(Eos)의 최고 추정액은 1,050만 달러입니다.",
       "url": "https://www.artnews.com/art-news/market/christies-london-barbara-hepworth-sculpture-vogue-lee-miller-october-evening-sale-1234802012",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -160,7 +160,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Rare Barbara Hepworth sculpture could fetch up to £8m at auction",
-      "titleKo": "Rare Barbara Hepworth sculpture could fetch up to £8m at auction",
+      "titleKo": "바바라 헵워스(Barbara Hepworth)의 희귀 조각품이 경매에서 최대 800만 파운드에 낙찰될 수 있습니다.",
       "summaryKo": "",
       "url": "https://www.yorkshireeveningpost.co.uk/whats-on/rare-barbara-hepworth-sculpture-could-fetch-up-to-ps8m-at-auction-9281294",
       "source": "Yorkshire Evening Post",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "titleKo": "Wealthy Gen Z collectors are the art market’s biggest spenders, survey finds",
-      "summaryKo": "The latest “Survey of Global Collecting” from Art Basel and UBS also found a growing number of buyers are bypassing dealers and auction houses to purchase directly from artists",
+      "titleKo": "부유한 Z세대 수집가는 미술 시장의 가장 큰 지출자라는 조사 결과가 나왔습니다.",
+      "summaryKo": "아트바젤과 UBS가 최근 진행한 '글로벌 컬렉팅 조사'에서도 딜러와 경매장을 거치지 않고 아티스트로부터 직접 구매하는 바이어가 늘어나고 있는 것으로 나타났다.",
       "url": "https://www.theartnewspaper.com/2026/10/08/wealthy-gen-z-collectors-are-the-art-markets-biggest-spenders-survey-finds",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Austrian Presidential Hopeful Vows To Repatriate Moctezuma’s Headdress To Mexico",
-      "titleKo": "Austrian Presidential Hopeful Vows To Repatriate Moctezuma’s Headdress To Mexico",
-      "summaryKo": "Gunther Fehlinger-Jahn, a 2028 Austrian presidential hopeful, intends to return a 16th-century headdress to Mexico if he is elected.",
+      "titleKo": "오스트리아 대통령, 목테수마의 머리장식을 멕시코로 송환하겠다고 희망",
+      "summaryKo": "2028년 오스트리아 대통령 후보 군터 펠링거 얀(Gunther Fehlinger-Jahn)은 당선되면 16세기 머리장식을 멕시코에 반환할 계획이다.",
       "url": "https://www.artforum.com/news/austrian-presidential-hopeful-vows-to-repatriate-headdress-1234761280",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
