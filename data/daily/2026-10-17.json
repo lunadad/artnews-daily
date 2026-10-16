@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T07:41:03.276+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of C…",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "François Pinault to launch permanent display of his collection at Ven…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "general",
+        "articleType": "news",
+        "title": "아트광주 22일 개막…12개국 국내외 거장 작품 출품",
+        "summary": "'아트광주' ...",
+        "url": "https://stock.mk.co.kr/news/view/1174315",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-10-14T02:43:27.000Z",
+        "coverage": 10,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://stock.mk.co.kr/photos/20261014/PCM20261014000072990_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 84,
+        "category": "market",
+        "articleType": "news",
+        "title": "'RM이 주목한 한국 미술' 경매로…박수근 '귀로' 18억에 나왔다",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 방탄소년단(BTS) RM이 미국 샌프란시스코현대미술관(SFMOMA)에서 선보인 한국 근현대미술 작가들의 작품이 국내 경매시장에 나온다.케이옥션은 오는 28일 오후 4시 서울 강남구 신사동 본사에서 총 85점, 약 112억원 규모의 10월 경매를 연다.이번 경매에서는 SFMOMA에서 열리고 있는 'RM x SFMOMA..",
+        "url": "https://www.newsis.com/view/NISX20261016_0003828444",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-15T23:51:18.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/16/NISI20261016_0002265008_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "포켓몬카드만 사는 줄 알았더니 … Z세대 컬렉터, 미술시장 ‘큰 손’으로",
+        "summary": "⑫ 아트 바젤·UBS 컬렉팅 리포트",
+        "url": "https://www.mk.co.kr/news/culture/12177995",
+        "source": "매일경제",
+        "publishedAt": "2026-10-16T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202610/16/news-p.v1.20261013.81a0e58869a84460a0fa4cb561d56154_R.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "구미문화재단, 현대미술관 미술은행 소장품 대여전 연다",
+        "summary": "[구미=뉴시스] 박홍식 기자 = 국립현대미술관 소장품을 감상할 수 있는 전시회가 경북 구미에서 열린다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261016_0003829633",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-16T08:58:12.000Z",
+        "coverage": 12,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/16/NISI20261016_0002265851_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "아이스버그골프, H1 클럽에 2층 규모 브랜드 전시관 선보여 [아이스버그골프·서울신문 오픈]",
+        "summary": "아이스버그골프가 경기 이천 H1 클럽에서 열린 KLPGA투어 아이스버그골프·서울신문 오픈 갤러리 플라자에 2층 규모 전시관 스캐폴딩존을 선보였다. 관람객은 경기 관람과 함께 브랜드 역사, 제품, 사진 촬영을 즐길 수 있다.",
+        "url": "https://m.seoul.co.kr/news/sport/2026/10/16/20261016500221?cp=seoul",
+        "source": "서울신문",
+        "publishedAt": "2026-10-16T06:58:36.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/10/16/SSC_20261016155826.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "a6900beb320c",
+      "rank": 1,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:55:14.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/67f728e7f747dc862537b3c416307087ae5b7926-1920x1012.jpg?rect=117,0,1687,1012&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d04f34af73dc",
+      "rank": 2,
+      "score": 89,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
+      "titleKo": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
+      "summaryKo": "Bonami, who has worked with the Moscow institution in the past, has previously curated the Venice Biennale, Manifesta, and the Whitney Biennial",
+      "url": "https://www.artforum.com/news/francesco-bonami-artistic-director-moscow-ges-2-1234761616",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-16T15:37:01.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-521577664.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "0f3d6401b67a",
+      "rank": 3,
+      "score": 86,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "François Pinault to launch permanent display of his collection at Venice’s Palazzo Grassi",
+      "titleKo": "François Pinault to launch permanent display of his collection at Venice’s Palazzo Grassi",
+      "summaryKo": "The billionaire collector’s decision means the prestigious temporary exhibition programme at the palazzo is coming to an end",
+      "url": "https://www.theartnewspaper.com/2026/10/16/francois-pinault-to-launch-permanent-display-of-his-collection-venice-palazzo-grassi",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:14:15.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/baa79a2faeb050f8c43a40c97defc8521b58b5f9-6200x4300.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a2e3552aac11",
+      "rank": 4,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "ARTnews Celebrates 2026 Edition of Annual Top 200 Collectors Issue",
+      "titleKo": "ARTnews Celebrates 2026 Edition of Annual Top 200 Collectors Issue",
+      "summaryKo": "Top 200 Collectors Estrellita Brodsky and Becky Gochman cohosted the event.",
+      "url": "https://www.artnews.com/art-news/news/artnews-top-200-collectors-2026-issue-launch-party-1234802617",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T20:00:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/260930_ArtNews_-87-crop.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9427cd5a4f78",
+      "rank": 5,
+      "score": 66,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "François Pinault Plans Permanent Collection Exhibition at Venice Museum",
+      "titleKo": "François Pinault Plans Permanent Collection Exhibition at Venice Museum",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNk11QlBGOGQ1ck16LUhzbmxONXd3a2Y0VGxudlNwekxDaWlhU3doZEp5eDVzS1o1bUNkVmRRdUNDU2dfT3dfQzFhc2VKamhjdUlyNDlVTmI4ZTZXUWtPRkpNN1I1OE5JR3kxbjlZWC1LRUZuT3RNTWU1c1RROXpNZWlWMTN3dUJYaXl6N09MdGZMUVA5bXdJczh3?oc=5",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-10-16T14:55:22.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
