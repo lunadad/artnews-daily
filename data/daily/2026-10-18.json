@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "title": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of C…",
+        "title": "프란체스코 보나미(Francesco Bonami), 모스크바 GES-2 문화의 집 예술감독으로 임명",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Is the energy of the 1990s returning to London’s art market?",
+        "title": "1990년대의 기운이 런던 미술시장으로 다시 돌아오고 있는 걸까?",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "titleKo": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
+      "summaryKo": "쿠사마 야요이(Yayoi Kusama)와 게르하르트 리히터(Gerhard Richter)의 작품도 사전 판매 예상을 달성하지 못한 작품 중 하나였습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
-      "titleKo": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
-      "summaryKo": "Bonami, who has worked with the Moscow institution in the past, has previously curated the Venice Biennale, Manifesta, and the Whitney Biennial",
+      "titleKo": "프란체스코 보나미(Francesco Bonami), 모스크바 GES-2 문화의 집 예술감독으로 임명",
+      "summaryKo": "과거 모스크바 기관에서 일했던 보나미는 베니스 비엔날레, 마니페스타, 휘트니 비엔날레 등의 큐레이팅을 맡았다.",
       "url": "https://www.artforum.com/news/francesco-bonami-artistic-director-moscow-ges-2-1234761616",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Is the energy of the 1990s returning to London’s art market?",
-      "titleKo": "Is the energy of the 1990s returning to London’s art market?",
-      "summaryKo": "A fascination with Cool Britannia is evident at exhibitions, auctions and art fairs—though some question whether a revival of this era is possible or wise",
+      "titleKo": "1990년대의 기운이 런던 미술시장으로 다시 돌아오고 있는 걸까?",
+      "summaryKo": "Cool Britannia에 대한 매력은 전시회, 경매, 미술 박람회에서 뚜렷이 드러납니다. 하지만 이 시대의 부활이 가능한지 아니면 현명한지에 대해 의문을 제기하는 사람들도 있습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,7 +180,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Art Market Minute: Live From London",
-      "titleKo": "Art Market Minute: Live From London",
+      "titleKo": "미술 시장 회의록: 런던에서 생중계",
       "summaryKo": "",
       "url": "https://news.artnet.com/multimedia/art-market-minute-live-bonus-2825194",
       "source": "Artnet News",
@@ -200,7 +200,7 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "François Pinault Plans Permanent Collection Exhibition at Venice Museum",
-      "titleKo": "François Pinault Plans Permanent Collection Exhibition at Venice Museum",
+      "titleKo": "프랑수아 피노(François Pinault), 베니스 박물관에서 영구 컬렉션 전시 계획",
       "summaryKo": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNk11QlBGOGQ1ck16LUhzbmxONXd3a2Y0VGxudlNwekxDaWlhU3doZEp5eDVzS1o1bUNkVmRRdUNDU2dfT3dfQzFhc2VKamhjdUlyNDlVTmI4ZTZXUWtPRkpNN1I1OE5JR3kxbjlZWC1LRUZuT3RNTWU1c1RROXpNZWlWMTN3dUJYaXl6N09MdGZMUVA5bXdJczh3?oc=5",
       "source": "Artforum",
