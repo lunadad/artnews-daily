@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "title": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Christie’s London Sales Total $289 Million",
+        "title": "크리스티 런던 총 매출 2억 8900만 달러",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Market Minute: Live From London",
+        "title": "미술 시장 회의록: 런던에서 생중계",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "titleKo": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
+      "summaryKo": "쿠사마 야요이(Yayoi Kusama)와 게르하르트 리히터(Gerhard Richter)의 작품도 사전 판매 예상을 달성하지 못한 작품 중 하나였습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s London Sales Total $289 Million",
-      "titleKo": "Christie’s London Sales Total $289 Million",
-      "summaryKo": "The London auction house Christie’s brought in $289.4 million over two evening sales on Wednesday, October 14—the 20/21st Century Evening Sale and the “Monsoon,” sale of the collection of Peter Simon. The amount achieved on Wednesday is more than double that of last year’s sales. The Peter Simon col",
+      "titleKo": "크리스티 런던 총 매출 2억 8900만 달러",
+      "summaryKo": "런던 경매회사 Christie's는 10월 14일 수요일 두 차례의 저녁 세일(20/21세기 이브닝 세일과 Peter Simon 컬렉션의 \"Monsoon\" 세일)을 통해 2억 8,940만 달러를 벌어들였습니다. 수요일에 달성한 금액은 작년 매출의 두 배 이상입니다. 피터 사이먼 콜",
       "url": "https://www.artforum.com/news/christies-london-sales-289-million-1234761562",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,7 +160,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Art Market Minute: Live From London",
-      "titleKo": "Art Market Minute: Live From London",
+      "titleKo": "미술 시장 회의록: 런던에서 생중계",
       "summaryKo": "",
       "url": "https://news.artnet.com/multimedia/art-market-minute-live-bonus-2825194",
       "source": "Artnet News",
@@ -180,8 +180,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
-      "titleKo": "Francesco Bonami Named Artistic Director Of Moscow’s GES-2 House of Culture",
-      "summaryKo": "Moscow’s GES-2 House of Culture has named Italian curator Francesco Bonami as its new artistic director. The institution opened in 2021 before halting programming in 2022 at the start of the Russia-Ukraine War, and is funded by billionaire Leonid Mikhelson’s V-A-C Foundation. Bonami began his career",
+      "titleKo": "프란체스코 보나미(Francesco Bonami), 모스크바 GES-2 문화의 집 예술감독으로 임명",
+      "summaryKo": "모스크바의 GES-2 문화원은 이탈리아 큐레이터 프란체스코 보나미(Francesco Bonami)를 새로운 예술감독으로 임명했습니다. 이 기관은 2021년에 문을 열었고 러시아-우크라이나 전쟁이 시작되면서 2022년 프로그래밍을 중단했으며 억만장자 레오니드 미켈슨(Leonid Mikhelson)의 V-A-C 재단에서 자금을 지원했습니다. 보나미가 경력을 시작했습니다.",
       "url": "https://www.artforum.com/news/francesco-bonami-artistic-director-moscow-ges-2-1234761616",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
-      "titleKo": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
-      "summaryKo": "“Krasner and Pollock: Past Continuous” is on view at the Met through January.",
+      "titleKo": "일생에 한 번뿐인 미국의 가장 유명한 예술 커플에 대한 조사",
+      "summaryKo": "\"Krasner and Pollock: Past Continuous\"는 1월까지 Met에서 전시됩니다.",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
