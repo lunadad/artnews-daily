@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T09:00:55+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "일생에 한 번뿐인 미국의 가장 유명한 예술 커플에 대한 조사",
+      "titleOriginal": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
+      "summaryKo": "\"Krasner and Pollock: Past Continuous\"는 1월까지 Met에서 전시됩니다. '크래스너와 폴록: 과거 연속'은 1월까지 뉴욕 메트로폴리탄 미술관에서 전시됩니다. 메트로폴리탄 미술관의 \"크라스너와 폴록: 과거 연속(Krasner and Pollock: Past Continuous)\"은 미국에서 가장 유명한 미술 ​​부부인 리 크래스너(1908~84)와 잭슨 폴록(1912~56)의 작품 120여 점을 모아 놓은 일생에 한 번뿐인 전시입니다.",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/DP-46689-083-JPG-Original-300dpi.jpg?w=1024"
+    },
+    {
+      "rank": 2,
+      "titleKo": "당신이 알아야 할 인도의 8개 갤러리",
+      "titleOriginal": "Eight Galleries in India You Should Know",
+      "summaryKo": "영향력 있고 최첨단 프로그램을 갖춘 국내 최고의 갤러리를 살펴보세요. 인도의 주요 갤러리로는 Chemould Prescott Road, Experimenter, Jhaveri Contemporary 및 Nature Morte가 있습니다. 인도 현대미술 시장은 최근 몇 년간 성장세를 보이고 있다.",
+      "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
+      "source": "ARTnews",
+      "category": "general",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/5a-Project-88.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "1990년대의 기운이 런던 미술시장으로 다시 돌아오고 있는 걸까?",
+      "titleOriginal": "Is the energy of the 1990s returning to London’s art market?",
+      "summaryKo": "Cool Britannia에 대한 매력은 전시회, 경매 및 미술 박람회에서 분명하게 드러납니다. 이 시대의 부흥이 가능한지 현명한지 의문을 제기하는 사람들도 있습니다. 1990년대 YBA Sarah Lucas의 자화상 시리즈가 Frieze London의 Sadie Coles HQ 스탠드에서 전시되고 있습니다.",
+      "url": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
+      "source": "The Art Newspaper",
+      "category": "market",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/f303a2ac7c73ea349c6a1b446cf190cbc6c1ad63-1960x1358.jpg?rect=0,91,1960,1176&w=1200&h=720&q=85&fit=crop&auto=format"
+    },
+    {
+      "rank": 4,
+      "titleKo": "아부다비의 첫 번째 프리즈 박람회를 앞두고 새로운 아부다비 문화 지구가 발표되었습니다.",
+      "titleOriginal": "New Abu Dhabi cultural district announced ahead of the emirate’s inaugural Frieze fair",
+      "summaryKo": "노마(Noma)라고 불리는 이 지역은 다음 달 사디야트 문화 지구(Saadiyat Cultural District)에서 시작되는 첫 번째 프리즈 아부다비(Frieze Abu Dhabi) 장소 근처에 있습니다. 프리즈 아부다비(Frieze Abu Dhabi)는 루브르 아부다비, 자이드 국립 박물관, 구겐하임 아부다비(Guggenheim Abu Dhabi)가 있는 사디야트 문화 지구(Saadiyat Cultural District)에서 열릴 예정이며 12월에 개장할 예정입니다. ©️Department of Culture and Tourism, Abu Dhabi 몇 주 안에 프리즈 저거너트(Frieze juggernaut)가 다음 장소로 이동합니다.",
+      "url": "https://www.theartnewspaper.com/2026/10/16/new-abu-dhabi-cultural-district-announced-ahead-of-inaugural-frieze-fair",
+      "source": "The Art Newspaper",
+      "category": "fair",
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/79242ba09c5245d7dd88ad67e95de8c91f05aaa9-3543x1993.jpg?rect=111,0,3322,1993&w=1200&h=720&q=85&fit=crop&auto=format"
+    }
+  ]
+}
