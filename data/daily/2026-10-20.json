@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T07:41:00.048+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Storming success for Christie’s in the October auctions",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
+        "why": "2개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, 4년만에 ‘부산 세일’…케이옥션은 85점 선봬",
+        "summary": "미술품 경매회사 서울옥션이 4년 만에 부산에서 경매를 연다. 이번에는 특히 부산을 대표하는 근대미술 1세대 서양화가 김종식의 주요 작품을 비롯해 백남준의 작품 등도 선보인다. 서울옥션은 오는 23일 부산 해운대구 그랜드 조선 부산에서 ‘부산 세일’을 개최한다고 18일",
+        "url": "https://www.sedaily.com/article/20102995",
+        "source": "서울경제",
+        "publishedAt": "2026-10-18T09:02:59.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/10/18/news-p.v1.20261018.9792abe06f2647e7bafb153da4cdbf22_Z1.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "category": "museum",
+        "articleType": "news",
+        "title": "아르코미술관 소장품으로 본 ‘현대미술 흐름’",
+        "summary": "한국문화예술위원회가 운영하는 아르코미술관이 1974년 개관한 뒤 2000년대까지 수집한 소장품을 선보이는 전시 ‘소장품, 시대의 장면들’전(사진)을 개최했다. 16일 서울 종로구 아르코미술관에서 개막한 전시는 김구림과 이건용, 성능경, 신학철, 윤석남 등 작가 60인…",
+        "url": "https://www.donga.com/news/Culture/article/all/20261019/134863212/2",
+        "source": "동아일보",
+        "publishedAt": "2026-10-18T19:30:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/19/134861845.5.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "美서 전시된 '시왕도'가 위작?…유홍준 \"진품, 위작 절대 아냐\"",
+        "summary": "(서울=연합뉴스) 김예나 기자 = 유홍준 국립중앙박물관장이 최근 미국 클리블랜드미술관 특별전에 출품한 '시왕도'가 진품이라고 밝혔다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261019112000005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-19T05:42:31.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img4.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019112000005_02_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 48,
+        "category": "artist",
+        "articleType": "news",
+        "title": "덕성여대 박미연 교수, 日 현지서 제41회 개인전 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3dS1wMnlKYUh4QjFVRm9NQ2dleGViZWU5TjRkOTdxX29pNk9YQldtZWRrWHZBcHQzX1Nnc1pfdlRZMEJEV3FjMk9HandwanhpV3ZGd3lOOG9ncDg5SXVlb3dZTnJkcnVLbDdXRWtSYkFFVFdlQ2l1UNIBeEFVX3lxTFA3dS1wMnlKYUh4QjFVRm9NQ2dleGViZWU5TjRkOTdxX29pNk9YQldtZWRrWHZBcHQzX1Nnc1pfdlRZMEJEV3FjMk9HandwanhpV3ZGd3lOOG9ncDg5SXVlb3dZTnJkcnVLbDdXRWtSYkFFVFdlQ2l1UA?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-19T06:32:12.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "general",
+        "articleType": "news",
+        "title": "버섯으로 만든 의자, 작품이 된 삼성 TV…서울 채운 디자인 실험",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sc3UtX1ZJQjdDQUVqVkktZnRfcks2SGNldWx5bGtoLUtsVEVSZUFSS0M2eUNaWlQtcHFaTmhmblhpWGdxVEdMMnNrc2NvNFVBNkV5ZzAzMWZPUQ?oc=5",
+        "source": "한국경제",
+        "publishedAt": "2026-10-18T00:31:40.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "a6900beb320c",
+      "rank": 1,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:44:30.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/67f728e7f747dc862537b3c416307087ae5b7926-1920x1012.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ed018632f100",
+      "rank": 2,
+      "score": 76,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Storming success for Christie’s in the October auctions",
+      "titleKo": "Storming success for Christie’s in the October auctions",
+      "summaryKo": "Monsoon founder Peter Simon's collection has become the highest-value single-owner sale at Christie’s London, with help from Mondrian, Bacon, Michael Andrews and more, writes Anna Brady",
+      "url": "https://apollo-magazine.com/auction-report-october-2026-london-peter-simon-modern-british",
+      "source": "Apollo – The International Art Magazine",
+      "sourceDomain": "apollo-magazine.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-19T10:48:10.000Z",
+      "coverage": 1,
+      "image": "https://apollo-magazine.com/wp-content/uploads/2026/10/LEAD-Francis-Bacon-Figure-in-Movement-1978.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3b82983fc4e3",
+      "rank": 3,
+      "score": 74,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
+      "titleKo": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
+      "summaryKo": "Patrick Graham and Cathy Wilkes have been named the winners of Dublin Gallery Weekend’s inaugural Francis Bacon Awards for Irish Visual Arts.",
+      "url": "https://www.artforum.com/news/patrick-graham-cathy-wilkes-inaugural-francis-bacon-awards-1234761705",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-19T20:55:45.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Patrick-Graham-and-Cathy-Wilkes.png.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "0f6d07779251",
+      "rank": 4,
+      "score": 74,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Abu Dhabi Reveals Plans For A New Cultural District Ahead Of Frieze Art Fair",
+      "titleKo": "Abu Dhabi Reveals Plans For A New Cultural District Ahead Of Frieze Art Fair",
+      "summaryKo": "Abu Dhabi government-owned developer Aldar announced plans for a new cultural district in the city dubbed “Noma,” as reported by The Art Newspaper.",
+      "url": "https://www.artforum.com/news/abu-dhabi-plans-for-cultural-district-frieze-art-fair-1234761708",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-19T21:00:58.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/10/abu-dhabi.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b79e1b07a91e",
+      "rank": 5,
+      "score": 74,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Collection of Monsoon founder Peter Simon becomes highest value single-owner collection ever sold at Christie's London",
+      "titleKo": "Collection of Monsoon founder Peter Simon becomes highest value single-owner collection ever sold at Christie's London",
+      "summaryKo": "Led by a Nazi-looted Kandinsky, the heavily guaranteed 20/21 Century evening sale made £178m in total",
+      "url": "https://www.theartnewspaper.com/2026/10/15/christies-achieves-%C2%A3219m-in-steady-solid-london-sales",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-15T12:57:39.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/7b46f0a6cd2056386fb9591d7b669fdbb006afff-4244x2831.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
