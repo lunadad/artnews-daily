@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "title": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Storming success for Christie’s in the October auctions",
+        "title": "10월 경매에서 크리스티의 엄청난 성공",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
+        "title": "패트릭 그레이엄(Patrick Graham), 캐시 윌크스(Cathy Wilkes), 첫 프란시스 베이컨상 수상",
         "why": "2개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "titleKo": "De Kooning은 유럽 기록을 세웠지만 소더비 컨템포러리 이브닝 세일에서는 여전히 실패했습니다.",
+      "summaryKo": "쿠사마 야요이(Yayoi Kusama)와 게르하르트 리히터(Gerhard Richter)의 작품도 사전 판매 예상을 달성하지 못한 작품 중 하나였습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Storming success for Christie’s in the October auctions",
-      "titleKo": "Storming success for Christie’s in the October auctions",
-      "summaryKo": "Monsoon founder Peter Simon's collection has become the highest-value single-owner sale at Christie’s London, with help from Mondrian, Bacon, Michael Andrews and more, writes Anna Brady",
+      "titleKo": "10월 경매에서 크리스티의 엄청난 성공",
+      "summaryKo": "Monsoon 창립자 Peter Simon의 컬렉션은 Mondrian, Bacon, Michael Andrews 등의 도움으로 Christie's London에서 최고 가치의 단일 소유자 판매가 되었다고 Anna Brady는 썼습니다.",
       "url": "https://apollo-magazine.com/auction-report-october-2026-london-peter-simon-modern-british",
       "source": "Apollo – The International Art Magazine",
       "sourceDomain": "apollo-magazine.com",
@@ -160,8 +160,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
-      "titleKo": "Patrick Graham, Cathy Wilkes Win Inaugural Francis Bacon Awards",
-      "summaryKo": "Patrick Graham and Cathy Wilkes have been named the winners of Dublin Gallery Weekend’s inaugural Francis Bacon Awards for Irish Visual Arts.",
+      "titleKo": "패트릭 그레이엄(Patrick Graham), 캐시 윌크스(Cathy Wilkes), 첫 프란시스 베이컨상 수상",
+      "summaryKo": "Patrick Graham과 Cathy Wilkes가 Dublin Gallery Weekend의 첫 번째 아일랜드 시각 예술 부문 Francis Bacon Awards 수상자로 선정되었습니다.",
       "url": "https://www.artforum.com/news/patrick-graham-cathy-wilkes-inaugural-francis-bacon-awards-1234761705",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Abu Dhabi Reveals Plans For A New Cultural District Ahead Of Frieze Art Fair",
-      "titleKo": "Abu Dhabi Reveals Plans For A New Cultural District Ahead Of Frieze Art Fair",
-      "summaryKo": "Abu Dhabi government-owned developer Aldar announced plans for a new cultural district in the city dubbed “Noma,” as reported by The Art Newspaper.",
+      "titleKo": "아부다비, 프리즈 아트페어를 앞두고 새로운 문화지구 계획 공개",
+      "summaryKo": "The Art Newspaper에 따르면 아부다비 국영 개발업체인 Aldar는 \"노마(Noma)\"라고 불리는 도시의 새로운 문화 지구에 대한 계획을 발표했습니다.",
       "url": "https://www.artforum.com/news/abu-dhabi-plans-for-cultural-district-frieze-art-fair-1234761708",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Collection of Monsoon founder Peter Simon becomes highest value single-owner collection ever sold at Christie's London",
-      "titleKo": "Collection of Monsoon founder Peter Simon becomes highest value single-owner collection ever sold at Christie's London",
-      "summaryKo": "Led by a Nazi-looted Kandinsky, the heavily guaranteed 20/21 Century evening sale made £178m in total",
+      "titleKo": "Monsoon 창립자 Peter Simon의 컬렉션은 Christie's London에서 판매된 최고 가치의 단일 소유자 컬렉션이 되었습니다.",
+      "summaryKo": "나치가 약탈한 칸딘스키가 주도한 20/21세기 이브닝 세일은 총 1억 7,800만 파운드를 벌어들였습니다.",
       "url": "https://www.theartnewspaper.com/2026/10/15/christies-achieves-%C2%A3219m-in-steady-solid-london-sales",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
