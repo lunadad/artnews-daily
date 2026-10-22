@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "title": "드 쿠닝 (De Kooning) 은 유럽 기록을 세웠지만 음소거 된 소더비 (Sotheby) 의 현대적인 저녁 세일에서 여전…",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Basel Paris 2026",
+        "title": "아트 바젤 파리 2026",
         "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "A New South Asian Arts Festival Comes To London",
+        "title": "런던에서 열리는 새로운 남아시아 예술제",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
-      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "titleKo": "드 쿠닝 (De Kooning) 은 유럽 기록을 세웠지만 음소거 된 소더비 (Sotheby) 의 현대적인 저녁 세일에서 여전히 평평합니다.",
+      "summaryKo": "야요이 쿠사마 (Yayoi Kusama) 와 게르하르트 리히터 (Gerhard Richter) 의 작품도 사전 판매 추정치를 달성하지 못한 작품 중 하나였다.",
       "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Art Basel Paris 2026",
-      "titleKo": "Art Basel Paris 2026",
-      "summaryKo": "Five things to see at Art Basel Paris 2026, from Louis Vuitton’s Artycapucines retrospective and Alice Diop for Miu Miu to Christina Quarles and Jordan Roth.",
+      "titleKo": "아트 바젤 파리 2026",
+      "summaryKo": "루이비통의 아르티카푸신 회고전과 미우미우를 위한 앨리스 디옵, 크리스티나 쿼얼스, 조던 로스 등 아트 바젤 파리 2026에서 볼 수 있는 다섯 가지가 있습니다.",
       "url": "https://metalmagazine.eu/en/post/art-basel-paris-2026-five-things-you-should-see",
       "source": "Metal Magazine",
       "sourceDomain": "metalmagazine.eu",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "A New South Asian Arts Festival Comes To London",
-      "titleKo": "A New South Asian Arts Festival Comes To London",
-      "summaryKo": "London will have a new South Asian arts festival. The nine-day event will take place in South Kensington’s cultural quarter next summer, featuring artists from India and its diaspora. The festival will be organized by the Great Exhibition Road Festival (led by Imperial College London), Serendipity A",
+      "titleKo": "런던에서 열리는 새로운 남아시아 예술제",
+      "summaryKo": "런던에서는 새로운 남아시아 예술 축제가 열릴 예정입니다. 이 9일간의 행사는 내년 여름 사우스 켄싱턴의 문화 지구에서 열리며, 인도와 디아스포라의 예술가들이 참여합니다. 이 축제는 Great Exhibition Road Festival (Imperial College London 주도), Serendipity A가 주최합니다.",
       "url": "https://www.artforum.com/news/south-asian-arts-festival-comes-to-london-1234761811",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "What does an Old Master smell like? Meet the perfumer commissioned by Sotheby's",
-      "titleKo": "What does an Old Master smell like? Meet the perfumer commissioned by Sotheby's",
-      "summaryKo": "Lyn Harris creates bespoke scents inspired by earth, emotions and paintings",
+      "titleKo": "노장 (老 將) 은 어떤 냄새를 풍기는가? Sotheby 's가 의뢰한 조향사를 만나보세요",
+      "summaryKo": "린 해리스 (Lyn Harris) 는 지구, 감정 및 그림에서 영감을 얻은 맞춤형 향기를 만듭니다.",
       "url": "https://www.theartnewspaper.com/2026/10/20/what-does-an-old-master-smell-like-meet-the-perfumer-commissioned-by-sothebys",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
-      "titleKo": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
-      "summaryKo": "\"Containing all the bodily waste collected from pavilion visitors over the past seven months, the distilled remains serve as a monument for the future,\" reads the announcement.",
+      "titleKo": "플로렌티나 홀징거 (Florentina Holzinger) 가 ‘시월드 베네치아 (Seaworld Venice)’ 를 폐장하고 신체 폐기물로 만든 ’마지막 저녁 식사’ 를 선보입니다.",
+      "summaryKo": "\"지난 7개월 동안 파빌리온 방문객으로부터 수거한 모든 신체 폐기물을 포함하고 있는 증류된 유적은 미래의 기념비 역할을 합니다.\" 라고 이 발표는 읽습니다.",
       "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
