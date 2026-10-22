@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T09:51:32.728+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Art Basel Paris 2026",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "A New South Asian Arts Festival Comes To London",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 106,
+        "category": "museum",
+        "articleType": "news",
+        "title": "빛과 바람을 매단 천칭…국립현대미술관에 뜬 올라퍼 엘리아슨 신작",
+        "summary": "국립현대미술관 서울관 로비에 천칭을 닮은 조형물이 떠 있다. 천장에 매단 긴 막대의 한쪽 끝에는 색색의 유리로 이뤄진 다면체가, 다른 쪽에는 선풍기가 매달려 균형을 이룬다. 선풍기가 불규칙하게 작동하면 구조물 전체가 천천히 움직인다. 유리 다면체 안에서 나온 빛은 벽과 천장에 다채로운 무늬를 그린다. 국립현대미술관은 현대미술가 올라퍼 엘리아슨의 커미션...",
+        "url": "https://www.khan.co.kr/article/202610201319001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-10-20T04:19:00.000Z",
+        "coverage": 11,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/10/20/news-p.v1.20261020.2bc993940d224b98997ff93db66fef02.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 93,
+        "category": "market",
+        "articleType": "news",
+        "title": "RM이 사랑한 한국 근현대 거장 작품…10월 경매 나온다",
+        "summary": "RM이 사랑한 한국 근현대 거장 작품…10월 경매 나온다, 케이옥션 10월 경매 박수근 '귀로' 최고 추정가 18억원 쿠사마 야요이, 천경자, 정강자 등 여성 거장 작품도 눈길",
+        "url": "https://www.hankyung.com/article/202610216217i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-21T07:08:42.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/02.46138895.1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 87,
+        "category": "market",
+        "articleType": "news",
+        "title": "부산서 4년 만에 대규모 미술 경매",
+        "summary": "부산에서 4년 만에 대규모 미술 경매가 열립니다. 서울옥션은 오는 23일 그랜드조선 부산에서 추정가 총액...",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8691670",
+        "source": "KBS 뉴스",
+        "publishedAt": "2026-10-21T10:55:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://news.kbs.co.kr/data/news/title_image/newsmp4/busan/news7/2026/10/21/150_8691670.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "‘셀프 출품’ 논란 유홍준 물러나… “박물관·미술관 진흥법 재정비 시급”",
+        "summary": "유홍준 국립중앙박물관장이 개인 소장품을 애국지사 작품으로 위장해 전시한 논란에 책임을 지고 21일 사임했습니다. 이번 사태로 박물관의 신뢰가 실추되면서 제도적인 이해 충돌 방지책과 독립적인 전시 검증 시스템 구축 등 박물관 및 미술관 진흥법 재정비의 필요성이 제기되고 있습니다.",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/10/22/Y4VLXUTF35G6ZJORYMDMEP6R5M",
+        "source": "조선일보",
+        "publishedAt": "2026-10-21T15:43:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/RWMKT6QIUJA55A4GWMRJRBNBLA.jpg?auth=1163582285277886ed4305f8306193c235d880d285f69041ccfbef6c5367956f&width=1200&height=630&focal=978,633"
+      },
+      {
+        "rank": 5,
+        "score": 59,
+        "category": "fair",
+        "articleType": "news",
+        "title": "거장부터 신진까지…호남 최대 미술축제 ‘광주국제아트페어’ 22일 개막",
+        "summary": "제17회 광주국제아트페어가 22일부터 25일까지 김대중컨벤션센터에서 열린다. 12개국 94개 갤러리가 참여하고, 쿠사마·해링·호크니의 작품과 지역 청년작가 전시, 컬렉터 소장품 특별전, 도슨트 투어와 키즈아트 체험도 마련된다.",
+        "url": "https://m.seoul.co.kr/news/life/2026/10/20/20261020500126?cp=seoul",
+        "source": "서울신문",
+        "publishedAt": "2026-10-20T04:25:16.000Z",
+        "coverage": 9,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/10/20/SSC_20261020132515.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "a6900beb320c",
+      "rank": 1,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:44:30.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/67f728e7f747dc862537b3c416307087ae5b7926-1920x1012.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5faed156f427",
+      "rank": 2,
+      "score": 82,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Paris 2026",
+      "titleKo": "Art Basel Paris 2026",
+      "summaryKo": "Five things to see at Art Basel Paris 2026, from Louis Vuitton’s Artycapucines retrospective and Alice Diop for Miu Miu to Christina Quarles and Jordan Roth.",
+      "url": "https://metalmagazine.eu/en/post/art-basel-paris-2026-five-things-you-should-see",
+      "source": "Metal Magazine",
+      "sourceDomain": "metalmagazine.eu",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-21T13:47:56.000Z",
+      "coverage": 4,
+      "image": "https://assets.metalmagazine.eu/derived/168f9c16-6a31-4cdf-93d3-94ac5edfc278.webp/metal-art-basel-paris-2026-02-og.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "c75687deb117",
+      "rank": 3,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "A New South Asian Arts Festival Comes To London",
+      "titleKo": "A New South Asian Arts Festival Comes To London",
+      "summaryKo": "London will have a new South Asian arts festival. The nine-day event will take place in South Kensington’s cultural quarter next summer, featuring artists from India and its diaspora. The festival will be organized by the Great Exhibition Road Festival (led by Imperial College London), Serendipity A",
+      "url": "https://www.artforum.com/news/south-asian-arts-festival-comes-to-london-1234761811",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-21T22:54:55.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/VictoriaAlbert2_small.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "6c78d9f3d3de",
+      "rank": 4,
+      "score": 73,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "What does an Old Master smell like? Meet the perfumer commissioned by Sotheby's",
+      "titleKo": "What does an Old Master smell like? Meet the perfumer commissioned by Sotheby's",
+      "summaryKo": "Lyn Harris creates bespoke scents inspired by earth, emotions and paintings",
+      "url": "https://www.theartnewspaper.com/2026/10/20/what-does-an-old-master-smell-like-meet-the-perfumer-commissioned-by-sothebys",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-20T09:56:27.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/28c4993a33db0954150b7ddaacd4a5767c14e329-2183x1455.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "82355ff87e81",
+      "rank": 5,
+      "score": 68,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
+      "titleKo": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
+      "summaryKo": "\"Containing all the bodily waste collected from pavilion visitors over the past seven months, the distilled remains serve as a monument for the future,\" reads the announcement.",
+      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-21T20:44:10.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/05/4faa40cfeb0d1a1dfcc950787aa4d5b3166569e6-3000x2000-1.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
