@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at S…",
+        "title": "모네 그림이 5,620만 달러에 팔려 소더비 파리에서 프랑스 경매 기록을 세웠습니다.",
         "why": "6개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Basel Paris to close early due to protests",
+        "title": "아트 바젤 파리, 시위로 조기 폐쇄",
         "why": "7개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a …",
+        "title": "고대 토르소 조각상, 소더비에서 3430만 달러에 팔려 고대 로마 유물 기록",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris",
-      "titleKo": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris",
-      "summaryKo": "Claude Monet’s Iris sold for $56.2 million at Sotheby’s Paris, setting a French auction record as the Schlumberger collection brought in $83.7 million.",
+      "titleKo": "모네 그림이 5,620만 달러에 팔려 소더비 파리에서 프랑스 경매 기록을 세웠습니다.",
+      "summaryKo": "클로드 모네(Claude Monet)의 아이리스(Iris)는 소더비 파리(Sotheby's Paris)에서 5,620만 달러에 판매되었으며, Schlumberger 컬렉션이 8,370만 달러를 벌어들여 프랑스 경매 기록을 세웠습니다.",
       "url": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Art Basel Paris to close early due to protests",
-      "titleKo": "Art Basel Paris to close early due to protests",
-      "summaryKo": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+      "titleKo": "아트 바젤 파리, 시위로 조기 폐쇄",
+      "summaryKo": "제5회 박람회는 금요일 저녁에 마무리되며 이번 주말 파리에서 시위가 재개될 것으로 예상됩니다.",
       "url": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a Roman Antiquity",
-      "titleKo": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a Roman Antiquity",
-      "summaryKo": "An ancient marble statue of a torso sold at Sotheby's for $34.3 million, a record for a Roman antiquity.",
+      "titleKo": "고대 토르소 조각상, 소더비에서 3430만 달러에 팔려 고대 로마 유물 기록",
+      "summaryKo": "고대 로마 유물의 기록인 고대 대리석 몸통 조각상이 소더비에서 3,430만 달러에 팔렸습니다.",
       "url": "https://www.artnews.com/art-news/news/marble-torso-sothebys-roman-antiquity-record-magnum-opus-1234803482",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Dealer Sentenced to Four Years in Prison for Selling Fake Warhols",
-      "titleKo": "Dealer Sentenced to Four Years in Prison for Selling Fake Warhols",
-      "summaryKo": "Leslie Roberts, a Miami art dealer, received a sentence of three years and ten months in federal prison on October 2 for selling forged Andy Warhol works. According to the Guardian, Roberts admitted to creating fraudulent invoices and authentication documents to trick buyers into purchasing the fake",
+      "titleKo": "가짜 워홀 판매한 딜러, 징역 4년 선고",
+      "summaryKo": "마이애미 미술상인 레슬리 로버츠(Leslie Roberts)는 위조 앤디 워홀 작품을 판매한 혐의로 10월 2일 연방 교도소에서 3년 10개월 형을 선고 받았습니다. Guardian에 따르면 Roberts는 구매자가 가짜 제품을 구매하도록 속이기 위해 사기 송장과 인증 문서를 작성했다고 인정했습니다.",
       "url": "https://www.artforum.com/news/four-years-in-prison-for-selling-fake-warhold-1234761985",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Irini Papadimitriou to lead 14th Seoul Mediacity Biennale",
-      "titleKo": "Irini Papadimitriou to lead 14th Seoul Mediacity Biennale",
-      "summaryKo": "Seoul Museum of Art names artist director and theme for the forthcoming edition",
+      "titleKo": "제14회 서울미디어시티비엔날레의 이리니 파파디미트리우(Irini Papadimitriou)",
+      "summaryKo": "서울시립미술관, 이번 호의 작가감독과 주제 선정",
       "url": "https://artreview.com/irini-papadimitriou-to-lead-14th-seoul-mediacity-biennale",
       "source": "ArtReview",
       "sourceDomain": "artreview.com",
