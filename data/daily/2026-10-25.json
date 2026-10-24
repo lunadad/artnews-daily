@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T07:41:10.935+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction …",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 1,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 80,
+        "category": "fair",
+        "articleType": "news",
+        "title": "제14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 서울시립미술관(관장 최은주)은 내년 8월 개최하는 제14회 서울미디어시티비엔날레 예술감독으로 이리니 파파디미트리우(Irini Papadimitriou·51)를 선임했다고 23일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261023_0003839151",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-23T08:39:26.000Z",
+        "coverage": 14,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/23/NISI20261023_0002272557_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 79,
+        "category": "market",
+        "articleType": "news",
+        "title": "국내 미술경매 3분기 낙찰액 279억원…전년 대비 10.8% 감소",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 국내 미술시장의 침체가 길어지고 있다. 경매에 나온 작품은 늘었지만 낙찰총액은 오히려 줄었다.한국미술품감정연구센터가 발표한 '2026년 3분기 미술시장 분석 보고서'에 따르면 올해 7~9월 국내 주요 경매사 7곳의 낙찰총액은 279억6768만원으로 지난해 같은 기간보다 10.82% 감소했다.출품작은 4296점에서 4..",
+        "url": "https://www.newsis.com/view/NISX20261022_0003836639",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-22T02:41:59.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/22/NISI20261022_0002270830_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 75,
+        "category": "market",
+        "articleType": "news",
+        "title": "부산서 4년 만에 대규모 미술 경매",
+        "summary": "부산에서 4년 만에 대규모 미술 경매가 열립니다. 서울옥션은 내일(23일) 그랜드조선 부산에서 추정가 총액...",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8692309",
+        "source": "KBS 뉴스",
+        "publishedAt": "2026-10-22T01:27:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://news.kbs.co.kr/data/news/title_image/newsmp4/busan/news930/2026/10/22/110_8692309.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 44,
+        "category": "artist",
+        "articleType": "news",
+        "title": "갤러리 무모, 예술경영지원센터 전속작가지원사업에 선정된 3인 작가 선보여 - 머니투데이",
+        "summary": "갤러리 무모(대표 이종)는 예술경영지원센터 전속작가지원사업에 선정된 전속작가 이현배, 홍준호, 김철환 작가의 작품을 오는 29일부터 열리는 대구국제아트페어(DIAF)에서 선보인다고 23일 밝혔다.",
+        "url": "https://www.mt.co.kr/amp/industry/2026/10/23/2026102314013348980",
+        "source": "머니투데이",
+        "publishedAt": "2026-10-23T08:25:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=765,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026102314013348980_1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 44,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[Gallery] 전시 ‘CROSSING 1866’…160년의 역사 속, 시카고에서 서울로",
+        "summary": "시카고예술대학(School of the Art Institute of Chicago, SAIC)의 설립 160주년을 기념하는 특별기획전 ‘CROSSING 1866’이 열리고 있다. 시카고예술대학과 시카고예술대학 한국동문회가 공동 주최·주관하는 이번 전시는, 한국인 최초의 SAIC 유학생 임용련(1901–?)부터 동시대 작가까지 총 37인의 작업을 소개한다.",
+        "url": "https://m.mk.co.kr/amp/12183911",
+        "source": "매일경제",
+        "publishedAt": "2026-10-23T01:52:58.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "9130a17ac585",
+      "rank": 1,
+      "score": 121,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "titleKo": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "summaryKo": "A Monet painting sold for $56 million at Sotheby’s in Paris on Thursday. Iris is a painting of flowers in Monet’s Giverny water garden. It was purchased by Jen Hua, deputy of Sotheby’s Asia, on behalf of an Asian client. The world record for a painting by Monet is $110.7 million, set by the 2019 […]",
+      "url": "https://www.artforum.com/news/monet-painting-sells-for-56-million-at-sothebys-1234762028",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-23T16:58:33.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/monet-iris.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "263e2bb53a7f",
+      "rank": 2,
+      "score": 95,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says",
+      "titleKo": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says",
+      "summaryKo": "",
+      "url": "https://www.reuters.com/lifestyle/claude-monets-iris-becomes-most-expensive-artwork-sold-auction-france-sothebys-2026-10-23",
+      "source": "Reuters",
+      "sourceDomain": "reuters.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-23T08:17:09.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a6900beb320c",
+      "rank": 3,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:44:30.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/67f728e7f747dc862537b3c416307087ae5b7926-1920x1012.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f1a57401ce09",
+      "rank": 4,
+      "score": 74,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "France Protests Art Basel",
+      "titleKo": "France Protests Art Basel",
+      "summaryKo": "",
+      "url": "https://www.wvnews.com/newsfeed/world/france-protests-art-basel/image_82e26397-7f5e-5b34-bca7-3c2ae731893a.html",
+      "source": "WV News",
+      "sourceDomain": "wvnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-23T10:24:32.000Z",
+      "coverage": 5,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b5f695a6806e",
+      "rank": 5,
+      "score": 72,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Paris to close early due to protests",
+      "titleKo": "Art Basel Paris to close early due to protests",
+      "summaryKo": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+      "url": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-22T15:30:18.000Z",
+      "coverage": 3,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ccd3c4b9d19ecd4ff791ca78aafe24234b97cdd4-2480x1653.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
