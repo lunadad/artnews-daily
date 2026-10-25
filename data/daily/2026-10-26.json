@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T07:41:04.192+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction …",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "De Kooning sets European record but still falls flat at muted Sotheby…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 86,
+        "category": "fair",
+        "articleType": "news",
+        "title": "제14회 서울미디어시티비엔날레 예술감독에 이리니 파파디미트리우",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 서울시립미술관(관장 최은주)은 내년 8월 개최하는 제14회 서울미디어시티비엔날레 예술감독으로 이리니 파파디미트리우(Irini Papadimitriou·51)를 선임했다고 23일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261023_0003839151",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-23T08:39:26.000Z",
+        "coverage": 16,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/23/NISI20261023_0002272557_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다",
+        "summary": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다, 총 85점 112억 규모 28일 서울 케이옥션",
+        "url": "https://www.hankyung.com/article/2026102534211",
+        "source": "한국경제",
+        "publishedAt": "2026-10-25T08:03:45.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/AA.46186062.1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“뉴욕 메트트로폴리탄 명화를 안방에서” LG TV, 디지털 미술관 된다",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUVRTX1EtUDYzTDhqSnFzbW45eklWbzFwcUdnbWgwVDc5TlBYc3hVVl9nUjlFdU5RUXBRcjRybllBQ3U1VnZncjQ4ZjdNdG9KVnJURW1ORHp2Z19NWTdCal9weTE0bVlZRFhxS9IBbkFVX3lxTE43ZkRaVHhRRlJQMF9pRXl3T0o4ZlpoaFBTMUx6RW5aZHVkcE0wZ0FOazZvbk1hTzE3OWdWek9mTmxfSFFZRnJINTVteUtqdzQ0TjRqQ1Y1by1pUDdWLW9NOFl3ZVhBaGxONlpXRHdB?oc=5",
+        "source": "여성조선",
+        "publishedAt": "2026-10-24T22:56:47.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "김선미 개인전 \"ROSE 그향기에 대한 사유\" 인사동 갤러리 인사아트1층에서 개최",
+        "summary": "김선미 작가의 개인전 \"ROSE, 그 향기에 대한 사유\"가 10월 21일(수)부터 10월 27일(화)까지 서울 인사동 갤러리 인사아트(Gallery Nsart)",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=6003",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-10-25T21:48:07.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.artworldnews.co.kr/image/logo/snslogo_20240830100641.png"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "museum",
+        "articleType": "news",
+        "title": "폴란드 작가 눈에 비친 창원은…경남도립미술관 작가 창작 교류",
+        "summary": "(창원=연합뉴스) 이정훈 기자 = 폴란드 작가 2명이 경남 창원시에 머물며 외국인의 눈으로 본 창원의 이미지를 작품으로 남긴다.",
+        "url": "https://www.yna.co.kr/view/AKR20261023139800052",
+        "source": "연합뉴스",
+        "publishedAt": "2026-10-23T07:01:00.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img6.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023139800052_01_i_P4.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "9130a17ac585",
+      "rank": 1,
+      "score": 121,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "titleKo": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "summaryKo": "A Monet painting sold for $56 million at Sotheby’s in Paris on Thursday. Iris is a painting of flowers in Monet’s Giverny water garden. It was purchased by Jen Hua, deputy of Sotheby’s Asia, on behalf of an Asian client. The world record for a painting by Monet is $110.7 million, set by the 2019 […]",
+      "url": "https://www.artforum.com/news/monet-painting-sells-for-56-million-at-sothebys-1234762028",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-23T16:58:33.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/monet-iris.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "371c96107935",
+      "rank": 2,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says",
+      "titleKo": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says",
+      "summaryKo": "Painting was one of several works up for auction ​from ​Schlumberger ⁠Collection, expected to sell ​between €22m-€30m",
+      "url": "https://tribune.com.pk/story/2636839/claude-monets-iris-becomes-most-expensive-artwork-sold-at-auction-in-france-sothebys-says",
+      "source": "The Express Tribune",
+      "sourceDomain": "com.pk",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-25T14:16:31.000Z",
+      "coverage": 3,
+      "image": "https://i.tribune.com.pk/media/images/monet-sold1792924674-0/monet-sold1792924674-0-640x480.webp",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a6900beb320c",
+      "rank": 3,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "titleKo": "De Kooning sets European record but still falls flat at muted Sotheby’s Contemporary Evening Sale",
+      "summaryKo": "Works by Yayoi Kusama and Gerhard Richter were also among those that failed to hit their presale estimates",
+      "url": "https://www.theartnewspaper.com/2026/10/16/de-kooning-sets-record-but-still-falls-flat-at-muted-sothebys-contemporary-evening-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-16T11:44:30.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/67f728e7f747dc862537b3c416307087ae5b7926-1920x1012.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b5f695a6806e",
+      "rank": 4,
+      "score": 66,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Paris to close early due to protests",
+      "titleKo": "Art Basel Paris to close early due to protests",
+      "summaryKo": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+      "url": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-22T15:30:18.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ccd3c4b9d19ecd4ff791ca78aafe24234b97cdd4-2480x1653.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "de9636a6a626",
+      "rank": 5,
+      "score": 55,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+      "titleKo": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFFjdmtuZFFVUTZIVm0ta0xEQ1hpNGVqTjljZkNLUkxNSGNxdllVNEhoMWNkQmJpVlgybzBwYWZRUHRPc3B4dUlYcXRUMUlSM0szem83MGZlS1VweXQybl92UzdFaU9EOEE4SzBsZU5UNUVnOXlDQzUtcVFna3ZOa0hrZXgzSE9EcENDX2ZmYnhHaTYyaVRCZVBNUk9kU001WWJvWjdSSWI?oc=5",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
