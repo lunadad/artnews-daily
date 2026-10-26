@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T07:41:03.075+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+        "why": "5개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Art Basel Paris to close early due to protests",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "홍라희 리움미술관 명예관장에 국민훈장 동백장",
+        "summary": "홍라희 리움미술관 명예관장이 문화·의료·복지 분야에서 나눔을 실천한 공로로 국민훈장 동백장을 받았다. 삼성문화재단은 26일 홍 명예관장이 대한적십자사 창립 기념식에서 이형훈 보건복지부 제2차관으로부터 국민훈장 동백장을 수여받았다고 밝혔다. 국민훈장은 국민 복지 향상과 국가 발전에 기여한 공적이 뚜렷한 사람에게 정부가 수여하는 훈장이다. 동백장은 5개 ...",
+        "url": "https://www.khan.co.kr/article/202610262019065/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-10-26T11:19:00.000Z",
+        "coverage": 35,
+        "qualityCoverage": 10,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/10/26/2026102701000773400075041.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 91,
+        "category": "market",
+        "articleType": "news",
+        "title": "국내 미술 경매 낙찰총액 10.82% 감소…3분기 279억 6768만 원",
+        "summary": "출품작 늘었지만 낙찰률 50.4%…초고가 거래 공백 영향 쿠사마 '펌킨' 7억 8000만 원 최고가…홍콩 경매는 반등 올해 3분기 국내 주요 미술품 경매사 7곳의 낙찰총액이 279억 6768만 원으로 지난해 같은 기간보다 10.82% 감소했다. 출품작은 늘었지만 낙찰 건수와 낙찰 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6331301",
+        "source": "뉴스1",
+        "publishedAt": "2026-10-25T23:13:19.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/10/26/8177910/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 76,
+        "category": "market",
+        "articleType": "news",
+        "title": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다",
+        "summary": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다, 총 85점 112억 규모 28일 서울 케이옥션",
+        "url": "https://www.hankyung.com/article/2026102534211",
+        "source": "한국경제",
+        "publishedAt": "2026-10-25T08:03:45.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/AA.46186062.1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 64,
+        "category": "general",
+        "articleType": "news",
+        "title": "나무 뒤에 흰 천을 세웠더니…사진·회화 경계 허문 이명호",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 붓질 한 번 하지 않았다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261026_0003841849",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-26T15:01:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/26/NISI20261026_0002274402_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 62,
+        "category": "fair",
+        "articleType": "news",
+        "title": "서울미디어시티비엔날레 예술감독에 파파디미트리우",
+        "summary": "70건 국제공모 제안서 심사…내년 8월 '회복의 기계' 개막 AI·기술·권력 관계 탐구…11월 사전 프로그램서 방향 공개 서울시립미술관이 2027년 8월 개막하는 제14회 서울미디어시티비엔날레 예술감독으로 이리니 파파디미트리우(Irini Papadimitriou)를 선임했다. 제14 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6331304",
+        "source": "뉴스1",
+        "publishedAt": "2026-10-25T23:12:50.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/10/26/8177915/high.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "9130a17ac585",
+      "rank": 1,
+      "score": 149,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "titleKo": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+      "summaryKo": "A Monet painting sold for $56 million at Sotheby’s in Paris on Thursday. Iris is a painting of flowers in Monet’s Giverny water garden. It was purchased by Jen Hua, deputy of Sotheby’s Asia, on behalf of an Asian client. The world record for a painting by Monet is $110.7 million, set by the 2019 […]",
+      "url": "https://www.artforum.com/news/monet-painting-sells-for-56-million-at-sothebys-1234762028",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-23T16:58:33.000Z",
+      "coverage": 5,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/monet-iris.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "19c179666138",
+      "rank": 2,
+      "score": 115,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+      "titleKo": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+      "summaryKo": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million.",
+      "url": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-26T22:26:48.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Klimt-Litzlbergkeller-Christies-1024x1020.jpg.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "b5f695a6806e",
+      "rank": 3,
+      "score": 98,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Paris to close early due to protests",
+      "titleKo": "Art Basel Paris to close early due to protests",
+      "summaryKo": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+      "url": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-22T15:30:18.000Z",
+      "coverage": 4,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/ccd3c4b9d19ecd4ff791ca78aafe24234b97cdd4-2480x1653.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "44b74204ede7",
+      "rank": 4,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Bill Koch to Sell More Than $40 M. in Art at Christie’s, Led by Monet and Cezanne Paintings",
+      "titleKo": "Bill Koch to Sell More Than $40 M. in Art at Christie’s, Led by Monet and Cezanne Paintings",
+      "summaryKo": "The upcoming auction of $40 million in art is the latest chapter in a lucrative relationship between Christie's and billionaire William Koch.",
+      "url": "https://www.artnews.com/art-news/market/bill-koch-christies-sale-november-2026-monet-cezanne-1234803874",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-26T21:18:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/CLAUDE-MONET-Champ-davoine-et-coquelicots-1.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9f66e7d9f65b",
+      "rank": 5,
+      "score": 65,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "V&A proposing significant cuts to its academy amid financial pressures",
+      "titleKo": "V&A proposing significant cuts to its academy amid financial pressures",
+      "summaryKo": "The proposals would end many of the UK institution’s in-person adult-learning courses, and come despite the academy’s recent record sales",
+      "url": "https://www.theartnewspaper.com/2026/10/26/victoria-albert-museum-proposing-significant-cuts-academy-amid-financial-pressures",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-26T13:30:42.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/3bc6776c3245364a388dfd3701aa455c64969d40-6000x4000.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
