@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
+        "title": "모네 그림, 파리 소더비에서 5600만 달러에 팔려",
         "why": "5개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "title": "\"판매 보장\": 8천만 달러 규모의 클림트 풍경화 경매에 나옴",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Basel Paris to close early due to protests",
+        "title": "아트 바젤 파리, 시위로 조기 폐쇄",
         "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
-      "titleKo": "Monet Painting Sells for $56 Million at Sotheby’s in Paris",
-      "summaryKo": "A Monet painting sold for $56 million at Sotheby’s in Paris on Thursday. Iris is a painting of flowers in Monet’s Giverny water garden. It was purchased by Jen Hua, deputy of Sotheby’s Asia, on behalf of an Asian client. The world record for a painting by Monet is $110.7 million, set by the 2019 […]",
+      "titleKo": "모네 그림, 파리 소더비에서 5600만 달러에 팔려",
+      "summaryKo": "모네의 그림이 목요일 파리 소더비에서 5,600만 달러에 팔렸습니다. 아이리스(Iris)는 모네의 지베르니 수생정원에 있는 꽃을 그린 그림이다. 아시아 고객을 대신하여 Sotheby's Asia의 부사장인 Jen Hua가 구입했습니다. 모네 그림의 세계 기록은 2019년에 설정된 1억 1,070만 달러입니다. […]",
       "url": "https://www.artforum.com/news/monet-painting-sells-for-56-million-at-sothebys-1234762028",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
-      "titleKo": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
-      "summaryKo": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million.",
+      "titleKo": "\"판매 보장\": 8천만 달러 규모의 클림트 풍경화 경매에 나옴",
+      "summaryKo": "구스타프 클림트(Gustav Klimt)의 1915-16년 리츨베르그켈러(Litzlbergkeller)는 다음 달 뉴욕 경매에 출품될 예정이며 예상 가격은 6천만~8천만 달러입니다.",
       "url": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Art Basel Paris to close early due to protests",
-      "titleKo": "Art Basel Paris to close early due to protests",
-      "summaryKo": "Fifth edition of the fair will conclude on Friday evening, with demonstrations in Paris expected to resume this weekend",
+      "titleKo": "아트 바젤 파리, 시위로 조기 폐쇄",
+      "summaryKo": "제5회 박람회는 금요일 저녁에 마무리되며 이번 주말 파리에서 시위가 재개될 것으로 예상됩니다.",
       "url": "https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Bill Koch to Sell More Than $40 M. in Art at Christie’s, Led by Monet and Cezanne Paintings",
-      "titleKo": "Bill Koch to Sell More Than $40 M. in Art at Christie’s, Led by Monet and Cezanne Paintings",
-      "summaryKo": "The upcoming auction of $40 million in art is the latest chapter in a lucrative relationship between Christie's and billionaire William Koch.",
+      "titleKo": "Bill Koch, Monet and Cezanne Paintings가 이끄는 Christie's에서 미술품 4천만 달러 이상 판매",
+      "summaryKo": "다가오는 4천만 달러 규모의 미술품 경매는 Christie's와 억만장자 William Koch 사이의 수익성 있는 관계의 최신 장입니다.",
       "url": "https://www.artnews.com/art-news/market/bill-koch-christies-sale-november-2026-monet-cezanne-1234803874",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "V&A proposing significant cuts to its academy amid financial pressures",
-      "titleKo": "V&A proposing significant cuts to its academy amid financial pressures",
-      "summaryKo": "The proposals would end many of the UK institution’s in-person adult-learning courses, and come despite the academy’s recent record sales",
+      "titleKo": "V&A, 재정적 압박 속에서 아카데미에 상당한 삭감 제안",
+      "summaryKo": "이 제안은 영국 기관의 대면 성인 학습 과정 중 상당수를 종료하고 아카데미의 최근 기록적인 판매에도 불구하고 나올 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/10/26/victoria-albert-museum-proposing-significant-cuts-academy-amid-financial-pressures",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
