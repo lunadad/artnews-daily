@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T07:40:27.663+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israe…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "홍라희 리움미술관 명예관장에 국민훈장 동백장",
+        "summary": "홍라희 리움미술관 명예관장이 문화·의료·복지 분야에서 나눔을 실천한 공로로 국민훈장 동백장을 받았다. 삼성문화재단은 26일 홍 명예관장이 대한적십자사 창립 기념식에서 이형훈 보건복지부 제2차관으로부터 국민훈장 동백장을 수여받았다고 밝혔다. 국민훈장은 국민 복지 향상과 국가 발전에 기여한 공적이 뚜렷한 사람에게 정부가 수여하는 훈장이다. 동백장은 5개 ...",
+        "url": "https://www.khan.co.kr/article/202610262019065/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-10-26T11:19:00.000Z",
+        "coverage": 32,
+        "qualityCoverage": 9,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/10/26/2026102701000773400075041.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 86,
+        "category": "museum",
+        "articleType": "news",
+        "title": "英가디언, “방탄 RM 전시, 美현대미술관 살렸다”",
+        "summary": "“RM의 전시가 미술관에 명확한 재정적 상승효과를 안겼다.” 영국 유력지 가디언이 그룹 방탄소년단의 리더 RM(본명 김남준)의 개인 소장품 전시에 대해 이같이 평가했다. RM은 지난 3일부터 미국 샌프란시스코 현대미술관(SFMOMA)에서 개인 소장품을 공개하는 특별전",
+        "url": "https://www.munhwa.com/article/11626461",
+        "source": "문화일보",
+        "publishedAt": "2026-10-27T00:04:01.000Z",
+        "coverage": 7,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/10/27/news-a.v1.20261027.0eda01fb2c2941b0b7514b35083c2e57_T1.png"
+      },
+      {
+        "rank": 3,
+        "score": 85,
+        "category": "market",
+        "articleType": "news",
+        "title": "국내 미술 경매 낙찰총액 10.82% 감소…3분기 279억 6768만 원",
+        "summary": "출품작 늘었지만 낙찰률 50.4%…초고가 거래 공백 영향 쿠사마 '펌킨' 7억 8000만 원 최고가…홍콩 경매는 반등 올해 3분기 국내 주요 미술품 경매사 7곳의 낙찰총액이 279억 6768만 원으로 지난해 같은 기간보다 10.82% 감소했다. 출품작은 늘었지만 낙찰 건수와 낙찰 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6331301",
+        "source": "뉴스1",
+        "publishedAt": "2026-10-25T23:13:19.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/10/26/8177910/high.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "미술관의 선택과 미술시장의 평가는 어떻게 연결되는가",
+        "summary": "어떤 작가의 작품이 유명 미술관에 소장됐다는 소식이 전해지면 시장은 그 작가를 다시 바라본다. 이전에는 주목하지 않았던 구매자가 작품을 찾아보고, 갤러리는 작가를 소개할 때 미술관 소장 이력을 강조한다. 작품 한 점의 소유권이 바뀌었을 뿐인데, 그 작가의 다른 작품을 평가하는 기준까지",
+        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172830",
+        "source": "IT조선",
+        "publishedAt": "2026-10-27T21:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.it.chosun.com/news/thumbnail/202610/2023092172830_455604_4420_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "category": "market",
+        "articleType": "news",
+        "title": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다",
+        "summary": "RM이 사랑한 박수근·윤형근 거장들 작품, 경매에 나온다, 총 85점 112억 규모 28일 서울 케이옥션",
+        "url": "https://www.hankyung.com/article/2026102534211",
+        "source": "한국경제",
+        "publishedAt": "2026-10-25T08:03:45.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/AA.46186062.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "eb131b87a2fd",
+      "rank": 1,
+      "score": 103,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israeli Government Intervention",
+      "titleKo": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israeli Government Intervention",
+      "summaryKo": "The artifact described by the auction house as “plundered by SS German Soldiers” was won for $8,500, in a bid over its estimate, but will be donated to a remembrance organization.",
+      "url": "https://www.artnews.com/art-news/news/nazi-looted-torah-fragment-auction-canceled-israeli-government-intervened-1234803997",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-27T20:01:49.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Torah-Scroll-fragment-auctioned-by-Valkyrie-Oslo.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "19c179666138",
+      "rank": 2,
+      "score": 101,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+      "titleKo": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+      "summaryKo": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million.",
+      "url": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-26T22:26:48.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/Klimt-Litzlbergkeller-Christies-1024x1020.jpg.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a48573191464",
+      "rank": 3,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
+      "titleKo": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/art-basel-qatar-exhibitors-2027-2826873",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-27T11:00:57.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d7910869bc81",
+      "rank": 4,
+      "score": 82,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Qatar Names Participants for 2027 Edition",
+      "titleKo": "Art Basel Qatar Names Participants for 2027 Edition",
+      "summaryKo": "Art Basel Qatar has named the eighty-two galleries—down from last year’s eighty-seven—exhibiting in its 2027 edition, to take place January 26–30.",
+      "url": "https://www.artforum.com/news/art-basel-qatar-names-participants-for-2027-1234762203",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-27T16:01:37.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/ABQ26__MC__PR__General_Impressions__023_Large_HiRes-1.jpeg.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "782e8044f96e",
+      "rank": 5,
+      "score": 78,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Pace Gallery Reports Losses of 35.5 Percent for 2024 With ‘Real Change’ Underway",
+      "titleKo": "Pace Gallery Reports Losses of 35.5 Percent for 2024 With ‘Real Change’ Underway",
+      "summaryKo": "The group’s turnover totaled $67.69 million in 2024, a 35.5 percent drop from 2023, which cashed in $104.95 million.",
+      "url": "https://www.artnews.com/art-news/market/pace-gallery-reports-losses-2024-gallery-makes-real-change-1234804003",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-27T18:21:23.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2020/07/01.width-2000.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
