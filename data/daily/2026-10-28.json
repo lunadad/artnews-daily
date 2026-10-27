@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israe…",
+        "title": "나치가 약탈한 토라 조각 경매가 항의와 이스라엘 정부의 개입으로 취소됐다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "title": "\"판매 보장\": 8천만 달러 규모의 클림트 풍경화 경매에 나옴",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
+        "title": "아트 바젤 카타르가 82개의 갤러리로 돌아와 새로운 컬렉터를 모집합니다",
         "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israeli Government Intervention",
-      "titleKo": "Auction of Nazi-Looted Torah Fragment Canceled After Outcry and Israeli Government Intervention",
-      "summaryKo": "The artifact described by the auction house as “plundered by SS German Soldiers” was won for $8,500, in a bid over its estimate, but will be donated to a remembrance organization.",
+      "titleKo": "나치가 약탈한 토라 조각 경매가 항의와 이스라엘 정부의 개입으로 취소됐다",
+      "summaryKo": "경매장에서 \"SS 독일군에 의해 약탈된\" 것으로 묘사된 유물은 예상 가격보다 높은 가격인 8,500달러에 낙찰되었지만 추모 단체에 기증될 예정입니다.",
       "url": "https://www.artnews.com/art-news/news/nazi-looted-torah-fragment-auction-canceled-israeli-government-intervened-1234803997",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
-      "titleKo": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
-      "summaryKo": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million.",
+      "titleKo": "\"판매 보장\": 8천만 달러 규모의 클림트 풍경화 경매에 나옴",
+      "summaryKo": "구스타프 클림트(Gustav Klimt)의 1915-16년 리츨베르그켈러(Litzlbergkeller)는 다음 달 뉴욕 경매에 출품될 예정이며 예상 가격은 6천만~8천만 달러입니다.",
       "url": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,7 +160,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
-      "titleKo": "Art Basel Qatar Returns With 82 Galleries, Courts New Collectors",
+      "titleKo": "아트 바젤 카타르가 82개의 갤러리로 돌아와 새로운 컬렉터를 모집합니다",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/art-basel-qatar-exhibitors-2027-2826873",
       "source": "Artnet News",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Art Basel Qatar Names Participants for 2027 Edition",
-      "titleKo": "Art Basel Qatar Names Participants for 2027 Edition",
-      "summaryKo": "Art Basel Qatar has named the eighty-two galleries—down from last year’s eighty-seven—exhibiting in its 2027 edition, to take place January 26–30.",
+      "titleKo": "아트 바젤 카타르, 2027년 에디션 참가자 선정",
+      "summaryKo": "아트 바젤 카타르(Art Basel Qatar)는 2027년 전시회에서 작년 87개에서 줄어든 82개의 갤러리를 1월 26일부터 30일까지 개최할 예정이라고 발표했습니다.",
       "url": "https://www.artforum.com/news/art-basel-qatar-names-participants-for-2027-1234762203",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Pace Gallery Reports Losses of 35.5 Percent for 2024 With ‘Real Change’ Underway",
-      "titleKo": "Pace Gallery Reports Losses of 35.5 Percent for 2024 With ‘Real Change’ Underway",
-      "summaryKo": "The group’s turnover totaled $67.69 million in 2024, a 35.5 percent drop from 2023, which cashed in $104.95 million.",
+      "titleKo": "페이스 갤러리(Pace Gallery), '실질적인 변화' 진행 중 2024년 35.5% 손실 보고",
+      "summaryKo": "2024년 그룹 매출은 총 6,769만 달러로 2023년 1억495만 달러에 비해 35.5% 감소했다.",
       "url": "https://www.artnews.com/art-news/market/pace-gallery-reports-losses-2024-gallery-makes-real-change-1234804003",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
