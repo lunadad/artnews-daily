@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T07:40:31.157+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandin…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "UK art market growth lags behind competitors, new report finds",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 102,
+        "category": "artist",
+        "articleType": "pr",
+        "title": "‘올해의 작가상’ 수상자… 영상·사진 작가 홍진훤",
+        "summary": "국립현대미술관과 SBS문화재단이 주최하는 올해의 작가상 2026 수상자로 영상·사진 작가 홍진훤이 선정되었습니다. 그는 집회와 비극적 장소를 다룬 신작을 선보였으며, 후원 작가들의 작품과 함께 12월 6일까지 국립현대미술관 서울관에서 전시가 진행될 예정입니다.",
+        "url": "https://www.chosun.com/culture-life/art-gallery/2026/10/30/2FRL7KC4HVD5DOUUL5XVBODVBU",
+        "source": "조선일보",
+        "publishedAt": "2026-10-29T15:38:00.000Z",
+        "coverage": 22,
+        "qualityCoverage": 10,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/XMVQ5I5OJNDEJCCIDOQIFC4G5U.jpg?auth=83b2953dca6de61f2f73a31523a72107b824fbce686828aadb31ab233333ed9f&width=810&height=425&smart=true"
+      },
+      {
+        "rank": 2,
+        "score": 91,
+        "category": "museum",
+        "articleType": "news",
+        "title": "유영국의 힘은 컸다···서울시립미술관, 역대 최다 관람객 기록",
+        "summary": "한국 추상미술의 거장 유영국 작가(1916~2002) 탄생 110주년을 맞아 서울시립미술관에서 지난 5월 19일부터 열었던 전시가 지난 25일 누적 관람객 45만7082명을 기록하며 폐막했다. 서울시립미술관은 “개관일 141일 동안 하루 평균 3242명이 찾았으며, 누적 관람객 수는 시립미술관 무료 전시 가운데 역대 ...",
+        "url": "https://www.khan.co.kr/article/202610281000001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-10-28T01:00:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/10/28/news-p.v1.20261027.04bb4a69acba43e5be2f003bc3175b9a.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "category": "market",
+        "articleType": "news",
+        "title": "중동 미술시장 키우는 아트바젤…카타르서 박서보·워홀·카텔란",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 세계적인 아트페어 아트바젤이 중동 미술시장 공략을 강화한다. 내년 카타르에서 열리는 두 번째 아트바젤에 37개국 82개 갤러리가 참가하고, 박서보를 비롯해 앤디 워홀, 마우리치오 카텔란 등 세계적인 작가들의 작품을 선보인다.아트바젤은 27일(현지시간) '아트바젤 카타르 2027' 참가 갤러리 명단과 연중 미술시장 육..",
+        "url": "https://www.newsis.com/view/NISX20261028_0003843919",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-27T23:30:57.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/28/NISI20261028_0002275744_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 74,
+        "category": "museum",
+        "articleType": "news",
+        "title": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시",
+        "summary": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시, 김정은 기자, 생활/문화",
+        "url": "https://www.hankyung.com/article/202610294224i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-29T08:19:04.000Z",
+        "coverage": 4,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.46238085.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 74,
+        "category": "general",
+        "articleType": "news",
+        "title": "미술품 감정서·진품증명서 표준화…위반하면 과태료·영업 폐쇄",
+        "summary": "문화체육관광부가 미술품 감정서와 진품 증명서의 표준 서식을 고시했다. 감정서는 진위 감정서와 가격 감정서로 나뉘며, 신고한 감정업자만 발급할 수 있다. 다른 양식을 쓰면 과태료나 영업 폐쇄 처분을 받지만, 내년 7월까지는 계도기간이다.",
+        "url": "https://culture.seoul.co.kr/news/newsView.php?id=20261029500186",
+        "source": "서울컬처",
+        "publishedAt": "2026-10-29T06:11:00.000Z",
+        "coverage": 7,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/10/29/SSC_20261029151132.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "ba1bbf1f736a",
+      "rank": 1,
+      "score": 99,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
+      "titleKo": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
+      "summaryKo": "With an estimate of $60 million to $80 million, the Kandinsky is the highest priced lot in Christie's November sales.",
+      "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-29T15:13:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Wassily-Kandinsky-Betonte-Ecken-1000.jpg?w=1000",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4a85e139795c",
+      "rank": 2,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "UK art market growth lags behind competitors, new report finds",
+      "titleKo": "UK art market growth lags behind competitors, new report finds",
+      "summaryKo": "British Art Market Federation also emphasises the important role small businesses within the art trade",
+      "url": "https://www.theartnewspaper.com/2026/10/28/british-art-market-growth-lags-behind-competitors-new-report-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-28T12:24:09.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/2d3cc051f2b267e21d128f9e59be6a1b2e294708-2060x1376.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "36df35caba5b",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims 2026 Is Major Rebound",
+      "titleKo": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims 2026 Is Major Rebound",
+      "summaryKo": "The auction house said that it expects 2026 to be one of the most successful years in Phillips’ history through a focused strategy.",
+      "url": "https://www.artnews.com/art-news/market/phillips-reports-revenue-drop-22-3-percent-for-2025-1234804216",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-29T17:44:29.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2025/07/GettyImages-2173426516.jpg?w=768",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5f1cd7bd8238",
+      "rank": 4,
+      "score": 70,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Jantar Mantar Added to India Biennale 2026",
+      "titleKo": "Jantar Mantar Added to India Biennale 2026",
+      "summaryKo": "Jantar Mantar in Central Delhi has been added as a venue for the India Biennale 2026, a 108-day festival of art, architecture and design organised by the Ministry of Cult",
+      "url": "https://www.gktoday.in/jantar-mantar-added-to-india-biennale-2026",
+      "source": "GK Today",
+      "sourceDomain": "gktoday.in",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-29T18:21:03.000Z",
+      "coverage": 3,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "917b2fbbde2b",
+      "rank": 5,
+      "score": 69,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "The World Monuments Fund Triples Its Endowment",
+      "titleKo": "The World Monuments Fund Triples Its Endowment",
+      "summaryKo": "The World Monuments Fund has raised $62 million, tripling its endowment and beating its fundraising goal eighteen months ahead of schedule. This will give the New York–based preservation organization a financial cushion to protect monuments around the world. The organization’s endowment net assets a",
+      "url": "https://www.artforum.com/news/world-monuments-fund-triples-its-endowment-1234762649",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-29T19:04:52.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/World-Monuments-Fund.avif?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
