@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T07:40:26.502+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandin…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "UK art market growth lags behind competitors, new report finds",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 92,
+        "category": "artist",
+        "articleType": "pr",
+        "title": "‘올해의 작가상’ 수상자… 영상·사진 작가 홍진훤",
+        "summary": "국립현대미술관과 SBS문화재단이 주최하는 올해의 작가상 2026 수상자로 영상·사진 작가 홍진훤이 선정되었습니다. 그는 집회와 비극적 장소를 다룬 신작을 선보였으며, 후원 작가들의 작품과 함께 12월 6일까지 국립현대미술관 서울관에서 전시가 진행될 예정입니다.",
+        "url": "https://www.chosun.com/culture-life/art-gallery/2026/10/30/2FRL7KC4HVD5DOUUL5XVBODVBU",
+        "source": "조선일보",
+        "publishedAt": "2026-10-29T15:38:00.000Z",
+        "coverage": 17,
+        "qualityCoverage": 9,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/XMVQ5I5OJNDEJCCIDOQIFC4G5U.jpg?auth=83b2953dca6de61f2f73a31523a72107b824fbce686828aadb31ab233333ed9f&width=810&height=425&smart=true"
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "category": "museum",
+        "articleType": "news",
+        "title": "유영국의 힘은 컸다···서울시립미술관, 역대 최다 관람객 기록",
+        "summary": "한국 추상미술의 거장 유영국 작가(1916~2002) 탄생 110주년을 맞아 서울시립미술관에서 지난 5월 19일부터 열었던 전시가 지난 25일 누적 관람객 45만7082명을 기록하며 폐막했다. 서울시립미술관은 “개관일 141일 동안 하루 평균 3242명이 찾았으며, 누적 관람객 수는 시립미술관 무료 전시 가운데 역대 ...",
+        "url": "https://www.khan.co.kr/article/202610281000001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-10-28T01:00:00.000Z",
+        "coverage": 8,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/10/28/news-p.v1.20261027.04bb4a69acba43e5be2f003bc3175b9a.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 74,
+        "category": "museum",
+        "articleType": "news",
+        "title": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시",
+        "summary": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시, 김정은 기자, 생활/문화",
+        "url": "https://www.hankyung.com/article/202610294224i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-29T08:19:04.000Z",
+        "coverage": 4,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.46238085.1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 68,
+        "category": "general",
+        "articleType": "news",
+        "title": "미술품 감정서·진품증명서 표준화…위반하면 과태료·영업 폐쇄",
+        "summary": "문화체육관광부가 미술품 감정서와 진품 증명서의 표준 서식을 고시했다. 감정서는 진위 감정서와 가격 감정서로 나뉘며, 신고한 감정업자만 발급할 수 있다. 다른 양식을 쓰면 과태료나 영업 폐쇄 처분을 받지만, 내년 7월까지는 계도기간이다.",
+        "url": "https://culture.seoul.co.kr/news/newsView.php?id=20261029500186",
+        "source": "서울컬처",
+        "publishedAt": "2026-10-29T06:11:00.000Z",
+        "coverage": 6,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/10/29/SSC_20261029151132.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 62,
+        "category": "general",
+        "articleType": "news",
+        "title": "현대미술의 중심, 100년 만에 다시 파리로!",
+        "summary": "현대미술의 중심, 100년 만에 다시 파리로!, [arte] 이규현의 아트 오디세이 '아트바젤 파리'로 살펴본 글로벌 현대미술 허브로서 파리의 재부상",
+        "url": "https://www.hankyung.com/article/202610277532i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-30T00:00:05.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.46218399.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "ba1bbf1f736a",
+      "rank": 1,
+      "score": 89,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
+      "titleKo": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
+      "summaryKo": "With an estimate of $60 million to $80 million, the Kandinsky is the highest priced lot in Christie's November sales.",
+      "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-29T15:13:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Wassily-Kandinsky-Betonte-Ecken-1000.jpg?w=1000",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4a85e139795c",
+      "rank": 2,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "UK art market growth lags behind competitors, new report finds",
+      "titleKo": "UK art market growth lags behind competitors, new report finds",
+      "summaryKo": "British Art Market Federation also emphasises the important role small businesses within the art trade",
+      "url": "https://www.theartnewspaper.com/2026/10/28/british-art-market-growth-lags-behind-competitors-new-report-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-28T12:24:09.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/2d3cc051f2b267e21d128f9e59be6a1b2e294708-2060x1376.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f678ddd91f84",
+      "rank": 3,
+      "score": 81,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+      "titleKo": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/art-world/princedale-modern-edward-warburton-2-2828748",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-30T20:30:27.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e2904454bd8a",
+      "rank": 4,
+      "score": 77,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Dallas Art Fair Is Moving to Southern Methodist University in 2027",
+      "titleKo": "Dallas Art Fair Is Moving to Southern Methodist University in 2027",
+      "summaryKo": "The Dallas Art Fair will relocate to Southern Methodist University's Armstrong Fieldhouse in 2027, bringing galleries, collectors, and students together.",
+      "url": "https://www.artnews.com/art-news/market/dallas-art-fair-smu-campus-relocation-2027-1234804201",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/Armstrong-Fieldhouse-3-Photo-courtesy-of-Southern-Methodist-University.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f612b2b71681",
+      "rank": 5,
+      "score": 74,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Centre Pompidou, MoMA, And M+ Announce New Cultural Alliance",
+      "titleKo": "Centre Pompidou, MoMA, And M+ Announce New Cultural Alliance",
+      "summaryKo": "Centre Pompidou, M+, and the Museum of Modern Art, have formed a new cultural alliance that links Paris, Hong Kong, and New York with plans to co-organize exhibitions and programs. The alliance will also involve collaborations across research and conservation. The three institutions have a combined",
+      "url": "https://www.artforum.com/news/centre-pompidou-moma-m-announce-new-cultural-alliance-1234762803",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-30T16:56:59.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/1_Joint-Portrait_press.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
