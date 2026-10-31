@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T07:41:10.693+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Newly identified: the most expensive Van Gogh was once owned by a hig…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Documenta 16 Names Four New Curatorial Team Members",
+        "why": "2개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 98,
+        "category": "artist",
+        "articleType": "pr",
+        "title": "‘올해의 작가상’ 수상자… 영상·사진 작가 홍진훤",
+        "summary": "국립현대미술관과 SBS문화재단이 주최하는 올해의 작가상 2026 수상자로 영상·사진 작가 홍진훤이 선정되었습니다. 그는 집회와 비극적 장소를 다룬 신작을 선보였으며, 후원 작가들의 작품과 함께 12월 6일까지 국립현대미술관 서울관에서 전시가 진행될 예정입니다.",
+        "url": "https://www.chosun.com/culture-life/art-gallery/2026/10/30/2FRL7KC4HVD5DOUUL5XVBODVBU",
+        "source": "조선일보",
+        "publishedAt": "2026-10-29T15:42:29.000Z",
+        "coverage": 11,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/XMVQ5I5OJNDEJCCIDOQIFC4G5U.jpg?auth=83b2953dca6de61f2f73a31523a72107b824fbce686828aadb31ab233333ed9f&width=810&height=425&smart=true"
+      },
+      {
+        "rank": 2,
+        "score": 64,
+        "category": "museum",
+        "articleType": "news",
+        "title": "거울을 봤더니 ‘내일로 가는 방법’이…국현 청주 '미술관 길목 프로젝트'",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 미술관으로 향하는 길목에 알록달록한 병풍 같은 구조물이 서 있다. 노랑과 파랑, 빨강 등 여러 색의 패널에는 실로 수놓은 추상적인 이미지가 담겼다.그런데 이 구조물의 뒷면을 거울에 비춰보면 뜻밖의 문장이 나타난다.‘내일로 가는 방법’.앞에서는 읽을 수 없던 글자가 거울 속에서 하나의 문장으로 연결된다. 관람객이 어디..",
+        "url": "https://www.newsis.com/view/NISX20261030_0003847809",
+        "source": "뉴시스",
+        "publishedAt": "2026-10-30T00:26:37.000Z",
+        "coverage": 10,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/30/NISI20261030_0002278228_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 62,
+        "category": "general",
+        "articleType": "news",
+        "title": "미술품 감정서·진품증명서 표준화…위반하면 과태료·영업 폐쇄",
+        "summary": "문화체육관광부가 미술품 감정서와 진품 증명서의 표준 서식을 고시했다. 감정서는 진위 감정서와 가격 감정서로 나뉘며, 신고한 감정업자만 발급할 수 있다. 다른 양식을 쓰면 과태료나 영업 폐쇄 처분을 받지만, 내년 7월까지는 계도기간이다.",
+        "url": "https://culture.seoul.co.kr/news/newsView.php?id=20261029500186",
+        "source": "서울컬처",
+        "publishedAt": "2026-10-29T06:11:00.000Z",
+        "coverage": 5,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/10/29/SSC_20261029151132.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 56,
+        "category": "museum",
+        "articleType": "news",
+        "title": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시",
+        "summary": "제주서 하룻밤 묵었더니 내가 예술작품이 됐다…티노 세갈 전시, 김정은 기자, 생활/문화",
+        "url": "https://www.hankyung.com/article/202610294224i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-29T08:19:04.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.46238085.1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "현대미술의 중심, 100년 만에 다시 파리로!",
+        "summary": "현대미술의 중심, 100년 만에 다시 파리로!, [arte] 이규현의 아트 오디세이 '아트바젤 파리'로 살펴본 글로벌 현대미술 허브로서 파리의 재부상",
+        "url": "https://www.hankyung.com/article/202610277532i",
+        "source": "한국경제",
+        "publishedAt": "2026-10-30T00:00:05.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202610/01.46218399.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "88a2e6b8b0b9",
+      "rank": 1,
+      "score": 69,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Newly identified: the most expensive Van Gogh was once owned by a highly distinguished early collector",
+      "titleKo": "Newly identified: the most expensive Van Gogh was once owned by a highly distinguished early collector",
+      "summaryKo": "“Blossoming Chestnut Trees” was bought in 1908 by Gustave Fayet, now the focus of a major exhibition at the Louis Vuitton foundation in Paris",
+      "url": "https://www.theartnewspaper.com/2026/10/23/newly-identified-the-most-expensive-van-gogh-was-once-owned-by-a-highly-distinguished-early-collector",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/a13f412b9492ce7f24bb95c3a7348411a643ee04-7205x4879.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "88388e9d08f4",
+      "rank": 2,
+      "score": 69,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Documenta 16 Names Four New Curatorial Team Members",
+      "titleKo": "Documenta 16 Names Four New Curatorial Team Members",
+      "summaryKo": "The embattled German exhibition's latest appointments, artist Catherine Opie wins a Yale University award, and Dallas Art Fair partners with … a university?",
+      "url": "https://hyperallergic.com/documenta-16-names-four-new-curatorial-team-members",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-29T21:15:06.000Z",
+      "coverage": 2,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/documenta.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f678ddd91f84",
+      "rank": 3,
+      "score": 67,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+      "titleKo": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/art-world/princedale-modern-edward-warburton-2-2828748",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-30T20:30:27.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4a85e139795c",
+      "rank": 4,
+      "score": 66,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "UK art market growth lags behind competitors, new report finds",
+      "titleKo": "UK art market growth lags behind competitors, new report finds",
+      "summaryKo": "British Art Market Federation also emphasises the important role small businesses within the art trade",
+      "url": "https://www.theartnewspaper.com/2026/10/28/british-art-market-growth-lags-behind-competitors-new-report-finds",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-10-28T12:24:09.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/2d3cc051f2b267e21d128f9e59be6a1b2e294708-2060x1376.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "668e5c680b16",
+      "rank": 5,
+      "score": 60,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "titleKo": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "summaryKo": "n an unprecedented alliance, the three museums will treat their holdings as one shared collection, curated by staff spread across three continents.",
+      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-10-30T03:15:00.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/10/1_Joint-Portrait.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
