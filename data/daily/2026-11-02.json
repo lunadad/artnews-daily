@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Christie’s debut Abu Dhabi sale totals $8.94 million, setting nine au…",
+        "title": "크리스티의 데뷔작 아부다비 세일은 총 8,940만 달러 ($) 로, 9개의 경매 기록을 세웠습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Newly identified: the most expensive Van Gogh was once owned by a hig…",
+        "title": "새로 확인됨: 가장 비싼 반 고흐는 한때 저명한 초기 수집가가 소유했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "UK art market growth lags behind competitors, new report finds",
+        "title": "영국 미술 시장 성장이 경쟁사에 뒤처지다, 새로운 보고서 발견",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s debut Abu Dhabi sale totals $8.94 million, setting nine auction records",
-      "titleKo": "Christie’s debut Abu Dhabi sale totals $8.94 million, setting nine auction records",
-      "summaryKo": "Event delivers the auction house’s highest evening total for modern and contemporary Middle Eastern art in more than a decade",
+      "titleKo": "크리스티의 데뷔작 아부다비 세일은 총 8,940만 달러 ($) 로, 9개의 경매 기록을 세웠습니다.",
+      "summaryKo": "이벤트는 10 년 이상 경매장에서 현대 및 현대 중동 예술에 대한 가장 높은 저녁 총을 제공합니다",
       "url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/01/christies-debut-abu-dhabi-sale-totals-894-million-setting-nine-auction-records",
       "source": "The National",
       "sourceDomain": "thenationalnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Newly identified: the most expensive Van Gogh was once owned by a highly distinguished early collector",
-      "titleKo": "Newly identified: the most expensive Van Gogh was once owned by a highly distinguished early collector",
-      "summaryKo": "“Blossoming Chestnut Trees” was bought in 1908 by Gustave Fayet, now the focus of a major exhibition at the Louis Vuitton foundation in Paris",
+      "titleKo": "새로 확인됨: 가장 비싼 반 고흐는 한때 저명한 초기 수집가가 소유했습니다.",
+      "summaryKo": "\"꽃피는 밤나무\" 는 1908년 귀스타브 파예트 (Gustave Fayet) 에 의해 매입되었습니다. 귀스타브 파예트 (Gustave Fayet) 는 현재 파리의 루이비통 재단 (Louis Vuitton Foundation) 에서 주요 전시회의 초점입니다",
       "url": "https://www.theartnewspaper.com/2026/10/23/newly-identified-the-most-expensive-van-gogh-was-once-owned-by-a-highly-distinguished-early-collector",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "UK art market growth lags behind competitors, new report finds",
-      "titleKo": "UK art market growth lags behind competitors, new report finds",
-      "summaryKo": "British Art Market Federation also emphasises the important role small businesses within the art trade",
+      "titleKo": "영국 미술 시장 성장이 경쟁사에 뒤처지다, 새로운 보고서 발견",
+      "summaryKo": "영국 미술 시장 연맹 (British Art Market Federation) 은 또한 미술품 거래에서 중소기업의 중요한 역할을 강조합니다.",
       "url": "https://www.theartnewspaper.com/2026/10/28/british-art-market-growth-lags-behind-competitors-new-report-finds",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Mummified remains removed from public view could be returned to Egypt",
-      "titleKo": "Mummified remains removed from public view could be returned to Egypt",
-      "summaryKo": "Work is under way to remove archaeological human remains from other parts of the museum.",
+      "titleKo": "미라화 된 유적은 공개적으로 볼 때 이집트에 반환 될 수 있습니다.",
+      "summaryKo": "박물관의 다른 부분에서 고고학 유골을 제거하기 위한 작업이 진행 중입니다.",
       "url": "https://www.romfordrecorder.co.uk/news/national/26688222.mummified-remains-removed-public-view-returned-egypt",
       "source": "Romford Recorder",
       "sourceDomain": "romfordrecorder.co.uk",
@@ -200,8 +200,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Literalism: Art’s Deadest End",
-      "titleKo": "Literalism: Art’s Deadest End",
-      "summaryKo": "How Manfista 16, a biennial about the crisis of spirituality, mistook messaging for meaning",
+      "titleKo": "리터럴리즘: 예술의 막다른 골목",
+      "summaryKo": "영성의 위기에 관한 비엔날레인 Manfista 16이 메시지를 의미로 착각한 방법",
       "url": "https://www.artforum.com/features/kristian-madsen-manifesta-16-1234762346",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
