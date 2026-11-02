@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Christie’s First Fine Art Auction in Abu Dhabi Totals $8.94 M.",
+        "title": "아부다비에서 열린 크리스티의 첫 미술품 경매 총 금액은 894만 달러입니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist…",
+        "title": "아부다비에서 열린 크리스티의 첫 미술품 경매에서 890만 달러와 10개의 아티스트 기록 기록",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
+        "title": "Art Basel Paris의 딜러들은 조기 공정 폐쇄에 대한 보상을 요구합니다",
         "why": "3개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s First Fine Art Auction in Abu Dhabi Totals $8.94 M.",
-      "titleKo": "Christie’s First Fine Art Auction in Abu Dhabi Totals $8.94 M.",
-      "summaryKo": "Monir Shahroudy Farmanfarmaian’s 'Variations on the Hexagon' (2006) led the sale with $844,80; the painting was estimated at $150,000 to 250,000.",
+      "titleKo": "아부다비에서 열린 크리스티의 첫 미술품 경매 총 금액은 894만 달러입니다.",
+      "summaryKo": "Monir Shahroudy Farmanfarmaian의 'Variations on the Hexagon'(2006)이 844,80달러로 판매를 주도했습니다. 그림의 가격은 150,000~250,000달러로 추산되었습니다.",
       "url": "https://www.artnews.com/art-news/market/christies-fine-art-auction-abu-dhabi-results-1234804383",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -140,7 +140,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
-      "titleKo": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
+      "titleKo": "아부다비에서 열린 크리스티의 첫 미술품 경매에서 890만 달러와 10개의 아티스트 기록 기록",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/christies-abu-dhabi-auction-results-mawasim-2831155",
       "source": "Artnet News",
@@ -160,8 +160,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
-      "titleKo": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
-      "summaryKo": "Participating exhibitors at Art Basel Paris are demanding compensation for the fair closing two days early on October 23 over planned protests",
+      "titleKo": "Art Basel Paris의 딜러들은 조기 공정 폐쇄에 대한 보상을 요구합니다",
+      "summaryKo": "아트 바젤 파리 참가 전시업체들은 계획된 시위로 인해 10월 23일 이틀 일찍 박람회를 마감하는 데 대해 보상을 요구하고 있습니다.",
       "url": "https://www.artforum.com/news/dealers-art-basel-paris-seek-compensation-early-closure-1234762893",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Cosmic Leonora Carrington Painting Reemerges at Auction After 70 Years",
-      "titleKo": "Cosmic Leonora Carrington Painting Reemerges at Auction After 70 Years",
-      "summaryKo": "Fil d’Or (1953) will appear at Heritage Auctions in New York on November 10, with an estimate of $250,000–$350,000.",
+      "titleKo": "우주 레오노라 캐링턴 그림, 70년 만에 경매에 다시 등장",
+      "summaryKo": "Fil d'Or(1953)는 11월 10일 뉴욕 Heritage Auctions에 출품되며 예상 가격은 $250,000~$350,000입니다.",
       "url": "https://www.artnews.com/art-news/news/leonora-carrington-painting-reemerges-auction-1234804420",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Vilcek Foundation Names 2026 Grantees",
-      "titleKo": "Vilcek Foundation Names 2026 Grantees",
-      "summaryKo": "The Vilcek Foundation has announced the twelve recipients of its 2026 grants, totaling $212,000. Founded in 2000 by Czechoslovakian immigrants Jan and Marica Vilcek, the New York–based nonprofit to date has awarded more than $9.6 million in prizes to individuals and over $7.6 million in grants to or",
+      "titleKo": "Vilcek 재단, 2026년 수혜자 선정",
+      "summaryKo": "Vilcek 재단은 총 212,000달러에 달하는 2026년 보조금 수령자 12명을 발표했습니다. 체코슬로바키아 이민자 Jan과 Marica Vilcek이 2000년에 설립한 뉴욕 기반 비영리 단체는 현재까지 개인에게 960만 달러 이상의 상금을 수여했으며 다음과 같은 사람들에게 760만 달러 이상의 보조금을 수여했습니다.",
       "url": "https://www.artforum.com/news/vilcek-foundation-announces-2026-grantees-1234762865",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
