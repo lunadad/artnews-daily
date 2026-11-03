@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Former High Museum COO Sentenced to One Year in Prison for Siphoning …",
+        "title": "전 하이 뮤지엄 최고운영책임자 (COO) 가 기타를 사기 위해 $ 600,000를 모금한 혐의로 징역 1년을 선고받음",
         "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
+        "title": "경매 메이저 요시토모 나라 회화에 대한 공정한 경고, 최대 $ 15 M.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Italy Proposes Restitution Panel for Nazi-Looted Art",
+        "title": "이탈리아, 나치 약탈 예술에 대한 복원 패널 제안",
         "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
-      "titleKo": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
-      "summaryKo": "Brady Lum, the former COO of the High Museum in Atlanta, was sentenced to one year in prison for his theft of over $600,000.",
+      "titleKo": "전 하이 뮤지엄 최고운영책임자 (COO) 가 기타를 사기 위해 $ 600,000를 모금한 혐의로 징역 1년을 선고받음",
+      "summaryKo": "애틀랜타의 하이 뮤지엄 (High Museum) 의 전 COO인 브래디 럼 (Brady Lum) 은 60만 달러 ($) 이상의 절도 혐의로 징역 1년을 선고받았습니다.",
       "url": "https://www.artnews.com/art-news/news/former-high-museum-coo-sentenced-1234804610",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
-      "titleKo": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
-      "summaryKo": "A major Yoshitomo Nara painting heads to Fair Warning with a $10 million to $15 million estimate as Loïc Gouzer weighs in on the contemporary art market.",
+      "titleKo": "경매 메이저 요시토모 나라 회화에 대한 공정한 경고, 최대 $ 15 M.",
+      "summaryKo": "로익 구저 (Loïc Gouzer) 가 현대 미술 시장에 무게를 두면서 주요 요시토모 나라 (Yoshitomo Nara) 의 그림이 1천만 달러에서 1천5백만 달러의 추정치로 공정 경고 (Fair Warning) 로 향합니다.",
       "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-auction-loic-gouzer-1234804618",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Italy Proposes Restitution Panel for Nazi-Looted Art",
-      "titleKo": "Italy Proposes Restitution Panel for Nazi-Looted Art",
-      "summaryKo": "The Italian parliament is weighing a new law that would create a formal process for returning art stolen by Nazis during World War II.",
+      "titleKo": "이탈리아, 나치 약탈 예술에 대한 복원 패널 제안",
+      "summaryKo": "이탈리아 의회는 제2차 세계 대전 중 나치가 훔친 예술품을 반환하는 공식적인 절차를 만드는 새로운 법률에 무게를 두고 있습니다.",
       "url": "https://www.artforum.com/news/italy-seeks-restitution-panel-for-nazi-looted-art-1234762936",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Comment | There is cautious optimism surrounding the contemporary art market—but will it last?",
-      "titleKo": "Comment | There is cautious optimism surrounding the contemporary art market—but will it last?",
-      "summaryKo": "ArtTactic’s latest report on attitudes to the market suggests rising confidence—but previous moments of optimism were short-lived",
+      "titleKo": "Comment | 현대 미술 시장을 둘러싼 신중한 낙관론이 있지만, 지속될까요?",
+      "summaryKo": "ArtTactic의 시장 태도에 대한 최신 보고서에 따르면 자신감이 상승했지만 이전의 낙관적 인 순간은 수명이 짧았습니다.",
       "url": "https://www.theartnewspaper.com/2026/11/03/comment-%7C-there-is-cautious-optimism-surrounding-the-contemporary-art-marketbut-will-it-last",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,7 +200,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
-      "titleKo": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
+      "titleKo": "아부다비에서 크리스티의 첫 미술품 경매 노치 $ 8.9M 및 아티스트 레코드 10개",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/christies-abu-dhabi-auction-results-mawasim-2831155",
       "source": "Artnet News",
