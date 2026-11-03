@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T07:41:13.703+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Former High Museum COO Sentenced to One Year in Prison for Siphoning …",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Italy Proposes Restitution Panel for Nazi-Looted Art",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 108,
+        "category": "market",
+        "articleType": "news",
+        "title": "\"미공개 김환기 블루 전면점화 첫선\"…서울옥션, '2026 옥션쇼'",
+        "summary": "1000여 점 쏟아지는 2주간 경매 축제 서울옥션 강남센터 전관 11~24일 서울옥션은 11일부터 24일까지 강남센터 전관에서 1000여 점의 미술품을 총망라하는 대규모 아트 페어 '2026 옥션쇼'를 연다고 2일 발표했다.축제의 하이라이 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6340137",
+        "source": "뉴스1",
+        "publishedAt": "2026-11-02T08:18:37.000Z",
+        "coverage": 13,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/11/2/8192495/high.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관, AI와 예술의 관계 모색하는 국제심포지엄",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GYzVnZWhSSDFVX0ozWUFpa0F0VVpUeGJlX3J4dC1ZSTVMUkdnOG5Vb2xiT19sTWdRd01fY0tDN1V3Uk91LVhVQVdzM1E0NWpCY0NHT0ZyT3Q3cUHSAWBBVV95cUxNX2ctdUJJcklNRTk1czJTNFlQbWJOazByRURQVTJ6ZWdRZjhyNFNsYkVJNWttTmtmendkeDRKT0pYRjlZZndKeEdMYzkwWDNQVGMtc3FGQUlfaXpmYzdHR2E?oc=5",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-01T23:11:27.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 3,
+        "score": 57,
+        "category": "museum",
+        "articleType": "news",
+        "title": "박물관고을특구, 조선민화박물관 시리즈 기획전 《민화의 비상(飛上) 제7장 반복과 패턴》展 개최",
+        "summary": "박물관 고을 특구 영월에 위치한 조선민화박물관(관장 오석환)이 다가오는 11월 04일부터 09일까지 서울 인사동 한국미술관에서 민화의 비상(飛上)展과 ≪제29회",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=6075",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-11-03T21:54:29.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202611/6075_140040_542_v150.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 55,
+        "category": "fair",
+        "articleType": "news",
+        "title": "'경기도자비엔날레' 폐막…45일간 32만4000명 찾았다",
+        "summary": "[수원=뉴시스] 이병희 기자 = '땅이 만든다(Earth Makes)'를 주제로 45일 동안 진행된 '2026 경기도자비엔날레'가 1일 32만4000여 명의 관람객을 모으며 막을 내렸다. 3일 한국도자재단에 따르면 경기도자비엔날레는 9월18일부터 지난 1일까지 이천세라피아, 곤지암도자공원, 여주도자세상 등 경기도 곳곳에서 진행됐다. 전 세계 77개국 작가들..",
+        "url": "https://www.newsis.com/view/NISX20261103_0003852485",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-03T01:53:42.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/03/NISI20261103_0002281387_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 48,
+        "category": "general",
+        "articleType": "news",
+        "title": "“돈 되는 꽃도 안 그렸다”…안창홍이 평생 분노를 그리는 이유[박현주 아트클럽]",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 죽은 새의 눈에서 눈물이 흘러내린다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261103_0003853127",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-03T07:02:27.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/03/NISI20261103_0002281817_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "b87a57db7d3c",
+      "rank": 1,
+      "score": 93,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
+      "titleKo": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
+      "summaryKo": "Brady Lum, the former COO of the High Museum in Atlanta, was sentenced to one year in prison for his theft of over $600,000.",
+      "url": "https://www.artnews.com/art-news/news/former-high-museum-coo-sentenced-1234804610",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-03T20:35:00.000Z",
+      "coverage": 3,
+      "image": "https://www.artnews.com/wp-content/uploads/2022/10/GettyImages-1168746147.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d73a9f1eeeed",
+      "rank": 2,
+      "score": 93,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
+      "titleKo": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
+      "summaryKo": "A major Yoshitomo Nara painting heads to Fair Warning with a $10 million to $15 million estimate as Loïc Gouzer weighs in on the contemporary art market.",
+      "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-auction-loic-gouzer-1234804618",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-03T21:22:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Fair-Warning-Nara-In-the-Milky-Lake-Thinking-One-2011.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "220bd5ae61f9",
+      "rank": 3,
+      "score": 81,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Italy Proposes Restitution Panel for Nazi-Looted Art",
+      "titleKo": "Italy Proposes Restitution Panel for Nazi-Looted Art",
+      "summaryKo": "The Italian parliament is weighing a new law that would create a formal process for returning art stolen by Nazis during World War II.",
+      "url": "https://www.artforum.com/news/italy-seeks-restitution-panel-for-nazi-looted-art-1234762936",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-03T19:53:14.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-1371377529.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9c8708326a1b",
+      "rank": 4,
+      "score": 78,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Comment | There is cautious optimism surrounding the contemporary art market—but will it last?",
+      "titleKo": "Comment | There is cautious optimism surrounding the contemporary art market—but will it last?",
+      "summaryKo": "ArtTactic’s latest report on attitudes to the market suggests rising confidence—but previous moments of optimism were short-lived",
+      "url": "https://www.theartnewspaper.com/2026/11/03/comment-%7C-there-is-cautious-optimism-surrounding-the-contemporary-art-marketbut-will-it-last",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-03T09:01:21.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/deb9936b483754235ddde5fccd1b136f064b319a-1222x815.jpg?rect=0,42,1222,733&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7f15f201b3a7",
+      "rank": 5,
+      "score": 75,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
+      "titleKo": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/christies-abu-dhabi-auction-results-mawasim-2831155",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-02T21:10:59.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
