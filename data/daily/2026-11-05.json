@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T07:40:53.701+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "A Seagram Heir, a Bankrupt Hedge Funder, and More: Consignors for the…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "After Rough Ride at Pinault Foundation, Guillaume Cerutti Will Helm C…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "A French Museum’s “Wanted” Campaign Leads to Stolen Painting’s Return",
+        "why": "2개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "AI 시대, 예술의 향방은…서울시립미술관 심포지엄",
+        "summary": "서울시립미술관(관장 최은주)은 오는 7일 서소문본관 세마홀에서 심포지엄 ‘기술시대, 회화의 존재를 묻다’를 개최한다고 4일 밝혔다. 한국미술이론학회와 공동 주최하며 ‘위기와 새로운 가능성의 경계’에 선 회화의 존재성을 논한다. 이 행사는 가나아트컬렉션 상설기획전 ‘기술",
+        "url": "https://www.munhwa.com/article/11628677",
+        "source": "문화일보",
+        "publishedAt": "2026-11-04T02:24:57.000Z",
+        "coverage": 19,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/11/04/news-p.v1.20261104.44243a54129f4790be5ffd8d25246885_R.png"
+      },
+      {
+        "rank": 2,
+        "score": 104,
+        "category": "market",
+        "articleType": "news",
+        "title": "\"미공개 김환기 블루 전면점화 첫선\"…서울옥션, '2026 옥션쇼'",
+        "summary": "1000여 점 쏟아지는 2주간 경매 축제 서울옥션 강남센터 전관 11~24일 서울옥션은 11일부터 24일까지 강남센터 전관에서 1000여 점의 미술품을 총망라하는 대규모 아트 페어 '2026 옥션쇼'를 연다고 2일 발표했다.축제의 하이라이 …",
+        "url": "https://www.news1.kr/life-culture/performance-exhibition/6340137",
+        "source": "뉴스1",
+        "publishedAt": "2026-11-02T08:18:37.000Z",
+        "coverage": 24,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/11/2/8192495/high.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 60,
+        "category": "general",
+        "articleType": "news",
+        "title": "쓰레기 매립지 시설이 작업실로…난지미술창작스튜디오 20년",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 쓰레기 매립지의 침출수를 처리하던 시설이 예술가들의 작업실로 변신한 지 20년",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261104_0003853925",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-04T00:21:33.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2017/04/14/NISI20170414_0012898304_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 58,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“전시는 공짜, 영화는 당근서 반값”… 고물가에 문화생활도 ‘짠테크’",
+        "summary": "전시는 공짜, 영화는 당근서 반값 고물가에 문화생활도 짠테크",
+        "url": "https://biz.chosun.com/topics/topics_social/2026/11/05/L4QDHTIIFVESRGOFSCORVVHT5E?outputType=amp",
+        "source": "Chosunbiz",
+        "publishedAt": "2026-11-04T21:07:55.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://biz.chosun.com/resizer/v2/HHWE3RZJ2NACZNX3WDBUWZX2UQ.JPG?auth=d6a85e3a54addf56ec2dc8d5f4b39f4d42e223730430b28fc0b3786a8266c05d&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 5,
+        "score": 49,
+        "category": "fair",
+        "articleType": "news",
+        "title": "'경기도자비엔날레' 폐막…45일간 32만4000명 찾았다",
+        "summary": "[수원=뉴시스] 이병희 기자 = '땅이 만든다(Earth Makes)'를 주제로 45일 동안 진행된 '2026 경기도자비엔날레'가 1일 32만4000여 명의 관람객을 모으며 막을 내렸다. 3일 한국도자재단에 따르면 경기도자비엔날레는 9월18일부터 지난 1일까지 이천세라피아, 곤지암도자공원, 여주도자세상 등 경기도 곳곳에서 진행됐다. 전 세계 77개국 작가들..",
+        "url": "https://www.newsis.com/view/NISX20261103_0003852485",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-03T01:53:42.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/03/NISI20261103_0002281387_web.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "a6f6faab32cf",
+      "rank": 1,
+      "score": 103,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "A Seagram Heir, a Bankrupt Hedge Funder, and More: Consignors for the November Marquee Sales Revealed",
+      "titleKo": "A Seagram Heir, a Bankrupt Hedge Funder, and More: Consignors for the November Marquee Sales Revealed",
+      "summaryKo": "We found the collectors behind anonymous lots in the evening sales at Sotheby’s and Christie’s, uncovering ties to George Weiss, Frederick Iseman, and more.",
+      "url": "https://www.artnews.com/art-news/news/sothebys-christies-november-2026-auction-consignors-1234804676",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-04T20:56:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Wassily-Kandinsky-Betonte-Ecken-1000.jpg?w=1000",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9684173ded92",
+      "rank": 2,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "After Rough Ride at Pinault Foundation, Guillaume Cerutti Will Helm Château de Versailles",
+      "titleKo": "After Rough Ride at Pinault Foundation, Guillaume Cerutti Will Helm Château de Versailles",
+      "summaryKo": "Guillaume Cerutti, the former president of the Pinault Foundation and a onetime chief of auction house Christie’s, has been named as the next president of the Château de Versailles, effective November 9. He succeeds Christophe Leribault, who left in February to lead the beleaguered Louvre in Paris.",
+      "url": "https://www.artforum.com/news/guillaume-cerutti-will-helm-chateau-de-versailles-1234763005",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-04T21:24:50.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/03/GettyImages-90318281_7be2de.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1fe524602850",
+      "rank": 3,
+      "score": 81,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "A French Museum’s “Wanted” Campaign Leads to Stolen Painting’s Return",
+      "titleKo": "A French Museum’s “Wanted” Campaign Leads to Stolen Painting’s Return",
+      "summaryKo": "A 17th-century Dutch painting looted from France during the Second World War has been recovered by the Musée des Beaux-Arts d’Orléans.",
+      "url": "https://www.artforum.com/news/french-museums-wanted-campaign-leads-paintings-restitution-1234762972",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-04T16:43:51.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-11.21.18-AM.png?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "796a0c76b509",
+      "rank": 4,
+      "score": 75,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Museum Sold Kandinsky for $62,000. It May Fetch $80 Million At Auction",
+      "titleKo": "Museum Sold Kandinsky for $62,000. It May Fetch $80 Million At Auction",
+      "summaryKo": "Some 15 years after Solomon R. Guggenheim died, the foundation managing his extensive art collection concluded that it owned more Wassily Kandinsky paintings than it knew what to do with. The late American businessman had been among the Russian painter’s most prominent and dedicated patrons. But in",
+      "url": "https://english.aawsat.com/culture/5336923-museum-sold-kandinsky-62000-it-may-fetch-80-million-auction",
+      "source": "ASHARQ AL-AWSAT English",
+      "sourceDomain": "aawsat.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-04T12:56:55.000Z",
+      "coverage": 2,
+      "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1862401_0.jpeg.webp?VersionId=o_pdjZbXKW1S.HPMTmzg1v.ty0xkwn9p",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "332c769dfa15",
+      "rank": 5,
+      "score": 69,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+      "titleKo": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+      "summaryKo": "Turkey recently secured a bronze statue, thought to depict Marcus Aurelius, from the Cleveland Museum of Art.",
+      "url": "https://www.artnews.com/art-news/news/turkey-uses-ai-tech-100-looted-antiquities-us-1234804634",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-04T17:28:27.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Istanbul-archaeological-museums.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
