@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T07:41:01.352+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 0,
+      "artist": 2,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Rare Altdorfer landscape previously unknown to scholars to be auction…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 0,
+      "museum": 2,
+      "fair": 1,
+      "artist": 1,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 94,
+        "category": "general",
+        "articleType": "news",
+        "title": "한국 현대미술 50년…‘0’에서 다시 보다",
+        "summary": "서울 평창동 토탈미술관 입구에 바위를 얹은 저울이 놓였다. 바위는 묵직해 보이는데 계량기는 원점을 향한다. 곽덕준의 1970년작 ‘계량기와 돌’이다. 경부고속도로가 완공된 해, 곽덕준은 세상을 측정하고 판단해 온 척도 자체에 의문을 던지는 작품을 내놓았다. 흔히 엄혹한 통제, 경제개발을 향해 일로매진하던 시절로 기억되는 1970년대, 미술에서는 이에 반하는 많은 실험이 이뤄졌다. 최초의 사립 현대미술관인 토탈미술관이 태동한 때도, 공립 ‘미술회관’(지금의 아르코미술관)이 문을 연 것도 이 시기였다.",
+        "url": "https://www.joongang.co.kr/article/25476183",
+        "source": "중앙일보",
+        "publishedAt": "2026-11-05T15:01:01.000Z",
+        "coverage": 12,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/06/a582f8e0-32ec-4e60-ae5d-454e69df0e99.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "category": "museum",
+        "articleType": "news",
+        "title": "AI 시대, 예술의 향방은…서울시립미술관 심포지엄",
+        "summary": "서울시립미술관(관장 최은주)은 오는 7일 서소문본관 세마홀에서 심포지엄 ‘기술시대, 회화의 존재를 묻다’를 개최한다고 4일 밝혔다. 한국미술이론학회와 공동 주최하며 ‘위기와 새로운 가능성의 경계’에 선 회화의 존재성을 논한다. 이 행사는 가나아트컬렉션 상설기획전 ‘기술",
+        "url": "https://www.munhwa.com/article/11628677",
+        "source": "문화일보",
+        "publishedAt": "2026-11-04T02:24:57.000Z",
+        "coverage": 6,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/11/04/news-p.v1.20261104.44243a54129f4790be5ffd8d25246885_R.png"
+      },
+      {
+        "rank": 3,
+        "score": 60,
+        "category": "museum",
+        "articleType": "news",
+        "title": "진주시 '국립현대미술관 진주관' 유치 본격화…공론화 세미나 개최",
+        "summary": "경남 진주시는 '국립현대미술관 진주관' 건립의 필요성과 당위성을 공론화하는 세미나 개최를 추진하는 등 진주관 유치전에 본격 돌입했다고 5일 밝혔다.시는 2021년 …",
+        "url": "https://www.news1.kr/local/busan-gyeongnam/6344289",
+        "source": "뉴스1",
+        "publishedAt": "2026-11-05T05:23:05.000Z",
+        "coverage": 21,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://i3n.news1.kr/system/photos/2026/11/5/8198939/high.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "칠곡 작가 27명 한자리에… 미술협회 정기전 'ME & WE' 개최",
+        "summary": "① 경북 칠곡 지역 미술인 27명이 참여하는 한국미술협회 칠곡지부 제22회 정기전이 8일까지 예태미술관에서 열립니다. ② 이번 전시에서는 회화와 공예와 서예와 설치미술과 미디어아트와 사진 등 52점을 선보입니다. ③ 전시 주제는 ME & WE이며 작가들이 한 공간에서 창작 경험을 나누고 작품으로 지역 주민과 교감하는 뜻을 담았습니다.",
+        "url": "https://www.hankookilbo.com/news/article/A2026110510110003333",
+        "source": "한국일보",
+        "publishedAt": "2026-11-05T01:24:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/11/05/fde1d2cf-3e92-4365-942e-fe93815f57d3.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 43,
+        "category": "fair",
+        "articleType": "news",
+        "title": "'경기도자비엔날레' 폐막…45일간 32만4000명 찾았다",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTGZGQkx3N1JFUWs5Nk5CRzNnMm8tQ0NEMnllQ3pEM0RIX1Y3THRQTEV1NW03eGNYOW1qbFR5YkpVVEQ1bGFEQTlJMllDNlUxWGN2QXlNNjRPaTBYS1Nmb9IBeEFVX3lxTE1HQVNFVUxmQ05JWUxGZFlpR2pvcEluOUFSdFl3VXluWU9ab3FmTTd4UHNfUl81RW5mcHpTd2xDTDc3MmNxUlh4OXZGM2U2eFRDcnhZZEJCWkpfbzJGY3ZDRHR1QzNLZ3hyWVhoaTlXMlc2VmlUdDJwMg?oc=5",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-03T01:53:42.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "9fb8573c5a24",
+      "rank": 1,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting to Jewish Heirs",
+      "titleKo": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting to Jewish Heirs",
+      "summaryKo": "A court has ordered the restitution of a painting by Camille Pissarro, seized by the Germans during WWII, to the descendants of a Jewish banker.",
+      "url": "https://www.artnews.com/art-news/news/paris-court-rules-sothebys-return-nazi-looted-pissarro-1234804806",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-05T21:29:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/09/Claude-Pissarro-Duquesne-Sothebys.jpeg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "206ab8a5b412",
+      "rank": 2,
+      "score": 79,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare Altdorfer landscape previously unknown to scholars to be auctioned next month",
+      "titleKo": "Rare Altdorfer landscape previously unknown to scholars to be auctioned next month",
+      "summaryKo": "Offered at Sotheby's London for between £3m and £5m, it is the first painting by the Northern Renaissance master to come to the market in decades",
+      "url": "https://www.theartnewspaper.com/2026/11/05/sothebys-to-auction-rare-altdorfer-landscape-previously-unknown-to-scholars",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-05T09:34:57.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/359614cd5757c914423c8f9e5f10f274a891f56c-2553x1557.jpg?rect=0,0,2443,1548&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "abae672eaeac",
+      "rank": 3,
+      "score": 73,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+      "titleKo": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+      "summaryKo": "Her painting “Near Abiquiu, New Mexico I” was stashed in an East Village closet for decades. Now it might sell for up to $3 million.",
+      "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction",
+      "source": "Hyperallergic",
+      "sourceDomain": "hyperallergic.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "coverage": 1,
+      "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Near-Abiquiu--New-Mexico-I-by-Georgia-O-Keeffe--1-.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e1bfa9868b89",
+      "rank": 4,
+      "score": 70,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "Paul Hamlyn Foundation Announces 2026 Winners of Its $100,000+ Awards for Artists",
+      "titleKo": "Paul Hamlyn Foundation Announces 2026 Winners of Its $100,000+ Awards for Artists",
+      "summaryKo": "The Paul Hamlyn Foundation on November 4 named the ten artists and composers who have received the organization’s 2026 Awards for Artists. The honors, presented annually, are England’s largest of their kind, with each winner receiving £75,000 (roughly $101,000). The funding arrives with no strings a",
+      "url": "https://www.artforum.com/news/paul-hamlyn-foundation-announces-2026-awardees-1234763002",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-05T15:15:46.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/IMG_8399_b3aca9.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "da613cfe531b",
+      "rank": 5,
+      "score": 68,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "French authorities investigate claim of fraud over Picasso plates and medallions on sale",
+      "titleKo": "French authorities investigate claim of fraud over Picasso plates and medallions on sale",
+      "summaryKo": "Move comes after artist’s heirs lodged formal complaint over objects related to commissions from the 1950s",
+      "url": "https://www.theartnewspaper.com/2026/11/05/french-authorities-investigate-claim-of-fraud-over-picasso-plates-and-medallions-on-sale",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-05T18:39:50.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/904cfc597c9c2df5f5b9f97f44413d60f7d721b2-3543x2344.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
