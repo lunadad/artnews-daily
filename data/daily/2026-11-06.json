@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting …",
+        "title": "파리 법원, 소더비에 나치가 약탈한 피사로 그림을 유대인 상속자들에게 돌려주라고 명령",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Rare Altdorfer landscape previously unknown to scholars to be auction…",
+        "title": "이전에 학자들에게 알려지지 않았던 희귀한 알트도르퍼 풍경이 다음 달 경매에 나올 예정입니다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+        "title": "오랫동안 잃어버린 조지아 오키프 풍경이 경매에 나옵니다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting to Jewish Heirs",
-      "titleKo": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting to Jewish Heirs",
-      "summaryKo": "A court has ordered the restitution of a painting by Camille Pissarro, seized by the Germans during WWII, to the descendants of a Jewish banker.",
+      "titleKo": "파리 법원, 소더비에 나치가 약탈한 피사로 그림을 유대인 상속자들에게 돌려주라고 명령",
+      "summaryKo": "법원이 제2차 세계대전 당시 독일군에 압수한 카미유 피사로의 그림을 유대인 은행가의 후손들에게 돌려주라고 명령했습니다.",
       "url": "https://www.artnews.com/art-news/news/paris-court-rules-sothebys-return-nazi-looted-pissarro-1234804806",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Rare Altdorfer landscape previously unknown to scholars to be auctioned next month",
-      "titleKo": "Rare Altdorfer landscape previously unknown to scholars to be auctioned next month",
-      "summaryKo": "Offered at Sotheby's London for between £3m and £5m, it is the first painting by the Northern Renaissance master to come to the market in decades",
+      "titleKo": "이전에 학자들에게 알려지지 않았던 희귀한 알트도르퍼 풍경이 다음 달 경매에 나올 예정입니다",
+      "summaryKo": "런던 소더비에서 300만~500만 파운드에 낙찰된 이 작품은 북부 르네상스 거장의 그림이 수십 년 만에 시장에 나온 첫 번째 작품입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/05/sothebys-to-auction-rare-altdorfer-landscape-previously-unknown-to-scholars",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
-      "titleKo": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
-      "summaryKo": "Her painting “Near Abiquiu, New Mexico I” was stashed in an East Village closet for decades. Now it might sell for up to $3 million.",
+      "titleKo": "오랫동안 잃어버린 조지아 오키프 풍경이 경매에 나옵니다",
+      "summaryKo": "그녀의 그림 \"Near Abiquiu, New Mexico I\"은 수십 년 동안 이스트 빌리지 옷장에 숨겨져 있었습니다. 이제는 최대 300만 달러까지 팔릴 수 있습니다.",
       "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction",
       "source": "Hyperallergic",
       "sourceDomain": "hyperallergic.com",
@@ -180,8 +180,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "Paul Hamlyn Foundation Announces 2026 Winners of Its $100,000+ Awards for Artists",
-      "titleKo": "Paul Hamlyn Foundation Announces 2026 Winners of Its $100,000+ Awards for Artists",
-      "summaryKo": "The Paul Hamlyn Foundation on November 4 named the ten artists and composers who have received the organization’s 2026 Awards for Artists. The honors, presented annually, are England’s largest of their kind, with each winner receiving £75,000 (roughly $101,000). The funding arrives with no strings a",
+      "titleKo": "Paul Hamlyn 재단, 2026년 예술가를 위한 $100,000 이상의 상 수상자 발표",
+      "summaryKo": "폴 햄린 재단(Paul Hamlyn Foundation)은 11월 4일 조직의 2026년 예술가상을 수상한 10명의 예술가와 작곡가를 선정했습니다. 매년 수여되는 영예는 잉글랜드 최대 규모로, 각 우승자는 £75,000(약 $101,000)를 받습니다. 자금은 아무런 조건 없이 도착합니다.",
       "url": "https://www.artforum.com/news/paul-hamlyn-foundation-announces-2026-awardees-1234763002",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "French authorities investigate claim of fraud over Picasso plates and medallions on sale",
-      "titleKo": "French authorities investigate claim of fraud over Picasso plates and medallions on sale",
-      "summaryKo": "Move comes after artist’s heirs lodged formal complaint over objects related to commissions from the 1950s",
+      "titleKo": "프랑스 당국, 판매 중인 피카소 접시와 메달에 대한 사기 혐의 조사",
+      "summaryKo": "이번 움직임은 예술가의 상속인들이 1950년대 커미션과 관련된 물건에 대해 공식적인 불만을 제기한 이후에 나온 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/05/french-authorities-investigate-claim-of-fraud-over-picasso-plates-and-medallions-on-sale",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
