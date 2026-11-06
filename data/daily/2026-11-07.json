@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+        "title": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
         "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "Pablo Helguera to Lead New School’s Vera List Center",
+        "title": "파블로 헬게라 (Pablo Helguera), 새로운 학교의 베라 리스트 센터 (Vera List",
         "why": "4개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "Guillaume Cerutti named president of the Palace of Versailles",
+        "title": "기욤 세루티, 베르사유 궁전의 회장으로 임명",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "titleKo": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "summaryKo": "The Whitney Museum of American Art has named Meg Onli and Zack Winokur as the curators of the 2028 Whitney Biennial.",
+      "titleKo": "멕 온리와 잭 위노커, 2028 휘트니 비엔날레 큐레이팅",
+      "summaryKo": "휘트니 미술관은 2028년 휘트니 비엔날레의 큐레이터로 멕 온리 (Meg Onli) 와 잭 위노커 (Zack Winokur) 를 지명했습니다.",
       "url": "https://www.artforum.com/news/meg-onli-and-zack-winokur-will-curate-2028-whitney-biennial-1234763192",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Pablo Helguera to Lead New School’s Vera List Center",
-      "titleKo": "Pablo Helguera to Lead New School’s Vera List Center",
-      "summaryKo": "The Vera List Center for Art and Politics at the New School, New York, has announced artist and educator Pablo Helguera as its new director.",
+      "titleKo": "파블로 헬게라 (Pablo Helguera), 새로운 학교의 베라 리스트 센터 (Vera List",
+      "summaryKo": "뉴욕 뉴 스쿨의 예술과 정치를 위한 베라 리스트 센터 (Vera List Center for Art and Politics) 는 예술가이자 교육자인 파블로 헬게라 (Pablo Helguera) 를 새로운 감독으로 발표했습니다.",
       "url": "https://www.artforum.com/news/pablo-helguera-to-lead-new-school-vera-list-center-1234763219",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Guillaume Cerutti named president of the Palace of Versailles",
-      "titleKo": "Guillaume Cerutti named president of the Palace of Versailles",
-      "summaryKo": "The former global chief executive of Christie’s returns to the public sector to head one of France’s most prestigious cultural institutions",
+      "titleKo": "기욤 세루티, 베르사유 궁전의 회장으로 임명",
+      "summaryKo": "크리스티의 전 글로벌 최고 경영자가 공공 부문에 복귀하여 프랑스에서 가장 권위 있는 문화 기관 중 하나를 이끌고 있습니다.",
       "url": "https://www.theartnewspaper.com/2026/11/05/guillaume-cerutti-named-president-of-the-palace-of-versailles",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
-      "titleKo": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
-      "summaryKo": "The court’s order also sought to cancel the 2024 sale in London, a rare test of whether judgment in France can affect commercial ctivity in the UK",
+      "titleKo": "프랑스 법원은 소더비 (Sotheby's) 에서 판매된 피사로 (Pissarro) 그림을 유대인 은행가의 상속인에게 £ 120만 달러에 배상하라는 명령을 내렸습니다.",
+      "summaryKo": "법원의 명령은 또한 런던에서 2024 년 판매를 취소하려고했는데, 이는 프랑스의 판단이 영국의 상업적 감금에 영향을 미칠 수 있는지에 대한 드문 테스트입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,7 +200,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Abu Dhabi | Sotheby's × Frieze Connect: Young Collectors' Brunch",
-      "titleKo": "Abu Dhabi | Sotheby's × Frieze Connect: Young Collectors' Brunch",
+      "titleKo": "아부다비 | 소더비 × 프리즈 커넥트: 젊은 컬렉터들의 브런치",
       "summaryKo": "",
       "url": "https://www.frieze.com/event/abu-dhabi-sothebys-frieze-connect-young-collectors-brunch",
       "source": "Frieze",
