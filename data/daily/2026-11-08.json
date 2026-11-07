@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T07:41:13.929+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+        "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Court orders Sotheby’s to return painting looted by Nazis to Jewish h…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads t…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 2
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 72,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 진주관 속도…\"준비된 도시\" 당위성 강화",
+        "summary": "[진주=뉴시스] 정경규 기자 = 경남 진주시가 국립현대미술관 진주관 유치를 위한 공감대 확산과 당위성 확보에 속도를 내고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261106_0003857903",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-06T08:04:17.000Z",
+        "coverage": 22,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/06/NISI20261106_0002285353_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "category": "general",
+        "articleType": "news",
+        "title": "'미술의 나라' 프랑스의 거장과 연인…서울로 찾아왔다 - 머니투데이",
+        "summary": "역동적인 '미술의 도시'에서 대규모 전시를 열게 돼 매우 뜻깊습니다. \" 프랑스에서 최연소 미술관장 중 한 사람으로 이름을 알린 패니 지라르 '툴루즈 로트렉 미술관' 관장은 지난 6일 전시의 의의를 묻는 질문에 이 같이 답했다.",
+        "url": "https://www.mt.co.kr/culture/2026/11/07/2026110616133148109",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-07T17:59:10.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110616133148109_1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 67,
+        "category": "market",
+        "articleType": "news",
+        "title": "세계 미술시장, 투기에서 안목으로-한국미술은 무엇을 준비해야 하는가",
+        "summary": "한동안 세계 미술시장은 ‘누가 다음 스타가 될 것인가’를 찾아 움직였다. 젊은 작가의 작품이 짧은 시간 안에 몇 배씩 가격이 오르고, 작품 자체보다 경매 기록과 투자 가능성이 먼저 이야기되던 시기가 있었다.그러나 2026년 가을 세계 미술시장의 풍경은 조금 달라졌다. 시장이 다시 살아",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105391",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-11-06T05:25:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202611/105391_338085_3949_v150.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 51,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[이번 주 전시] 조각은 공간과 공명한다",
+        "summary": "조숙진 개인전이 서울 남서울미술관에서 개최 중이며, 뉴욕 활동 및 설치 미술을 선보인다. 2026 창원조각비엔날레는 경남 창원시에서 열려 도시 곳곳에서 조각 전시를 진행한다. |",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026102916110001460",
+        "source": "한국일보",
+        "publishedAt": "2026-11-06T10:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/10/29/963b520a-0f5f-4afc-9b5f-f561ba6d4af9.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "형슬우 감독 사진전, 류준열·정은채도 응원… 스크린 밖에서도 빛난 감성",
+        "summary": "① 형슬우 감독 사진전 BYTE BITE가 2026년 10월 30일 서울 용산 사운즈 한남 갤러리에서 개막했으며 11월 19일까지 진행하겠습니다. ② 전시에는 사진 30여 점이 걸렸고 사진마다 씬 번호와 지문이 붙어 관람객이 이야기를 상상하도록 구성했습니다. ③ 오프닝과 전시 기간에 차서원과 류준열과 정은채 등 배우들이 방문해 응원을 더했으며 형슬우 감독은 관람객 반응에 감사했다고 말했습니다.",
+        "url": "https://www.hankookilbo.com/news/article/amp/A2026110713130004631",
+        "source": "한국일보",
+        "publishedAt": "2026-11-07T04:26:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://newsimg.hankookilbo.com/2026/11/07/b9a4e96a-0a19-4b67-a592-04793115dfb2.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "8627dfa025ad",
+      "rank": 1,
+      "score": 107,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+      "titleKo": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+      "summaryKo": "The Whitney Museum of American Art has named Meg Onli and Zack Winokur as the curators of the 2028 Whitney Biennial.",
+      "url": "https://www.artforum.com/news/meg-onli-and-zack-winokur-will-curate-2028-whitney-biennial-1234763192",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-06T19:00:18.000Z",
+      "coverage": 5,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/onli-winokur.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "37b34e059bf3",
+      "rank": 2,
+      "score": 96,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
+      "titleKo": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
+      "summaryKo": "The agreement between the two descendants and Sotheby’s was arranged by Toronto-based Mondex Corporation.",
+      "url": "https://worldisraelnews.com/court-orders-sothebys-to-return-painting-looted-by-nazis-to-jewish-heirs/amp",
+      "source": "World Israel News",
+      "sourceDomain": "worldisraelnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-07T18:00:21.000Z",
+      "coverage": 2,
+      "image": "https://worldisraelnews.com/wp-content/uploads/2026/11/Camille_Pissarro_-_Darse_de_peche_et_bassin_Duquesne_Dieppe_apres-midi_ensoleillee-1024x822.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "426f91c3d885",
+      "rank": 3,
+      "score": 89,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
+      "titleKo": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
+      "summaryKo": "An early Georgia O’Keeffe work discovered in a closet in Manhattan’s East Village in 2022 is bound for the auction block. O’Keeffe’s Near Abiquiu, New Mexico I, 1930, is estimated to get $3 million at Christie’s November 17 evening sale in New York. The painting is thought to be the first in a serie",
+      "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-06T00:16:34.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/new-okeeffe-lobo-peak-1024x418.jpg.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7380612defcc",
+      "rank": 4,
+      "score": 80,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
+      "titleKo": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
+      "summaryKo": "The court’s order also sought to cancel the 2024 sale in London, a rare test of whether judgment in France can affect commercial ctivity in the UK",
+      "url": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-06T18:54:23.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/585fe529e27787f6ea4cdfcdef4a7f83e11a293e-2000x1574.jpg?rect=0,187,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8249210dbcdb",
+      "rank": 5,
+      "score": 58,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+      "titleKo": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+      "summaryKo": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
+      "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-07T13:40:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Gary-Tyler-Rebirth-GRAM-Installation-2.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
