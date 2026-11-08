@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T07:41:13.419+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Van Gogh painting to break auction record: could exceed $200m",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads t…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Court orders Sotheby’s to return painting looted by Nazis to Jewish h…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 86,
+        "category": "market",
+        "articleType": "news",
+        "title": "\"경매 문턱 낮췄어요\"… 피카츄 카드 보러 왔다가 그림 산다",
+        "summary": "서울옥션이 미술 시장 침체를 극복하기 위해 경매와 다양한 문화 콘텐츠를 결합한 2026 옥션쇼를 개최함. 고가 미술품 거래와 더불어 0원 경매 및 대중 문화 전시를 통해 신규 고객 유치와 시장 활성화를 도모함.",
+        "url": "https://www.chosun.com/culture-life/art-gallery/2026/11/09/RPUEKV3FBVGADD3F2VC2BABA5E",
+        "source": "조선일보",
+        "publishedAt": "2026-11-08T15:39:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/7BHMKC4ZXBAR7MASHRXCPYD7AE.jpg?auth=d326b216d346df7a6ce9843e6cc30658fe6d5851a7077cbec69fc356dd9e252a&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "김환기부터 포켓몬까지…2주간 매일 경매가? ‘2026 옥션 쇼’",
+        "summary": "서울옥션 강남센터 11일 개막 경매 12회·전시·브랜드 팝업 김환기의 미공개 전면점화에서부터 최근 아트 투자 시장에 새롭게 부상한 포켓몬 카드까지. 1000여 점의 수집품과 미술작품, 럭셔리 제품들이 2주간 매일 경매에 오르는 행사가 열린다. 서울옥션에서 마련한 ‘20",
+        "url": "https://www.munhwa.com/article/11629644",
+        "source": "문화일보",
+        "publishedAt": "2026-11-08T05:24:50.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.munhwa.com/news/cms/2026/11/08/news-p.v1.20261108.b6c49a2a136749d5992b93af3ba79185_R.png"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 진주관 속도…\"준비된 도시\" 당위성 강화",
+        "summary": "[진주=뉴시스] 정경규 기자 = 경남 진주시가 국립현대미술관 진주관 유치를 위한 공감대 확산과 당위성 확보에 속도를 내고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261106_0003857903",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-06T08:04:17.000Z",
+        "coverage": 30,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/06/NISI20261106_0002285353_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "market",
+        "articleType": "news",
+        "title": "세계 미술시장, 투기에서 안목으로-한국미술은 무엇을 준비해야 하는가",
+        "summary": "한동안 세계 미술시장은 ‘누가 다음 스타가 될 것인가’를 찾아 움직였다. 젊은 작가의 작품이 짧은 시간 안에 몇 배씩 가격이 오르고, 작품 자체보다 경매 기록과 투자 가능성이 먼저 이야기되던 시기가 있었다.그러나 2026년 가을 세계 미술시장의 풍경은 조금 달라졌다. 시장이 다시 살아",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105391",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-11-06T05:25:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202611/105391_338085_3949_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 56,
+        "category": "general",
+        "articleType": "news",
+        "title": "'미술의 나라' 프랑스의 거장과 연인…서울로 찾아왔다 - 머니투데이",
+        "summary": "역동적인 '미술의 도시'에서 대규모 전시를 열게 돼 매우 뜻깊습니다. \" 프랑스에서 최연소 미술관장 중 한 사람으로 이름을 알린 패니 지라르 '툴루즈 로트렉 미술관' 관장은 지난 6일 전시의 의의를 묻는 질문에 이 같이 답했다.",
+        "url": "https://www.mt.co.kr/culture/2026/11/07/2026110616133148109",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-07T00:00:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110616133148109_1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e4c75034167c",
+      "rank": 1,
+      "score": 92,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh painting to break auction record: could exceed $200m",
+      "titleKo": "Van Gogh painting to break auction record: could exceed $200m",
+      "summaryKo": "‘Chestnut Trees in Blossom’, painted by the artist just a few months before his death and kept hidden for over sixty years, could become one of the three most …",
+      "url": "https://www.repubblica.it/en/culture/2026/11/07/news/van_gogh_to_break_record_at_auction_could_exceed_200m-425707117",
+      "source": "la Repubblica",
+      "sourceDomain": "repubblica.it",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-07T23:01:00.000Z",
+      "coverage": 2,
+      "image": "https://www.repstatic.it/content/nazionale/img/2026/11/07/235504235-a1f80921-a95f-4d42-9d19-38968f0379f2.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "426f91c3d885",
+      "rank": 2,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
+      "titleKo": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
+      "summaryKo": "An early Georgia O’Keeffe work discovered in a closet in Manhattan’s East Village in 2022 is bound for the auction block. O’Keeffe’s Near Abiquiu, New Mexico I, 1930, is estimated to get $3 million at Christie’s November 17 evening sale in New York. The painting is thought to be the first in a serie",
+      "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-06T00:16:34.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/new-okeeffe-lobo-peak-1024x418.jpg.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "37b34e059bf3",
+      "rank": 3,
+      "score": 82,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
+      "titleKo": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
+      "summaryKo": "The agreement between the two descendants and Sotheby’s was arranged by Toronto-based Mondex Corporation.",
+      "url": "https://worldisraelnews.com/court-orders-sothebys-to-return-painting-looted-by-nazis-to-jewish-heirs/amp",
+      "source": "World Israel News",
+      "sourceDomain": "worldisraelnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-07T18:00:21.000Z",
+      "coverage": 2,
+      "image": "https://worldisraelnews.com/wp-content/uploads/2026/11/Camille_Pissarro_-_Darse_de_peche_et_bassin_Duquesne_Dieppe_apres-midi_ensoleillee-1024x822.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8627dfa025ad",
+      "rank": 4,
+      "score": 65,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+      "titleKo": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
+      "summaryKo": "The Whitney Museum of American Art has named Meg Onli and Zack Winokur as the curators of the 2028 Whitney Biennial. Onli, who currently serves as the museum’s Nancy and Fred Poses Curator, co-organized the 2024 Biennial, “Even Better Than the Real Thing,” as well as the blockbuster retrospective “R",
+      "url": "https://www.artforum.com/news/meg-onli-and-zack-winokur-will-curate-2028-whitney-biennial-1234763192",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-06T19:00:18.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/onli-winokur.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8a25e3108285",
+      "rank": 5,
+      "score": 57,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Nara, Recorder of Japanese Girlhood, Finds New Freedom in Color",
+      "titleKo": "Nara, Recorder of Japanese Girlhood, Finds New Freedom in Color",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVk1QWNoNUlsY19oc3JBVXRuUkt2eGVEYjBHR1c2dFlPbHVOVExHdzlWT0pCdXVsb2J0WUxTTG1MSkJVeE5JNFhoQlZTT2toTzNEVXdkdXZSRTBLMERreW1OVnNuX3FvdFNLRV9GZjFJYlhwX1BfMUJhMFI0WUtESEVLMnJEYTkyWU1ldmt5ZmM0RGV5X2dwSkNJT2FHZw?oc=5",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-11-08T15:20:00.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
