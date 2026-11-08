@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Van Gogh painting to break auction record: could exceed $200m",
+        "title": "반 고흐 그림, 경매 기록 깨고 2억 달러 넘을 수도",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads t…",
+        "title": "이스트빌리지 코트 옷장에서 300만 달러 상당 조지아 오키프 발견, 경매로 향하다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Court orders Sotheby’s to return painting looted by Nazis to Jewish h…",
+        "title": "법원, 소더비에 나치가 약탈한 그림을 유대인 상속자들에게 돌려주라고 명령",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Van Gogh painting to break auction record: could exceed $200m",
-      "titleKo": "Van Gogh painting to break auction record: could exceed $200m",
-      "summaryKo": "‘Chestnut Trees in Blossom’, painted by the artist just a few months before his death and kept hidden for over sixty years, could become one of the three most …",
+      "titleKo": "반 고흐 그림, 경매 기록 깨고 2억 달러 넘을 수도",
+      "summaryKo": "작가가 죽기 불과 몇 달 전에 그려 60년 넘게 숨겨졌던 '꽃피는 밤나무'는 세계에서 가장 유명한 세 작품 중 하나가 될 수 있습니다.",
       "url": "https://www.repubblica.it/en/culture/2026/11/07/news/van_gogh_to_break_record_at_auction_could_exceed_200m-425707117",
       "source": "la Repubblica",
       "sourceDomain": "repubblica.it",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
-      "titleKo": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
-      "summaryKo": "An early Georgia O’Keeffe work discovered in a closet in Manhattan’s East Village in 2022 is bound for the auction block. O’Keeffe’s Near Abiquiu, New Mexico I, 1930, is estimated to get $3 million at Christie’s November 17 evening sale in New York. The painting is thought to be the first in a serie",
+      "titleKo": "이스트빌리지 코트 옷장에서 300만 달러 상당 조지아 오키프 발견, 경매로 향하다",
+      "summaryKo": "2022년 맨해튼 이스트 빌리지의 옷장에서 발견된 조지아 오키프의 초기 작품이 경매에 나올 예정입니다. O'Keeffe의 Near Abiquiu, New Mexico I, 1930은 뉴욕에서 열린 Christie의 11월 17일 저녁 세일에서 300만 달러에 팔릴 것으로 추산됩니다. 이 그림은 시리즈의 첫 번째 그림으로 생각됩니다.",
       "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
-      "titleKo": "Court orders Sotheby’s to return painting looted by Nazis to Jewish heirs",
-      "summaryKo": "The agreement between the two descendants and Sotheby’s was arranged by Toronto-based Mondex Corporation.",
+      "titleKo": "법원, 소더비에 나치가 약탈한 그림을 유대인 상속자들에게 돌려주라고 명령",
+      "summaryKo": "두 후손과 Sotheby's 간의 합의는 토론토에 본사를 둔 Mondex Corporation이 주선했습니다.",
       "url": "https://worldisraelnews.com/court-orders-sothebys-to-return-painting-looted-by-nazis-to-jewish-heirs/amp",
       "source": "World Israel News",
       "sourceDomain": "worldisraelnews.com",
@@ -180,8 +180,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "titleKo": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "summaryKo": "The Whitney Museum of American Art has named Meg Onli and Zack Winokur as the curators of the 2028 Whitney Biennial. Onli, who currently serves as the museum’s Nancy and Fred Poses Curator, co-organized the 2024 Biennial, “Even Better Than the Real Thing,” as well as the blockbuster retrospective “R",
+      "titleKo": "Meg Onli와 Zack Winokur, 2028 휘트니 비엔날레 기획 예정",
+      "summaryKo": "휘트니 미술관은 2028년 휘트니 비엔날레의 큐레이터로 멕 온리(Meg Onli)와 잭 위노커(Zack Winokur)를 선정했습니다. 현재 박물관의 낸시 앤 프레드 포즈 큐레이터로 활동하고 있는 온리는 2024년 비엔날레 \"진짜보다 나은 것(Even Better Than the Real Thing)\"과 블록버스터 회고전 \"R\"을 공동 기획했습니다.",
       "url": "https://www.artforum.com/news/meg-onli-and-zack-winokur-will-curate-2028-whitney-biennial-1234763192",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,7 +200,7 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Nara, Recorder of Japanese Girlhood, Finds New Freedom in Color",
-      "titleKo": "Nara, Recorder of Japanese Girlhood, Finds New Freedom in Color",
+      "titleKo": "일본 소녀시대의 리코더 나라, 컬러에서 새로운 자유를 찾다",
       "summaryKo": "",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVk1QWNoNUlsY19oc3JBVXRuUkt2eGVEYjBHR1c2dFlPbHVOVExHdzlWT0pCdXVsb2J0WUxTTG1MSkJVeE5JNFhoQlZTT2toTzNEVXdkdXZSRTBLMERreW1OVnNuX3FvdFNLRV9GZjFJYlhwX1BfMUJhMFI0WUtESEVLMnJEYTkyWU1ldmt5ZmM0RGV5X2dwSkNJT2FHZw?oc=5",
       "source": "The New York Times",
