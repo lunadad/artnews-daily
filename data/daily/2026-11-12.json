@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
+        "title": "리버풀 비엔날레, 2027년 주제, 아티스트 발표",
         "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+        "title": "아트 바젤 파리 어워드 조기 마감 후 전시업체 20% 할인",
         "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+        "title": "테드 터너(Ted Turner)의 서양 미술 컬렉션이 크리스티에서 2천만 달러에 판매됩니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
-      "titleKo": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
-      "summaryKo": "The organizers of the Liverpool Biennial have revealed the theme and artists for the event’s fourteenth iteration, to run June 5–September 12, 2027.",
+      "titleKo": "리버풀 비엔날레, 2027년 주제, 아티스트 발표",
+      "summaryKo": "리버풀 비엔날레의 주최측은 2027년 6월 5일부터 9월 12일까지 열리는 14차 행사의 주제와 아티스트를 공개했습니다.",
       "url": "https://www.artforum.com/news/liverpool-biennial-reveals-theme-artists-for-2027-edition-1234763353",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
-      "titleKo": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
-      "summaryKo": "Galleries that participated in this year’s Art Basel Paris will see their invoices reduced by 20 percent after the fair closed two days early.",
+      "titleKo": "아트 바젤 파리 어워드 조기 마감 후 전시업체 20% 할인",
+      "summaryKo": "올해 아트 바젤 파리에 참가한 갤러리들은 박람회가 이틀 일찍 마감된 후 청구서가 20% 감소되는 것을 볼 수 있습니다.",
       "url": "https://www.artforum.com/news/art-basel-paris-awards-2026-exhibitors-20-percent-discount-1234763378",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
-      "titleKo": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
-      "summaryKo": "Ted Turner's collection of Western art is being sold at Christie's for $20 million.",
+      "titleKo": "테드 터너(Ted Turner)의 서양 미술 컬렉션이 크리스티에서 2천만 달러에 판매됩니다.",
+      "summaryKo": "테드 터너(Ted Turner)의 서양 미술 컬렉션이 크리스티 경매에서 2천만 달러에 판매되고 있습니다.",
       "url": "https://www.artnews.com/art-news/market/ted-turner-western-art-collection-christies-sale-1234805555",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "What blockbuster auctions tell us about the value of art",
-      "titleKo": "What blockbuster auctions tell us about the value of art",
-      "summaryKo": "The November auctions are always a test of the health of the art market, but there’s more than one way to read the results",
+      "titleKo": "블록버스터 경매가 예술품의 가치에 대해 알려주는 것",
+      "summaryKo": "11월 경매는 항상 미술 시장의 건전성을 테스트하는 자리이지만 결과를 읽는 방법은 여러 가지가 있습니다.",
       "url": "https://apollo-magazine.com/auctions-sothebys-christies-art-market-revival-collectors",
       "source": "Apollo – The International Art Magazine",
       "sourceDomain": "apollo-magazine.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Collector Elie Khouri to create physical home for his private foundation in Dubai",
-      "titleKo": "Collector Elie Khouri to create physical home for his private foundation in Dubai",
-      "summaryKo": "The Elie Khouri Art Foundation, due to open in 2028, will take its founder’s collection of works by more than 300 artists as a starting point for exhibitions, and there will also be a focus on community outreach",
+      "titleKo": "수집가 Elie Khouri가 두바이에 자신의 개인 재단을 위한 물리적 집을 짓습니다.",
+      "summaryKo": "2028년 개관 예정인 엘리 쿠리 예술 재단(Elie Khouri Art Foundation)은 창립자의 300명 이상의 예술가 작품 컬렉션을 전시의 출발점으로 삼고 지역 사회 봉사에도 중점을 둘 것입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/11/collector-elie-khouri-to-create-physical-home-for-his-private-foundation-in-dubai",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
