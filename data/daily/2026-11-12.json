@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T07:41:26.506+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
+        "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 94,
+        "category": "museum",
+        "articleType": "news",
+        "title": "美 고교생들의 한글 그림, 샌프란 현대미술관에",
+        "summary": "미국 캘리포니아주 샌프란시스코현대미술관(SFMOMA)에 한국어를 공부하는 현지 고등학생들의 미술 작품 24점이 전시된다. 교육부에 따르면 이달 12일부터 내년 4월 20일까지 SFMOMA 공용 공간에 ‘경계를 넘어선 한글’을 주제로 학생 작품 전시회가 열린다. 이번 …",
+        "url": "https://www.donga.com/news/People/article/all/20261112/135010380/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-11T19:30:00.000Z",
+        "coverage": 12,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135006171.6.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 87,
+        "category": "market",
+        "articleType": "news",
+        "title": "김환기의 미공개 점화…서울옥션 28억부터 경매",
+        "summary": "김환기(1913~74)가 1971년 뉴욕에서 그린 미공개 점화가 처음 경매에 나온다. 화면 전체에 청색 점을 번지게 찍은 가운데 밝은 노랑·빨강 점으로 색띠를 형성한 드문 작품이다. 이 그림이 낮은 추정가 28억원으로 오는 23일 열리는 서울옥션 이브닝 세일에서 경매된다. 이브닝 세일은 세계적 경매사들이 값비싼 대작들을 모아 저녁 시간에 진행하는 하이라이트 경매다. 국내에선 서울옥션이 지난해 처음 연 이브닝 세일에서 마르크 샤갈의 ‘꽃다발’을 국내 미술품 경매 최고가인 94억원에 낙찰한 바 있다.",
+        "url": "https://www.joongang.co.kr/article/25477461",
+        "source": "중앙일보",
+        "publishedAt": "2026-11-10T15:01:01.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/11/50491f99-d32f-4dfe-a014-91eb6c26d177.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 82,
+        "category": "general",
+        "articleType": "news",
+        "title": "유럽 모방 벗어난 미국 미술…오키프와 모더니즘의 세계",
+        "summary": "고풍스러운 건축물과 강 위로 유유히 흐르는 배가 보이는 풍경. 미국 작가 존 마린(1870~1953)이 그린 20세기 초 유럽은 고즈넉함 그 자체다. 그런데 비슷한 시기 이 작가가 그린 뉴욕은 곳곳에 솟아오르는 고층 마천루가 마치 동물처럼 움직이는 풍경이다.유럽에서 벗어나 독자적인 예…",
+        "url": "https://www.donga.com/news/amp/all/20261111/135006873/1",
+        "source": "동아일보",
+        "publishedAt": "2026-11-11T06:51:00.000Z",
+        "coverage": 18,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/11/135006799.1.png"
+      },
+      {
+        "rank": 4,
+        "score": 70,
+        "category": "market",
+        "articleType": "news",
+        "title": "2만2천원에 2주간 ‘옥션쇼’…국내외 대가들 작품 관람, 경매까지",
+        "summary": "국민 화가 이중섭의 대표작 ‘황소’와 2007~2015년 한국 미술품 경매 최고가 기록(45억2천만원)을 지켰던 박수근의 대작 ‘빨래터’를 비롯해 파블로 피카소, 마르크 샤갈 등 국내외 근현대 미술 거장들의 명작이 서울 강남 경매사 전시장에 2주간 내걸린다. 함께 전시",
+        "url": "https://www.hani.co.kr/arti/culture/music/1286436.html",
+        "source": "한겨레",
+        "publishedAt": "2026-11-09T13:38:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/670/503/imgdb/original/2026/1109/20261109502222.webp"
+      },
+      {
+        "rank": 5,
+        "score": 62,
+        "category": "museum",
+        "articleType": "news",
+        "title": "삼성 복지·문화생명 재단, 발달장애 아동 97명의 ‘꿈의 조각들’ 전시",
+        "summary": "삼성복지재단과 삼성문화재단, 삼성생명공익재단이 발달장애 아동·청소년들의 예술적 재능을 알리고 사회와 소통할 수 있는 특별한 전시회를 마련했다. 삼성복지재단은 서울특별시 어린이병원과 공동으로 10일부터 다음 달 10일까지 삼성아동교육문화센터에서 미술치료교육 작품 전시회 ‘작가의 비밀정원: 꿈의 조각들’을 개최한다고 11일 밝혔다. 올해로 5회째를 맞은 이번",
+        "url": "https://m.sedaily.com/amparticle/20112873",
+        "source": "서울경제",
+        "publishedAt": "2026-11-11T02:00:23.000Z",
+        "coverage": 6,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/11/news-p.v1.20261111.5743e3f91e8942a196a7859bd1ec0cac_R.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "f0ce9d654ef6",
+      "rank": 1,
+      "score": 112,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
+      "titleKo": "Liverpool Biennial Announces Theme, Artists for 2027 Edition",
+      "summaryKo": "The organizers of the Liverpool Biennial have revealed the theme and artists for the event’s fourteenth iteration, to run June 5–September 12, 2027.",
+      "url": "https://www.artforum.com/news/liverpool-biennial-reveals-theme-artists-for-2027-edition-1234763353",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-10T22:30:48.000Z",
+      "coverage": 5,
+      "image": "https://www.artforum.com/wp-content/uploads/2020/03/article08_large-15.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5538321832a4",
+      "rank": 2,
+      "score": 98,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+      "titleKo": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+      "summaryKo": "Galleries that participated in this year’s Art Basel Paris will see their invoices reduced by 20 percent after the fair closed two days early.",
+      "url": "https://www.artforum.com/news/art-basel-paris-awards-2026-exhibitors-20-percent-discount-1234763378",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-11T18:30:44.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2301366251.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "65a9368a83b7",
+      "rank": 3,
+      "score": 94,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+      "titleKo": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
+      "summaryKo": "Ted Turner's collection of Western art is being sold at Christie's for $20 million.",
+      "url": "https://www.artnews.com/art-news/market/ted-turner-western-art-collection-christies-sale-1234805555",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-11T17:15:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/ALBERT-BIERSTADT-Yosemite-Valley.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e5dcf1e28ad6",
+      "rank": 4,
+      "score": 79,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "What blockbuster auctions tell us about the value of art",
+      "titleKo": "What blockbuster auctions tell us about the value of art",
+      "summaryKo": "The November auctions are always a test of the health of the art market, but there’s more than one way to read the results",
+      "url": "https://apollo-magazine.com/auctions-sothebys-christies-art-market-revival-collectors",
+      "source": "Apollo – The International Art Magazine",
+      "sourceDomain": "apollo-magazine.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-11T16:45:11.000Z",
+      "coverage": 1,
+      "image": "https://apollo-magazine.com/wp-content/uploads/2026/10/lead-Van-Gogh-Chataigniers-en-fleurs-from-Blaquier-Arietta-Collection-Sothebys.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "438427b98360",
+      "rank": 5,
+      "score": 76,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Collector Elie Khouri to create physical home for his private foundation in Dubai",
+      "titleKo": "Collector Elie Khouri to create physical home for his private foundation in Dubai",
+      "summaryKo": "The Elie Khouri Art Foundation, due to open in 2028, will take its founder’s collection of works by more than 300 artists as a starting point for exhibitions, and there will also be a focus on community outreach",
+      "url": "https://www.theartnewspaper.com/2026/11/11/collector-elie-khouri-to-create-physical-home-for-his-private-foundation-in-dubai",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-11T09:56:05.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/9cda80f364d42407abb2e14b23556903a62ca36f-10417x4144.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
