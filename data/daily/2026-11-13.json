@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+        "title": "아트 바젤 파리 어워드 조기 마감 후 전시업체 20% 할인",
         "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       },
       {
-        "title": "New York auction houses hope single-owner collections will fuel $2.4b…",
+        "title": "뉴욕 경매회사는 단일 소유자 컬렉션이 주당 24억 달러의 매출을 올릴 것으로 기대하고 있습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
+        "title": "필립스 컬렉션, 글로벌 비전 펀드 출시를 위해 1000만 달러 기부 받아",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
-      "titleKo": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
-      "summaryKo": "Galleries that participated in this year’s Art Basel Paris will see their invoices reduced by 20 percent after the fair closed two days early.",
+      "titleKo": "아트 바젤 파리 어워드 조기 마감 후 전시업체 20% 할인",
+      "summaryKo": "올해 아트 바젤 파리에 참가한 갤러리들은 박람회가 이틀 일찍 마감된 후 청구서가 20% 감소되는 것을 볼 수 있습니다.",
       "url": "https://www.artforum.com/news/art-basel-paris-awards-2026-exhibitors-20-percent-discount-1234763378",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "New York auction houses hope single-owner collections will fuel $2.4bn week of sales",
-      "titleKo": "New York auction houses hope single-owner collections will fuel $2.4bn week of sales",
-      "summaryKo": "With estates and collections accounting for some of the season’s biggest consignments, auction houses are betting wealthy collectors will shrug off market volatility",
+      "titleKo": "뉴욕 경매회사는 단일 소유자 컬렉션이 주당 24억 달러의 매출을 올릴 것으로 기대하고 있습니다.",
+      "summaryKo": "부동산과 컬렉션이 이번 시즌 가장 큰 위탁품 중 일부를 차지하는 가운데, 경매 회사들은 부유한 수집가들이 시장 변동성을 무시할 것이라고 확신하고 있습니다.",
       "url": "https://www.theartnewspaper.com/2026/11/12/new-york-autumn-2026-auctions-preview-bonhams-christies-phillips-sothebys",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
-      "titleKo": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
-      "summaryKo": "A $10 million donation from Beatriz and Graham Bolton is the largest from an individual donor in the history of the Phillips Collection.",
+      "titleKo": "필립스 컬렉션, 글로벌 비전 펀드 출시를 위해 1000만 달러 기부 받아",
+      "summaryKo": "Beatriz와 Graham Bolton의 1,000만 달러 기부는 필립스 컬렉션 역사상 개인 기부자 중 최대 규모입니다.",
       "url": "https://www.artnews.com/art-news/news/phillips-collection-10-million-gift-beatriz-graham-bolton-1234805659",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
-      "titleKo": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
-      "summaryKo": "Christie's is holding its luxury week in Geneva, and while the house hasn't released its final totals, early returns appear to be very good.",
+      "titleKo": "크리스티, 역대 최고 시계 기록 달성, 불가리 핑크 다이아몬드 1400만 달러에 매각",
+      "summaryKo": "Christie's는 제네바에서 럭셔리 주간을 개최하고 있으며 아직 최종 총액을 공개하지 않았지만 조기 반품은 매우 좋은 것으로 보입니다.",
       "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
-      "titleKo": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
-      "summaryKo": "A bronze sculpture by renowned French German artist Hans (Jean) Arp valued at €145,000 ($160,000) was stolen from Galerie Ludorff’s booth at Art Cologne on November 8, the last day of the fair’s run. The Düsseldorf-based gallery has filed a criminal report with the police and is asking the public fo",
+      "titleKo": "아트 코롱 부스에서 16만 달러 상당의 장 아르프(Jean Arp) 조각상을 휩쓸다",
+      "summaryKo": "박람회 마지막 날인 11월 8일, 독일의 유명 예술가 한스(장) 아르프(Hans (Jean) Arp)의 청동 조각품이 €145,000($160,000) 상당의 아트 쾰른 갤러리 루도르프(Galerie Ludorff) 부스에서 도난당했습니다. 뒤셀도르프에 본사를 둔 갤러리는 경찰에 범죄 신고서를 제출했으며 대중에게 다음 사항을 요청하고 있습니다.",
       "url": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
