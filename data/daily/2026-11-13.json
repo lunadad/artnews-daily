@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T07:41:06.054+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "New York auction houses hope single-owner collections will fuel $2.4b…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "market",
+        "articleType": "news",
+        "title": "한국 미술시장 가을 달구는 서울옥션 ‘2026 옥션쇼’ 개막",
+        "summary": "거장들의 명작 속, 국내 첫선 보이는 엘리다니 판화 3점 ‘시선 집중’ 김환기·이우환·쿠사마 등 최정상급 아티스트 경매 포진 속 네오초현실주의 신예 판화 대거 등장…컬렉터 저변 넓히는 대전환점 마련",
+        "url": "https://m.mk.co.kr/amp/12207066",
+        "source": "매일경제",
+        "publishedAt": "2026-11-12T13:10:26.000Z",
+        "coverage": 11,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 98,
+        "category": "museum",
+        "articleType": "news",
+        "title": "美 고교생들의 한글 그림, 샌프란 현대미술관에",
+        "summary": "미국 캘리포니아주 샌프란시스코현대미술관(SFMOMA)에 한국어를 공부하는 현지 고등학생들의 미술 작품 24점이 전시된다. 교육부에 따르면 이달 12일부터 내년 4월 20일까지 SFMOMA 공용 공간에 ‘경계를 넘어선 한글’을 주제로 학생 작품 전시회가 열린다. 이번 …",
+        "url": "https://www.donga.com/news/People/article/all/20261112/135010380/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-11T19:30:00.000Z",
+        "coverage": 27,
+        "qualityCoverage": 5,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/12/135006171.6.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 83,
+        "category": "museum",
+        "articleType": "news",
+        "title": "‘농원 화가’ 이대원 재조명한 덕수궁 전시, 장욱진 전 뛰어넘었다",
+        "summary": "국립현대미술관 덕수궁관에서 열린 이대원 회고전이 30만572명을 기록하며 역대 최다 관람객 전시가 됐다. 유화 120여 점과 아카이브, 고미술품을 통해 70년 예술세계를 보여주며 ‘농원 화가’ 너머의 면모를 재조명했다.",
+        "url": "https://www.seoul.co.kr/news/life/exhibition/2026/11/12/20261112500372",
+        "source": "서울신문",
+        "publishedAt": "2026-11-12T13:30:10.000Z",
+        "coverage": 7,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/11/12/SSC_20261112223010_O2.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "[댓글이벤트] 강남에 뜬 14일간의 미술쑈, 수십억짜리 원화가 코앞에! 피카소·샤갈·모란디·쿠사마야요이 보러가요(서울옥션 옥션쇼) #도슨트 #전시추천 #11월전시 #전시회 #경매",
+        "summary": "*공지* 영상으로 미리 만났다면, 이제 직접 즐겨볼 차례! 매일 새로운 경매와 전시가 펼쳐지는 《2026 AUCTION SHOW》✨ 놓치기 아쉬운 전시와 경매, 자세한 소식은 서울옥션 홈페이지에서 확인하실 수 있습니다 :) 👉 https://tinyurl.com/yc57wnsp 미미님들, 오늘은 강남 한복판에 뜬 어마어마어마한 미술쑈를 소개해드리려고 합니다!🤩 무려 2주 동안 12번의 경매, 8건의 특별 전시, 그리고 1,000여 점의 작품을 만날 수 있는 역대급 미술 축제! 바로 서울옥션 강남센터에서 19년 만에 다시 선보이는",
+        "url": "https://www.sedaily.com/vod/6022225",
+        "source": "서울경제",
+        "publishedAt": "2026-11-12T09:03:34.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i.ytimg.com/vi/j1p6NnhLmRc/sddefault.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 68,
+        "category": "artist",
+        "articleType": "news",
+        "title": "도시의 풍경에 심리를 입히다…팸 에블린 아시아 첫 개인전",
+        "summary": "(서울=연합뉴스) 박의래 기자 = 옅은 하늘색과 회색 물감 위로 주황색 선들이 낙서처럼 자유롭게 뻗어 있다. 짙은 파란색과 붉은색, 노란색 물감...",
+        "url": "https://www.yna.co.kr/view/AKR20261112153700005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-12T21:01:01.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img3.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112153700005_05_i_P4.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "5538321832a4",
+      "rank": 1,
+      "score": 94,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+      "titleKo": "After Early Close, Art Basel Paris Awards Exhibitors 20 Percent Discount",
+      "summaryKo": "Galleries that participated in this year’s Art Basel Paris will see their invoices reduced by 20 percent after the fair closed two days early.",
+      "url": "https://www.artforum.com/news/art-basel-paris-awards-2026-exhibitors-20-percent-discount-1234763378",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-11T18:30:44.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2301366251.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "67d13817d372",
+      "rank": 2,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "New York auction houses hope single-owner collections will fuel $2.4bn week of sales",
+      "titleKo": "New York auction houses hope single-owner collections will fuel $2.4bn week of sales",
+      "summaryKo": "With estates and collections accounting for some of the season’s biggest consignments, auction houses are betting wealthy collectors will shrug off market volatility",
+      "url": "https://www.theartnewspaper.com/2026/11/12/new-york-autumn-2026-auctions-preview-bonhams-christies-phillips-sothebys",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-12T15:01:14.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/8a1137b87b912210aa85517ec78409241f7110cd-2000x1334.jpg?rect=0,67,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "49078f2b0e05",
+      "rank": 3,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
+      "titleKo": "Phillips Collection Receives $10 M. Gift to Launch Global Vision Fund",
+      "summaryKo": "A $10 million donation from Beatriz and Graham Bolton is the largest from an individual donor in the history of the Phillips Collection.",
+      "url": "https://www.artnews.com/art-news/news/phillips-collection-10-million-gift-beatriz-graham-bolton-1234805659",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-12T15:00:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Beatriz-Bolton-and-Jonathan-P.-Binstock_The-Phillips-Collection.-Photo-AK-Blythe-1.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "024e4cf8f3f0",
+      "rank": 4,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
+      "titleKo": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
+      "summaryKo": "Christie's is holding its luxury week in Geneva, and while the house hasn't released its final totals, early returns appear to be very good.",
+      "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-12T18:13:20.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/24404-Mag-Jwls-toplot613-9.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "42df5c9c5f07",
+      "rank": 5,
+      "score": 74,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
+      "titleKo": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
+      "summaryKo": "A bronze sculpture by renowned French German artist Hans (Jean) Arp valued at €145,000 ($160,000) was stolen from Galerie Ludorff’s booth at Art Cologne on November 8, the last day of the fair’s run. The Düsseldorf-based gallery has filed a criminal report with the police and is asking the public fo",
+      "url": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-12T19:03:08.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
