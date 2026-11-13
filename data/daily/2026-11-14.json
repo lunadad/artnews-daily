@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T07:41:20.065+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "The Whitney Is Sending a $18M de Kooning to Auction",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Hongik University professor Ki Hey-kyung appointed MMCA director",
+        "why": "6개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관장에 기혜경 교수",
+        "summary": "",
+        "url": "https://www.donga.com/news/People/article/all/20261113/135023076/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-13T16:40:00.000Z",
+        "coverage": 45,
+        "qualityCoverage": 16,
+        "resolved": true,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "category": "market",
+        "articleType": "news",
+        "title": "한국 미술시장 가을 달구는 서울옥션 ‘2026 옥션쇼’ 개막",
+        "summary": "거장들의 명작 속, 국내 첫선 보이는 엘리다니 판화 3점 ‘시선 집중’ 김환기·이우환·쿠사마 등 최정상급 아티스트 경매 포진 속 네오초현실주의 신예 판화 대거 등장…컬렉터 저변 넓히는 대전환점 마련",
+        "url": "https://m.mk.co.kr/amp/12207066",
+        "source": "매일경제",
+        "publishedAt": "2026-11-12T13:10:26.000Z",
+        "coverage": 10,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 84,
+        "category": "market",
+        "articleType": "news",
+        "title": "[조상인의 미담] 포켓몬으로 관람객 유인…전시장 문턱 낮춰 ‘컬렉터’ 키운다",
+        "summary": "개막하기 전부터 줄이 길게 늘어섰다. 지난 11일 서울 강남구 서울옥션 강남센터의 문이 열리자 사람들이 1층 로비로 몰려들었다. 말 그대로 ‘오픈런’이다. 이들이 향한 곳은 ‘인치인치 마켓’이다. 가로 60㎝, 높이와 깊이 40㎝의 상자형 부스를 39명의 작가들이 하나씩 채운 미니어처 아트페어 성격의 ‘특별한 마켓’이다. 작가는 이 안에 들어갈 크기로 소품",
+        "url": "https://m.sedaily.com/amparticle/20114165",
+        "source": "서울경제",
+        "publishedAt": "2026-11-13T08:38:33.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/13/news-p.v1.20261113.35028782579f4d67abba80463600b85a_R.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 76,
+        "category": "market",
+        "articleType": "news",
+        "title": "[댓글이벤트] 강남에 뜬 14일간의 미술쑈, 수십억짜리 원화가 코앞에! 피카소·샤갈·모란디·쿠사마야요이 보러가요(서울옥션 옥션쇼) #도슨트 #전시추천 #11월전시 #전시회 #경매",
+        "summary": "*공지* 매일 새로운 경매와 전시가 펼쳐지는《2026 AUCTION SHOW》✨ 자세한 소식은 서울옥션 홈페이지에서 확인하실 수 있습니다👉 https://tinyurl.com/yc57wnsp 미미님들, 오늘은 강남 한복판에 뜬 어마어마어마한 미술쑈를 소개해드리려고 합니다!🤩 무려 2주 동안 12번의 경매, 8건의 특별 전시, 그리고 1,000여 점의 작품을 만날 수 있는 역대급 미술 축제! 바로 서울옥션 강남센터에서 19년 만에 다시 선보이는《2026 옥션쇼》입니다. 김환기, 박수근, 이중섭, 피카소, 샤갈, 르누아르부터 쿠사마",
+        "url": "https://www.sedaily.com/vod/6022225",
+        "source": "서울경제",
+        "publishedAt": "2026-11-12T09:03:34.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i.ytimg.com/vi/j1p6NnhLmRc/sddefault.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 69,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[단독] 부여에 세금 400억 들여… 사실상 ‘유홍준 미술관’ 만들려다 무산",
+        "summary": "충남 부여군이 재정난을 이유로 유홍준 전 국립중앙박물관장의 기증품을 전시하려던 400억 규모의 미술관 건립 사업을 취소함. 이 과정에서 유 전 관장의 부적절한 작품 구매 관여 정황과 기증품의 부실한 보관 실태가 드러나며 논란이 일고 있음.",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/11/13/YNB7T6ACSBDMVGZBU3NSTC7KNY",
+        "source": "조선일보",
+        "publishedAt": "2026-11-12T20:04:07.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/GMCX5TV6LNF6PPIQNURDXTQYHI.png?auth=7edbca8fbbc4f0569e880ea17eb962a72a096e48e4c5cd3361003fd8f6c6e988&width=1200&height=630&smart=true"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "4670e7d3732f",
+      "rank": 1,
+      "score": 106,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "titleKo": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/whitney-deaccession-de-kooning-auction-christies-2835978",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T01:12:26.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "a1c025961b88",
+      "rank": 2,
+      "score": 96,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
+      "titleKo": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
+      "summaryKo": "A lightsaber wielded by Darth Vader sold for $4.9 million in a Heritage Auctions sale, breaking the record for Star Wars–related memorabilia.",
+      "url": "https://www.artnews.com/art-news/news/star-wars-lightsaber-sale-heritage-auctions-1234805883",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T18:34:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/split-image-1000-2-1.jpg?w=1000",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ec8ba64e3c53",
+      "rank": 3,
+      "score": 91,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Hongik University professor Ki Hey-kyung appointed MMCA director",
+      "titleKo": "Hongik University professor Ki Hey-kyung appointed MMCA director",
+      "summaryKo": "The Hongik University professor and veteran curator will lead Korea",
+      "url": "https://www.koreajoongangdaily.com/lifestyle/hongik-university-professor-ki-heykyung-appointed-mmca-director/12972029",
+      "source": "Korea JoongAng Daily",
+      "sourceDomain": "koreajoongangdaily.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T07:39:12.000Z",
+      "coverage": 6,
+      "image": "https://image.koreajoongangdaily.com/12972084.jpg?imageId=12972084&x=0&y=5.32&cropw=100&croph=74.57&panox=0&panoy=5.32&panow=100&panoh=74.57&width=1200&height=683",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "e07cb94f8e99",
+      "rank": 4,
+      "score": 90,
+      "category": "market",
+      "articleType": "pr",
+      "titleOriginal": "The Phillips Collection Receives Its Largest Ever Individual Gift",
+      "titleKo": "The Phillips Collection Receives Its Largest Ever Individual Gift",
+      "summaryKo": "The Philips Collection in Washington D.C has received its largest ever individual gift. The $10 million donation comes from the Beatriz and Graham Bolton Global Vision Fund. According to a press release, it will be used to “strengthen the Phillips’s international presence as a world-class art museum",
+      "url": "https://www.artforum.com/news/phillips-collection-receives-its-largest-individual-gift-1234763591",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-13T16:13:21.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/Beatriz-Bolton-and-Jonathan-P.-Binstock_The-Phillips-Collection.-Photo-AK-Blythe-1.webp?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "41db3190a1e3",
+      "rank": 5,
+      "score": 74,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "New contemporary art centre coming to University of California, San Diego",
+      "titleKo": "New contemporary art centre coming to University of California, San Diego",
+      "summaryKo": "The Strauss Family Gallery, hosting a collection of works by artists like Carrie Mae Weems and Zhang Huan, will also collaborate with the wider university community on interdisciplinary projects",
+      "url": "https://www.theartnewspaper.com/2026/11/13/university-california-san-diego-strauss-family-gallery-contemporary-art-centre",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T21:56:15.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/9e4c752933c91450b393ec4676f7bf7577ec26c0-2000x1333.jpg?rect=0,67,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
