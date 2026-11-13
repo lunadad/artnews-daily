@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "The Whitney Is Sending a $18M de Kooning to Auction",
+        "title": "휘트니(The Whitney)가 1,800만 달러의 데 쿠닝(de Kooning) 작품을 경매에 보내고 있습니다",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking …",
+        "title": "다스 베이더가 휘두르는 광선검이 490만 달러에 경매되어 스타워즈 판매 기록을 경신했습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Hongik University professor Ki Hey-kyung appointed MMCA director",
+        "title": "기혜경 홍익대 교수, 국립현대미술관 관장 임명",
         "why": "6개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,7 +120,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "The Whitney Is Sending a $18M de Kooning to Auction",
-      "titleKo": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "titleKo": "휘트니(The Whitney)가 1,800만 달러의 데 쿠닝(de Kooning) 작품을 경매에 보내고 있습니다",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/whitney-deaccession-de-kooning-auction-christies-2835978",
       "source": "Artnet News",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
-      "titleKo": "Lightsaber Brandished by Darth Vader Auctioned for $4.9 M., Breaking Record for Star Wars Sales",
-      "summaryKo": "A lightsaber wielded by Darth Vader sold for $4.9 million in a Heritage Auctions sale, breaking the record for Star Wars–related memorabilia.",
+      "titleKo": "다스 베이더가 휘두르는 광선검이 490만 달러에 경매되어 스타워즈 판매 기록을 경신했습니다.",
+      "summaryKo": "다스 베이더가 휘두르는 광선검이 헤리티지 경매에서 490만 달러에 팔리며 스타워즈 관련 기념품 기록을 경신했습니다.",
       "url": "https://www.artnews.com/art-news/news/star-wars-lightsaber-sale-heritage-auctions-1234805883",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -160,8 +160,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Hongik University professor Ki Hey-kyung appointed MMCA director",
-      "titleKo": "Hongik University professor Ki Hey-kyung appointed MMCA director",
-      "summaryKo": "The Hongik University professor and veteran curator will lead Korea",
+      "titleKo": "기혜경 홍익대 교수, 국립현대미술관 관장 임명",
+      "summaryKo": "홍익대학교 교수이자 베테랑 큐레이터가 대한민국을 이끌다",
       "url": "https://www.koreajoongangdaily.com/lifestyle/hongik-university-professor-ki-heykyung-appointed-mmca-director/12972029",
       "source": "Korea JoongAng Daily",
       "sourceDomain": "koreajoongangdaily.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "pr",
       "titleOriginal": "The Phillips Collection Receives Its Largest Ever Individual Gift",
-      "titleKo": "The Phillips Collection Receives Its Largest Ever Individual Gift",
-      "summaryKo": "The Philips Collection in Washington D.C has received its largest ever individual gift. The $10 million donation comes from the Beatriz and Graham Bolton Global Vision Fund. According to a press release, it will be used to “strengthen the Phillips’s international presence as a world-class art museum",
+      "titleKo": "필립스 컬렉션, 사상 최대 규모의 개인 선물을 받다",
+      "summaryKo": "워싱턴 D.C의 필립스 컬렉션이 역대 최대 규모의 개인 선물을 받았습니다. 1,000만 달러 기부금은 Beatriz와 Graham Bolton 글로벌 비전 펀드에서 나왔습니다. 보도자료에 따르면 “세계적 수준의 미술관으로서 필립스의 국제적 입지를 강화하는 데 사용될 것”이라고 밝혔다.",
       "url": "https://www.artforum.com/news/phillips-collection-receives-its-largest-individual-gift-1234763591",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -200,8 +200,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "New contemporary art centre coming to University of California, San Diego",
-      "titleKo": "New contemporary art centre coming to University of California, San Diego",
-      "summaryKo": "The Strauss Family Gallery, hosting a collection of works by artists like Carrie Mae Weems and Zhang Huan, will also collaborate with the wider university community on interdisciplinary projects",
+      "titleKo": "캘리포니아 대학교 샌디에고 캠퍼스에 새로운 현대 미술 센터가 들어옵니다.",
+      "summaryKo": "Carrie Mae Weems 및 Zhang Huan과 같은 예술가들의 작품 컬렉션을 소장하고 있는 Strauss Family Gallery는 학제간 프로젝트를 위해 더 넓은 대학 커뮤니티와 협력할 예정입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/13/university-california-san-diego-strauss-family-gallery-contemporary-art-centre",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
