@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Soth…",
+        "title": "유대인 상속자들, 소더비에서 반 고흐 그림 1억 8천만 달러 판매 도전",
         "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "The Whitney Is Sending a $18M de Kooning to Auction",
+        "title": "휘트니(The Whitney)가 1,800만 달러의 데 쿠닝(de Kooning) 작품을 경매에 보내고 있습니다",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Masterpieces haunted by brutal past could send records tumbling at So…",
+        "title": "잔혹한 과거를 간직한 걸작이 소더비 경매에서 기록을 무너뜨릴 수도 있다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
-      "titleKo": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
-      "summaryKo": "Heirs say “Blossoming Chestnut Trees” was sold under Nazi-era duress. The auction house says it is “committed to working toward a mutually satisfactory resolution.”",
+      "titleKo": "유대인 상속자들, 소더비에서 반 고흐 그림 1억 8천만 달러 판매 도전",
+      "summaryKo": "상속자들은 \"꽃피는 밤나무\"가 나치 시대의 협박으로 팔렸다고 말합니다. 경매사는 “상호 만족스러운 해결을 위해 노력할 것”이라고 밝혔다.",
       "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
       "source": "The New York Times",
       "sourceDomain": "nytimes.com",
@@ -140,7 +140,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "The Whitney Is Sending a $18M de Kooning to Auction",
-      "titleKo": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "titleKo": "휘트니(The Whitney)가 1,800만 달러의 데 쿠닝(de Kooning) 작품을 경매에 보내고 있습니다",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/whitney-deaccession-de-kooning-auction-christies-2835978",
       "source": "Artnet News",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
-      "titleKo": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
-      "summaryKo": "Van Gogh and Cézanne paintings among magnificent collection stained by allegations of abduction and killing",
+      "titleKo": "잔혹한 과거를 간직한 걸작이 소더비 경매에서 기록을 무너뜨릴 수도 있다",
+      "summaryKo": "납치와 살해 혐의로 얼룩진 웅장한 컬렉션 중 반 고흐와 세잔의 그림",
       "url": "https://www.theguardian.com/artanddesign/2026/nov/14/legendary-collection-sothebys-van-gogh-cezanne-blaquier-arrieta",
       "source": "The Guardian",
       "sourceDomain": "theguardian.com",
@@ -180,7 +180,7 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Ki Hye-kyung Named Director of National Museum of Modern and Contemporary Art",
-      "titleKo": "Ki Hye-kyung Named Director of National Museum of Modern and Contemporary Art",
+      "titleKo": "기혜경 국립현대미술관장 내정",
       "summaryKo": "",
       "url": "https://www.chosun.com/english/travel-food-en/2026/11/14/KCAIGXSBVNDCNASWCYAMP7X6VM",
       "source": "조선일보",
@@ -200,8 +200,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-      "titleKo": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-      "summaryKo": "The painting was once owned by the museum's former president, David Solinger.",
+      "titleKo": "휘트니 미술관, 데 쿠닝 그림 받은 지 3년 만에 판매",
+      "summaryKo": "이 그림은 한때 박물관의 전직 회장인 David Solinger의 소유였습니다.",
       "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
