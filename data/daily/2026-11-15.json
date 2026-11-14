@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T07:41:11.649+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Soth…",
+        "why": "3개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "The Whitney Is Sending a $18M de Kooning to Auction",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Masterpieces haunted by brutal past could send records tumbling at So…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 113,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 새 관장에 기혜경 홍익대 교수",
+        "summary": "기혜경(62) 홍익대 미술대학원 교수가 한국에서 가장 큰 공공미술기관인 국립현대미술관의 새 수장이 됐다. 문화체육관광부는 13일 기 교수를 국립현대미술관 22대 관장으로 임명했다고 밝혔다. 기 신임 관장은 이날 오전 서울 소격동 국립현대미술관 서울관에서 최휘영 문체부",
+        "url": "https://www.hani.co.kr/arti/culture/culture_general/1287222.html",
+        "source": "한겨레",
+        "publishedAt": "2026-11-14T03:07:00.000Z",
+        "coverage": 40,
+        "qualityCoverage": 16,
+        "resolved": true,
+        "image": "https://flexible.img.hani.co.kr/flexible/normal/1005/696/imgdb/original/2026/1113/20261113501692.webp"
+      },
+      {
+        "rank": 2,
+        "score": 79,
+        "category": "market",
+        "articleType": "news",
+        "title": "한국 미술시장 가을 달구는 서울옥션 ‘2026 옥션쇼’ 개막",
+        "summary": "거장들의 명작 속, 국내 첫선 보이는 엘리다니 판화 3점 ‘시선 집중’ 김환기·이우환·쿠사마 등 최정상급 아티스트 경매 포진 속 네오초현실주의 신예 판화 대거 등장…컬렉터 저변 넓히는 대전환점 마련",
+        "url": "https://m.mk.co.kr/amp/12207066",
+        "source": "매일경제",
+        "publishedAt": "2026-11-12T13:10:26.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://static.mk.co.kr/facebook_mknews.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "category": "market",
+        "articleType": "news",
+        "title": "[조상인의 미담] 포켓몬으로 관람객 유인…전시장 문턱 낮춰 ‘컬렉터’ 키운다",
+        "summary": "개막하기 전부터 줄이 길게 늘어섰다. 지난 11일 서울 강남구 서울옥션 강남센터의 문이 열리자 사람들이 1층 로비로 몰려들었다. 말 그대로 ‘오픈런’이다. 이들이 향한 곳은 ‘인치인치 마켓’이다. 가로 60㎝, 높이와 깊이 40㎝의 상자형 부스를 39명의 작가들이 하나씩 채운 미니어처 아트페어 성격의 ‘특별한 마켓’이다. 작가는 이 안에 들어갈 크기로 소품",
+        "url": "https://m.sedaily.com/amparticle/20114165",
+        "source": "서울경제",
+        "publishedAt": "2026-11-13T08:38:33.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/13/news-p.v1.20261113.35028782579f4d67abba80463600b85a_R.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 73,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[단독] 부여에 세금 400억 들여… 사실상 ‘유홍준 미술관’ 만들려다 무산",
+        "summary": "충남 부여군이 재정난을 이유로 유홍준 전 국립중앙박물관장의 기증품을 전시하려던 400억 규모의 미술관 건립 사업을 취소함. 이 과정에서 유 전 관장의 부적절한 작품 구매 관여 정황과 기증품의 부실한 보관 실태가 드러나며 논란이 일고 있음.",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/11/13/YNB7T6ACSBDMVGZBU3NSTC7KNY",
+        "source": "조선일보",
+        "publishedAt": "2026-11-12T20:04:07.000Z",
+        "coverage": 4,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/GMCX5TV6LNF6PPIQNURDXTQYHI.png?auth=7edbca8fbbc4f0569e880ea17eb962a72a096e48e4c5cd3361003fd8f6c6e988&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 5,
+        "score": 70,
+        "category": "market",
+        "articleType": "news",
+        "title": "[댓글이벤트] 강남에 뜬 14일간의 미술쑈, 수십억짜리 원화가 코앞에! 피카소·샤갈·모란디·쿠사마야요이 보러가요(서울옥션 옥션쇼) #도슨트 #전시추천 #11월전시 #전시회 #경매",
+        "summary": "*공지* 매일 새로운 경매와 전시가 펼쳐지는《2026 AUCTION SHOW》✨ 자세한 소식은 서울옥션 홈페이지에서 확인하실 수 있습니다👉 https://tinyurl.com/yc57wnsp 미미님들, 오늘은 강남 한복판에 뜬 어마어마어마한 미술쑈를 소개해드리려고 합니다!🤩 무려 2주 동안 12번의 경매, 8건의 특별 전시, 그리고 1,000여 점의 작품을 만날 수 있는 역대급 미술 축제! 바로 서울옥션 강남센터에서 19년 만에 다시 선보이는《2026 옥션쇼》입니다. 김환기, 박수근, 이중섭, 피카소, 샤갈, 르누아르부터 쿠사마",
+        "url": "https://www.sedaily.com/vod/6022225",
+        "source": "서울경제",
+        "publishedAt": "2026-11-12T09:03:34.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://i.ytimg.com/vi/j1p6NnhLmRc/sddefault.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e0a92f16917e",
+      "rank": 1,
+      "score": 111,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "titleKo": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "summaryKo": "Heirs say “Blossoming Chestnut Trees” was sold under Nazi-era duress. The auction house says it is “committed to working toward a mutually satisfactory resolution.”",
+      "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-14T15:36:00.000Z",
+      "coverage": 3,
+      "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14cul-van-gogh-chestnut-klfg/14cul-van-gogh-chestnut-klfg-facebookJumbo.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4670e7d3732f",
+      "rank": 2,
+      "score": 96,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "titleKo": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/whitney-deaccession-de-kooning-auction-christies-2835978",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T01:12:26.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7939b90021d3",
+      "rank": 3,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
+      "titleKo": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
+      "summaryKo": "Van Gogh and Cézanne paintings among magnificent collection stained by allegations of abduction and killing",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/legendary-collection-sothebys-van-gogh-cezanne-blaquier-arrieta",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "coverage": 1,
+      "image": "https://i.guim.co.uk/img/media/606f502a84f621e5941c052c21d3efdaa5b82c91/1182_268_3351_2680/master/3351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef6f89d4da0d189d7c4b5d1d8e694cc5",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "3dd8cd0df557",
+      "rank": 4,
+      "score": 85,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Ki Hye-kyung Named Director of National Museum of Modern and Contemporary Art",
+      "titleKo": "Ki Hye-kyung Named Director of National Museum of Modern and Contemporary Art",
+      "summaryKo": "",
+      "url": "https://www.chosun.com/english/travel-food-en/2026/11/14/KCAIGXSBVNDCNASWCYAMP7X6VM",
+      "source": "조선일보",
+      "sourceDomain": "chosun.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-13T15:38:22.000Z",
+      "coverage": 5,
+      "image": "https://www.chosun.com/resizer/v2/HQFMBGWDHJAODB27ZZI2IQLI2I.jpg?auth=497e6abbe8dcc4685eb1c0617fe7fdeb73fe21051d719963a014e0c43a7f33c8&width=236&height=123&smart=true",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ee336b222eb3",
+      "rank": 5,
+      "score": 66,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+      "titleKo": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+      "summaryKo": "The painting was once owned by the museum's former president, David Solinger.",
+      "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-13T22:36:56.000Z",
+      "coverage": 2,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/whitney-de-kooning.png?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
