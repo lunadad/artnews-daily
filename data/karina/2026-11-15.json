@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T09:00:35+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "titleKo": "ARTnews Awards 2026 올해의 신흥 아티스트: Coco Klockner",
+      "titleOriginal": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
+      "summaryKo": "뉴욕 SculptureCenter의 \"In Practice: Coco Klockner\". Coco Klockner는 2026년 ARTnews Award에서 올해의 신흥 아티스트상을 수상했습니다. 첫 번째 중요한 갤러리나 소규모 비영리 개인전을 열거나 비엔날레에 중요한 공헌을 한 예술가를 표창합니다.",
+      "url": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/AN-Awards-Burst_emerging-artist.jpg?w=1024"
+    },
+    {
+      "rank": 2,
+      "titleKo": "ARTnews Awards 2026 평생 공로: Maren Hassinger",
+      "titleOriginal": "ARTnews Awards 2026 Lifetime Achievement: Maren Hassinger",
+      "summaryKo": "버클리 미술관 및 퍼시픽 필름 아카이브(Pacific Film Archive)에서 “마렌 해싱어: 살아있는 움직이는 성장(Maren Hassinger: Living Moving Growing)”을 위해. Maren Hassinger는 2026년 ARTnews 평생 공로상을 수상했습니다. 미국의 주요 박물관에서 회고전이나 조사 전시회를 가진 영향력 있는 살아있는 예술가를 표창합니다.",
+      "url": "https://www.artnews.com/art-news/artists/maren-hassinger-artnews-awards-2026-lifetime-achievement-1234805782/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/AN-Awards-Burst_lifetime.jpg?w=1024"
+    },
+    {
+      "rank": 3,
+      "titleKo": "ARTnews Awards 2026 최우수 갤러리 그룹 쇼: “공포”",
+      "titleOriginal": "ARTnews Awards 2026 Best Gallery Group Show: “Horror”",
+      "summaryKo": "Jill Mulleady가 큐레이팅한 로스앤젤레스 Sprüth Magers 전시회. 로스앤젤레스의 Sprüth Magers를 위해 Jill Mulleady가 큐레이팅한 'Horror'는 2026년 ARTnews Award 최우수 갤러리 그룹 쇼 부문을 수상했습니다. 로스앤젤레스 Sprüth Magers의 \"Horror\"(2025년 11월 21일~2026년 2월 14일) 큐레이터: Jill Mulleady 아티스트 Jill Mulleady는 로스앤젤레스의 Sprüth Magers에서 열린 그룹 쇼 \"Horror\"를 통해 공포를 단일 도상학이나 일련의 우려 사항의 관점이 아닌 우리가 두려워하는 모든 것에 대한 포괄적인 관점으로 바라보면서 장르에 대한 광범…",
+      "url": "https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/",
+      "source": "ARTnews",
+      "category": "artist",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/AN-Awards-Burst_4_horror_c.jpg?w=1024"
+    },
+    {
+      "rank": 4,
+      "titleKo": "ARTnews Awards 2026 최고의 박물관 주제 전시: “MONUMENTS”",
+      "titleOriginal": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
+      "summaryKo": "MOCA의 The Geffen Contemporary와 로스앤젤레스의 The Brick에서 열리는 전시. MOCA 게펜 컨템포러리(Geffen Contemporary)와 더 브릭(The Brick)의 'MONUMENTS'가 2026년 ARTnews Award for Best Thematic Museum Exhibition을 수상했습니다. 강력한 큐레이터 관점을 가지고 있거나 중요한 역사적 시기에 초점을 맞춘 박물관이나 비영리 기관의 그룹 쇼를 인정합니다.",
+      "url": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/",
+      "source": "ARTnews",
+      "category": "museum",
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/AN-Awards-Burst_monuments.jpg?w=1024"
+    }
+  ]
+}
