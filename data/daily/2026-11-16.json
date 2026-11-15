@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T07:41:11.739+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Soth…",
+        "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "The Whitney Museum Sends a De Kooning to Auction",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Masterpieces haunted by brutal past could send records tumbling at So…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 109,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관장에 기혜경 홍익대 교수",
+        "summary": "기혜경 홍익대 미술대학원 교수가 제22대 국립현대미술관 신임 관장에 임명됐다. 2002년 학예연구사로 입사해 덕수궁관, 학예연구실, 서울관 TF 등을 거쳤고, 서울시립미술관 북서울미술관 운영부장과 부산시립미술관장도 지냈다. 학예사 출신이 관장이 된 첫 사례다.",
+        "url": "https://www.seoul.co.kr/news/peoples/2026/11/16/20261116023007",
+        "source": "서울신문",
+        "publishedAt": "2026-11-15T14:52:44.000Z",
+        "coverage": 34,
+        "qualityCoverage": 15,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/11/15/SSC_20261115235244_O2.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 72,
+        "category": "market",
+        "articleType": "news",
+        "title": "[조상인의 미담] 포켓몬으로 관람객 유인…전시장 문턱 낮춰 ‘컬렉터’ 키운다",
+        "summary": "개막하기 전부터 줄이 길게 늘어섰다. 지난 11일 서울 강남구 서울옥션 강남센터의 문이 열리자 사람들이 1층 로비로 몰려들었다. 말 그대로 ‘오픈런’이다. 이들이 향한 곳은 ‘인치인치 마켓’이다. 가로 60㎝, 높이와 깊이 40㎝의 상자형 부스를 39명의 작가들이 하나씩 채운 미니어처 아트페어 성격의 ‘특별한 마켓’이다. 작가는 이 안에 들어갈 크기로 소품",
+        "url": "https://m.sedaily.com/amparticle/20114165",
+        "source": "서울경제",
+        "publishedAt": "2026-11-13T08:38:33.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/13/news-p.v1.20261113.35028782579f4d67abba80463600b85a_R.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 62,
+        "category": "museum",
+        "articleType": "news",
+        "title": "운현궁서 첫 야간 전통혼례…서울시, 박물관·미술관 예식 공간 확대 - 머니투데이",
+        "summary": "서울시가 운현궁에서 첫 야간 전통혼례를 선보이는 등 공공 문화시설을 저녁 시간대 예식 공간으로 활용한다. 운현궁을 비롯해 서울공예박물관, 한성백제박물관, 서울역사박물관 등 4곳에서 야간 결혼식을 운영하고 내년에는 서울시립미술관까지 확대한다.",
+        "url": "https://www.mt.co.kr/amp/policy/2026/11/15/2026111417040463851",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-15T02:15:00.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111417040463851_1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 54,
+        "category": "market",
+        "articleType": "news",
+        "title": "[해외특집] 세계 미술시장, 갤러리 모델이 흔들린다-‘더 크게’에서 ‘더 가볍게’로",
+        "summary": "세계 미술시장에서 지금 가장 중요한 변화는 작품 가격의 등락만이 아니다. 수십 년 동안 당연하게 여겨졌던 ‘갤러리 운영 방식’ 자체가 시험대에 오르고 있다. 높은 임대료를 감당하며 상설 전시장을 유지하고, 매년 여러 국제아트페어에 참가하고, 일정한 주기로 새로운 전시를 열어야 했던 기",
+        "url": "https://www.artkoreatv.com/news/articleView.html?idxno=105524",
+        "source": "아트코리아방송",
+        "publishedAt": "2026-11-13T07:25:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artkoreatv.com/news/thumbnail/202611/105524_338560_1311_v150.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "general",
+        "articleType": "news",
+        "title": "최례 , 김효은 2인전\"공(空).감(感)\" 부산시 강서구 레오앤 갤러리에서 개최",
+        "summary": "레오엔갤러리는 2026년 11월 28일-2027년1월28일(62일간) 최례와 김효은의 기획 2인전 《공(空).감(感)》을 선보인다. 서로 다른 조형 언어를 구축해",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=6174",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-11-15T22:13:06.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202611/6174_142981_1634_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "e0a92f16917e",
+      "rank": 1,
+      "score": 118,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "titleKo": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "summaryKo": "",
+      "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-14T00:15:14.000Z",
+      "coverage": 4,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "03bbf32f37bd",
+      "rank": 2,
+      "score": 83,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "The Whitney Museum Sends a De Kooning to Auction",
+      "titleKo": "The Whitney Museum Sends a De Kooning to Auction",
+      "summaryKo": "The Whitney Museum of Art has deaccessioned Willem de Kooning’s Yellow River and put it up for sale at Christie’s 20th-century evening auction on November 17. The 1958 painting is estimated to sell for $12 million to $18 million. The sale is intended to support future acquisitions, Artnet reports, a",
+      "url": "https://www.artforum.com/news/the-whitney-museum-sends-de-kooning-to-auction-1234763584",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-13T15:55:11.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/christies-yellow-river-dekooning-816x1024-1.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7939b90021d3",
+      "rank": 3,
+      "score": 77,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
+      "titleKo": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
+      "summaryKo": "Van Gogh and Cézanne paintings among magnificent collection stained by allegations of abduction and killing",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/legendary-collection-sothebys-van-gogh-cezanne-blaquier-arrieta",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "coverage": 1,
+      "image": "https://i.guim.co.uk/img/media/606f502a84f621e5941c052c21d3efdaa5b82c91/1182_268_3351_2680/master/3351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef6f89d4da0d189d7c4b5d1d8e694cc5",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ee336b222eb3",
+      "rank": 4,
+      "score": 55,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+      "titleKo": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+      "summaryKo": "The painting was once owned by the museum's former president, David Solinger.",
+      "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-13T22:36:56.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "638073771b69",
+      "rank": 5,
+      "score": 49,
+      "category": "artist",
+      "articleType": "news",
+      "titleOriginal": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
+      "titleKo": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
+      "summaryKo": "For “In Practice: Coco Klockner” at SculptureCenter, New York.",
+      "url": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-14T22:50:00.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
