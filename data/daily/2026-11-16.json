@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Soth…",
+        "title": "유대인 상속자들, 소더비에서 반 고흐 그림 1억 8천만 달러 판매 도전",
         "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "The Whitney Museum Sends a De Kooning to Auction",
+        "title": "휘트니 미술관, 경매에 데 쿠닝 작품 보내",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Masterpieces haunted by brutal past could send records tumbling at So…",
+        "title": "잔혹한 과거를 간직한 걸작이 소더비 경매에서 기록을 무너뜨릴 수도 있다",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,7 +120,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
-      "titleKo": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "titleKo": "유대인 상속자들, 소더비에서 반 고흐 그림 1억 8천만 달러 판매 도전",
       "summaryKo": "",
       "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
       "source": "The New York Times",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "The Whitney Museum Sends a De Kooning to Auction",
-      "titleKo": "The Whitney Museum Sends a De Kooning to Auction",
-      "summaryKo": "The Whitney Museum of Art has deaccessioned Willem de Kooning’s Yellow River and put it up for sale at Christie’s 20th-century evening auction on November 17. The 1958 painting is estimated to sell for $12 million to $18 million. The sale is intended to support future acquisitions, Artnet reports, a",
+      "titleKo": "휘트니 미술관, 경매에 데 쿠닝 작품 보내",
+      "summaryKo": "휘트니 미술관은 윌렘 드 쿠닝(Willem de Kooning)의 황하(Yellow River) 작품을 판매 중단하고 11월 17일 크리스티의 20세기 저녁 경매에 내놓았습니다. 1958년 그림은 1,200만~1,800만 달러에 팔릴 것으로 추산됩니다. 이번 매각은 향후 인수를 지원하기 위한 것이라고 Artnet이 보고했습니다.",
       "url": "https://www.artforum.com/news/the-whitney-museum-sends-de-kooning-to-auction-1234763584",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
-      "titleKo": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
-      "summaryKo": "Van Gogh and Cézanne paintings among magnificent collection stained by allegations of abduction and killing",
+      "titleKo": "잔혹한 과거를 간직한 걸작이 소더비 경매에서 기록을 무너뜨릴 수도 있다",
+      "summaryKo": "납치와 살해 혐의로 얼룩진 웅장한 컬렉션 중 반 고흐와 세잔의 그림",
       "url": "https://www.theguardian.com/artanddesign/2026/nov/14/legendary-collection-sothebys-van-gogh-cezanne-blaquier-arrieta",
       "source": "The Guardian",
       "sourceDomain": "theguardian.com",
@@ -180,8 +180,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-      "titleKo": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-      "summaryKo": "The painting was once owned by the museum's former president, David Solinger.",
+      "titleKo": "휘트니 미술관, 데 쿠닝 그림 받은 지 3년 만에 판매",
+      "summaryKo": "이 그림은 한때 박물관의 전직 회장인 David Solinger의 소유였습니다.",
       "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
@@ -200,8 +200,8 @@
       "category": "artist",
       "articleType": "news",
       "titleOriginal": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
-      "titleKo": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
-      "summaryKo": "For “In Practice: Coco Klockner” at SculptureCenter, New York.",
+      "titleKo": "ARTnews Awards 2026 올해의 신흥 아티스트: Coco Klockner",
+      "summaryKo": "뉴욕 SculptureCenter의 \"In Practice: Coco Klockner\".",
       "url": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
