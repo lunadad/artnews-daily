@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T07:41:32.254+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
+        "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
+      },
+      {
+        "title": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Forme…",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 미술관·기관 신호가 두드러집니다.",
+    "distribution": {
+      "market": 1,
+      "museum": 2,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 85,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[세종로의 아침] 신임 국립현대미술관장 취임에 부쳐",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnFKdEtEaE1WZENyMW9teE9HMnVjWnd1UVJSTzI1MFRLWDRZM2lkOWlhR2FscTBRV0lLLU5oeks1Y2MxMDR1QTNUWUV5Y1NpVDVwT0F3NHBQd2hjY1BBU1dqeEI1bElUOWdSci1mMkl1X080X1JoS0VrQ3laNEYtZTF6Sy02N2hjZWRwX05BSEg0dw?oc=5",
+        "source": "서울신문",
+        "publishedAt": "2026-11-16T11:48:48.000Z",
+        "coverage": 8,
+        "qualityCoverage": 3,
+        "resolved": false,
+        "image": null
+      },
+      {
+        "rank": 2,
+        "score": 84,
+        "category": "market",
+        "articleType": "news",
+        "title": "13억짜리 그림 사면 수수료만 3억7000만원…세계 경매사들 잇단 인상",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 100만 달러(약 13억3400만원)짜리 그림을 크리스티 경매에서 사면 수수료만 28만 달러(약 3억7400만원)를 내야 한다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261116_0003870107",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-16T15:01:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/10/02/NISI20261002_0002253914_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 77,
+        "category": "fair",
+        "articleType": "news",
+        "title": "제주비엔날레 관람객 15만 3000명… 역대 최다 기록 갈아치웠다",
+        "summary": "제5회 제주비엔날레가 관람객 15만3000여 명을 기록하며 지난 15일 폐막했다. 전시 공간을 원도심과 제주돌문화공원까지 확장하고 도민 참여형 프로그램을 강화한 결과, 종전 최다 기록보다 5만 명 이상 많은 관람객을 모았다.",
+        "url": "https://culture.seoul.co.kr/news/newsView.php?id=20261116500209",
+        "source": "서울컬처",
+        "publishedAt": "2026-11-16T06:04:00.000Z",
+        "coverage": 9,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/11/16/SSC_20261116150412.png"
+      },
+      {
+        "rank": 4,
+        "score": 72,
+        "category": "general",
+        "articleType": "news",
+        "title": "강서구, 통합청사서 발달장애 예술인 5인 회화전 개최",
+        "summary": "[서울=뉴시스] 최현호 기자 = 서울 강서구는 이달 17일부터 다음달 4일까지 통합청사 1층 로비에서 발달장애 예술인 작품전 '강서 어울림 갤러리-색(色)다른 시선, 빛나는 동행'을 연다고 16일 밝혔다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261116_0003869916",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-16T05:44:49.000Z",
+        "coverage": 4,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/16/NISI20261116_0002293262_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 68,
+        "category": "museum",
+        "articleType": "news",
+        "title": "운현궁서 첫 야간 전통혼례…서울시, 박물관·미술관 예식 공간 확대 - 머니투데이",
+        "summary": "서울시가 운현궁에서 첫 야간 전통혼례를 선보이는 등 공공 문화시설을 저녁 시간대 예식 공간으로 활용한다. 운현궁을 비롯해 서울공예박물관, 한성백제박물관, 서울역사박물관 등 4곳에서 야간 결혼식을 운영하고 내년에는 서울시립미술관까지 확대한다.",
+        "url": "https://www.mt.co.kr/amp/policy/2026/11/15/2026111417040463851",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-15T02:15:00.000Z",
+        "coverage": 3,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111417040463851_1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "7cfe6220f588",
+      "rank": 1,
+      "score": 106,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
+      "titleKo": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
+      "summaryKo": "The Toronto-born artist, whose work spans photography, sculpture and installation, will receive C$100,000 ($70,000)",
+      "url": "https://www.theartnewspaper.com/2026/11/15/lotus-l-kang-wins-2026-sobey-art-award-canadian-prize",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-16T00:00:07.000Z",
+      "coverage": 5,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/4fb4babe21c040efac74119d8ab7023a5559cef2-2000x1333.jpg?rect=0,50,2000,1200&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "74cea535c441",
+      "rank": 2,
+      "score": 106,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Former Owner’s Heirs",
+      "titleKo": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Former Owner’s Heirs",
+      "summaryKo": "The heirs of a former owner of Vincent Van Gogh’s Châtaigniers en fleurs, 1890, have called for its withdrawal from an upcoming auction at Sotheby’s in New York. As per the New York Times, the heirs allege that the painting was sold under duress due to persecution by the Nazis. The painting is set t",
+      "url": "https://www.artforum.com/news/sothebys-180-million-van-gogh-challenge-from-former-owners-1234763675",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-16T22:22:48.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-598792423.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7ae1472c83f3",
+      "rank": 3,
+      "score": 103,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+      "titleKo": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+      "summaryKo": "Claims on the painting by heirs of a Jewish owner were well known in the art world. The auction house will meet lawyers for the heirs on Monday.",
+      "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
+      "source": "The New York Times",
+      "sourceDomain": "nytimes.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-16T17:11:00.000Z",
+      "coverage": 2,
+      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-cul-van-gogh-chestnut-print01-pjwl/15int-cul-van-gogh-chestnut-print01-pjwl-facebookJumbo-v2.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "9389f8ba883e",
+      "rank": 4,
+      "score": 103,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
+      "titleKo": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
+      "summaryKo": "The Book of Miracles, coming to Christie's from the Mickey Cartin collection, bears an estimate of £700,000–£1 million (about $923,000–$1.3 million).",
+      "url": "https://www.artnews.com/art-news/market/volcanoes-floods-apocalypse-german-manuscript-christies-1234806173",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-16T18:38:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/1482-in-fact-A.D.79-Eruption-of-Mount-Vesuvius.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "1b2f53de674b",
+      "rank": 5,
+      "score": 78,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "EU showcases Ukraine’s war devastation, digital art at Lagos Biennial",
+      "titleKo": "EU showcases Ukraine’s war devastation, digital art at Lagos Biennial",
+      "summaryKo": "",
+      "url": "https://www.vanguardngr.com/2026/11/eu-showcases-ukraines-war-devastation-digital-art-at-lagos-biennial/amp",
+      "source": "Vanguard News",
+      "sourceDomain": "vanguardngr.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-16T16:30:57.000Z",
+      "coverage": 4,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
