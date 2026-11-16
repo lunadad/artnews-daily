@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
+        "title": "Lotus L. Kang, 캐나다 최고의 예술상인 Sobey Art Award 수상",
         "why": "5개 매체가 함께 보도했습니다. 미술계 전반의 흐름을 이해하는 데 주목할 소식입니다."
       },
       {
-        "title": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Forme…",
+        "title": "소더비 경매에서 1억 8천만 달러 반 고흐 전 소유주 상속인의 도전에 직면",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
+        "title": "Sotheby's에서 위험을 무릅쓰고 Lurch에 1억 8천만 달러의 반 고흐를 남겼습니다.",
         "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "general",
       "articleType": "news",
       "titleOriginal": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
-      "titleKo": "Lotus L. Kang wins Canada’s top art prize, the Sobey Art Award",
-      "summaryKo": "The Toronto-born artist, whose work spans photography, sculpture and installation, will receive C$100,000 ($70,000)",
+      "titleKo": "Lotus L. Kang, 캐나다 최고의 예술상인 Sobey Art Award 수상",
+      "summaryKo": "사진, 조각, 설치를 아우르는 토론토 태생의 예술가는 C$100,000($70,000)를 받게 됩니다.",
       "url": "https://www.theartnewspaper.com/2026/11/15/lotus-l-kang-wins-2026-sobey-art-award-canadian-prize",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Former Owner’s Heirs",
-      "titleKo": "Sotheby’s Auction of $180 Million Van Gogh Faces Challenge from Former Owner’s Heirs",
-      "summaryKo": "The heirs of a former owner of Vincent Van Gogh’s Châtaigniers en fleurs, 1890, have called for its withdrawal from an upcoming auction at Sotheby’s in New York. As per the New York Times, the heirs allege that the painting was sold under duress due to persecution by the Nazis. The painting is set t",
+      "titleKo": "소더비 경매에서 1억 8천만 달러 반 고흐 전 소유주 상속인의 도전에 직면",
+      "summaryKo": "Vincent Van Gogh의 Châtaigniers en fleurs(1890)의 전 소유자의 상속인은 다가오는 뉴욕 소더비 경매에서 철회를 요구했습니다. 뉴욕타임스에 따르면 상속인들은 이 그림이 나치의 박해로 인해 협박을 받아 팔렸다고 주장했다. 그림이 t로 설정되었습니다.",
       "url": "https://www.artforum.com/news/sothebys-180-million-van-gogh-challenge-from-former-owners-1234763675",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -160,8 +160,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
-      "titleKo": "At Sotheby’s, Risk-Taking Left a $180 Million van Gogh in the Lurch",
-      "summaryKo": "Claims on the painting by heirs of a Jewish owner were well known in the art world. The auction house will meet lawyers for the heirs on Monday.",
+      "titleKo": "Sotheby's에서 위험을 무릅쓰고 Lurch에 1억 8천만 달러의 반 고흐를 남겼습니다.",
+      "summaryKo": "유대인 소유자의 상속인이 그림에 대해 주장하는 것은 미술계에서 잘 알려져 있습니다. 경매사는 월요일에 상속인들을 위한 변호사들을 만날 예정이다.",
       "url": "https://www.nytimes.com/2026/11/15/arts/design/sothebys-van-gogh-auction-art-nazi.html",
       "source": "The New York Times",
       "sourceDomain": "nytimes.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
-      "titleKo": "Volcanoes! Floods! The Apocalypse! All Appear in a Rare $1.3 M. German Manuscript Coming to Christie’s",
-      "summaryKo": "The Book of Miracles, coming to Christie's from the Mickey Cartin collection, bears an estimate of £700,000–£1 million (about $923,000–$1.3 million).",
+      "titleKo": "화산! 홍수! 묵시록! 모두 크리스티 경매에 나오는 희귀한 130만 달러 상당의 독일 원고에 등장합니다.",
+      "summaryKo": "미키 카틴(Mickey Cartin) 컬렉션 중 크리스티 경매에 나온 기적의 책(Book of Miracles)의 예상 가격은 70만~100만 파운드(약 923,000~130만 달러)입니다.",
       "url": "https://www.artnews.com/art-news/market/volcanoes-floods-apocalypse-german-manuscript-christies-1234806173",
       "source": "ARTnews.com",
       "sourceDomain": "artnews.com",
@@ -200,7 +200,7 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "EU showcases Ukraine’s war devastation, digital art at Lagos Biennial",
-      "titleKo": "EU showcases Ukraine’s war devastation, digital art at Lagos Biennial",
+      "titleKo": "EU, 라고스 비엔날레에서 우크라이나의 전쟁 참화, 디지털 아트 전시",
       "summaryKo": "",
       "url": "https://www.vanguardngr.com/2026/11/eu-showcases-ukraines-war-devastation-digital-art-at-lagos-biennial/amp",
       "source": "Vanguard News",
