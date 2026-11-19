@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T07:41:17.226+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Vincent van Gogh painting auctioned for record $190.4m after dispute …",
+        "why": "5개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Van Gogh’s Châtaigniers en fleurs Sells for Record $190.4 Million at …",
+        "why": "11개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
+        "why": "7개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 87,
+        "category": "market",
+        "articleType": "news",
+        "title": "[Part 3] 59억원에 낙찰된 조선 달항아리 ― K-공예 글로벌 아트로 도약할까",
+        "summary": "지난 3월 뉴욕 크리스티(Christie’s)의 ‘일본 및 한국 미술(Japanese and Korean Art)’ 경매장에 조선 18세기 백자 달항아리 한 점이 올라왔다. 높이와 지름이 각각 42.5cm인 둥근 백자였다. 사전 추정가는 100만~200만 달러였지만 경매가 끝났을 때 가격은 318만6000달러(거래일 환율 기준 약 47억7000만원)까지 올",
+        "url": "https://www.mk.co.kr/news/culture/12212382",
+        "source": "매일경제",
+        "publishedAt": "2026-11-18T05:31:05.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202611/18/news-p.v1.20261118.f9858ab48e0d4ceca8bc562132ff8182_R.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 85,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션 '옥션쇼' 북적…국세청 압류품 99점 완판",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 국세청이 압류한 명품 가방과 시계 등이 경매에서 모두 팔렸다. 에르메스 버킨백에는 57차례 응찰이 몰렸고, 롤렉스 시계는 6600만원에 낙찰됐다.서울옥션은 지난 11~15일 서울옥션 강남센터에서 열린 '2026 옥션쇼' 1부 행사에서 총 5개 경매의 낙찰률이 92.5%를 기록했다고 17일 밝혔다.특히 지난 14일 열..",
+        "url": "https://www.newsis.com/view/NISX20261117_0003871624",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-17T05:49:18.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/17/NISI20261117_0002294358_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 66,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[중얼거리는 사진 한 장]조용한 미술관은 없는가?",
+        "summary": "명색이 미술가지만 나도 현대미술을 전시하는 미술관에 가면 힘들 때가 있다. 영상 작업이 너무 많을 경우이다. 어느 때는 한 미술관의 여러 전시에 20여점이나 되는 영상 작업이 펼쳐져 있다. 작품 하나를 보는 데 10분이라 쳐도 200분을 봐야 한다. 3시간20분, 이걸 본다는 것은 애초에 불가능하다. 이 때문에 거의 스쳐 지나가기 마련이다. 특별히 눈...",
+        "url": "https://www.khan.co.kr/article/202611192004005/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-11-19T11:04:00.000Z",
+        "coverage": 5,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/11/19/2026112001000585600060871.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관 홍보고객과 기간제 근로자(관람지원, 안내) 채용 공고",
+        "summary": "…",
+        "url": "https://go.seoul.co.kr/news/prnewsView.php?id=457888",
+        "source": "서울Pn",
+        "publishedAt": "2026-11-19T08:05:36.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://imggo.seoul.co.kr/img/go_share.png"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "먹과 쪽빛에 담은 고요한 풍경···이선희 개인전 ‘일상 그리고 사유’",
+        "summary": "한지에 번진 먹 위로 고요한 쪽빛이 스며들었다. 먹이 번진 자리에 먹색과 쪽빛을 여러 차례 겹쳐 올려 화면에 깊은 공간감을 부여하고, 여백으로 남긴 한지 고유의 결을 통해 화면에 은은한 리듬을 만들어낸다. 전시 제목",
+        "url": "https://www.khan.co.kr/article/202611191919001/amp",
+        "source": "경향신문",
+        "publishedAt": "2026-11-19T10:19:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.khan.co.kr/news/2026/11/19/news-p.v1.20261118.0a275f18635440baa79caab14990c12a_P2.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "c313c10999ec",
+      "rank": 1,
+      "score": 136,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
+      "titleKo": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
+      "summaryKo": "Chataigniers en fleurs (Chestnut Trees in Blossom), which was painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million",
+      "source": "The Guardian",
+      "sourceDomain": "theguardian.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-19T20:40:00.000Z",
+      "coverage": 5,
+      "image": "https://i.guim.co.uk/img/media/bc800d6ab8d38dc4057ab46b719c55ba2921c6ee/334_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63bb00f55b1fc7e4e54e5c833cb3fdb7",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "160797f8061c",
+      "rank": 2,
+      "score": 131,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh’s Châtaigniers en fleurs Sells for Record $190.4 Million at Sotheby’s",
+      "titleKo": "Van Gogh’s Châtaigniers en fleurs Sells for Record $190.4 Million at Sotheby’s",
+      "summaryKo": "Vincent van Gogh’s Châtaigniers en fleurs (1890) sold for $190.4 million at Sotheby’s New York, a new record for the artist and the fourth highest price ever paid for a painting at auction.",
+      "url": "https://www.art-insider.com/van-goghs-chataigniers-en-fleurs-sells-for-record-190-4-million-at-sothebys/8934",
+      "source": "The Art Insider",
+      "sourceDomain": "art-insider.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-19T20:32:13.000Z",
+      "coverage": 11,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "7767b1b4a745",
+      "rank": 3,
+      "score": 116,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
+      "titleKo": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
+      "summaryKo": "The Stedelijk Museum in Amsterdam has named the Dutch-born curator and art critic Krist Gruijthuijsen as its next director.",
+      "url": "https://www.artnews.com/art-news/news/stedelijk-museum-krist-gruijthuijsen-director-1234806867",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-19T18:14:00.000Z",
+      "coverage": 7,
+      "image": "https://www.artnews.com/wp-content/uploads/2020/05/200211_KW_Krist-Gruijthuijsen_LQ_press-release.jpg?w=561",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d9ea27b5c284",
+      "rank": 4,
+      "score": 105,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
+      "titleKo": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
+      "summaryKo": "Vincent van Gogh’s 1890 Châtaigniers en fleurs (Blossoming Chestnut Trees) sold for $190.4 million at Sotheby’s in New York last night, smashing the artist’s auction record and blowing past the $180 million it had been expected to command. Previously, the most paid at auction for the Dutch master’s",
+      "url": "https://www.artforum.com/news/van-gogh-fetches-eye-watering-190-4-million-at-auction-1234763909",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T21:23:21.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-598792423.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "155c8cc1982b",
+      "rank": 5,
+      "score": 76,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Church History Museum opens three new exhibits to support Salt Lake Temple Celebration",
+      "titleKo": "Church History Museum opens three new exhibits to support Salt Lake Temple Celebration",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORm1rT20yV05KVjN5d1RzamN6bkJoWW1naUl0V0p3bFMtV1RXUEJmanN6WjB5V0Q3YXB1LTRjLXBwc3lHV2ZNcG5rRHJNcmhYcUJEQUhqY01OcF93RlNvZWttS05BV3dEckNXMFJqYmJrYXV3Y2FvVzZsZkF1a3c1UGp6NWlMQWYyMGhlckhYdVlvczRxNHdOZG85YzVQR0VWczZvYnM5aGV3aU5JZFhwT1VGWkt5S1ozbWo3cXVDMzc?oc=5",
+      "source": "KSL News",
+      "sourceDomain": "ksl.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-11-19T20:50:00.000Z",
+      "coverage": 4,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
