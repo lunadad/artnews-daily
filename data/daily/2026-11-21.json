@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.…",
+        "title": "반 고흐 작품 'Chataigniers en Fleurs', 경매에서 1억 9,040만 달러에 낙찰",
         "why": "8개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Vincent van Gogh painting auctioned for record $190.4m after dispute …",
+        "title": "빈센트 반 고흐 그림, 나치 시대 판매 논란 끝에 1억 9,040만 달러에 경매 기록",
         "why": "4개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Krist Gruijthuijsen to Direct Amsterdam’s Stedelijk Museum",
+        "title": "Krist Gruijthuijsen이 암스테르담 Stedelijk 박물관을 관장합니다",
         "why": "8개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       }
     ]
@@ -120,7 +120,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million",
-      "titleKo": "Van Gogh's 'Chataigniers en Fleurs' sells at auction for record $190.4 million",
+      "titleKo": "반 고흐 작품 'Chataigniers en Fleurs', 경매에서 1억 9,040만 달러에 낙찰",
       "summaryKo": "",
       "url": "https://www.reuters.com/lifestyle/van-goghs-chataigniers-en-fleurs-sells-auction-record-1904-million-2026-11-19",
       "source": "Reuters",
@@ -140,8 +140,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
-      "titleKo": "Vincent van Gogh painting auctioned for record $190.4m after dispute over Nazi era sale",
-      "summaryKo": "Chataigniers en fleurs (Chestnut Trees in Blossom), which was painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist",
+      "titleKo": "빈센트 반 고흐 그림, 나치 시대 판매 논란 끝에 1억 9,040만 달러에 경매 기록",
+      "summaryKo": "1890년 프랑스 오베르쉬르와즈에서 그린 샤테니에 앙 플뢰르(Chataigniers en fleurs)는 네덜란드 후기 인상파 작가의 신기록을 세웠다.",
       "url": "https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million",
       "source": "The Guardian",
       "sourceDomain": "theguardian.com",
@@ -160,7 +160,7 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Krist Gruijthuijsen to Direct Amsterdam’s Stedelijk Museum",
-      "titleKo": "Krist Gruijthuijsen to Direct Amsterdam’s Stedelijk Museum",
+      "titleKo": "Krist Gruijthuijsen이 암스테르담 Stedelijk 박물관을 관장합니다",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/krist-gruijthuijsen-to-direct-amsterdams-stedelijk-museum-2839216",
       "source": "Artnet News",
@@ -180,8 +180,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "At Dakar’s Biennale, African artists explore how to turn fragility into power",
-      "titleKo": "At Dakar’s Biennale, African artists explore how to turn fragility into power",
-      "summaryKo": "DAKAR, Senegal (AP) As Senegal grapples with a deepening economic crisis, the Biennale of Contemporary African Art opened in Dakar on Friday with a theme of turning vulnerability into",
+      "titleKo": "다카르 비엔날레에서 아프리카 예술가들은 취약성을 힘으로 바꾸는 방법을 탐구합니다.",
+      "summaryKo": "다카르, 세네갈(AP) 세네갈이 심화되는 경제 위기와 씨름하는 가운데, 취약성을 전환시키는 주제로 금요일 아프리카 현대미술 비엔날레가 다카르에서 개막했습니다.",
       "url": "https://www.thestar.com/news/world/africa/at-dakar-s-biennale-african-artists-explore-how-to-turn-fragility-into-power/article_0ed6db73-fd42-5785-982b-169a92a74fee.html",
       "source": "Toronto Star",
       "sourceDomain": "thestar.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "15 Van Gogh Masterpieces that Set Auction Records",
-      "titleKo": "15 Van Gogh Masterpieces that Set Auction Records",
-      "summaryKo": "Each of these works has achieved a place among the highest prices for a Van Gogh in auction history",
+      "titleKo": "경매 기록을 세운 반 고흐의 걸작 15점",
+      "summaryKo": "각 작품은 경매 역사상 반 고흐의 최고 가격에 올랐습니다.",
       "url": "https://www.artnews.com/list/art-news/market/van-gogh-masterpieces-that-set-auction-records-1234784867",
       "source": "ARTnews",
       "sourceDomain": "artnews.com",
