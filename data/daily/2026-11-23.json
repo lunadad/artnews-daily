@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T07:41:42.414+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Van Gogh sells for record $190.4m at Sotheby’s after Nazi-era claim s…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 78,
+        "category": "market",
+        "articleType": "news",
+        "title": "중동 미술시장 새 거점…'프리즈 아부다비' 첫 개최 북적북적",
+        "summary": "[아부다비=뉴시스] 사진·박현주 미술전문기자 = 20일(현지시간) 아랍에미리트(UAE) 아부다비 마나랏 알 사디야트에서 열린 '프리즈 아부다비 2026' 행사장이 관람객들로 북적이고 있다",
+        "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISI20261120_0002298442",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-20T13:06:19.000Z",
+        "coverage": 3,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298442_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 70,
+        "category": "market",
+        "articleType": "news",
+        "title": "“600만원→2870만원” 가격 무섭게 뛰었다…‘압류 명품’ 경매서 대체 무슨 일이",
+        "summary": "고액 체납자에게서 압류한 명품과 귀금속이 경매에서 잇따라 높은 가격에 낙찰됐다. 에르메스 버킨백은 시작가의 약 4.8배에 팔렸고, 샤넬 시계는 8배 수준까지 값이 뛰었다. 18일 서울옥션에 따르면 미술 축제 ‘2026 옥션쇼(AUCTION SHOW)’ 첫 행사 기간인",
+        "url": "https://www.sedaily.com/article/20116810",
+        "source": "서울경제",
+        "publishedAt": "2026-11-20T00:52:17.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/20/news-p.v1.20261117.ec7399c4aa23469d93c0e03666ca540d_Z1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“AI 슬롭 벌써 질려… 미술관은 ‘예술적 지능’ 실험장”",
+        "summary": "마리에트 웨스터만 구겐하임 미술관장이 AI 시대의 예술적 가치와 미술관 운영 전략을 제시함. 세계 4개 미술관의 여성 관장 체제 구축과 한국 미술가들의 글로벌 진출 지원 계획을 밝히며, 특정 정치 노선을 지양하고 작가의 자유를 존중하는 미술관의 사명을 강조함.",
+        "url": "https://www.chosun.com/culture-life/art-gallery/2026/11/23/ZADLETUUKVHMFHSNEYVB7EUD7U",
+        "source": "조선일보",
+        "publishedAt": "2026-11-22T15:41:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://www.chosun.com/resizer/v2/GCLEHZQLO5BONA2MLJNLY7FV2I.jpg?auth=03297e8795447260fef9ed95eb4805bb22b6699f8347fe6676d8e6e6450f30de&width=1200&height=630&smart=true"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "general",
+        "articleType": "news",
+        "title": "\"포켓몬카드 버리고 땅치고 후회\" 1장 220억 '대박'...K미술도 꽂혔다 - 머니투데이",
+        "summary": "국내 주요 미술 경매·갤러리들이 '포케카드'(포켓몬 카드)의 전시와 판매를 대폭 늘린다. 22일 미술계에 따르면 서울옥션은 오는 24일까지 강남센터 1층에서 '프리미엄 포켓몬 카드' 전시를 연다.",
+        "url": "https://www.mt.co.kr/amp/culture/2026/11/22/2026112011031260339",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-21T20:00:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026112011031260339_1.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "오귀연\"여기에 있는 것과 저기에 있는 것\" 김종영 미술관에서 개최",
+        "summary": "김종영미술관은 2010년 별관 개관 이후 매년 가을 미술계의 귀감이 되는 원로 작가를 초대해 전시를 개최해 왔으며, 올해는 조각가 오귀원(1956~)을 초대해 《",
+        "url": "https://www.artworldnews.co.kr/news/articleView.html?idxno=6213",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-11-22T21:43:12.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://cdn.artworldnews.co.kr/news/thumbnail/202611/6213_144855_5313_v150.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "09417f5e52b3",
+      "rank": 1,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh sells for record $190.4m at Sotheby’s after Nazi-era claim settled",
+      "titleKo": "Van Gogh sells for record $190.4m at Sotheby’s after Nazi-era claim settled",
+      "summaryKo": "A landscape by the Dutch painter was to be a linchpin of a blockbuster auction in New York this week – but the heirs of its former owner are claiming that it was originally sold under duress",
+      "url": "https://apollo-magazine.com/sothebys-van-gogh-chataigniers-en-fleurs-restitution-claim",
+      "source": "Apollo – The International Art Magazine",
+      "sourceDomain": "apollo-magazine.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-22T21:11:21.000Z",
+      "coverage": 1,
+      "image": "https://apollo-magazine.com/wp-content/uploads/2026/11/lead-GettyImages-2299431620.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5369ca6535fd",
+      "rank": 2,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "titleKo": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "summaryKo": "Back-to-back New York auctions made a combined $777.8m, with additional auction records for Mary Cassatt and Aaron Douglas proving bright spots in an evening marked by uneven bidding",
+      "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T06:42:07.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/94e8cbb85fb045a7ce74ebb8c7bd1519a8c199ad-1920x2012.jpg?rect=18,242,1664,1169&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "d9ea27b5c284",
+      "rank": 3,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
+      "titleKo": "Contested Van Gogh Fetches Eye-Watering $190.4 Million at Auction",
+      "summaryKo": "Vincent van Gogh’s 1890 Châtaigniers en fleurs (Blossoming Chestnut Trees) sold for $190.4 million at Sotheby’s in New York last night, smashing the artist’s auction record and blowing past the $180 million it had been expected to command. Previously, the most paid at auction for the Dutch master’s",
+      "url": "https://www.artforum.com/news/van-gogh-fetches-eye-watering-190-4-million-at-auction-1234763909",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T21:23:21.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-598792423.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "40753f4ce6b7",
+      "rank": 4,
+      "score": 58,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "The Biennale Arte 2026 by Koyo Kouoh Closes on a High Note, with 714,015 Visitors",
+      "titleKo": "The Biennale Arte 2026 by Koyo Kouoh Closes on a High Note, with 714,015 Visitors",
+      "summaryKo": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1BSVlVqemlVUmdyTWZSeFRldjIzenpnVXBJV2lqenRTYzhnMGx2NDBqWjlNRXZGaE9uNVA4R1VwUVM0VEs2TUxuV0FvcWNLRk9uOXlQLVhTMVJ4ZXJqWHl0aFNQQTRVdHFxYVR1MG1qWHVBcG4yeXVMZ2dGa3VzVDhJakZJM0dzei02VUdFakJBTXA3Q0xIdVVEaDhQYTlsWUl0V1ZNM0lQWDR2QkZLWmFOeUZTbTg?oc=5",
+      "source": "ArtDependence",
+      "sourceDomain": "artdependence.com",
+      "discoveredVia": "google",
+      "resolved": false,
+      "publishedAt": "2026-11-22T21:21:12.000Z",
+      "coverage": 2,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "febd457f775a",
+      "rank": 5,
+      "score": 55,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "British Museum and Victoria and Albert Museum extend loan of Asante regalia to the Manhyia Palace Museum in Ghana",
+      "titleKo": "British Museum and Victoria and Albert Museum extend loan of Asante regalia to the Manhyia Palace Museum in Ghana",
+      "summaryKo": "The extended loan agreement of the 32 gold objects, many of which were looted in the 19th century, follows a visit by the British Museum director to the Asante king",
+      "url": "https://www.theartnewspaper.com/2026/11/16/british-museum-and-victoria-and-albert-museum-extend-loan-of-asante-regalia-to-the-manhyia-palace-museum-in-ghana",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-16T12:21:19.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/493f260104af6051b80e516a32c3acf7dfbce0a1-1080x772.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
