@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T07:42:11.249+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 1,
+      "artist": 0,
+      "general": 1
+    },
+    "focus": [
+      {
+        "title": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi …",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Friedrich Christian Flick, Art Collector and Scion of German Industri…",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Why collectors are developing a taste for Prunella Clough",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 0,
+      "general": 1
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 82,
+        "category": "market",
+        "articleType": "news",
+        "title": "“서남아시아~북아프리카 광역 미술시장 허브 될 것”",
+        "summary": "“‘프리즈 아부다비’는 서아시아와 북아프리카, 남아시아를 아우르는 광역 미술 시장의 허브가 될 것입니다.” 19일(현지 시간) 마나라트 알 사디야트에서 만난 프리즈 아부다비의 디렉터 디얄라 누세이베(사진)는 자신감이 넘쳤다. 그는 “페어는 닷새간 열리지만, 작품이 미…",
+        "url": "https://www.donga.com/news/Culture/article/all/20261124/135077278/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-23T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/24/135075427.4.png"
+      },
+      {
+        "rank": 2,
+        "score": 67,
+        "category": "general",
+        "articleType": "news",
+        "title": "\"포켓몬카드 버리고 땅치고 후회\" 1장 220억 '대박'...K미술도 꽂혔다 - 머니투데이",
+        "summary": "국내 주요 미술 경매·갤러리들이 '포케카드'(포켓몬 카드)의 전시와 판매를 대폭 늘린다. 22일 미술계에 따르면 서울옥션은 오는 24일까지 강남센터 1층에서 '프리미엄 포켓몬 카드' 전시를 연다.",
+        "url": "https://www.mt.co.kr/culture/2026/11/22/2026112011031260339",
+        "source": "머니투데이",
+        "publishedAt": "2026-11-23T04:51:19.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026112011031260339_1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 66,
+        "category": "market",
+        "articleType": "news",
+        "title": "뉴욕 경매에 3조원 몰렸다…거장만 팔리는 K자 양극화",
+        "summary": "단 일주일간 15번의 경매에 1700여점의 미술품이 출품됐다. 낙찰총액은 약 24억900만달러. 우리 돈으로 약 3조2000억원을 웃도는 금액이다. 뉴욕의 가을경매에 다시 뭉칫돈이 몰렸다. 지난 16일(이하 현지시간)부터 20일까지 미국 뉴욕에서 열린 ‘마키 위크(Ma",
+        "url": "https://www.sedaily.com/article/20117443",
+        "source": "서울경제",
+        "publishedAt": "2026-11-22T09:01:39.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/22/news-p.v1.20261122.4df594a894204556bff1efa5494007d3_Z1.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 56,
+        "category": "museum",
+        "articleType": "news",
+        "title": "서울시립 사진미술관, 한국 사진사 조명 '확산의 물결' 기획전",
+        "summary": "(서울=연합뉴스) 김동규 기자 = 서울시립미술관은 25일부터 내년 3월 21일까지 서울시립 사진미술관에서 소장품 기획전 '확산의 물결'을 연다고...",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261123166200004",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-23T21:00:01.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img5.yna.co.kr/etc/inner/KR/2026/11/23/AKR20261123166200004_01_i_P4.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "museum",
+        "articleType": "news",
+        "title": "[전시] ‘자연은 몸이 되고, 몸은 풍경이 된다’…한정식 사진전",
+        "summary": "한국 현대 사진예술의 토대를 만들고 ‘고요’의 사진미학을 평생에 걸쳐 추구했던 한정식의 미공개 유작을 소개하는 전시 ‘Physical Landscape’가 12월 10일까지 KP Gallery에서 개최된다. 이...",
+        "url": "https://sports.khan.co.kr/article/202611230959003/amp",
+        "source": "스포츠경향",
+        "publishedAt": "2026-11-23T00:59:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://images.khan.co.kr/article/2026/11/23/news-p.v1.20261123.0247ea8639f54d06afb41a6f1b612a51_P1.png"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "5369ca6535fd",
+      "rank": 1,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "titleKo": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "summaryKo": "Back-to-back New York auctions made a combined $777.8m, with additional auction records for Mary Cassatt and Aaron Douglas proving bright spots in an evening marked by uneven bidding",
+      "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T06:42:07.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/94e8cbb85fb045a7ce74ebb8c7bd1519a8c199ad-1920x2012.jpg?rect=18,242,1664,1169&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f0f68c4e02ea",
+      "rank": 2,
+      "score": 84,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Friedrich Christian Flick, Art Collector and Scion of German Industrialists with Nazi Past, Dies at 82",
+      "titleKo": "Friedrich Christian Flick, Art Collector and Scion of German Industrialists with Nazi Past, Dies at 82",
+      "summaryKo": "Friedrich Christian Flick, a major collector of contemporary art and scion to one of Germany's wealthiest industrialist families, has died at 82.",
+      "url": "https://www.artnews.com/art-news/news/friedrich-christian-flick-collection-dead-82-1234807322",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-23T19:03:00.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/1249556176-e1795458622756.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "71b8ef37baaf",
+      "rank": 3,
+      "score": 77,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Why collectors are developing a taste for Prunella Clough",
+      "titleKo": "Why collectors are developing a taste for Prunella Clough",
+      "summaryKo": "The sheer variety of the painter’s work has made it hard to categorise her or fit her into an art-historical narrative – but that doesn’t seem to be deterring buyers, writes Emma Crichton-Miller",
+      "url": "https://apollo-magazine.com/prunella-clough-rising-demand-art-market-collectors",
+      "source": "Apollo – The International Art Magazine",
+      "sourceDomain": "apollo-magazine.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-23T18:01:40.000Z",
+      "coverage": 1,
+      "image": "https://apollo-magazine.com/wp-content/uploads/2026/11/lead-PC0268.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "ad09a37ae885",
+      "rank": 4,
+      "score": 74,
+      "category": "general",
+      "articleType": "news",
+      "titleOriginal": "Russian Strikes On Kyiv and Odesa Damage Landmarks And Cultural Heritage Sites",
+      "titleKo": "Russian Strikes On Kyiv and Odesa Damage Landmarks And Cultural Heritage Sites",
+      "summaryKo": "Ukraine’s Ministry of Culture reported on November 20 that Russian strikes had damaged cultural heritage sites in the cities of Kyiv and Odesa. According to the online newspaper Kyiv Independent, the hours-long series of attacks killed at least nine people and injured around 30. Russian drone attack",
+      "url": "https://www.artforum.com/news/russian-strikes-kyiv-odesa-landmarks-heritage-sites-1234764108",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-23T21:36:22.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/1280px-St_Volodymyrs_Cathedral.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "50faf5eec6b9",
+      "rank": 5,
+      "score": 74,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
+      "titleKo": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
+      "summaryKo": "Art Basel Hong Kong has revealed its 232 exhibitors for its 2027 edition, as well as a newly designed layout",
+      "url": "https://www.artforum.com/news/art-basel-hong-kong-exhibitors-and-layout-2027-edition-1234764003",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-23T18:13:15.000Z",
+      "coverage": 2,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/11/Print_approx_21_x_14_cm_ABHK25__General_Impressions__PR__MC_1389._HiRes.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
