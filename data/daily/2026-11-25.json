@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T07:42:04.949+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
+        "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+        "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      },
+      {
+        "title": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout F…",
+        "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 0,
+      "fair": 0,
+      "artist": 2,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 75,
+        "category": "market",
+        "articleType": "news",
+        "title": "HS효성더클래스, 멤버십 회원 20명 서울옥션 ‘아트 브런치’ 초청",
+        "summary": "메르세데스-벤츠 공식 파트너 HS효성더클래스는 서울옥션의 ‘아트 브런치’ 프로그램에 멤버십 회원을 초청했다고 24일 밝혔다. 마스테리아 멤버십 클럽 로즈골드 등급 회원 10팀(총 20명)이 참여했다. 행사는 서울옥션 강남센터 VIP 라운지에서 별도 세션으로 진행됐다. 참가자들은 브런치를 즐기며 ‘2026 옥션 쇼’에 대한 설명을 듣고, 전담 해설사의 안내로",
+        "url": "https://www.mk.co.kr/news/business/12217035",
+        "source": "매일경제",
+        "publishedAt": "2026-11-24T04:53:23.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.389ada32e2ce4e839978da1f1a477986_R.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 72,
+        "category": "market",
+        "articleType": "news",
+        "title": "프리즈는 세계로, 미술시장은 지역으로…아부다비에서 본 미술시장의 변화[현장]",
+        "summary": "[아부다비=뉴시스] 박현주 미술전문 기자 = 프리즈였지만 런던도 서울도 아니었다. 아랍권과 남아시아 작가들의 작품이 전시장 곳곳을 채웠다. 돌과 직물, 진주 등 재료의 물성이 두드러지는 작품부터 고대 유물까지 현대미술과 나란히 등장했다.개막 초반 100만 달러(약 14억원) 이상에 거래된 작품도 동시대 스타 작가의 회화가 아닌 약 2000년 전 예멘의 석비..",
+        "url": "https://www.newsis.com/view/NISX20261124_0003881551",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-24T08:06:47.000Z",
+        "coverage": 2,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298430_web.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 68,
+        "category": "market",
+        "articleType": "news",
+        "title": "“서남아시아~북아프리카 광역 미술시장 허브 될 것”",
+        "summary": "“‘프리즈 아부다비’는 서아시아와 북아프리카, 남아시아를 아우르는 광역 미술 시장의 허브가 될 것입니다.” 19일(현지 시간) 마나라트 알 사디야트에서 만난 프리즈 아부다비의 디렉터 디얄라 누세이베(사진)는 자신감이 넘쳤다. 그는 “페어는 닷새간 열리지만, 작품이 미…",
+        "url": "https://www.donga.com/news/Culture/article/all/20261124/135077278/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-23T19:30:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/24/135075427.4.png"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "artist",
+        "articleType": "news",
+        "title": "JW이종호재단 \"장애인 미술작가 경력관리 지원\"",
+        "summary": "[서울=뉴시스]황재희 기자 = JW중외제약의 공익재단인 JW이종호재단은 지난 21일 경기도 과천시 JW사옥에서 장애인 미술작가의 미술시장 진출과 자립을 돕기 위한 ‘경력설계 실전 특강’을 열었다고 24일 밝혔다. 이번 특강은 포트폴리오 작성부터 갤러리 전시 제안, 작품 판매 계약까지 미술시장 활동에 필요한 실무를 다뤘다. 작가들이 전시와 작품 판매 기회를 ..",
+        "url": "https://www.newsis.com/view/NISX20261124_0003880452",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-24T00:37:50.000Z",
+        "coverage": 9,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002300391_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 54,
+        "category": "artist",
+        "articleType": "news",
+        "title": "단색화 넘어 설치-조각, 미디어아트까지… 美 뉴욕 ‘K아트’를 품다[글로벌 현장을 가다/곽도영]",
+        "summary": "《12일(현지 시간) 세계 현대 미술의 중심지로 꼽히는 미국 뉴욕 맨해튼의 첼시를 찾았다. 한국계인 티나 김 대표가 운영하며 올해 설립 25주년을 맞은 티나김 갤러리 안으로 들어서자 커다란 화폭에 물방울이 흘러내리는 익숙한 그림이 보였다. ‘물방울 화가’로 불리는 김…",
+        "url": "https://www.donga.com/news/Opinion/article/all/20261124/135084291/2",
+        "source": "동아일보",
+        "publishedAt": "2026-11-24T14:03:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/24/135084653.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "3ee6b20f1181",
+      "rank": 1,
+      "score": 92,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
+      "titleKo": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
+      "summaryKo": "The City of Oslo has announced the appointment of Thorsten Sadowsky as direct of MUNCH, a museum dedicated to the Norwegian modernist Edvard Munch.",
+      "url": "https://www.artforum.com/news/thorsten-sadowsky-director-munch-in-oslo-1234764171",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-24T17:32:01.000Z",
+      "coverage": 3,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/Sadowsky.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "429547e50b2b",
+      "rank": 2,
+      "score": 91,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+      "titleKo": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/market/work-of-the-week-max-oppenheimer-auction-record-2841289?amp=1",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-24T20:24:10.000Z",
+      "coverage": 1,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "50faf5eec6b9",
+      "rank": 3,
+      "score": 90,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
+      "titleKo": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
+      "summaryKo": "Art Basel Hong Kong has revealed its 232 exhibitors for its 2027 edition, as well as a newly designed layout",
+      "url": "https://www.artforum.com/news/art-basel-hong-kong-exhibitors-and-layout-2027-edition-1234764003",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-23T18:13:15.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2025/11/Print_approx_21_x_14_cm_ABHK25__General_Impressions__PR__MC_1389._HiRes.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5369ca6535fd",
+      "rank": 4,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "titleKo": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "summaryKo": "Back-to-back New York auctions made a combined $777.8m, with additional auction records for Mary Cassatt and Aaron Douglas proving bright spots in an evening marked by uneven bidding",
+      "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T06:42:07.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/94e8cbb85fb045a7ce74ebb8c7bd1519a8c199ad-1920x2012.jpg?rect=18,242,1664,1169&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "32c566fa0f57",
+      "rank": 5,
+      "score": 81,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
+      "titleKo": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
+      "summaryKo": "The Nazi-era claim, resolved just hours before the Sotheby’s New York sale, appeared to have little impact on the final price",
+      "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-20T11:56:50.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/859398f7a2edea031070277e7e04d4c84b64e9d9-4000x2667.jpg?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
