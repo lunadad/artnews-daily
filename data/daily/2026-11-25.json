@@ -12,15 +12,15 @@
     },
     "focus": [
       {
-        "title": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
+        "title": "Thorsten Sadowsky가 오슬로 MUNCH의 이사로 임명되었습니다.",
         "why": "3개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
       },
       {
-        "title": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+        "title": "오랫동안 잃어버린 맥스 오펜하이머 그림이 기록적인 가격으로 391만 달러에 팔렸습니다.",
         "why": "시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
       },
       {
-        "title": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout F…",
+        "title": "아트 바젤 홍콩, 2027년 전시 참가업체 목록과 새로운 평면도 공개",
         "why": "4개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
       }
     ]
@@ -120,8 +120,8 @@
       "category": "museum",
       "articleType": "news",
       "titleOriginal": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
-      "titleKo": "Thorsten Sadowsky Appointed Director of MUNCH in Oslo",
-      "summaryKo": "The City of Oslo has announced the appointment of Thorsten Sadowsky as direct of MUNCH, a museum dedicated to the Norwegian modernist Edvard Munch.",
+      "titleKo": "Thorsten Sadowsky가 오슬로 MUNCH의 이사로 임명되었습니다.",
+      "summaryKo": "오슬로시는 노르웨이 모더니스트 에드바르 뭉크(Edvard Munch)를 기리는 박물관인 MUNCH의 관장으로 Thorsten Sadowsky를 임명했다고 발표했습니다.",
       "url": "https://www.artforum.com/news/thorsten-sadowsky-director-munch-in-oslo-1234764171",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -140,7 +140,7 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
-      "titleKo": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+      "titleKo": "오랫동안 잃어버린 맥스 오펜하이머 그림이 기록적인 가격으로 391만 달러에 팔렸습니다.",
       "summaryKo": "",
       "url": "https://news.artnet.com/market/work-of-the-week-max-oppenheimer-auction-record-2841289?amp=1",
       "source": "Artnet News",
@@ -160,8 +160,8 @@
       "category": "fair",
       "articleType": "news",
       "titleOriginal": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
-      "titleKo": "Art Basel Hong Kong Reveals List Of Exhibitors And New Floor Layout For 2027 Edition",
-      "summaryKo": "Art Basel Hong Kong has revealed its 232 exhibitors for its 2027 edition, as well as a newly designed layout",
+      "titleKo": "아트 바젤 홍콩, 2027년 전시 참가업체 목록과 새로운 평면도 공개",
+      "summaryKo": "아트 바젤 홍콩은 2027년 에디션에 참가할 232개 전시업체와 새롭게 디자인된 레이아웃을 공개했습니다.",
       "url": "https://www.artforum.com/news/art-basel-hong-kong-exhibitors-and-layout-2027-edition-1234764003",
       "source": "Artforum",
       "sourceDomain": "artforum.com",
@@ -180,8 +180,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
-      "titleKo": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
-      "summaryKo": "Back-to-back New York auctions made a combined $777.8m, with additional auction records for Mary Cassatt and Aaron Douglas proving bright spots in an evening marked by uneven bidding",
+      "titleKo": "반 고흐 그림, 나치 전리품 주장 이후 소더비에서 1억 9천만 달러에 기록적인 가격으로 판매",
+      "summaryKo": "연속 뉴욕 경매는 총 7억 7,780만 달러를 기록했으며, Mary Cassatt와 Aaron Douglas의 추가 경매 기록은 고르지 못한 입찰로 표시된 저녁에 좋은 점을 입증했습니다.",
       "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
@@ -200,8 +200,8 @@
       "category": "market",
       "articleType": "news",
       "titleOriginal": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
-      "titleKo": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
-      "summaryKo": "The Nazi-era claim, resolved just hours before the Sotheby’s New York sale, appeared to have little impact on the final price",
+      "titleKo": "반 고흐의 기록적인 '꽃이 만발한 밤나무': 1억 9천만 달러의 판매와 이를 거의 뒤집을 뻔한 배상 청구",
+      "summaryKo": "소더비 뉴욕 매각 몇 시간 전에 해결된 나치 시대 주장은 최종 가격에 거의 영향을 미치지 않은 것으로 보입니다.",
       "url": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
       "source": "The Art Newspaper",
       "sourceDomain": "theartnewspaper.com",
