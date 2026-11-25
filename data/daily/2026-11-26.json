@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T07:41:57.875+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "India Wins Visitors’ Lion for Best National Participation at Venice A…",
+        "why": "6개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Thelma Golden, Transformative Leader of Studio Museum in Harlem, to S…",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "What to see at Art Basel Miami Beach 2026",
+        "why": "5개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 133,
+        "category": "market",
+        "articleType": "news",
+        "title": "서울옥션, ‘2026 옥션쇼’ 낙찰총액 159억원",
+        "summary": "서울옥션이 11월 11~24일 강남센터에서 개최한 ‘2026 옥션쇼’에서 총 12차례 경매를 진행해 낙찰총액 약 159억원, 전체 낙찰률 80.8%를 기록했다. 전체 낙찰자 가운데 20~40대가 절반 이상을 차지했다. 행사 기간 주중과 주말 방문객 수는 각각 평소의 5배 이상이었으며, 신규 회원 가입 건수는 평소의 6배 이상을 기록했다. 홈페이지 순방문자 수는 약 7만5000명으로 개막 직전 14일 대비 약 3배 증가했다. 이브닝 세일, 김환기 전면점화 29억원 낙찰 23일 열린 이브닝 세일에서는 김환기의 1971년작 ‘30-XI-",
+        "url": "https://www.joongang.co.kr/article/25481845",
+        "source": "중앙일보",
+        "publishedAt": "2026-11-25T05:45:00.000Z",
+        "coverage": 11,
+        "qualityCoverage": 4,
+        "resolved": true,
+        "image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/25/c8c9684e-7776-4419-a706-838e4e7627ca.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 93,
+        "category": "market",
+        "articleType": "news",
+        "title": "시작가 ‘0원’ 경매에 긴 줄…신규 회원 6배 늘었다",
+        "summary": "서울옥션(063170)이 강남센터에서 2주간 진행한 ‘2026 옥션쇼’가 총 12회의 경매에서 평균 81%의 높은 낙찰률과 약 159억 원의 낙찰총액을 거둬들이며 막을 내렸다. 고가의 작품들로 엄선한 23일 이브닝세일에서는 국내에 처음 공개된 김환기의 1971년작 전면",
+        "url": "https://www.sedaily.com/article/20118984",
+        "source": "서울경제",
+        "publishedAt": "2026-11-25T09:08:34.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://wimg.sedaily.com/news/cms/2026/11/25/news-p.v1.20261125.a43f66ac4163496991cea3b1346ad3ee_Z1.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 78,
+        "category": "market",
+        "articleType": "news",
+        "title": "프리즈는 세계로, 미술시장은 지역으로…아부다비에서 본 미술시장의 변화[현장]",
+        "summary": "[아부다비=뉴시스] 박현주 미술전문 기자 = 프리즈였지만 런던도 서울도 아니었다. 아랍권과 남아시아 작가들의 작품이 전시장 곳곳을 채웠다. 돌과 직물, 진주 등 재료의 물성이 두드러지는 작품부터 고대 유물까지 현대미술과 나란히 등장했다.개막 초반 100만 달러(약 14억원) 이상에 거래된 작품도 동시대 스타 작가의 회화가 아닌 약 2000년 전 예멘의 석비..",
+        "url": "https://www.newsis.com/view/NISX20261124_0003881551",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-24T08:06:47.000Z",
+        "coverage": 2,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298430_web.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 61,
+        "category": "artist",
+        "articleType": "news",
+        "title": "JW이종호재단 \"장애인 미술작가 경력관리 지원\"",
+        "summary": "[서울=뉴시스]황재희 기자 = JW중외제약의 공익재단인 JW이종호재단은 지난 21일 경기도 과천시 JW사옥에서 장애인 미술작가의 미술시장 진출과 자립을 돕기 위한 ‘경력설계 실전 특강’을 열었다고 24일 밝혔다. 이번 특강은 포트폴리오 작성부터 갤러리 전시 제안, 작품 판매 계약까지 미술시장 활동에 필요한 실무를 다뤘다. 작가들이 전시와 작품 판매 기회를 ..",
+        "url": "https://www.newsis.com/view/NISX20261124_0003880452",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-24T00:37:50.000Z",
+        "coverage": 10,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/24/NISI20261124_0002300391_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 61,
+        "category": "museum",
+        "articleType": "news",
+        "title": "“모호함 받아들이는 미술관… 작품과 사랑에 빠져보세요”",
+        "summary": "안 데메스터 스위스 쿤스트하우스 취리히 관장은 서울에서 열린 특별전 ‘모던 아트의 탄생’이 유럽 미술을 스위스의 눈으로 다시 보는 자리라고 말했다. 그는 미술관이 모호함을 받아들이는 법을 보여 줄 수 있다며, 관객이 소장품 한 점과 사랑에 빠지길 바란다고 했다.",
+        "url": "https://culture.seoul.co.kr/news/newsView.php?id=20261126016002",
+        "source": "서울컬처",
+        "publishedAt": "2026-11-25T11:58:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr//img/upload/2026/11/25/SSC_20261125205827.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "2596b57f4ccf",
+      "rank": 1,
+      "score": 94,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "India Wins Visitors’ Lion for Best National Participation at Venice Art Biennale 2026",
+      "titleKo": "India Wins Visitors’ Lion for Best National Participation at Venice Art Biennale 2026",
+      "summaryKo": "",
+      "url": "https://ddnews.gov.in/en/india-wins-visitors-lion-for-best-national-participation-at-venice-art-biennale-2026",
+      "source": "DD News",
+      "sourceDomain": "gov.in",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-25T18:57:15.000Z",
+      "coverage": 6,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "40f66c4651e5",
+      "rank": 2,
+      "score": 94,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Thelma Golden, Transformative Leader of Studio Museum in Harlem, to Step Down in 2027",
+      "titleKo": "Thelma Golden, Transformative Leader of Studio Museum in Harlem, to Step Down in 2027",
+      "summaryKo": "The Studio Museum in Harlem, New York, revealed that Thelma Golden will depart the institution in 2027 after more than 20 years as director and CEO.",
+      "url": "https://www.artforum.com/news/thelma-golden-studio-museum-in-harlems-leader-to-step-down-1234764393",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-25T04:20:12.000Z",
+      "coverage": 4,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/StudioMuseuminHarlem_ThelmaGolden_JulieSkarratt_Website.jpeg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "4a4aeb1d9baf",
+      "rank": 3,
+      "score": 91,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "What to see at Art Basel Miami Beach 2026",
+      "titleKo": "What to see at Art Basel Miami Beach 2026",
+      "summaryKo": "The mega-fair returns to sun-soaked Florida, with exciting contemporary works and new ambitions. Michael Delgado picks out some highlights",
+      "url": "https://apollo-magazine.com/art-basel-miami-beach-2026-preview",
+      "source": "Apollo – The International Art Magazine",
+      "sourceDomain": "apollo-magazine.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-24T10:12:10.000Z",
+      "coverage": 5,
+      "image": "https://apollo-magazine.com/wp-content/uploads/2026/11/lead-Rojas_The-Sky-2026_CR00565PNT_Luke-Stettner.jpg",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8e4f1b0def26",
+      "rank": 4,
+      "score": 90,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Fake Wade Guyton Work Pulled from Sotheby’s Sale",
+      "titleKo": "Fake Wade Guyton Work Pulled from Sotheby’s Sale",
+      "summaryKo": "Sotheby’s withdrew a painting by Wade Guyton valued at $1 million from its Contemporary Day Auction in New York on November 17 after a collector notified the auction house that it might be a fake. Guyton confirmed that the work was not his, according to Artnet. The untitled painting, dated 2006, was",
+      "url": "https://www.artforum.com/news/fake-wade-guyton-painting-pulled-from-sothebys-sale-1234764401",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-25T15:57:06.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-1042115976.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5fee9a64cba0",
+      "rank": 5,
+      "score": 87,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s acquires British auction house Dreweatts",
+      "titleKo": "Christie’s acquires British auction house Dreweatts",
+      "summaryKo": "The buyout of the regional antique specialists comes as the auction business remains squeezed",
+      "url": "https://www.theartnewspaper.com/2026/11/25/christies-acquires-british-auction-house-dreweatts",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-25T19:26:04.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/522fa8ad8af9baabf3d14e32d6e327b36630bcb0-2094x1394.png?rect=0,69,2094,1256&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
