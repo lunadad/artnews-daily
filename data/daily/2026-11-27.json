@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T07:42:09.489+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 1,
+      "fair": 2,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+        "why": "17개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Artist Nick Cave and India pavilion win Venice Biennale prizes follow…",
+        "why": "9개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Christie’s acquires British auction house Dreweatts",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 97,
+        "category": "market",
+        "articleType": "news",
+        "title": "2주간 열린 '옥션쇼' 낙찰총액 159억원…김환기 점화 29억에",
+        "summary": "(서울=연합뉴스) 김예나 기자 = 한국 추상미술의 선구자인 김환기(1913∼1974)의 전면점화 작품이 최근 경매에서 29억원에 낙찰됐다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261125145800005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-25T07:34:21.000Z",
+        "coverage": 7,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img7.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125145800005_01_i_P4.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 87,
+        "category": "museum",
+        "articleType": "news",
+        "title": "종이에서 화면으로…미술관에 타자기·컴퓨터가 등장한 이유는(종합)",
+        "summary": "(서울=연합뉴스) 김예나 기자 = '빼', '가', '환', '끓'….",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261126068551005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-26T07:17:06.000Z",
+        "coverage": 15,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://img3.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112611170001300_P4.jpg"
+      },
+      {
+        "rank": 3,
+        "score": 66,
+        "category": "museum",
+        "articleType": "news",
+        "title": "홍은정 서울시의원 “774억원 리모델링은 기약 없는데… 서울시립미술관 안전 예산 줄줄이 삭감”",
+        "summary": "",
+        "url": "https://amp.seoul.co.kr/go/20261126500227",
+        "source": "서울신문",
+        "publishedAt": "2026-11-26T07:08:34.000Z",
+        "coverage": 13,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img.seoul.co.kr/img/upload/2026/11/26/SSC_20261126160834.jpg.webp"
+      },
+      {
+        "rank": 4,
+        "score": 60,
+        "category": "market",
+        "articleType": "news",
+        "title": "프리즈는 세계로, 미술시장은 지역으로…아부다비에서 본 미술시장의 변화[현장]",
+        "summary": "[아부다비=뉴시스] 박현주 미술전문 기자 = 프리즈였지만 런던도 서울도 아니었다. 아랍권과 남아시아 작가들의 작품이 전시장 곳곳을 채웠다. 돌과 직물, 진주 등 재료의 물성이 두드러지는 작품부터 고대 유물까지 현대미술과 나란히 등장했다.개막 초반 100만 달러(약 14억원) 이상에 거래된 작품도 동시대 스타 작가의 회화가 아닌 약 2000년 전 예멘의 석비..",
+        "url": "https://www.newsis.com/view/NISX20261124_0003881551",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-24T08:06:47.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/20/NISI20261120_0002298430_web.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "제4회 우순자 개인전 인사아트센터 4층특별관에서 개최",
+        "summary": "",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZV9iZHhFaW1qMFg3ZVRTYV90QnUxeDljVXFlOWVFY2xBQWxvSGs5cnpwd1lTeEc0VE9VV0Q4WGNuaUlISHhuRE0wbWgxbEliWEJEcGJCNnZOOWZ4S1ZPaHVyd1dxU1N3dms1Yno5cVY?oc=5",
+        "source": "아트월드뉴스",
+        "publishedAt": "2026-11-26T21:48:14.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": false,
+        "image": null
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "906ebc180d75",
+      "rank": 1,
+      "score": 117,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+      "titleKo": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/art-world/hoor-al-qasimi-venice-biennale-2842478",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-26T14:02:18.000Z",
+      "coverage": 17,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "04e165fbc278",
+      "rank": 2,
+      "score": 116,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Artist Nick Cave and India pavilion win Venice Biennale prizes following controversy",
+      "titleKo": "Artist Nick Cave and India pavilion win Venice Biennale prizes following controversy",
+      "summaryKo": "A new voting system was introduced for the prizes after a dispute over the inclusion of Russia and Israel in the event",
+      "url": "https://www.theartnewspaper.com/2026/11/25/us-artist-nick-cave-and-india-pavilion-win-venice-biennale-prizes-following-controversy",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-25T16:08:40.000Z",
+      "coverage": 9,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/b97f7e04085572b27f9c21a4777bdd8b1c32d233-2244x1497.jpg?rect=0,76,2244,1346&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5fee9a64cba0",
+      "rank": 3,
+      "score": 91,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s acquires British auction house Dreweatts",
+      "titleKo": "Christie’s acquires British auction house Dreweatts",
+      "summaryKo": "The buyout of the regional antique specialists comes as the auction business remains squeezed",
+      "url": "https://www.theartnewspaper.com/2026/11/25/christies-acquires-british-auction-house-dreweatts",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-25T19:26:04.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/522fa8ad8af9baabf3d14e32d6e327b36630bcb0-2094x1394.png?rect=0,69,2094,1256&w=1200&h=720&q=85&fit=crop&auto=format",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "43bc6a6fc2fb",
+      "rank": 4,
+      "score": 88,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
+      "titleKo": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
+      "summaryKo": "She will also take on the role of chair of the management board and be responsible for the two museum’s artistic direction.",
+      "url": "https://www.artnews.com/art-news/news/lisa-schmidt-director-kunstmuseum-bern-zentrum-paul-klee-1234808049",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-26T15:46:00.000Z",
+      "coverage": 3,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Lisa-Marei-Schmidt_c_David-von-Becker_KMB-ZPK.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "f64fe50ad7a4",
+      "rank": 5,
+      "score": 86,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
+      "titleKo": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
+      "summaryKo": "The rare “nipple bowl” is one of four such bowls that was made for the French queen’s \"pleasure dairy\" near the Château de Versailles.",
+      "url": "https://www.artnews.com/artnews/news/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074",
+      "source": "ARTnews",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-26T18:28:25.000Z",
+      "coverage": 1,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/4751ssreflet.jpg?w=400",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
