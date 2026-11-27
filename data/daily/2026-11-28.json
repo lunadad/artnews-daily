@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T07:42:07.768+09:00",
+  "briefing": {
+    "headline": "오늘은 시장 신호가 가장 두드러집니다.",
+    "distribution": {
+      "market": 3,
+      "museum": 1,
+      "fair": 1,
+      "artist": 0,
+      "general": 0
+    },
+    "focus": [
+      {
+        "title": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+        "why": "20개 매체가 함께 보도했습니다. 국제 미술계의 의제와 교류 흐름을 보여주는 소식입니다."
+      },
+      {
+        "title": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum…",
+        "why": "4개 매체가 함께 보도했습니다. 주요 기관의 운영과 전시 지형에 영향을 줄 소식입니다."
+      },
+      {
+        "title": "Christie’s acquires British auction house Dreweatts",
+        "why": "2개 매체가 함께 보도했습니다. 시장 가격과 거래 흐름을 가늠할 핵심 신호입니다."
+      }
+    ]
+  },
+  "domestic": {
+    "headline": "오늘 국내 미술계는 시장·경매 신호가 두드러집니다.",
+    "distribution": {
+      "market": 2,
+      "museum": 2,
+      "fair": 0,
+      "artist": 1,
+      "general": 0
+    },
+    "items": [
+      {
+        "rank": 1,
+        "score": 91,
+        "category": "market",
+        "articleType": "news",
+        "title": "시작가 0원…서울옥션, 화성 작가 10인 작품 60점 경매",
+        "summary": "[서울=뉴시스] 박현주 미술전문 기자 = 미술품 경매 시작가가 0원이다. 컬렉터의 안목과 응찰 경쟁에 따라 작품 가격이 결정된다.서울옥션은 화성시문화관광재단과 함께 오는 12월2일 온라인 경매 '제로베이스×화성(ZERO BASE×화성)'을 개최한다.공모를 통해 선정한 경기 화성 지역 작가 10명의 작품 60점을 출품한다. 작가별 6점씩으로 모든 작품의 경매..",
+        "url": "https://www.newsis.com/view/NISX20261127_0003885705",
+        "source": "뉴시스",
+        "publishedAt": "2026-11-27T00:31:44.000Z",
+        "coverage": 3,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img1.newsis.com/2026/11/27/NISI20261127_0002303929_web.jpg"
+      },
+      {
+        "rank": 2,
+        "score": 82,
+        "category": "museum",
+        "articleType": "news",
+        "title": "오금란 서울시의원 “500억원 소장품 구입 기금 조성계획 무색… 서울시립미술관 대표 컬렉션 부재”",
+        "summary": "오금란 서울시의원이 서울시립미술관 예산안 심사에서 500억원 규모의 소장품 구입 기금 조성계획이 사실상 무색해졌다고 지적했다. 첫해 20억원 이후 매년 10억원 안팎만 편성돼 실제 조성액이 목표에 크게 못 미치고, 연간 작품 구입비도 4억5000만원 수준에 그친다고 했다.",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20261127500235",
+        "source": "서울Pn",
+        "publishedAt": "2026-11-27T07:11:26.000Z",
+        "coverage": 26,
+        "qualityCoverage": 3,
+        "resolved": true,
+        "image": "https://imggo.seoul.co.kr/img/go_share.png"
+      },
+      {
+        "rank": 3,
+        "score": 79,
+        "category": "market",
+        "articleType": "news",
+        "title": "2주간 열린 '옥션쇼' 낙찰총액 159억원…김환기 점화 29억에",
+        "summary": "(서울=연합뉴스) 김예나 기자 = 한국 추상미술의 선구자인 김환기(1913∼1974)의 전면점화 작품이 최근 경매에서 29억원에 낙찰됐다.",
+        "url": "https://www.yna.co.kr/amp/view/AKR20261125145800005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-25T07:34:21.000Z",
+        "coverage": 5,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img7.yna.co.kr/etc/inner/KR/2026/11/25/AKR20261125145800005_01_i_P4.jpg"
+      },
+      {
+        "rank": 4,
+        "score": 67,
+        "category": "museum",
+        "articleType": "news",
+        "title": "국립현대미술관, 그래픽 디자인 역사 '읽기의 기술' 전시",
+        "summary": "(서울=연합뉴스) 국립현대미술관은 오는 27일 서울 종로구 국립현대미술관 서울관에서 한국의 그래픽 디자인과 출판 환경 변화 역사를 조명한 '읽기...",
+        "url": "https://www.yna.co.kr/amp/view/PYH20261126053000005",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-26T06:47:31.000Z",
+        "coverage": 13,
+        "qualityCoverage": 2,
+        "resolved": true,
+        "image": "https://img4.yna.co.kr/photo/yna/YH/2026/11/26/PYH2026112605300000500_P4.jpg"
+      },
+      {
+        "rank": 5,
+        "score": 50,
+        "category": "artist",
+        "articleType": "news",
+        "title": "감추고 싶던 몸의 굴곡...작품 속 선이 되다, 백승아 개인전",
+        "summary": "감추고 싶던 몸의 굴곡...작품 속 선이 되다, 백승아 개인전, 서울 한남동 글래드스톤 백승아 개인전 내년 1월 9일까지",
+        "url": "https://www.hankyung.com/article/202611259255i",
+        "source": "한국경제",
+        "publishedAt": "2026-11-26T23:47:00.000Z",
+        "coverage": 1,
+        "qualityCoverage": 1,
+        "resolved": true,
+        "image": "https://img.hankyung.com/photo/202611/01.46539283.1.jpg"
+      }
+    ]
+  },
+  "top5": [
+    {
+      "id": "906ebc180d75",
+      "rank": 1,
+      "score": 117,
+      "category": "fair",
+      "articleType": "news",
+      "titleOriginal": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+      "titleKo": "Hoor Al-Qasimi Tapped to Curate the 2028 Venice Biennale",
+      "summaryKo": "",
+      "url": "https://news.artnet.com/art-world/hoor-al-qasimi-venice-biennale-2842478",
+      "source": "Artnet News",
+      "sourceDomain": "artnet.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-26T14:02:18.000Z",
+      "coverage": 20,
+      "image": null,
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "43bc6a6fc2fb",
+      "rank": 2,
+      "score": 100,
+      "category": "museum",
+      "articleType": "news",
+      "titleOriginal": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
+      "titleKo": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
+      "summaryKo": "She will also take on the role of chair of the management board and be responsible for the two museum’s artistic direction.",
+      "url": "https://www.artnews.com/art-news/news/lisa-schmidt-director-kunstmuseum-bern-zentrum-paul-klee-1234808049",
+      "source": "ARTnews.com",
+      "sourceDomain": "artnews.com",
+      "discoveredVia": "google",
+      "resolved": true,
+      "publishedAt": "2026-11-26T15:46:00.000Z",
+      "coverage": 4,
+      "image": "https://www.artnews.com/wp-content/uploads/2026/11/Lisa-Marei-Schmidt_c_David-von-Becker_KMB-ZPK.jpg?w=1024",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5fee9a64cba0",
+      "rank": 3,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Christie’s acquires British auction house Dreweatts",
+      "titleKo": "Christie’s acquires British auction house Dreweatts",
+      "summaryKo": "The buyout of the regional antique specialists comes as the auction business remains squeezed",
+      "url": "https://www.theartnewspaper.com/2026/11/25/christies-acquires-british-auction-house-dreweatts",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-25T13:42:14.000Z",
+      "coverage": 2,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/522fa8ad8af9baabf3d14e32d6e327b36630bcb0-2094x1394.png?w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "5369ca6535fd",
+      "rank": 4,
+      "score": 85,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "titleKo": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+      "summaryKo": "Back-to-back New York auctions made a combined $777.8m, with additional auction records for Mary Cassatt and Aaron Douglas proving bright spots in an evening marked by uneven bidding",
+      "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+      "source": "The Art Newspaper",
+      "sourceDomain": "theartnewspaper.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-19T06:42:07.000Z",
+      "coverage": 1,
+      "image": "https://cdn.sanity.io/images/cxgd3urn/production/94e8cbb85fb045a7ce74ebb8c7bd1519a8c199ad-1920x2012.jpg?rect=18,242,1664,1169&w=460",
+      "imageWidth": null,
+      "imageHeight": null
+    },
+    {
+      "id": "8e4f1b0def26",
+      "rank": 5,
+      "score": 74,
+      "category": "market",
+      "articleType": "news",
+      "titleOriginal": "Fake Wade Guyton Work Pulled from Sotheby’s Sale",
+      "titleKo": "Fake Wade Guyton Work Pulled from Sotheby’s Sale",
+      "summaryKo": "Sotheby’s withdrew a painting by Wade Guyton valued at $1 million from its Contemporary Day Auction in New York on November 17 after a collector notified the auction house that it might be a fake. Guyton confirmed that the work was not his, according to Artnet. The untitled painting, dated 2006, was",
+      "url": "https://www.artforum.com/news/fake-wade-guyton-painting-pulled-from-sothebys-sale-1234764401",
+      "source": "Artforum",
+      "sourceDomain": "artforum.com",
+      "discoveredVia": "direct",
+      "resolved": true,
+      "publishedAt": "2026-11-25T15:57:06.000Z",
+      "coverage": 1,
+      "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-1042115976.jpg?w=650",
+      "imageWidth": null,
+      "imageHeight": null
+    }
+  ],
+  "karina": null
+}
